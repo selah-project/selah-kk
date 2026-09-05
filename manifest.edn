@@ -1,0 +1,87 @@
+#:rendering{:label "Қазақша",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-05", :to "2026-09-05"},
+            :id "kk.v1",
+            :catalog {:ui "resources/i18n/ui/kk.edn"},
+            :license "CC BY-SA 4.0 (The Selah Kazakh Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23150, "fable-5-hand" 63},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/kk.md",
+             :rails-commit "d08f3827",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Адонай",
+              "אל" "Эл",
+              "אלהים" "Элохим",
+              "אלוה" "Элоаһ",
+              "יה" "Ях",
+              "יהוה" "Яхве",
+              "צבאות" "Цебаот",
+              "ק" "қ",
+              "שדי" "Шаддай"},
+             :open-questions
+             ["paren-shadows: 1,644 files ((Musa) 201, (Dauit) 147, mixed (David) 33) + 6 divine — one posture ruling with ms/hu"
+              "case-suffix ratification (shared ro+hu+kk+sr) incl 5 vowel-harmony slips"
+              "priest-word: kohen vs kudai kyzmetshisi (~30 verses)"
+              "rails amendment: Aramaic aleh/alaha → Eloah row"
+              "Tekoa ambiguous: Isa 44:10, Ps 18:32, Deut 10:17, Ps 82:1"]},
+            :status :rendering,
+            :adjudication
+            {:chair 60,
+             :date "2026-09-05",
+             :first :cyrillic-home,
+             :seal
+             {:iakhve 5739,
+              :elohim 2068,
+              :et-verses 7305,
+              :aleph-tav [0 0 0 0],
+              :nt-leak 0},
+             :tekoa {:class-a 46, :repaired 46},
+             :hand-verses 21,
+             :marker-normalizations 123,
+             :name-orthography-recovered 64},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit "0c65223d",
+              :tags ["v1-final"],
+              :branches ["main"]},
+             :parents []},
+            :lang :kk}
