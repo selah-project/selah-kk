@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 46,
+  "translation": "Жетекшісіне — Кораһ ұлдарының; аламот үстінде; өлең.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Жетекшісіне"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораһ"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "аламот"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "өлең"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:00.341799188Z",
+  "model": "glm-5.3"
+}

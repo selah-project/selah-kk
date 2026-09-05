@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Былай деген Яхве Цебаот: жүректеріңді жолдарыңа қойыңдар.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "қойыңдар"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "жүректеріңді"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "жолдарыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:24.726960522Z",
+  "model": "glm-5.3"
+}

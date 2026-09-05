@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Оны Яаковқа жар етіп, Исраилге мәңгілік одақ етіп бекітті.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "бекітті"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковқа"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "жар етіп"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Исраилге"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "одақ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгілік"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:35.659566456Z",
+  "model": "glm-5.3"
+}

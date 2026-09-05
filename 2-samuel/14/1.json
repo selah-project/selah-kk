@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Йоаб Церуйа ұлы патшаның жүрегі Абсаломға ⟨ауған⟩ екенін білді.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "білді"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Церуйа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "екенін"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ауған⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Абсаломға"
+    }
+  ],
+  "timestamp": "2026-09-05T03:42:25.125366913Z",
+  "model": "glm-5.3"
+}

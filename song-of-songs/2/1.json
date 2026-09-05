@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Мен — Шаронның шафраны, аңғарлардың лалагүлімін.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "шафраны"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Шаронның"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "лалагүлімін"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "аңғарлардың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:27.788259519Z",
+  "model": "glm-5.3"
+}

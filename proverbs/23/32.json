@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Оның соңы жылан сияқты шегеді, кобра сияқты уын шашады.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "оның соңы"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "жылан сияқты"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "шегеді"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "кобра сияқты"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "уын шашады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:59.226584947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Және кедейді оның дауында сыйлама ⟨оны ақтама⟩.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "және кедейді"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "сыйлама ⟨ақтама⟩"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "оның дауында"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:48.796446060Z",
+  "model": "glm-5.3"
+}

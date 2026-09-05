@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Ұрымен ортақ кісі өз жанын жек көреді; ант естіді ⟨де⟩ хабарламайды.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "ортақ кісі"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ұры"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "жек көреді"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанын"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ант"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "естіді"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хабарламайды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:13.435978557Z",
+  "model": "glm-5.3"
+}

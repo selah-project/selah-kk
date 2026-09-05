@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қирят-Яарим, Кепира және Берот адамдары: жеті жүз қырық үш.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Қирят"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Яарим"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кепира"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "және Берот"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:18.722546714Z",
+  "model": "glm-5.3"
+}

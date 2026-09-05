@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Иимнен жолға шықтыы және Дивон-Гадта аялдады",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жолға шықтыы"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "Иимнен"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "аялдады"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "Дивон-Гадта"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:37.445444362Z",
+  "model": "glm-5.3"
+}

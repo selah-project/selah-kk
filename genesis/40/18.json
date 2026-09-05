@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 40,
+  "translation": "Жүсіп жауап беріп айтты: бұл — оның шешімі: үш себет — үш күн.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жауап беріп"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Жүсіп"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "оның шешімі"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "себет"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "הם",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-05T01:31:39.793155900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Шемге де (Шем — Яфеттің үлкен інісі, Эвер ұлдарының бәрінің атасы) ұлдар туылды.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "Шемге де"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туылды"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрінің"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "інісі"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфеттің"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "үлкен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:07.151461074Z",
+  "model": "glm-5.3"
+}

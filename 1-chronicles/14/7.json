@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "және Элишама, және Беельяда, және Элифелет.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "және Элишама"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "және Беельяда"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "және Элифелет"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:37.946666387Z",
+  "model": "glm-5.3"
+}

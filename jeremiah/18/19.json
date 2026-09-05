@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Тыңда, Яхве, ⟨мені⟩ және ұғын дауласушыларымның дауысын.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨мені⟩"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "және ұғын"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "дауысын"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "дауласушыларымның"
+    }
+  ],
+  "timestamp": "2026-09-05T04:50:31.134689384Z",
+  "model": "glm-5.3"
+}

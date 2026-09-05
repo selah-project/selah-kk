@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Емуші баланың тілі таңдайына жабысты шөлден; сәбилер нан сұрады, бірақ үзіп беруші жоқ ⟨оларға⟩.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "жабысты"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тілі"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "емуші баланың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-(ы)на"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "таңдайына"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "шөлден"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "сәбилер"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "сұрады"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "үзіп беруші"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:57.991495816Z",
+  "model": "glm-5.3"
+}

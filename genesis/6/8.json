@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ал Ноах Яхвенің көзінде көріктілік тапты.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Ал Ноах"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "חן",
+      "gloss": "көріктілік"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:28.904306576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Харимның ұлдары — мың он жеті.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:25.067403954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Шехем әкесі Хаморға былай деді: «Осы ⟨את⟩ қызды маған әйелдікке ал».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хаморға"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осы қызды"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "қызды"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "әйелдікке"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:32.497152053Z",
+  "model": "glm-5.3"
+}

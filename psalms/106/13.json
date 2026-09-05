@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 106,
+  "translation": "Асыға ұмытты ⟨олар⟩ оның істерін, күтпеді оның кеңесіне.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "асыға"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ұмытты"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "оның істерін"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "күтпеді"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "оның кеңесіне"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:46.804186858Z",
+  "model": "glm-5.3"
+}

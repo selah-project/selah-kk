@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Ата-бабаларың қойған мәңгілік шекараны ысырма.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ысырасың"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "шекараны"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгілік"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қия"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "жасаған"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ата-бабаларың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:43.710427919Z",
+  "model": "glm-5.3"
+}

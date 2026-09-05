@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Ол ⟨את⟩ оңтүстік жақты өлшеді — бес жүз қамыс, өлшеу қамысымен.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оңтүстік жақты"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "жақты"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "оңтүстік"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "өлшеді"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "қамыс"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "қамысымен"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "өлшеу"
+    }
+  ],
+  "timestamp": "2026-09-05T05:27:42.194471242Z",
+  "model": "glm-5.3"
+}

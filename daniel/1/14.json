@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ол оларға осы сөзге құлақ асты және оларды он күн сынады.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "құлақ асты"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сөзге"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "сынады"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T07:51:04.471681209Z",
+  "model": "glm-5.3"
+}

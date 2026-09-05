@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Егер төлеуге саған ⟨ештеңе⟩ жоқ болса — неге төсегіңді астыңнан алсын?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "төлеуге"
+    },
+    {
+      "surface": "למה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алады"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "төсегіңді"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "астыңнан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:43.710225433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Және Хур ⟨את⟩ Уриды туғызды, ал Ури ⟨את⟩ Бецалелді туғызды.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "және Хур"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уриды"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Уриды"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ал Ури"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бецалелді"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалелді"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:57.834816643Z",
+  "model": "glm-5.3"
+}

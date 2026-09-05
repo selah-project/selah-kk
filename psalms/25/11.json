@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Сенің Есімің үшін, уа, Яхве, менің күнәмді кешір, өйткені ол үлкен.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Есімің"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "және кешіресің"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "менің күнәмді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "רב",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T05:55:38.682240100Z",
+  "model": "glm-5.3"
+}

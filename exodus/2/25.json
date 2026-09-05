@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Элохим ⟨את⟩ Исраил ұлдарын көрді, және Элохим білді.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Исраил ұлдарын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "білді"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-09-05T01:35:50.846431634Z",
+  "model": "glm-5.3"
+}

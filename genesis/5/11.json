@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Эношьтың күндерінің бәрі тоғыз жүз бес жыл болды, және ол өлді.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндерінің"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Эношьтың"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "және тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:16.488395087Z",
+  "model": "glm-5.3"
+}

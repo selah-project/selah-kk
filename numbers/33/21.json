@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Ливнадан аттанып, Рисcада аялдады.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "аттанды"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "Ливнадан"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "аялдады"
+    },
+    {
+      "surface": "бרסה",
+      "gloss": "Рисcада"
+    }
+  ],
+  "timestamp": "2026-09-05T08:55:38.858327384Z",
+  "model": "glm-5.3"
+}

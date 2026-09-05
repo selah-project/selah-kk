@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 49,
+  "translation": "Көздер шараптан қызған, тістер сүттен ақ.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "қызған"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "көздер"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "шараптан"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ақ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "тістер"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "сүттен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:36:35.979532008Z",
+  "model": "glm-5.3"
+}

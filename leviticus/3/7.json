@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Егер ол өз құрбанына қой әкеліп жатса, оны Яхвенің алдына әкелсін.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "қой"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "әкеліп жатса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз құрбанын"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "өз құрбанына"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "әкелсін"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:58:36.252121456Z",
+  "model": "glm-5.3"
+}

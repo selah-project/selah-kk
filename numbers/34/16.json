@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Яхве Мошеге сөйледі, деп айтуға:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:31:13.894738032Z",
+  "model": "glm-5.3"
+}

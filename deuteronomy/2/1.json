@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Содан біз бұрылып, Қызыл теңіз жолымен шөлге жол тарттық, Яхве маған айтқандай ⟨isel⟩, және Сеир тауын ⟨את⟩ көп күн айналдық.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "бұрылып"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "жол тарттық"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "шөлге"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолымен"
+    },
+    {
+      "surface": "ים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "қамыс (Қызыл)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтқандай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "айналдық"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тауын"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауын"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:23.103033892Z",
+  "model": "glm-5.3"
+}

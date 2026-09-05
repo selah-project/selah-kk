@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Өз кәуізіңнен су іш, өз құдығыңның ішінен ағындыларды.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "іш"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "кәуізіңнен"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "және ағындыларды"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ішінен"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "құдығыңның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:32.676025562Z",
+  "model": "glm-5.3"
+}

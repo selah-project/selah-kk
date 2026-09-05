@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Уззиилдың ұлдары: Мишаэл, Элцафан және Ситри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззиилдың"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишаэл"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "және Элцафан"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "және Ситри"
+    }
+  ],
+  "timestamp": "2026-09-05T01:38:30.474001040Z",
+  "model": "glm-5.3"
+}

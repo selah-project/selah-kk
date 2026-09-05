@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Давид (Дәуіт) бекіністе тұрды, сондықтан оған Давид қаласы деп атады.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "бекіністе"
+    },
+    {
+      "surface": "על",
+      "gloss": "соның"
+    },
+    {
+      "surface": "כן",
+      "gloss": "себебінен"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "атады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-09-05T08:45:47.606951446Z",
+  "model": "glm-5.3"
+}

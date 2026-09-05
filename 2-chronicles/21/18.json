@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Осының бәрінен кейін Яхве оның ішкі мүшелерін емделмес аурумен соқты.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "кейін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрінің"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осының"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "соқты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "ішкі мүшелерін"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "аурумен"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ем"
+    }
+  ],
+  "timestamp": "2026-09-05T08:33:02.821347675Z",
+  "model": "glm-5.3"
+}

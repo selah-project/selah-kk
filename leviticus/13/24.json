@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Немесе етте — егер терісінде от күйігі болса, және күйіктің тірі еті ақ дақ болса — қызғылт немесе ақ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "терісінде"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "күйік"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оттың"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "және болса"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "тірі еті"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "күйіктің"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ақ дақ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ақ"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "қызғылт"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ақ"
+    }
+  ],
+  "timestamp": "2026-09-05T02:05:06.931837938Z",
+  "model": "glm-5.3"
+}

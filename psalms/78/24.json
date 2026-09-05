@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Және жаудырды оларға жеу үшін манны, және аспан дәнін берdi оларға.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "және жаудырды"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "מן",
+      "gloss": "манны"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "жеу үшін"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "және дәнін"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "аспанның"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берді"
+    },
+    {
+      "surface": "למו",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:07.622474445Z",
+  "model": "glm-5.3"
+}

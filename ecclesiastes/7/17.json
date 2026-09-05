@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Асыра жамандық қылма, және ақымақ болма — уақытың жетпей не үшін өлесің?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "қылма"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "асыра"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және болма"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ақымақ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "не үшін"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлесің"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "жетпей"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "уақытың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:11.036448235Z",
+  "model": "glm-5.3"
+}

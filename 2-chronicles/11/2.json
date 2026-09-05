@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Болды Яхвенің сөзі Элохимнің адамы Шемайаһуға ⟨былай деп⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "келді"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемайаһуға"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамы"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T08:28:31.308783267Z",
+  "model": "glm-5.3"
+}

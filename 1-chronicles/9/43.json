@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Моца ⟨את⟩ Бинеаны туғызды; Рефаяһ оның ұлы, Эльаса оның ұлы, Ацел оның ұлы.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинеаны"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинеаны"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "Рефаяһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Эльаса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:24.106153773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Көзін қысып-жымитын қайғы тудырады, ал ерні ақымақ құлайды.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "қысып-жымитын"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көзін"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "тудырады"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "қайғы"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ал ақымақ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ерінді"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "құлайды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:06.540188037Z",
+  "model": "glm-5.3"
+}

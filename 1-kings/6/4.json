@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Үйге қыңыр саңылаулы, жабық терезелер жасады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйге"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "терезелер"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "қыңыр саңылаулы"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "жабық"
+    }
+  ],
+  "timestamp": "2026-09-05T03:52:35.355832189Z",
+  "model": "glm-5.3"
+}

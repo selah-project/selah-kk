@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Мен көрдім ⟨את⟩ еңбекті, қайсысын Элохим адам балаларына берген, онымен айналысу үшін.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "еңбекті"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "еңбекті"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсысын"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "балаларына"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "айналысу үшін"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онымен"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:16.993381831Z",
+  "model": "glm-5.3"
+}

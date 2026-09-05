@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Нетофа ерлері: елу алты.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ерлері"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Нетофа"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "алты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:50.088084167Z",
+  "model": "glm-5.3"
+}

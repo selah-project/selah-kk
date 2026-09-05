@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 50,
+  "translation": "Йосеф (Жүсіп) әкесінің бетіне құлады, оның үстінен жылады және оны сүйді.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "құлады"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "פני",
+      "gloss": "беті"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесінің"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "жылады"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оның үстінен"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "сүйді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T01:37:43.634456098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Кім айта алады: «Жүрегімді тазарттым, күнәмнен тазардым»?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "тазарттым"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрегімді"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "тазардым"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "күнәмнен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:15.666910894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ақыл жолынан адасқан адам рфаимдер жиналысында тыныш табады.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "адасқан"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "жолынан"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ақыл"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "жиналысында"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "рфаимдер"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "тыныш табады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:59.026449908Z",
+  "model": "glm-5.3"
+}

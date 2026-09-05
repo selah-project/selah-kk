@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Өйткені хикмет жүрегіңе кірер, және білім жаныңа жағымды болар.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Өйткені"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кірер"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмет"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "жүрегіңе"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "және білім"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "жаныңа"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "жағымды болар"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:06.741456010Z",
+  "model": "glm-5.3"
+}

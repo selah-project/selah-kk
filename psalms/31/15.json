@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Ал мен, Яхве, саған сендім; айттым: сен менің Элохимімсең.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал мен"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "сендім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимімсең"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:35.849798799Z",
+  "model": "glm-5.3"
+}

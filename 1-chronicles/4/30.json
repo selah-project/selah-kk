@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "және Бет-Уэлде, және Хормаһта, және Циклағта",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "және Бет-Уэлде"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "және Хормаһта"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "және Циклағта"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:24.843740664Z",
+  "model": "glm-5.3"
+}

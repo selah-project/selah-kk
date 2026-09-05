@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Яһуда өзінің тұңғышы Эр үшін әйел алды, және оның аты Таһар ⟨еді⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "לער",
+      "gloss": "Эр үшін"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "өзінің тұңғышы"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "және аты"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Таһар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:36.984663484Z",
+  "model": "glm-5.3"
+}

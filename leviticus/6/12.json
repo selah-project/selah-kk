@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және Яҳве Мошеге (Мұсаға) айтты, былай деп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑ге (бағыттау)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мұса)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T01:59:40.309132147Z",
+  "model": "glm-5.3"
+}

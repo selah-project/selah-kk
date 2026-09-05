@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Мына үшеуі — Нұхтың ұлдары, және олардан бүкіл жер тарады.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "үшеуі"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нұхтың"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "олардан"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "тарады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:56.075237335Z",
+  "model": "glm-5.3"
+}

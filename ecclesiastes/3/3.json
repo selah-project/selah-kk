@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Өлтіруге уақыт, және емдеуге уақыт; қиратуға уақыт, және салуға уақыт.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "өлтіруге"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыт"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "емдеуге"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "қиратуға"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыт"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "салуға"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:51.037928586Z",
+  "model": "glm-5.3"
+}

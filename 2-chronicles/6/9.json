@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Тек сен үйді салмайсың — өйткені сенің беліңнен шығатын ұлң, сол Менің есімім үшін үйді салады.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Тек"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "салмайсың"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ұлң"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "шығатын"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "беліңнен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "салады"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйді"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "Есімім-үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:50.030532437Z",
+  "model": "glm-5.3"
+}

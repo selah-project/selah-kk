@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Және Зилпа — Лияның күңі — Яаковқа ұл туды.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "күңі"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лияның"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковқа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:15.836177603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Мынау — Синай тауында Яхве ⟨את⟩ Мошеге (Мұса) Исраил ұлдарына бұйырған бұйрықтары.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "бұйрықтары"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оны"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мұса)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тауында"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-09-05T02:12:35.781164368Z",
+  "model": "glm-5.3"
+}

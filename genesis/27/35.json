@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ол айтты: бауырың айлакерлікпен келді және батаңды алды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бауырың"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "айлакерлікпен"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "және алды"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "батаңды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:26:13.711435546Z",
+  "model": "glm-5.3"
+}

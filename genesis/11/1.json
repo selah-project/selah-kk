@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Бүкіл жер бетінде ⟨бір⟩ тіл болды, сөздер де бір болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "тілі"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "және сөздер"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:41.345762358Z",
+  "model": "glm-5.3"
+}

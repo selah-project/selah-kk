@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және ұрлама.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ұрлама"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:43.945506094Z",
+  "model": "glm-5.3"
+}

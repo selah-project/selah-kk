@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Алайда, Мен тірімін, және Яхвенің ұлылығы ⟨את⟩ бүкіл жерді толтырады.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "алайда"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "және толтырады"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ұлылығы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүкіл жерді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:21:22.447619133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Болды Яхвенің сөзі маған былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:20:13.993214508Z",
+  "model": "glm-5.3"
+}

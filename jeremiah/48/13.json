@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "«Моав Кемоштан ұялады — Исраил үйі Бет-Элден, өз сенімінен ұялғандай».",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "ұялады"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "Кемоштан"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ғандай"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "ұялды"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "сенімінен"
+    }
+  ],
+  "timestamp": "2026-09-05T05:04:37.853722325Z",
+  "model": "glm-5.3"
+}

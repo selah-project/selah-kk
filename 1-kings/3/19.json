@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Бұл әйелдің ұлы оның үстінде жатқанда түнде өлді.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "және өлді"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйелдің"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кезде"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "жатқанда"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оның үстінде"
+    }
+  ],
+  "timestamp": "2026-09-05T03:51:14.015228410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Бейт-Һа-Арава, Цмараим және Бейт-Эл.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "және Бейт"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Һа-Арава"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "Цмараим"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "және Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-09-05T03:02:17.697028786Z",
+  "model": "glm-5.3"
+}

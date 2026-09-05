@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "және Ногаһ, және Нефег, және Яфиға",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "және Ногаһ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "және Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "және Яфиға"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:37.753932881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 116,
+  "translation": "Мен асығыстықта айттым: «Барлық адам өтірікші».",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "асығыстықта"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "өтірікші"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:47.198146689Z",
+  "model": "glm-5.3"
+}

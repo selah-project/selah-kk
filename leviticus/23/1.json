@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Яхве Мошеге (Мұса) былай деді:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T07:21:11.495537719Z",
+  "model": "glm-5.3"
+}

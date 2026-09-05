@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Өйткені ⟨ол⟩ не болатынын білмейді, себебі қашан болғанда оны оған кім хабарлайды?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨ол⟩ ... емес"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "білмейді"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нені"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "болатынын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болғанда"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хабарлайды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:04.672789634Z",
+  "model": "glm-5.3"
+}

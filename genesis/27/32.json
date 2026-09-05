@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Оған Ицхак әкесі айтты: Сен кімсің? Ал ол айтты: Мен — сенің ұлың, тұңғышың Эсав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ұлың"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "тұңғышың"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    }
+  ],
+  "timestamp": "2026-09-05T01:26:25.174731636Z",
+  "model": "glm-5.3"
+}

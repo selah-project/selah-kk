@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Зерахтың ұлдары: Зимри, Эйтан, Һейман, Калкол және Дара — барлығы бесеу.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "Һейман"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "Калкол"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "Дара"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бесеу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:28.409881256Z",
+  "model": "glm-5.3"
+}

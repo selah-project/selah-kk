@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Екінші өзеннің аты — Гихон: ⟨ол⟩ бүкіл Куш жерін ⟨את⟩ айналап өтеді.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "және аты"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "өзеннің"
+    },
+    {
+      "surface": "השני",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гихон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "айналап өтеді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүкіл Куш жерін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерін"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:36.325389335Z",
+  "model": "glm-5.3"
+}

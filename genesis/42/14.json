@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Йосеф оларға айтты: «Сендерге айтқаным — дәл осыл: тыңшылар сендер».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "дәл осыл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ның"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "айтқаным"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "тыңшылар"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сендер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:33:54.942290634Z",
+  "model": "glm-5.3"
+}

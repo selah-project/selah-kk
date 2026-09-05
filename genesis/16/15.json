@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Һағар Аврамға ұл туды; және Аврам өз ұлының — Һағар тудыğan — есімін Ишмаел қойды.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Һағар"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Аврамға"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "есімін"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлының"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "тудыğan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Һағар"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаел"
+    }
+  ],
+  "timestamp": "2026-09-05T01:20:00.925709990Z",
+  "model": "glm-5.3"
+}

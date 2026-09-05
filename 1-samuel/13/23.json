@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Пелиштилердің гарнизоны Михмаш өтпеліне шықты.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "гарнизоны"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Пелиштилердің"
+    },
+    {
+      "surface": "אל",
+      "gloss": " бетінде"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "өтпеліне"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Михмаш"
+    }
+  ],
+  "timestamp": "2026-09-05T03:23:28.865545654Z",
+  "model": "glm-5.3"
+}

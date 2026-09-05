@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Ноха — төртіншісі, ал Рафа — бесіншісі.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Ноха"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртіншісі"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ал Рафа"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бесіншісі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:44.353211768Z",
+  "model": "glm-5.3"
+}

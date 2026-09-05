@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Сиббекай Хушаттық, Илай Аһоһтық.",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "Сиббекай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "Хушаттық"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "Илай"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Аһоһтық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:37.809091059Z",
+  "model": "glm-5.3"
+}

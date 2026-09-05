@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Яхве сені баталсын және сені сақтасын:",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "сені баталсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "және сені сақтасын"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:01.472715128Z",
+  "model": "glm-5.3"
+}

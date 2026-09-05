@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 70,
+  "translation": "Хормейстерге, Дәуітке (Давид), еске салу үшін.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хормейстерге"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Дәуітке"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "еске салу үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:05.032906794Z",
+  "model": "glm-5.3"
+}

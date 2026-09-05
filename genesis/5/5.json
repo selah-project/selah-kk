@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және Адамның өмір сүрген барлық күндері тоғыз жүз жыл және отыз жыл болды, және ол өлді.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адамның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "חי",
+      "gloss": "өмір сүрген"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "және отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:46.420539913Z",
+  "model": "glm-5.3"
+}

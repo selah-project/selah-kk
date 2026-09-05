@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 52,
+  "translation": "Жұтушы сөздердің бәрін сен жақсы көресің, уа, қастық тілі!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "жақсы көресің"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздерді"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "жұтушы"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тіл"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "қастық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:08.418512797Z",
+  "model": "glm-5.3"
+}

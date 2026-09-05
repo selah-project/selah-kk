@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Шаммайдың інісі Яданың ұлдары — Йетер мен Йонатан; Йетер баласыз өлді.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Яда"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "інісі"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммайдың"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "және Йонатан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "балалар"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:53.701878673Z",
+  "model": "glm-5.3"
+}

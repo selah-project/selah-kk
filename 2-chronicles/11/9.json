@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және ⟨את⟩ Адорайімды, және ⟨את⟩ Лахишты, және ⟨את⟩ Азеканы",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Адорайімды"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Адорайімды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Лахишты"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Лахишты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Азеканы"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Азеканы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:28:56.961992051Z",
+  "model": "glm-5.3"
+}

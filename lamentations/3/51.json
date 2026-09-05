@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Көзім жанымды қинайды, қаламның қыздарының бәрі себебінен.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "көзім"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "қинайды"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "қыздарының"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "қаламның"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:58.498055381Z",
+  "model": "glm-5.3"
+}

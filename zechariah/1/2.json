@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Яхве аталарыңа қатты ашуланды — ашумен!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ашуланды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "аталарыңа"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ашумен"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:49.167026031Z",
+  "model": "glm-5.3"
+}

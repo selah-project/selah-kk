@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Жақсы ⟨ол⟩ — бұны ұстанасың, және бұдан да қолыңды тастама; өйткені Элохимнен қорқатын бәрінен шығады.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ұстанасың"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "бұны"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "және"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "бұдан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тастама"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "таста"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қолыңды"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "қолың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "қорқатын"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "шығады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бәрін"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "бәрін"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:11.036762617Z",
+  "model": "glm-5.3"
+}

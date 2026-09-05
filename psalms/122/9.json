@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 122,
+  "translation": "Яхве Элохимнің үйі үшін саған жақсылық іздеймін.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "іздеймін"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:13.925413549Z",
+  "model": "glm-5.3"
+}

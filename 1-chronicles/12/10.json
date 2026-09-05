@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Езер бірінші, Овадья екінші, Элиав үшінші.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Езер"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овадья"
+    },
+    {
+      "surface": "השני",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "үшінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:52.799578255Z",
+  "model": "glm-5.3"
+}

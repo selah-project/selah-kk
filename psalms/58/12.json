@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 58,
+  "translation": "Және адам айтады: «Рас, әділге жеміс бар; рас, жерде соттайтын Элохим бар».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אך",
+      "gloss": "рас"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "жеміс"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "әділге"
+    },
+    {
+      "surface": "אך",
+      "gloss": "рас"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "соттайтын"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:54.656403986Z",
+  "model": "glm-5.3"
+}

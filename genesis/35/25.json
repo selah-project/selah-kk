@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Және Биһланың — Рахельдің күңінің — ұлдары: Дан мен Нафтали.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Биһланың"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "күңінің"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахельдің"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "мен Нафтали"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:42.412906098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Яһұдадан — Нахшон, Амминадаптың ұлы.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Яһұдадан"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Амминадаптың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:12:48.403592191Z",
+  "model": "glm-5.3"
+}

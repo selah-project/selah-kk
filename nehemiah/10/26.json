@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Реһум, Хашабна, Маасейа,",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Реһум"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "Хашабна"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Маасейа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:50.997807906Z",
+  "model": "glm-5.3"
+}

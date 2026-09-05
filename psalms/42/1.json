@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Ән басшысына. Маскил (үгіт-өлең). Қорах ұлдарының.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ән басшысына"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "маскил"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорах"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:00.679288462Z",
+  "model": "glm-5.3"
+}

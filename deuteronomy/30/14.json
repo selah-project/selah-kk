@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Өйткені сөз саған өте жақын — аузыңда және жүрегіңде, оны орындауға.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "аузыңда"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "және жүрегіңде"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "оны орындауға"
+    }
+  ],
+  "timestamp": "2026-09-05T07:24:03.242272657Z",
+  "model": "glm-5.3"
+}

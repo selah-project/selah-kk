@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "олар: «Жақын емес; үй салайық; бұл — қазан, ал біз — ет», — деп айтатындар",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "айтатындар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "салайық"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "үй"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бұл —"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "қазан"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ал біз"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ет"
+    }
+  ],
+  "timestamp": "2026-09-05T05:12:56.234438381Z",
+  "model": "glm-5.3"
+}

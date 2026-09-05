@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Шаул ⟨көзін⟩ ⟨את⟩ Давидке тікті, сол күннен және одан әрі.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "עון",
+      "gloss": "көзін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидті"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидті"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "күннен"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "және одан әрі"
+    }
+  ],
+  "timestamp": "2026-09-05T03:28:31.287896810Z",
+  "model": "glm-5.3"
+}

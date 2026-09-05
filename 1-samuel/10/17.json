@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Шемуэл ⟨את⟩ халықты Яхвеге қарай Мицпада жинады.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "жинады"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпада"
+    }
+  ],
+  "timestamp": "2026-09-05T03:24:20.195200071Z",
+  "model": "glm-5.3"
+}

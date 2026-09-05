@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "«Ал енді мен түсінікті білетін ақылды кісі жібердім — Хурам, әкемнің өзін.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "жібердім"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кісі"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ақылды"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "білетін"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "түсінікті"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "Хурамды"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкемнің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:02.921739932Z",
+  "model": "glm-5.3"
+}

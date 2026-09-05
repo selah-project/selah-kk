@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Овед-Эдомға оңтүстікке, ал оның ұлдарына — Жинақтар үйі.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "Овед-Эдомға"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Овед-Эдом"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "оңтүстікке"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ал оның ұлдарына"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "Жинақтардың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:30.837144120Z",
+  "model": "glm-5.3"
+}

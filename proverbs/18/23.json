@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Жалбарынулармен сөйлейді кедей, ал бай қатал жауап береді.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "жалбарынулармен"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "сөйлейді"
+    },
+    {
+      "surface": "רש",
+      "gloss": "кедей"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "ал бай"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "жауап береді"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "қатал"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:58.357794987Z",
+  "model": "glm-5.3"
+}

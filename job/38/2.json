@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Бұл кім — білімсіз сөздермен кеңесті қараңғылатқан?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "қараңғылатқан"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "кеңесті"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "сөздермен"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "білімсіз"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "…"
+    }
+  ],
+  "timestamp": "2026-09-05T06:49:50.558052224Z",
+  "model": "glm-5.3"
+}

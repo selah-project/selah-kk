@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Элқананың ұлы, Йоелдің ұлы, Азарияның ұлы, Цефаньяның ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқананың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоелдің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарияның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цефаньяның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:21.487728870Z",
+  "model": "glm-5.3"
+}

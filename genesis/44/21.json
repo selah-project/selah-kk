@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Сен құлдарыңа: «Оны маған түсір, мен көзімді оған саламын» дедің.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "дедің"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "құлдарыңа"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "оны түсір"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "саламын"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзімді"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:33:32.055249093Z",
+  "model": "glm-5.3"
+}

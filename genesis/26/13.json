@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Сол адам ұлғайды, жүре-жүре бара-бара ұлғайып өсті, өте ұлы болғанша.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ұлғайды"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жүрді"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "бара-бара"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ұлғая"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "כי",
+      "gloss": "болғанша"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:38.571855176Z",
+  "model": "glm-5.3"
+}

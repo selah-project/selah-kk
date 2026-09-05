@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Шөл жерінде тұру — жанжалшыл әрі ашулы әйелден жақсы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "тұру"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "шөлдің"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "әйелден"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "жанжалшыл"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "әрі ашулы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:47.344395963Z",
+  "model": "glm-5.3"
+}

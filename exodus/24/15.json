@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Және Моше тауға көтерілді, және бұлт ⟨את⟩ тауды қаптады.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "көтерілді"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тау"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "қаптады"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "бұлт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тауды"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тауды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:48:01.181059835Z",
+  "model": "glm-5.3"
+}

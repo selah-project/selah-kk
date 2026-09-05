@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Және патша Шимейге айтты: сен өлмейсін; және патша оғанті ант берді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимейге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлмейсін"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "және ант берді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-09-05T03:46:05.390806770Z",
+  "model": "glm-5.3"
+}

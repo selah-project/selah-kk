@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Солай үнемі болады: бұлт оны күндіз жабады, ал түнде оттың көрінісі.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "солай"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "бұлт"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "оны жабады"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "көрінісі"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оттың"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнде"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:55.876418033Z",
+  "model": "glm-5.3"
+}

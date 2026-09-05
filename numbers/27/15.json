@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Моше Яхвеге сөз қатты, былай деді:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "және сөз қатты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:54.296457842Z",
+  "model": "glm-5.3"
+}

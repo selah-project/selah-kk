@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Адаммен текке таласпа, егер ол саған жамандық жасамаған болса.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "таласпа"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "таласпа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адаммен"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "текке"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жасамаған"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "саған жасаған"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:31.030974578Z",
+  "model": "glm-5.3"
+}

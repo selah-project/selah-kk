@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Таза шамдағың үстінде ⟨את⟩ шамдарды Яхвенің алдында үнемі реттеп тұрсын.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "шамдағының"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "таза"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "реттеп тұрсын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шамдар"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "шамдарды"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    }
+  ],
+  "timestamp": "2026-09-05T02:11:08.296468047Z",
+  "model": "glm-5.3"
+}

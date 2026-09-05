@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 76,
+  "translation": "Аспаннан сотты естілттің — жер қорқты және тынышталды.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "аспаннан"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "естілттің"
+    },
+    {
+      "surface": "דין",
+      "gloss": "сотты"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "қорқты"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "және тынышталды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:38.323540982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 40,
+  "translation": "Қурайды шөп, солады гүл, өйткені Яхвенің желі оған еседі; расында, халық — шөп.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "қурайды"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "шөп"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "солады"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "гүл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "желі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "еседі"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "расында"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "шөп"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    }
+  ],
+  "timestamp": "2026-09-05T04:31:44.665137384Z",
+  "model": "glm-5.3"
+}

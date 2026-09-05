@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Нетанел — төртінші, Радай — бесінші ⟨туылды⟩.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртінші"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "Радай"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бесінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:49.152140247Z",
+  "model": "glm-5.3"
+}

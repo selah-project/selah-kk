@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Яхвенің атымен бізге айтқан сөзіңе — біз сені тыңдаушы ⟨емеспіз⟩.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "атымен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨емеспіз⟩"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "тыңдаушы"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сені"
+    }
+  ],
+  "timestamp": "2026-09-05T07:33:28.852080876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Бацлут балалары, Меһида балалары, Харша балалары,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "Бацлут"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Меһида"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Харша"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:54.041183090Z",
+  "model": "glm-5.3"
+}

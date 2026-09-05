@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "«Өздеріңе халықтан он екі адам алыңдар — тайпадан бір адам, тайпадан бір адам.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "алыңдар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өздеріңе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−нан"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "тайпадан"
+    }
+  ],
+  "timestamp": "2026-09-05T02:55:34.357371370Z",
+  "model": "glm-5.3"
+}

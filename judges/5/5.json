@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Таулар Яхвенің алдында ағды, осы Синай — Яхве, Исраіл Элохимінің алдында.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "таулар"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "ағды"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраіл"
+    }
+  ],
+  "timestamp": "2026-09-05T03:08:42.202278759Z",
+  "model": "glm-5.3"
+}

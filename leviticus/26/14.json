@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ал егер тыңдамасаңдар Маған, және ⟨את⟩ осы бүкіл өсиеттерді орындамасаңдар —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "тыңдамасаңдар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Маған"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және емес"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "істемесеңдер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүкіл"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "өсиеттерді"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T02:12:27.172516298Z",
+  "model": "glm-5.3"
+}

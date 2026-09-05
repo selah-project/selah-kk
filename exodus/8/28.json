@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Парао ⟨את⟩ өз жүрегін осы мәрте де ауырлатты, және халықты жібермеді.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "ауырлатты"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парао"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жүрегін"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "өз жүрегін"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "мәрте"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жібермеді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықты"
+    }
+  ],
+  "timestamp": "2026-09-05T01:41:43.801378906Z",
+  "model": "glm-5.3"
+}

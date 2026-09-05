@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "ойлауға шақырсаң, түсінікке дауысыңды көтерсең,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "шынымен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ойлауға"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "шақырсаң"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "түсінікке"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "берсең"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "дауысыңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:07.312719957Z",
+  "model": "glm-5.3"
+}

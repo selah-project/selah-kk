@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және ⟨את⟩ ызылғырды, және ⟨את⟩ лашынды — оның түрі бойынша.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "ызылғыр"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ызылғыр"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "лашын"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "лашын"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "оның түрі бойынша"
+    }
+  ],
+  "timestamp": "2026-09-05T02:01:57.152985605Z",
+  "model": "glm-5.3"
+}

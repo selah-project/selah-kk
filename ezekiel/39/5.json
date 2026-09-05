@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Ашық даланың бетінде құлайсың, өйткені мен сөйледім, — Адонай Яхвенің ⟨сөзі⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "бетінде"
+    },
+    {
+      "surface": "פני",
+      "gloss": "беті"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "даланың"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "құлайсың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сөйледім"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T05:26:30.760182357Z",
+  "model": "glm-5.3"
+}

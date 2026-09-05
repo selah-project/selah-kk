@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Балаға тәрбие-түзеуді аяма, өйткені оны таяқпен ұрсаң да, ол өлмейді.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "аяма"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "тежеме"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "баладан"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбие-түзеуді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "оны ұрсаң"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяқпен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өледі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:19.248270780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 27:3",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ал еркек болса — жиырма жастан алпыс жасқа дейін — бағалауың елу шекел күміс, қасиетті шекелмен.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "бағалауың"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "еркек"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "жиырма жастан"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жас"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "вן",
+      "gloss": "жасқа"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "алпыс"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жас"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "бағалауың"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күміс"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "шекелмен"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "қасиетті"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:24.812461361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Яхве Мошеге сөйлеп былай деді.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлеп… деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге… —"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:03.643167200Z",
+  "model": "glm-5.3"
+}

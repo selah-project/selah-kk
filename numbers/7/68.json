@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір алтын алақан-табақ — он шекель, ыстырға толы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "алақан-табақ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ыстырға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:01.394598451Z",
+  "model": "glm-5.3"
+}

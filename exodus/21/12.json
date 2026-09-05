@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Адамды соққан және ⟨ол⟩ өлген — өліммен өлтірілсін.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "соққан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "және өлсе"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өліммен"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтірілсін"
+    }
+  ],
+  "timestamp": "2026-09-05T01:46:55.391835966Z",
+  "model": "glm-5.3"
+}

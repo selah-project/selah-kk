@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Солтүстік желі жаңбырды қоздырады, ал ашулы жүздер жасырын тілді.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "желі"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "солтүстік"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "қоздырады"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "жаңбырды"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "ал жүздер"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "ашулы"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тілді"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "жасырын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:32.558344015Z",
+  "model": "glm-5.3"
+}

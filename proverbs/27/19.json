@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Су бетіне бет қатарласа, адамның жүрегі де адамға қатарласады.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "судай"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "бет"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "бетке қатар"
+    },
+    {
+      "surface": "כן",
+      "gloss": "сол сияқты"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "адамға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:09.198408684Z",
+  "model": "glm-5.3"
+}

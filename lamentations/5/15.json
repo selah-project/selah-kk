@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Тоқтады жүрегіміздің қуанышы; биіміз жоқтауға айналды.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "тоқтады"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "қуанышы"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "жүрегіміздің"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "айналды"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "жоқтауға"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "биіміз"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:41.497260861Z",
+  "model": "glm-5.3"
+}

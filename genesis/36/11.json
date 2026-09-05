@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Элифаздың ұлдары болды: Тейман, Омар, Цефо, Гаам және Кеназ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаздың"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Тейман"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Омар"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Цефо"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "және Гаам"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "және Кеназ"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:50.628461334Z",
+  "model": "glm-5.3"
+}

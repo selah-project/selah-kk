@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Игілікті әйел құрметті ұстайды, ал зұлымдар байлықты ұстайды.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "חן",
+      "gloss": "игілікті"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "ұстайды"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "құрметті"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ал зұлымдар"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ұстайды"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "байлықты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:06.409312887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Жарылған қала, қабырғасы ⟨жоқ⟩ — рухына тежеуі жоқ адам ⟨сияқты⟩.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "жарылған"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "қабырға"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "тежеуі"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "рухына"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:23.414206807Z",
+  "model": "glm-5.3"
+}

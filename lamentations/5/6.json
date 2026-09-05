@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Мицрайымға ⟨біз⟩ қол бердік, Ашшұрға да — нанға тойу ⟨үшін⟩.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайымға"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "бердік"
+    },
+    {
+      "surface": "יד",
+      "gloss": "қол"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшұрға"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "тойуға"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:43.851157921Z",
+  "model": "glm-5.3"
+}

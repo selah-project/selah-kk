@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Хашумның ұрпақтары — үш жүз жиырма сегіз.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұрпақтары"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хашумның"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:02.752663893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 106,
+  "translation": "Хоребте бұзау жасады, құйма бейлеге табынды.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "бұзау"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Хоребте"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "әрі табынды"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "құйма бейлеге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:46.609649045Z",
+  "model": "glm-5.3"
+}

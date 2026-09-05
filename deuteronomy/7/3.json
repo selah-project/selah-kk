@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "және олармен құдалық құрмайсың: қызыңды оның ұлына бермейсің, қызын ұлыңа алмайсың.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "құдалық құрмайсың"
+    },
+    {
+      "surface": "בם",
+      "gloss": "олармен"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "қызыңды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бермейсің"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "оның ұлына"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "және қызын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "алмайсың"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ұлыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:37:58.779034006Z",
+  "model": "glm-5.3"
+}

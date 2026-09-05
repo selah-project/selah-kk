@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және Шет (Сет) жүз бес жыл өмір сүрді және ⟨את⟩ Эношты туғызды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шет"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "және жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эношты"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Энош"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:46.420913944Z",
+  "model": "glm-5.3"
+}

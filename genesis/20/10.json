@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Авимелех Авраһамға қарай айтты: «Не көрдің, өйтені ⟨את⟩ осы сөзді істедің?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "көрдің"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйтені"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "істедің"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзді"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөзді"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:57.225817356Z",
+  "model": "glm-5.3"
+}

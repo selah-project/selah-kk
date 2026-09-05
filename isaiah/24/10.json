@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Қиратылды тұл қала; жабылды әр үй кіруден.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "қиратылды"
+    },
+    {
+      "surface": "қרית",
+      "gloss": "қала"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "тұл"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "жабылды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "кіруден"
+    }
+  ],
+  "timestamp": "2026-09-05T04:26:04.299613510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Рамның ұлдары болды — Ярһмеелдің тұңғышы: Маац, Ямин және Эқер.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рамның"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "тұңғышы"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Ярһмеелдің"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "Маац"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "Ямин"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "Эқер"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:49.283046411Z",
+  "model": "glm-5.3"
+}

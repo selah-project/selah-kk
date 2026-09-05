@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Ал Яхве мәңгі отырады, сот үшін өз тағын дайындады.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ал Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отырады"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "дайындады"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "сот үшін"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "өз тағын"
+    }
+  ],
+  "timestamp": "2026-09-05T05:52:33.416440422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Мезимма сақтайда сені, тавуна қорғайда саған",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "Мезимма"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "сақтайда"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сені"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "тавуна"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "қорғайда"
+    }
+  ],
+  "timestamp": "2026-09-05T09:00:33.751439031Z",
+  "model": "glm-5.3"
+}

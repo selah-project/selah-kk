@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Және Ирмейаһу айтты: Яхвенің сөзі маған болды, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмейаһу"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T04:58:41.211528310Z",
+  "model": "glm-5.3"
+}

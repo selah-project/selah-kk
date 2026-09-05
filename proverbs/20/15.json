@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Алтын бар және маржан көп, бірақ білім ернінен қымбат ыдыс.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "және көп"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "маржан"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "және ыдыс"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "қымбат"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ерні"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:41.949666924Z",
+  "model": "glm-5.3"
+}

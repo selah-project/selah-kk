@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "және ірі қара алты мың отыз мың —",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "және ірі қара"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:28:52.549995701Z",
+  "model": "glm-5.3"
+}

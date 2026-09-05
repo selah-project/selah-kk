@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 26:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ицхак сол жерде екті және сол жылы жүз есе тапты, Яхве оны берекеледі.",
+  "tokens": [
+    {
+      "surface": "ויזרע",
+      "gloss": "екті"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "есе"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "оны берекеледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:13.277559061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Цийон тауы себебінен — ол қираған, түлкілер онда жүрді.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "себебінен"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауы"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "қираған"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "түлкілер"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "жүрді"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:05.200526023Z",
+  "model": "glm-5.3"
+}

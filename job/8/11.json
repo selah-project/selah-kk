@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Қамыс сазда өспей ме, аһу сумен бірге өспей ме?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "өспей ме"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "қамыс"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "сыз"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "саз"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "өспей ме"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "аһу"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "сыз"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сумен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:37:27.540653813Z",
+  "model": "glm-5.3"
+}

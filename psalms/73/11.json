@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 73,
+  "translation": "Және айтады: «Қалайша Эл біледі, және Элионда білім бармыс?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "қалайша"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "және бар"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "білім"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Элионда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:12.564920498Z",
+  "model": "glm-5.3"
+}

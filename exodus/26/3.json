@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Бес көрпе болады — әйел сіңлісіне қосылған, ал бес көрпе қосылады әйел сіңлісіне.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "көрпе"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "болады"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "қосылған"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "сіңлісіне"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ал бес"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "көрпе"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "қосылады"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "сіңлісіне"
+    }
+  ],
+  "timestamp": "2026-09-05T01:50:25.311681045Z",
+  "model": "glm-5.3"
+}

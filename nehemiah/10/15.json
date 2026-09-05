@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Халықтың басшылары: Парош, Пахат-Моаб, Эйлам, Затту, Бани,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "басшылары"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықтың"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затту"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:47.591362715Z",
+  "model": "glm-5.3"
+}

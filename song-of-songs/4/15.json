@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Бақтар бұлағы, тірі сулардың құдығы, Леваноннан ағатындар.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "бұлағы"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "бақтар"
+    },
+    {
+      "surface": "באר",
+      "gloss": "құдығы"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сулардың"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "және ағатындар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—нан"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Леванон"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:22.295225322Z",
+  "model": "glm-5.3"
+}

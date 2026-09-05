@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Және Моше Яхвенің белгіленген мезгілдерін Исраил ұлдарына ⟨את⟩ жариялады.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "жариялады"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мезгілдерді"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "мезгілдерін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T02:10:33.145648402Z",
+  "model": "glm-5.3"
+}

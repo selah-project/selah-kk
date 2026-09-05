@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Ал енді, не күтемін? Адонай, үмітім — Сенде ⟨ол⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "күтемін"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "үмітім"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сенде"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:44.289721171Z",
+  "model": "glm-5.3"
+}

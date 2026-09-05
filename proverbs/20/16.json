@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Киімін ал — бөтен үшін кепіл болған; жаттар үшін одан кепіл зат ал.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "киімін"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кепіл болған"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бөтен үшін"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "және үшін"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "жаттар"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "кепіл зат ал одан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:41.949882402Z",
+  "model": "glm-5.3"
+}

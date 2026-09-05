@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Цуфтың ұлы, Элқананың ұлы, Маһаттың ұлы, Амасайдың ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "Цуфтың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқананың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "Маһаттың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амасайдың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:17.993855453Z",
+  "model": "glm-5.3"
+}

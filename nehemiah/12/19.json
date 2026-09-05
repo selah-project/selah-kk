@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Және Йоярибтікі — Маттенай; Йедаяныкі — Уззи.",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "және Йоярибтікі"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Маттенай"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Йедаяныкі"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:29.323974889Z",
+  "model": "glm-5.3"
+}

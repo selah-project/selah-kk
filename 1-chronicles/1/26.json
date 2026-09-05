@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Серуг, Нахор, Терах.",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "Серуг"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:03.849618978Z",
+  "model": "glm-5.3"
+}

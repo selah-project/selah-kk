@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Және Яхвенің сөзі маған келіп айтты:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T05:11:46.380307945Z",
+  "model": "glm-5.3"
+}

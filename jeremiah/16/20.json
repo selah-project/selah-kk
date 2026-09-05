@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "«Адам өзіне құдайлар жасай ала ма? — ал олар құдайлар емес!»",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "жасай ала ма"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзіне"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "құдайлар"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ал олар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "құдайлар"
+    }
+  ],
+  "timestamp": "2026-09-05T04:48:46.499764876Z",
+  "model": "glm-5.3"
+}

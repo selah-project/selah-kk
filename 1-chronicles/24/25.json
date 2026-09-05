@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Миханың інісі — Ишийаһ; Ишийаһтың ұлдарынан — Зехарияһ.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "інісі"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миханың"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишийаһ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишийаһтың"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Зехарияһ"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.681528085Z",
+  "model": "glm-5.3"
+}

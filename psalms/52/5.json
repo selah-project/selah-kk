@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 52,
+  "translation": "Сен жаманды жақсыдан, өтірікті әділ айтудан жақсы көресің. Села.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "жақсы көресің"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаманды"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "жақсыдан"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "өтірікті"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "айтудан"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "әділ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:08.418306749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "«Кемеден шық — ⟨sen⟩, әйелің, ұлдарың және ұлдарыңның әйелдері ⟨senімен⟩ бірге.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "шық"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ішінен"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "кемеден"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "және әйелің"
+    },
+    {
+      "surface": "ובניק",
+      "gloss": "және ұлдарың"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "және әйелдері"
+    },
+    {
+      "surface": "בניק",
+      "gloss": "ұлдарыңның"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ сенімен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:15.925435280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 31:13",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Мен — Бейт-Элдің Элі, онда бағанды майладың, онда маған ант берген ⟨мен⟩; енді тұр, осы жерден шық және туған жеріңе қайтып бар.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "онда"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "майладың"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сол жерде"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "бағанды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "онда"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "ант бердің"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ант"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "енді"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "צא",
+      "gloss": "шық"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "және қайт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑ға"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "מולדתך",
+      "gloss": "туған жеріңе"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:09.372271138Z",
+  "model": "glm-5.3"
+}

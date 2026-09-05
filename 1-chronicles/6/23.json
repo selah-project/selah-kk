@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ицһардың ұлы, Кеһаттың ұлы, Левидің ұлы, Исраилдің ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицһардың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһаттың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левидің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:21.488284573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және бұл сөздер — бүгін мен саған бұйыратын — жүрегіңнің үстінде болсын.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "және болсын"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздер"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— (атыс сөз)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "саған бұйыратын"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгін"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "жүрегіңнің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:57.665187415Z",
+  "model": "glm-5.3"
+}

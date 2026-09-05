@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Авимелех Ицхакқа айтты: «Бізден кет, өйткені сен бізден өте күштірек болдың.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қа"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "לך",
+      "gloss": "кет"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "бізден"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "עצмת",
+      "gloss": "күштірек болдың"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "бізден"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:38.572533390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Йетур, Нафиш және Қедема. Мыналар — Ысмайылдың ұлдары.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "және Қедема"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "мыналар"
+    },
+    {
+      "surface": "הם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ысмайылдың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:19.892987526Z",
+  "model": "glm-5.3"
+}

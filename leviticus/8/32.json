@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Ал ет пен наннан қалғанын отта өртеңдер.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ал қалғанын"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "еттен"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "және наннан"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отта"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "өртеңдер"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:29.362330533Z",
+  "model": "glm-5.3"
+}

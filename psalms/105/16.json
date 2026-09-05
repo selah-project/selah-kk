@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "Және жер үстіне аштық шақырды, нанның бүкіл таяғын сындырды.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "және шақырды"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "аштықты"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таяғын"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нанның"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сындырды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:34.671752928Z",
+  "model": "glm-5.3"
+}

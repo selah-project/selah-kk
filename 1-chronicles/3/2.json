@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Үшіншісі Авшалом, Мааха ұлы — Гешур патшасы Талмайдың қызы; төртіншісі Адония, Хагит ұлы.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "Үшіншісі"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Талмайдың"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Гешур"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртіншісі"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адония"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Хагит"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:59.272230652Z",
+  "model": "glm-5.3"
+}

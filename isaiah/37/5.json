@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Патша Хизкияһудың қызметшілері Йешайаһуға келді.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "қызметшілері"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешайаһу"
+    }
+  ],
+  "timestamp": "2026-09-05T04:31:06.542420081Z",
+  "model": "glm-5.3"
+}

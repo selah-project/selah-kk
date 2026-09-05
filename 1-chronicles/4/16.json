@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Йеһаллелелдің ұлдары: Зиф, Зифа, Тирйа және Асарел.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "Йеһаллелелдің"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зиф"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "Зифа"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Тирйа"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "Асарел"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:12.136476065Z",
+  "model": "glm-5.3"
+}

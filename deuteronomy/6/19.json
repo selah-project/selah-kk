@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Қуып шығу үшін ⟨את⟩ барлық жауларыңды алдыңнан, сияқты сөйлеген Яхве.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "қуып шығу үшін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барлық жауларыңды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "жауларыңды"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "алдыңнан"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "сияқты"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлеген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T02:36:56.859147309Z",
+  "model": "glm-5.3"
+}

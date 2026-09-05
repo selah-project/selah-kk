@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Өйткені қорлау хакімді есінен тандырады, және сый-параны жүрек ⟨את⟩ жояды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "қорлау"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "есінен тандырады"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хакімді"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "және жояды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүрек"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "сый-пара"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:17.689343038Z",
+  "model": "glm-5.3"
+}

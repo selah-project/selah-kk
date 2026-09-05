@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 143,
+  "translation": "Жауларымнан құтқар мені, Яхве, саған ⟨мен⟩ жасындым.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "құтқар мені"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "жауларымнан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "жасындым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:38.281934143Z",
+  "model": "glm-5.3"
+}

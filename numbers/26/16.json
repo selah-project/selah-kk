@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Озниден — Озни зламы, Эриден — Эри зламы.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "Озниден"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "зламы"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "Озни"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "Эриден"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "зламы"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "Эри"
+    }
+  ],
+  "timestamp": "2026-09-05T02:26:25.622017856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Тазамен ⟨Сен⟩ тазасың, және қисықпен айлаласың.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "...мен"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "таза"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "тазасың"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "және ...мен"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "қисық"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "айлаласың"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:08.831170612Z",
+  "model": "glm-5.3"
+}

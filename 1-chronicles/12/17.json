@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Бинямин мен Йеһуда ұлдарынан ⟨біреулер⟩ Давидтің бекінісіне дейін келді.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинямин"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "мен Йеһуда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "бекініске"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидтің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:17:48.944439196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Сара мысырлық Һағардың Абраһамға туған ұлын ⟨את⟩ мысқылдағанын көрді.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ұлын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлын"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Һағардың"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "мысырлық"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оның"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туған"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Абраһамға"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "мысқылдап"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:52.743592607Z",
+  "model": "glm-5.3"
+}

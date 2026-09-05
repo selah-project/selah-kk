@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Тек мықты бол қанды жемеуге; өйткені қан — ол ⟨жан⟩, жанды етпен бірге жемейсің.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "мықты бол"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "жемеуге"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жемеу"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "қанды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "қан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жемейсің"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "етпен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:41:02.275910805Z",
+  "model": "glm-5.3"
+}

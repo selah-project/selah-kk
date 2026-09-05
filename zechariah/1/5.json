@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "«Әкеңдер қайда, ⟨олар⟩? Ал пайғамбарлар мәңгі өмір сүре ме?»",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "әкеңдер қайда"
+    },
+    {
+      "surface": "איה",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "הם",
+      "gloss": "олар"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ал пайғамбарлар"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "өмір сүре ме"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:46.577788724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ал бұл — үкімдер, оларды олардың алдына қоясың:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ал бұл"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "үкімдер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оларды"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "қоясың"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "олардың алдына"
+    }
+  ],
+  "timestamp": "2026-09-05T01:48:09.254161614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Реая ұлдары, Рецин ұлдары, Некода ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реая"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некода"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.290953122Z",
+  "model": "glm-5.3"
+}

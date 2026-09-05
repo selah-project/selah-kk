@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ласты қоқыс қылдың ⟨бізді⟩ халықтардың ішінде.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "ласты қоқыс"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "және жиіркенішті"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "қылдың ⟨бізді⟩"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ішінде"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халықтардың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:38.832991759Z",
+  "model": "glm-5.3"
+}

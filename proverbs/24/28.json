@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Көршіңе ⟨қарсы⟩ босқа куә болма, және еріндеріңмен алдаушы болма.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "עד",
+      "gloss": "куә"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "босқа"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "көршіңе"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "және алдаушы болма"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "еріндеріңмен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:24.924908557Z",
+  "model": "glm-5.3"
+}

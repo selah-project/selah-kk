@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Өз досын жұмсартып сөйлейтіндер оның қадамдарына құрып кернеді.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "жұмсартып сөйлейтін"
+    },
+    {
+      "surface": "על",
+      "gloss": "өзінің"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "досына"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "құрып"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "кернеді"
+    },
+    {
+      "surface": "על",
+      "gloss": "оның"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "қадамдарына"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:31.556390281Z",
+  "model": "glm-5.3"
+}

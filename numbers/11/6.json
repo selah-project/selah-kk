@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Ал енді жанымыз құрғақ; көзімізге бұл маннадан басқа ештеңе жоқ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "жанымыз"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "құрғақ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ештеңе"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тек"
+    },
+    {
+      "surface": "המן",
+      "gloss": "маннадан"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "көзімізге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:25.641434816Z",
+  "model": "glm-5.3"
+}

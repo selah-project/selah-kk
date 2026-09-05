@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "жазда нанын дайындайды, орақ кезінде асын жинайды.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "дайындайды"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "жазда"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "нанын"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "жинайды"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "орақ кезінде"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "асын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:46.622756549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Харим, Меремот, Овадья,",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Меремот"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овадья"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:34.168283946Z",
+  "model": "glm-5.3"
+}

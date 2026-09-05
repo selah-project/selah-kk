@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Жиырма үш жасар Йеһоаһаз патша болғанда, Иерусалимде үш ай билік етті.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "…жасар"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Йеһоаһаз"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "патша болғанда"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "үш"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ай"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "билік етті"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Иерусалимде"
+    }
+  ],
+  "timestamp": "2026-09-05T08:40:11.793149979Z",
+  "model": "glm-5.3"
+}

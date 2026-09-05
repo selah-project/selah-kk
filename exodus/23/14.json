@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Үш мәрте маған мереке тойла ⟨жылына⟩.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "мәрте (аяқ-мереке)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "мереке тойла"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "⟨жылына⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:26.370836030Z",
+  "model": "glm-5.3"
+}

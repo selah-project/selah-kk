@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 91,
+  "translation": "Жамандық саған келмейді, және ⟨дерт⟩ шатырыңа жақындамайды.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "келмейді"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "және дерт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "жақындамайды"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "шатырыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:32.120093096Z",
+  "model": "glm-5.3"
+}

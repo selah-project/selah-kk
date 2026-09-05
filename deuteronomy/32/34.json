@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Бұл Менімен қатар жиналып қойылған емес пе? Қазыналарымда мөрленген.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "емес пе"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "жиналып қойылған"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "Менімен қатар"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "мөрленген"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "қазыналарымда"
+    }
+  ],
+  "timestamp": "2026-09-05T02:51:54.628121682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 139,
+  "translation": "Өйткені тілімде сөз жоқ — мына, Яхве, сен оның барлығын білдің.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "тілімде"
+    },
+    {
+      "surface": "הן",
+      "gloss": "мына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "білдің"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "барлығын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:55.840312745Z",
+  "model": "glm-5.3"
+}

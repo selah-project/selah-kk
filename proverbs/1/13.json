@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Барлық қымбат байлық табылады, олжамен үйлерімізді толтырамыз.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "הון",
+      "gloss": "байлық"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "қымбат"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "табылады"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "толтырамыз"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "үйлерімізді"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олжамен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:58.805766596Z",
+  "model": "glm-5.3"
+}

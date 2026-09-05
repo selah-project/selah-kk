@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Лахиш, және Боцқат, және Эглон",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "Лахиш"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "және Боцқат"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "және Эглон"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:53.599702678Z",
+  "model": "glm-5.3"
+}

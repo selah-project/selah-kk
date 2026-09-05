@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Сонда Яхве өз халқына істемек болып айтқан жамандықтан жаны айды.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "жаны айды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандықтың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "істемек"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "өз халқына"
+    }
+  ],
+  "timestamp": "2026-09-05T01:54:09.823947863Z",
+  "model": "glm-5.3"
+}

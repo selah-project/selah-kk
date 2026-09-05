@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Басқа Нево еркектері — елу екі.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "еркектері"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "және екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.792204246Z",
+  "model": "glm-5.3"
+}

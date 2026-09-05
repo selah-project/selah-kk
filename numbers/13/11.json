@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Йосеф тайпасы үшін — Менаше тайпасы үшін — Суси ұлы Гадди.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "тайпасы үшін"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "тайпасы үшін"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Гадди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "Суси"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:14.617783491Z",
+  "model": "glm-5.3"
+}

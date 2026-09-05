@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Жаны кең адам дау қозғайды, ал Яхвеге сенген ⟨семіреді⟩.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "кең"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "қозғайды"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "дау"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ал сенген"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨Яхвеге⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "семіреді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:08.479237229Z",
+  "model": "glm-5.3"
+}

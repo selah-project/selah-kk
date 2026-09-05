@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Өйткені былай деді Яхве: діріл дауысын естідік, үрей — және тыныштық жоқ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дауысын"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "діріл"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "естідік"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "үрей"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тыныштық"
+    }
+  ],
+  "timestamp": "2026-09-05T04:56:25.618471004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Мынау, бәрін көрді көзім, естіді құлағым, және оны ⟨түсінді⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзім"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "естіді"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "құлағым"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "және түсінді"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T06:40:02.256754255Z",
+  "model": "glm-5.3"
+}

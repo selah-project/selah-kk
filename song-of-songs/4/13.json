@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сенің бұтақтарың — анар бағы, таңдаулы жемістермен, хенна мен нардпен.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "бұтақтарың"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "бағы"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "анар"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "жемісі"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "таңдаулы"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "хенна"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "нард"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:22.294531392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Бидай мен арпаның, жүзім мен інжір мен анардың жері; зәйтүн майының және балдың жері.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "жері"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "бидай"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "мен арпаның"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "жүзім"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "мен інжір"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "мен анардың"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жері"
+    },
+    {
+      "surface": "זית",
+      "gloss": "зәйтүн"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "майының"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "және балдың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:38:34.137756522Z",
+  "model": "glm-5.3"
+}

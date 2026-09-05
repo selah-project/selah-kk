@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ол оларға мейрам жасады, және олар жеп-ішті.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "және жасады"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "мейрам"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "және жеді"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "және ішті"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:37.119896499Z",
+  "model": "glm-5.3"
+}

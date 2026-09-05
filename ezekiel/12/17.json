@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Және Яхвенің сөзі маған келді, айтулы:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтулы"
+    }
+  ],
+  "timestamp": "2026-09-05T05:11:57.031542342Z",
+  "model": "glm-5.3"
+}

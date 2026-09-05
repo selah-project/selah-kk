@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ал пайғамбарлар желге айналар, ал сөз ⟨оларда⟩ жоқ — оларға осылай жасалады.",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "ал пайғамбарлар"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болар"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "желге"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "ал сөз"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "оларда"
+    },
+    {
+      "surface": "כה",
+      "gloss": "сылай"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасалады"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T04:44:27.181721628Z",
+  "model": "glm-5.3"
+}

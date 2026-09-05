@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және Яхвенің сөзі Зехарияға келді, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехария"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:46:51.658995164Z",
+  "model": "glm-5.3"
+}

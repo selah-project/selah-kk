@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ұрпақ кетеді және ұрпақ келеді, ал жер мәңгі тұрады.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ұрпақ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "кетеді"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "және ұрпақ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ал жер"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "тұрады"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:27.701256194Z",
+  "model": "glm-5.3"
+}

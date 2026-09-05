@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Жүрегімізді қолдарымызбен ⟨бірге⟩ көтереміз аспандардағы Элге.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "көтереміз"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "жүрегімізді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қолдарымызбен ⟨бірге⟩"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "қолдарымызбен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элге"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "аспандардағы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:39.796017577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Арнон сайлауының жиегіндегі Ароерден Сион тауына — яғни Хермонға дейін.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "Ароерден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "על",
+      "gloss": "-нде"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "жиегінің"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "сайлауы"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "яғни"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермонға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:37:18.676114752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Өйткені сен зұлымдықты қалайтын Эл эмессің; жамандық сенімен қонбайды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "қалайтын"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зұлымдықты"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "сенімен қонбайды"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандық"
+    }
+  ],
+  "timestamp": "2026-09-05T07:38:48.610784248Z",
+  "model": "glm-5.3"
+}

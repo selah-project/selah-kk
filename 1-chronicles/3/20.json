@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Хашува, Оһел, Берехия, Хасадия, Юшав-Хесед — бесеу.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "және Хашува"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "және Оһел"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "және Берехия"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "және Хасадия"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Юшав"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-Хесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бесеу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:50.264919352Z",
+  "model": "glm-5.3"
+}

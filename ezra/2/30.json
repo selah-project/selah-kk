@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Магбиш ұлдары — жүз елу алты.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "Магбиш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "алты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:04.027143021Z",
+  "model": "glm-5.3"
+}

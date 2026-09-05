@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Уламның ұлдары: Бедан. Мыналар Гилғадтың ұлдары — Махирдің ұлы, Менашшенің ұлы.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Уламның"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Бедан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "мыналар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилғадтың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махирдің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашшенің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:32.539322875Z",
+  "model": "glm-5.3"
+}

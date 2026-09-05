@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Соқырға көз болдым, ал ақсаққа аяқ — өзім мен.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "көз"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "болдым"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "соқырға"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "және аяқ"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "ақсаққа"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:45:33.208489042Z",
+  "model": "glm-5.3"
+}

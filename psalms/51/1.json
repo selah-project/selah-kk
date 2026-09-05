@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 51,
+  "translation": "Жетекшіге; Дәуіттің мізморы.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "жетекшіге"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мізморы"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Дәуіттің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:21.569608569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір бұқа, сиырдың ұлы, бір қошқар, бір қозы, жасы бір жылдық, өрт құрбанына.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сиырдың"
+    },
+    {
+      "surface": "איל",
+      "gloss": "бір қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "қозы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "жасы бір жылдық"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өрт құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:06.355995347Z",
+  "model": "glm-5.3"
+}

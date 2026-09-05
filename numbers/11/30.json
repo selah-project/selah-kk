@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Моше өзі және Исраилдің қариялары лагерге қайта жиналды.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "қайта жиналды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерге"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзі"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "және қариялары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:21:03.099769315Z",
+  "model": "glm-5.3"
+}

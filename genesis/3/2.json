@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Әйел жыланға: «Бақ ағаштарының жемісінен жей аламыз», — деді.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ішіне"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "жыланға"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "жемісінен"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ағаштарының"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "бақ"
+    },
+    {
+      "surface": "נאкל",
+      "gloss": "жей аламыз"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:31.309985390Z",
+  "model": "glm-5.3"
+}

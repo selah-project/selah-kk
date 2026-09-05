@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ой, қан төгетін қала! Ол түгел өтірік пен тонауға толы — олжадан таймайды.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "қан"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "өтірік"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "тонау"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "таймайды"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "олжа"
+    }
+  ],
+  "timestamp": "2026-09-05T05:42:22.236020596Z",
+  "model": "glm-5.3"
+}

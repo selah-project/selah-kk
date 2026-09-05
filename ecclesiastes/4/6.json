@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Бір алақан тыныштық толған — екі жұдырық толы аян және жел қуғынынан жақсы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толған"
+    },
+    {
+      "surface": "כף",
+      "gloss": "алақан"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тыныштық"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "толы"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "жұдырық"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "аян"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "және қуғын"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "жел"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:46.515580271Z",
+  "model": "glm-5.3"
+}

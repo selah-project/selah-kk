@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Яхве осыған өкінді: «Болмайды», — деді Яхве.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "өкінді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "осыған"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T05:37:34.806966280Z",
+  "model": "glm-5.3"
+}

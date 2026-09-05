@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Йеһонатанның ұлы Мэрив-Баал, Мэрив-Баал Миханы ⟨את⟩ туғызды.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеһонатанның"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мэрив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Баал"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "Мэрив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Миханы"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миханы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:07.961212820Z",
+  "model": "glm-5.3"
+}

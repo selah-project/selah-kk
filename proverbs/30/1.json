@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Әгұрдың, Яке ұлының сөздері — жүк: ер Итиелге, Итиелге және Уқалға айтылған нақыл.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сөздері"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Әгұрдың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Яке"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "жүк"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "нақыл"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ердің"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелге"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелге"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "және Уқал"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:35.544331379Z",
+  "model": "glm-5.3"
+}

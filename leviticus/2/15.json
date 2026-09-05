@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Және оған май құй, және оған ладан қой; ол — садақа.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "және құй"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "оған үстіне"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "және қой"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "оған үстіне"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ладан"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "садақа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T01:58:52.160314438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Исраил ⟨⟩ құл ма? үйде туған ма? неге ол олжаға айналды?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "құл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ма"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "туған"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйде"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "неге"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "олжаға"
+    }
+  ],
+  "timestamp": "2026-09-05T04:41:29.278327912Z",
+  "model": "glm-5.3"
+}

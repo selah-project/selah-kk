@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Аһитуб ⟨את⟩ Цадокты туғызды, ал Цадок ⟨את⟩ Шаллумды туғызды.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Аһитуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цадокты"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадокты"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ал Цадок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллумды"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллумды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:39.521710248Z",
+  "model": "glm-5.3"
+}

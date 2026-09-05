@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Қиш — Шаулдың әкесі, ал Нер — Авнердің әкесі, Абиилдің ұлы.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "Қиш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "Шаулдың"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ал Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнердің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Абиилдің"
+    }
+  ],
+  "timestamp": "2026-09-05T03:25:44.280516585Z",
+  "model": "glm-5.3"
+}

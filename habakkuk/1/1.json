@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Хабақұқ пайғамбар (Хабақұқ — Хавақұқ) көрген жүк.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "жүк"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "көрген"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хабақұқ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайғамбар"
+    }
+  ],
+  "timestamp": "2026-09-05T05:42:28.622539842Z",
+  "model": "glm-5.3"
+}

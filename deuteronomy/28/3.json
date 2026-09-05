@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Қалада баталы сен, және далада баталы сен.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "баталы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "қалада"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "және баталы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "далада"
+    }
+  ],
+  "timestamp": "2026-09-05T02:49:29.430737220Z",
+  "model": "glm-5.3"
+}

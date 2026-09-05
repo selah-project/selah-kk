@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Үш күннің соңында басшылар лагерьдің ішінен өтті.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "соңында"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күннің"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "өтті"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "басшылар"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ішінен"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерьдің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:55:36.365168799Z",
+  "model": "glm-5.3"
+}

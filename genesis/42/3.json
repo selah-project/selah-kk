@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Сонда Йосефтің он бауыры Мицрайымнан асты сатып алу үшін түсті.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "түсті"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бауыры"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефтің"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "сатып алу үшін"
+    },
+    {
+      "surface": "בר",
+      "gloss": "асты"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайымнан"
+    }
+  ],
+  "timestamp": "2026-09-05T01:33:48.470994272Z",
+  "model": "glm-5.3"
+}

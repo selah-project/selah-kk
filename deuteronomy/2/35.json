@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Тек малды ғана өзімізге олжаға алдық, және басып алған қалалардың олжасын.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "малды"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "олжаға алдық"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "өзімізге"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "және олжасын"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "қалалардың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "басып алдық"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:27.677860813Z",
+  "model": "glm-5.3"
+}

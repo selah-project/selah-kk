@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Яхвенің сөзі Йонaһқа екінші рет келіп айтты:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йонаһ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "екінші рет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T05:38:46.787003700Z",
+  "model": "glm-5.3"
+}

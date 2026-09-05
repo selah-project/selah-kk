@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және төрт үлкен аң теңізден көтерілді — мынау мынадан әртүрлі.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "және төрт"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "аң"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "көтерілді"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−ден"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "әртүрлі"
+    },
+    {
+      "surface": "דא",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "דא",
+      "gloss": "мынадан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:57:29.017042521Z",
+  "model": "glm-5.3"
+}

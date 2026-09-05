@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Себебі ⟨Ол⟩ айтты — және болды; ⟨Ол⟩ әмір етті — және тұрды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ол⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ол⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "әмір етті"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "және тұрды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:57:24.972000185Z",
+  "model": "glm-5.3"
+}

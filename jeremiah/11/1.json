@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Сөз, Яхвенікі ⟨את⟩-тен Ярмеяһуға келген: «деп айтуға» ⟨ол⟩ айттылық",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "היה",
+      "gloss": "келген болатын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ға"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмеяһу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-тен",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T08:58:05.269956273Z",
+  "model": "glm-5.3"
+}

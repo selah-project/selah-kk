@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Самайың орамалыңның арғы жағында анардың бір бөлігіндей.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "бөлігіндей"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "анардың"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "самайың"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "арғы жағында"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "орамалыңның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:30.822647001Z",
+  "model": "glm-5.3"
+}

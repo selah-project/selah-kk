@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Солай ол басқа жолмен кетті және Бет-Элге келген жолымен қайтпады.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "кетті"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолмен"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "қайтты"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолмен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "בה",
+      "gloss": "сол арқылы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элге"
+    }
+  ],
+  "timestamp": "2026-09-05T03:58:16.799372559Z",
+  "model": "glm-5.3"
+}

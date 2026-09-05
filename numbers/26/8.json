@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Және Паллұның ұлдары — Элиав.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "Паллұның"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    }
+  ],
+  "timestamp": "2026-09-05T02:26:05.079907469Z",
+  "model": "glm-5.3"
+}

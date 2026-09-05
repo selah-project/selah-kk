@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Неге бізді мәңгі ұмытасың, бізді ұзақ күндерге тастап кетесің?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "ұмытасың"
+    },
+    {
+      "surface": "תעזבנу",
+      "gloss": "тастап кетесің"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ұзақ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндерге"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:05.200920449Z",
+  "model": "glm-5.3"
+}

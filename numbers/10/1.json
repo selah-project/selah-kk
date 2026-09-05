@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Және Яхве Мошеге сөйледі, айтып:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:35.013046282Z",
+  "model": "glm-5.3"
+}

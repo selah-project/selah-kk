@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ханохтың барлық күндері бес және алпыс жыл, үш жүз жыл болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханохтың"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "алпыс"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-09-05T01:17:10.325046865Z",
+  "model": "glm-5.3"
+}

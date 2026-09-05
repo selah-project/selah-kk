@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Яхве, Адонай біздің, Қандай ғажап Есімің бүкіл жерде!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Адонай біздің"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Қандай"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ғажап"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Есімің"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерде"
+    }
+  ],
+  "timestamp": "2026-09-05T05:52:03.063284551Z",
+  "model": "glm-5.3"
+}

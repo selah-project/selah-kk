@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Және олар маған халық болады, ал Мен оларға Элохим боламын.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "және болады"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ал Мен"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "боламын"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-09-05T04:57:54.700003462Z",
+  "model": "glm-5.3"
+}

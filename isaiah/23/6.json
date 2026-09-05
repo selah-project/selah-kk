@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Таршишқа өтіңдер, зарлаңдар, жағалау тұрғындары!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "өтіңдер"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "Таршишқа"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "зарлаңдар"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "тұрғындары"
+    },
+    {
+      "surface": "אי",
+      "gloss": "жағалау"
+    }
+  ],
+  "timestamp": "2026-09-05T04:26:32.026204783Z",
+  "model": "glm-5.3"
+}

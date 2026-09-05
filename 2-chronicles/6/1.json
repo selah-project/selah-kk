@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Сонда Шеломоһ айтты: «Яхве қалың қараңғылықта қоныстануға айтқан».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "қоныстануға"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "қалың қараңғылықта"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:06.025877074Z",
+  "model": "glm-5.3"
+}

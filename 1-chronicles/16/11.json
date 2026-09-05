@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Яхвені және ⟨оның⟩ күшін іздеңдер, оның жүзін үнемі іздеңдер.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "іздеңдер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвені"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "және күшін"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "іздеңдер"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзін"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:15.101458863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Йеһояқим-ның ұлдары: Йехонья — ұлы, Цидқия — ұлы.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Йеһояқим-ның"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехонья"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Цидқия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:53.363309078Z",
+  "model": "glm-5.3"
+}

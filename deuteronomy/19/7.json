@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Сондықтан Мен саған бұйырамын: үш қала өзіңе бөліп қой.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Сондықтан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "сол себептен"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "саған бұйырамын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "қала"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "бөліп қой"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    }
+  ],
+  "timestamp": "2026-09-05T02:44:26.106967396Z",
+  "model": "glm-5.3"
+}

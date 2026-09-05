@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ал коһеннің ⟨барлық⟩ сыйлығы ⟨құрбаны⟩ түгел түтінге айналдырылады — жегілмейді.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "және әр"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "сыйлығы"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коһеннің"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жегіледі"
+    }
+  ],
+  "timestamp": "2026-09-05T07:22:39.085610271Z",
+  "model": "glm-5.3"
+}

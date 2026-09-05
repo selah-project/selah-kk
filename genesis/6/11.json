@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Жер Элохимнің алдында бұзылды, және жер зұлымдыққа толды.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "бұзылды"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "толды"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зұлымдыққа"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:18.639284377Z",
+  "model": "glm-5.3"
+}

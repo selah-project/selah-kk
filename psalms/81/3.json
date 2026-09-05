@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 81,
+  "translation": "Әнді көтеріңдер, дәфті беріңдер — тәтті кинор набылмен бірге.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "көтеріңдер"
+    },
+    {
+      "surface": "зמרה",
+      "gloss": "әнді"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "беріңдер"
+    },
+    {
+      "surface": "תף",
+      "gloss": "дәфті"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "кинор"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "тәтті"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "набыл"
+    }
+  ],
+  "timestamp": "2026-09-05T07:39:23.639857981Z",
+  "model": "glm-5.3"
+}

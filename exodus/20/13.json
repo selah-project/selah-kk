@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Өлтірме.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "өлтірме"
+    }
+  ],
+  "timestamp": "2026-09-05T01:44:52.390282917Z",
+  "model": "glm-5.3"
+}

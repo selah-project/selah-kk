@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Забад Эфлалды ⟨את⟩ әкеледі, Эфлал Оведді ⟨את⟩ әкеледі.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Забад"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфлалды"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Эфлал"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "Эфлал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведді"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:34.597910639Z",
+  "model": "glm-5.3"
+}

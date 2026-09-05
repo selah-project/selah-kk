@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Давидтің Шигайоны, ол Яхвеге ән салды — Куш бен-Яминнидің сөздері туралы.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Шигайон"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ән салды"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздері"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Яминнидің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:51:30.925776202Z",
+  "model": "glm-5.3"
+}

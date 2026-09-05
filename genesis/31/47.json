@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Лаван оған Йегар-Саһадута деп ат қойды, ал Яаков оған Гилғад деп ат қойды.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ат қойды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "Йегар"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "Саһадута"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Яаков болса"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ат қойды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилғад"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:29.633770762Z",
+  "model": "glm-5.3"
+}

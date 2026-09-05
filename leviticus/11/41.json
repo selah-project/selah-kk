@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Жер үстінде жорғалаған әр жорғалаушы — жиіркеніш; ⟨ол⟩ жеуге болмайды.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "және әр"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "жорғалаушы"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "жорғалаған"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жиіркеніш"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болмайды"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "жеуге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:37.157722254Z",
+  "model": "glm-5.3"
+}

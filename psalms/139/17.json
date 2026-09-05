@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 139,
+  "translation": "«Маған қандай қымбат Өзіңнің ойларың, Эл! Олардың саны қандай ұлы!»",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Маған"
+    },
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "қымбат"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ойларың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "олардың саны"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:47.198408643Z",
+  "model": "glm-5.3"
+}

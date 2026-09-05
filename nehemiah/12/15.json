@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Харим ⟨үйінен⟩ Адна, Мерайот ⟨үйінен⟩ Хелки;",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Харим ⟨үйінен⟩"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Адна"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "Мерайот ⟨үйінен⟩"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Хелки"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:51.929441067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Күнді де көрген жоқ, білген де жоқ; бұған әлгіден гөрі ⟨артық⟩ тыныштық.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "күнді"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "әрі жоқ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "білді"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тыныштық"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "бұған"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "әлгіден"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:07.213108528Z",
+  "model": "glm-5.3"
+}

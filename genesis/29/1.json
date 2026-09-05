@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Яақов аяқтарын көтерді және шығыс ұлдарының жеріне жүріп кетті.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "көтерді"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яақов"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "аяқтарын"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жүріп кетті"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жеріне"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "шығыс"
+    }
+  ],
+  "timestamp": "2026-09-05T01:26:11.463467493Z",
+  "model": "glm-5.3"
+}

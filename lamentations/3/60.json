@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Көрдің олардың барлық кек алуын, менің туралы ойлаған барлық ойларын.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "көрдің"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "олардың кек алуын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "олардың ойларын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менің туралы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:07.110237950Z",
+  "model": "glm-5.3"
+}

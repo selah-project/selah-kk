@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Иссахардың ұлдары: Тола және Пуа, Яшуб және Шимрон — төртеуі.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахардың"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Тола"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "және Пуа"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Яшуб"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "және Шимрон"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төртеуі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:49.161802543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және Яхвенің сөзі маған келіп былай деді:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T05:10:30.896557926Z",
+  "model": "glm-5.3"
+}

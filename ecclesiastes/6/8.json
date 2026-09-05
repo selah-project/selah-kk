@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Себебі ақыл иесіне наданнан не артық? Тірілердің алдында жүруді білген кедейге не ⟨бар⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "артық"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ақыл иесіне"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...дан"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "наданнан"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "кедейге"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "білетін"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "жүруге"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тірілердің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:07.213687490Z",
+  "model": "glm-5.3"
+}

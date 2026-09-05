@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Көрдің, Яхве, маған жасалған зұлымдықты; менің үкімімді бер.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "көрдің"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "зұлымдықты"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "үкім бер"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "менің үкімімді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:07.110085334Z",
+  "model": "glm-5.3"
+}

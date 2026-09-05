@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Еститін құлақ пен көретін көзді — Яхве екеуін де жасады",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "құлақ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "еститін"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "және көз"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көретін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "екеуін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:15.667763167Z",
+  "model": "glm-5.3"
+}

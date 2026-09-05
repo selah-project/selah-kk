@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Сөздермен құл түзетілмейді: түсінсе де жауап жоқ.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "сөздермен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "түзетілмейді"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "құл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі\/да"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түсінсе"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "жауап"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:51.329064768Z",
+  "model": "glm-5.3"
+}

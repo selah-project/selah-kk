@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Яаков үйінде мұны жариялаңдар және Яһудада естіртіңдер, деп:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "жариялаңдар"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мұны"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйінде"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "естіртіңдер"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Яһудада"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:15.897218734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Су тасқынынан кейін Ноах тағы үш жүз елу жыл өмір сүрді.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "және өмір сүрді"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "кейін"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "су тасқынынан"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "және елу"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-09-05T07:19:55.021770044Z",
+  "model": "glm-5.3"
+}

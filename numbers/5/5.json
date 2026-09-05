@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Сөйледі Яхве Мошеге (Мұса) былай деп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T07:22:48.524543634Z",
+  "model": "glm-5.3"
+}

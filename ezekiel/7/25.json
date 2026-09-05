@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Дүрбелең келеді, және олар шаломды іздейді, бірақ жоқ.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "дүрбелең"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "және іздейді"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шаломды"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "бірақ жоқ"
+    }
+  ],
+  "timestamp": "2026-09-05T05:09:24.411333852Z",
+  "model": "glm-5.3"
+}

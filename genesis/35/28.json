@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Және Ицхактың күндері — жүз жас және сексен жас.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхактың"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жас"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "және сексен"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жас"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:42.413506223Z",
+  "model": "glm-5.3"
+}

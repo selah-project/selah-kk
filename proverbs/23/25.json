@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Қуанады әкең және анаң, және қуаныштанады сені туған.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "қуанады"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "әкең"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "және анаң"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "және қуаныштанады"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "сені туған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:46.083223192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Жамандар олай емес, керісінше, желдің қуып тарататын қауызындай.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Жоқ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "олай"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "жамандар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "керісінше"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "қауызындай"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "қуып тарататын"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "желдің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:39:34.507246097Z",
+  "model": "glm-5.3"
+}

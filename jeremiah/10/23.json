@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Білдім, уа Яхве: адамның жолы ⟨өзінде⟩ емес; жүрген адамға ⟨את⟩ қадамын бағыттау жат.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "білдім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "уа Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": ": (кі)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "жолы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жат"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамға"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "жүрген"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "және бағыттау"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қадамын"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "қадамын"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:44.138117887Z",
+  "model": "glm-5.3"
+}

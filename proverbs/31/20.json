@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Алақанын кедейге жайды, қолдарын жарлыға созады.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "алақанын"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "жайды"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "кедейге"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "қолдарын"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "созады"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "жарлыға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:50.536269460Z",
+  "model": "glm-5.3"
+}

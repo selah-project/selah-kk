@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Исраилдің бүкіл жамағаты ⟨את⟩ оны орындайды.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "жамағаты"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "орындайды"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T01:42:31.483658674Z",
+  "model": "glm-5.3"
+}

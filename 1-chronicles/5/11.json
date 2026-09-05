@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және Гад ұлдары олардың қасында, Башан жерінде, Салқаға дейін қоныстанды.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "олардың қасында"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "қоныстанды"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Салқа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:18.636312431Z",
+  "model": "glm-5.3"
+}

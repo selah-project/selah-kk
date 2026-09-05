@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Син шөлінен жол тартты, Дофқада лагер құрды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жол тартты"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "шөлінен"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "Дофқада"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:36.611848814Z",
+  "model": "glm-5.3"
+}

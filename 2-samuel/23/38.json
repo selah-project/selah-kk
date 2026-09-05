@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Ира ятрилік, Гареб ятрилік.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ятрилік"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гареб"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ятрилік"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:15.081988204Z",
+  "model": "glm-5.3"
+}

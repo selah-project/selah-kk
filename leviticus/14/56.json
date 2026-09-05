@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Және ісік үшін, және қабыршақ үшін, және ақ дақ үшін.",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "ісік үшін"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "қабыршақ үшін"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "ақ дақ үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:17.231820975Z",
+  "model": "glm-5.3"
+}

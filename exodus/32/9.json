@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Және Яхве Мошеге айтты: «Мен ⟨את⟩ осы халықты көрдім, және мынау — қатты мойынды халық.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осы халықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықты"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және мынау"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "қатты"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "мойын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T01:53:27.407255835Z",
+  "model": "glm-5.3"
+}

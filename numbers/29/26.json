@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Және бесінші күні тоғыз бұқа, екі қошқар, он төрт күйеле — бір жасар, мінсіз.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "және күні"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бесінші"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "күйеле"
+    },
+    {
+      "surface": "בני",
+      "gloss": "жасар"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "бір жас"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "он төрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "минсіз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:43.887564170Z",
+  "model": "glm-5.3"
+}

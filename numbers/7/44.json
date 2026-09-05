@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "алтын бір аяқ табақ, он шекель, құрбандық иісі толы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "аяқ табақ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "құрбандық иісі"
+    }
+  ],
+  "timestamp": "2026-09-05T07:22:31.551201338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Жаман адамның күнәсінде қақпан ⟨бар⟩, ал әділ адам жырлайды әрі қуанады.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "күнәсінде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "қақпан"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ал әділ"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "жырлайды"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "әрі қуанады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:31.556745313Z",
+  "model": "glm-5.3"
+}

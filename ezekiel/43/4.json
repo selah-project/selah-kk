@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 43,
+  "translation": "Және Яхвенің ұлықтығы үйге кірді — беті шығыстың жолына қарай қараған қақпаның жолымен.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "ұлықтығы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолымен"
+    },
+    {
+      "surface": "שער",
+      "gloss": "қақпаның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "беті"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолы"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "шығыстың"
+    }
+  ],
+  "timestamp": "2026-09-05T05:28:41.849227917Z",
+  "model": "glm-5.3"
+}

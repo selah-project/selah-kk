@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 147,
+  "translation": "Жерге өз өкімін жіберетін ⟨Ол⟩, өз сөзі жедел жүгіреді.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "жіберетін"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "өкімін"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "עד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "жедел"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "жүгіреді"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "өз сөзі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:16.925239019Z",
+  "model": "glm-5.3"
+}

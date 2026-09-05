@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Не үшін ғалаңдады ұлттар, және елдер бос нәрсе күбірледі?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "не үшін"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ғалаңдады"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ұлттар"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "және елдер"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "күбірледі"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "бос нәрсе"
+    }
+  ],
+  "timestamp": "2026-09-05T05:51:23.494041530Z",
+  "model": "glm-5.3"
+}

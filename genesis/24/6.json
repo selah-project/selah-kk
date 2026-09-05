@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Авраһам оған: «Сақ бол, ұлымды ⟨את⟩ сонда қайтарма!” — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "сақ бол"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "פן",
+      "gloss": "әйтпесе"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "қайтарма"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ұлымды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "менің ұлым"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "сонда"
+    }
+  ],
+  "timestamp": "2026-09-05T01:23:07.672980773Z",
+  "model": "glm-5.3"
+}

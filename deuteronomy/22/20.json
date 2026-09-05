@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Ал егер бұл сөз шын болған болса — қызға пәктік белгісі табылмаса —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "шындық"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "табылды"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "пәктік белгісі"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "қызға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:20.508772624Z",
+  "model": "glm-5.3"
+}

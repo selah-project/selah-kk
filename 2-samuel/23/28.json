@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Цалмон һа-Аһоһы, Маһарай һа-Нетофаты,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "Цалмон"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "һа-Аһоһы"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "Маһарай"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "һа-Нетофаты"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:16.532367582Z",
+  "model": "glm-5.3"
+}

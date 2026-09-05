@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 22:1",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Болды Яхвенің сөзі маған, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T07:36:10.808642487Z",
+  "model": "glm-5.3"
+}

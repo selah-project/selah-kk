@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Урияһ хитттікі, Зақабад — Ахлайдың ұлы.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урияһ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хитттікі"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Зақабад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлайдың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:18.488995204Z",
+  "model": "glm-5.3"
+}

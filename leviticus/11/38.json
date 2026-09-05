@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Ал егер дәнге су құйылса және олардың өлексесі оның үстіне түссе — ол сендерге лас.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "құйылса"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "дәнге"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "және түссе"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "олардың өлексесі"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оның үстіне"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "лас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:01:52.955574959Z",
+  "model": "glm-5.3"
+}

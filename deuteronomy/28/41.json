@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Ұлдар мен қыздар туасың, ал олар саған болмайды, себебі олар тұтқынға кетеді.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ұлдар"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "мен қыздар"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "туасың"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ал жоқ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болмайды"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "кетеді"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "тұтқынға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:49:18.629202364Z",
+  "model": "glm-5.3"
+}

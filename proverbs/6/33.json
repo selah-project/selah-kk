@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Жара және қорлық ⟨оны⟩ табады, ал оның масқарасы өшірілмейді.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "және қорлық"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табады"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ал оның масқарасы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "өшірілмейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:37.417702585Z",
+  "model": "glm-5.3"
+}

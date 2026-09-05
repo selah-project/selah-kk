@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Мен жауап бердім және менімен сөйлесіп тұрған періштеге айттым: «Бұлар не, ием?»",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "жауап бердім"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "және айттым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "періштеге"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөйлесіп тұрған"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менімен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бұлар"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ием"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:13.100304203Z",
+  "model": "glm-5.3"
+}

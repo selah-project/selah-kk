@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Ақымақтың жолы өз көзінде түзу, ал кеңес тыңдаған — хакім.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "жолы"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түзу"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өз көзінде"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ал тыңдаған"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "кеңес"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хакім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:42.076391049Z",
+  "model": "glm-5.3"
+}

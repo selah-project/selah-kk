@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Неге күйінеді тірі адам, ер — өз күнәсінің жазасы үшін?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "күйінеді"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ер"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "күнәсі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:18.784610259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "және ұлттан ұлтқа, бір патшалықтан басқа халыққа кезіп жүрді.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "кезіп жүрді"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ұлттан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ұлтқа"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ұлт"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "бір патшалықтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "халыққа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "басқа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:35.660116920Z",
+  "model": "glm-5.3"
+}

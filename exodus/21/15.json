@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Әкесін немесе шешесін соққан — өліммен өлтірілсін.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "соққан"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесін"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "немесе шешесін"
+    },
+    {
+      "surface": "мות",
+      "gloss": "өліммен"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтірілсін"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:26.214253384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 33:36",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Олар Ецион-Ғеберден сапар шығып, Цин шөлінде — ол Қадеш — лагер құрды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "сапар шығып"
+    },
+    {
+      "surface": "מעציון",
+      "gloss": "Ецион-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Ғеберден"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлінде"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Цин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қадеш"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:37.790708764Z",
+  "model": "glm-5.3"
+}

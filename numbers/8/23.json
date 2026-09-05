@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Яхве Мошеге сөйлеп былай деді:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "және сөйлеп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:16.377232104Z",
+  "model": "glm-5.3"
+}

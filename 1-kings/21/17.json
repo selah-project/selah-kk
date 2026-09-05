@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Және Яхвенің сөзі Элияһу Тишбиге айту үшін келді.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ке"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияһу"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Тишбі"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айту үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T04:03:23.549502886Z",
+  "model": "glm-5.3"
+}

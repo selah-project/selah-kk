@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Екеуі жақсы — жалғыздан, себебі еңбектерінде оларға жақсы сыйлық бар.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "екеуі"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "жалғыздан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "сыйлық"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "еңбектерінде"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:03.508937895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Сөйтіп топырақ бұрынғысындай жерге оралады, рух оны берген Элохимге қайта оралады.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "және оралады"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "топырақ"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "болғанындай"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "және рух"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "қайта оралады"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "берген"
+    }
+  ],
+  "timestamp": "2026-09-05T07:49:02.088560496Z",
+  "model": "glm-5.3"
+}

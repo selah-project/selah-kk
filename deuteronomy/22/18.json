@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Сол қаланың қарттары ⟨את⟩ адамды алды да, ⟨את⟩ оны жазалады.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "және алды"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "қарттары"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қаланың"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамды"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "және жазалады"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:20.508481013Z",
+  "model": "glm-5.3"
+}

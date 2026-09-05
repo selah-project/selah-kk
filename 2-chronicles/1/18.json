@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Шеломоһ Яхвенің есіміне үй және өз патшалығына үй ⟨салу⟩ үшін айтты.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "салу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "есіміне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "және үй"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "өз патшалығына"
+    }
+  ],
+  "timestamp": "2026-09-05T08:24:07.584748790Z",
+  "model": "glm-5.3"
+}

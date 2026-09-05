@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Яаков әкесі көшіп-қонған жерде — Кенаан жерінде тұрды.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "көшіп-қонуының"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесінің"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаанның"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:15.073725698Z",
+  "model": "glm-5.3"
+}

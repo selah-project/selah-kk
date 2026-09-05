@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Дәуід естіді де ⟨את⟩ Йоабты және ⟨את⟩ батырлардың бүкіл әскерін жіберді.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "естіді"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Дәуід"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоабты"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоабты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бүкіл әскерді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "әскер"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "батырлардың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:19:35.220485511Z",
+  "model": "glm-5.3"
+}

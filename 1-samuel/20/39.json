@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Бала ештеңені білмеді; тек Яһонатан мен Дәуід ⟨את⟩ сөзді білді.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "және бала"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "білмеді"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ештеңені"
+    },
+    {
+      "surface": "אך",
+      "gloss": "тек"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Яһонатан"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "және Дәуід"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "білді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзді"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөзді"
+    }
+  ],
+  "timestamp": "2026-09-05T03:29:55.952524172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Хацероттан жүріп өтті де, Ритмада лагер болды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жүріп өтті де"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "Хацероттан"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер болды"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "Ритмада"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:44.679574468Z",
+  "model": "glm-5.3"
+}

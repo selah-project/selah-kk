@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Сынған тіс және шығып кеткен аяқ — мұңды күндегі опасытқа деген сенім.",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "тіс"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "сынған"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "және аяқ"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "шығып кеткен"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "сенім"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "опасыт"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "мұң"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:44.607932397Z",
+  "model": "glm-5.3"
+}

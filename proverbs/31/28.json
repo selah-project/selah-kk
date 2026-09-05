@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 31:28",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Ұлдары тұрып оны мақтайды, күйеуі де оны дәріптейді.",
+  "tokens": [
+    {
+      "surface": "קמו",
+      "gloss": "тұрып"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "оны мақтайды"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "күйеуі де"
+    },
+    {
+      "surface": "והללה",
+      "gloss": "оны дәріптейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:41.082607528Z",
+  "model": "glm-5.3"
+}

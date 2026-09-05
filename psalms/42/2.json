@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Бұғы су ағындарын аңсағандай, осылай жаным Саған аңсайды, Элохим.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "бұғыдай"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "аңсайды"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойында"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ағындар"
+    },
+    {
+      "surface": "מים",
+      "gloss": "судың"
+    },
+    {
+      "surface": "כן",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "аңсайды"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Саған"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:00.679643981Z",
+  "model": "glm-5.3"
+}

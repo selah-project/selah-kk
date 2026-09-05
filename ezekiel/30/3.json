@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Себебі жақын күн, жақын Яхвеге ⟨күн⟩; бұлт күні — ұлттардың уақыты болады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "және жақын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "бұлт"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақыты"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ұлттардың"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    }
+  ],
+  "timestamp": "2026-09-05T05:21:51.097367051Z",
+  "model": "glm-5.3"
+}

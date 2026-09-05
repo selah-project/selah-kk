@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Және ол ⟨את⟩ оны таза алтынмен қаптады және оған айналдыра алтын жиек жасады.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "қаптады"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "זר",
+      "gloss": "жиек"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айналдыра"
+    }
+  ],
+  "timestamp": "2026-09-05T01:55:48.064805058Z",
+  "model": "glm-5.3"
+}

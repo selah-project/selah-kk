@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Пәруәзді сақтаған жаман нәрсе білмейді, ал уақытты және үкімді ақылдының жүрегі біледі.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "сақтаған"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "пәруәзді"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "білмейді"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нәрсені"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаманды"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ал уақытты"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "және үкімді"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ақылдының"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:04.672383403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Және сенің лагерьден тысқары орын болады, және сол жерге сыртқа шығасың.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "және орын"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенің"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "тысқары"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагерден"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "және шығасың"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "сол жерге"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "сыртқа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:45.881934430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Егер әділ болсаң — Оған не бересің? Немесе қолыңнан не алады?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "әділ болсаң"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бересің"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Оған"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "қолыңнан"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:48:39.276748258Z",
+  "model": "glm-5.3"
+}

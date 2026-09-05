@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Элохим — әділ сот, және Эл күн сайын ашуланады.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "сот"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және Эл"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ашуланады"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн сайын"
+    }
+  ],
+  "timestamp": "2026-09-05T05:50:11.984169731Z",
+  "model": "glm-5.3"
+}

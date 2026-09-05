@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Оны ⟨את⟩ кесектерге бөл, және оның үстіне май құйғайсың — минха ⟨ол⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "бөл"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "оны (ашытқысыз нанды)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "кесектерге"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "құйғайсың"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "оның үстіне"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T01:58:30.546846110Z",
+  "model": "glm-5.3"
+}

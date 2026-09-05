@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Өйткені Адонай маған былай деді: бар, күзетшіні қой, көргенін хабарласын.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "қой"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "күзетшіні"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көргенін"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хабарласын"
+    }
+  ],
+  "timestamp": "2026-09-05T04:24:47.117118890Z",
+  "model": "glm-5.3"
+}

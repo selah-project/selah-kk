@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Маон, Кармел, Зиф және Юта,",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "кәрмел",
+      "gloss": "Кармел"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "және Зиф"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "және Юта"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:51.732317361Z",
+  "model": "glm-5.3"
+}

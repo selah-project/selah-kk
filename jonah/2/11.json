@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Яхве балыққа айтты, және ол Йонаны ⟨את⟩ құрғақ жерге құсып тастады.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "балыққа"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "құсып тастады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йонаны"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "құрғақ"
+    }
+  ],
+  "timestamp": "2026-09-05T05:38:05.646499750Z",
+  "model": "glm-5.3"
+}

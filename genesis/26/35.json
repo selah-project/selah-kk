@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Олар Ицхак пен Ривқаға рухтың ащылығы ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "болды"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ащылығы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухтың"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Ицхакқа"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "және Ривқаға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:23:51.531093400Z",
+  "model": "glm-5.3"
+}

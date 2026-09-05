@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Және Яхве Моше (Мұса) сөйлесе айтуға:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлесе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге (бағыт)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:25:51.421510750Z",
+  "model": "glm-5.3"
+}

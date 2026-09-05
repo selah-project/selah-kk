@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Егер қармен жуынсам, қолымды содамен тазартсам —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Егер"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "жуынсам"
+    },
+    {
+      "surface": "במו",
+      "gloss": "…мен"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "қар"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "тазартсам"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "содамен"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "қолымды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:39:05.983758153Z",
+  "model": "glm-5.3"
+}

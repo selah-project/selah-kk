@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Мен сенің сөзіңе шаттанамын, мол олжа тапқан адам сияқты.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "шаттанамын"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨үшін⟩"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "сөзіңе"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "тапқан адам сияқты"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олжа"
+    },
+    {
+      "surface": "רב",
+      "gloss": "мол"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:00.343870556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Және бірінде төрт бет, және бірінде төрт қанат — олардың ⟨әрқайсысына⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "және төрт"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "бет"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "бірінде"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "және төрт"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "қанат"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "бірінде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T05:08:22.723435301Z",
+  "model": "glm-5.3"
+}

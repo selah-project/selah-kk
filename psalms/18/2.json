@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Және айтты: рақымдаймын Сені, Яхве, күш-қуатым.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "рақымдаймын Сені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "күш-қуатым"
+    }
+  ],
+  "timestamp": "2026-09-05T05:53:39.672694707Z",
+  "model": "glm-5.3"
+}

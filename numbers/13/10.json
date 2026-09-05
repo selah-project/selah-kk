@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Зебулун тайпасы үшін — Соди ұлы Гаддиэл.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "тайпасы үшін"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "Гаддиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "Соди"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:14.617647010Z",
+  "model": "glm-5.3"
+}

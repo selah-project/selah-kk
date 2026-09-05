@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Яхве Мошеге (Мұса) сөйлеп былай деді:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:31:40.883803920Z",
+  "model": "glm-5.3"
+}

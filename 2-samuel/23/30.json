@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Бенайаһ Пиратылық; Һидай Гааш өзендерінен;",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "Бенайаһ"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "Пиратылық"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "Һидай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "өзендерінен"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гааш"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:11.341008565Z",
+  "model": "glm-5.3"
+}

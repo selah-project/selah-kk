@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Акация ағашынан таяқтар жасады және оларды ⟨את⟩ алтымен қаптады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "таяқтар"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ағашынан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "акация"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "қаптады"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "алтымен"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтымен"
+    }
+  ],
+  "timestamp": "2026-09-05T07:21:37.755395472Z",
+  "model": "glm-5.3"
+}

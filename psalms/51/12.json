@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 51,
+  "translation": "Элохим, маған таза жүрек жарат, ішіме тұрақты рухты жаңарт.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "жарат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "рухты"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "тұрақты"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңарт"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ішіме"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:31.510275905Z",
+  "model": "glm-5.3"
+}

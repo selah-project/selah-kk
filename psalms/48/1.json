@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Ән, саз-өлең — Қорах ұлдарына ⟨тағайындалған⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ән"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "саз-өлең"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "қרח",
+      "gloss": "Қорах"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:42.274419628Z",
+  "model": "glm-5.3"
+}

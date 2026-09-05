@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Яхве маған сөйлеп былай деді:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:24.127289286Z",
+  "model": "glm-5.3"
+}

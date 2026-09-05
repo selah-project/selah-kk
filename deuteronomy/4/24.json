@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Себебі Яхве Элохимің ⟨—⟩ қорытып жейтін от, қызғанушы Эл.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимің"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "қорытып жейтін"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "қызғанушы"
+    }
+  ],
+  "timestamp": "2026-09-05T02:37:02.781028119Z",
+  "model": "glm-5.3"
+}

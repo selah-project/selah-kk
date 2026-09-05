@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Ладан ұлдары: басы Йехиэл, және Зетам, және Йоэл — үшеу",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ладан"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "басы"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Йехиэл"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "және Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "және Йоэл"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үшеу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:25.198021323Z",
+  "model": "glm-5.3"
+}

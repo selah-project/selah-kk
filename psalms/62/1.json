@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 62,
+  "translation": "«Төрағаға, Йедутун бойынша — Давидтің (Дәуіт) мизморы».",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "төрағаға"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Йедутун"
+    },
+    {
+      "surface": "мזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:47.841159008Z",
+  "model": "glm-5.3"
+}

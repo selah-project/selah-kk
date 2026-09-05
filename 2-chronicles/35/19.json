@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Яһошияһу патшалығының он сегізінші жылы осы Песах өткізілді.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "…інші жылы"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "патшалығының"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Яһошияһу"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "өткізілді"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:38:53.530792866Z",
+  "model": "glm-5.3"
+}

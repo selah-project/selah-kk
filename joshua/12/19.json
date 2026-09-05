@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Мадон патшасы — бір; Хацор патшасы — бір;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Мадон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:19.192728645Z",
+  "model": "glm-5.3"
+}

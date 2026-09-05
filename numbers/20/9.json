@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Моше ⟨את⟩ таяқты Яхвенің қасынан алды, өзіне бұйырғандай.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таяқты"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "таяқты"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "қасынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "солай"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "бұйырғандай"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:12.153357574Z",
+  "model": "glm-5.3"
+}

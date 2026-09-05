@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Билам Элохимге айтты: Моав патшасы, Циппордың ұлы Балак, маған жіберді:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Циппор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:50.988635275Z",
+  "model": "glm-5.3"
+}

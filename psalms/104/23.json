@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 104,
+  "translation": "Адам өз жұмысына және өз еңбегіне кешке дейін шығады.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "шығады"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "өз жұмысына"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "және өз еңбегіне"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кеш"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:52.959603664Z",
+  "model": "glm-5.3"
+}

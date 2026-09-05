@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Тағы да — барлық күндерінде қараңғылықта жейді, көп ашу-ыза, өз ауруы және қаһар.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "тағы да"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "күндерінде"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "қараңғылықта"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жейді"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "және ашу-ыза"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "және ауруы"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "және қаһар"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:40.742057939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Яхве Шеломоға екінші рет көрінді, Гивонда оған көрінгендей.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрінді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "екінші рет"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "көрінді"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Гивонда"
+    }
+  ],
+  "timestamp": "2026-09-05T03:55:49.651063285Z",
+  "model": "glm-5.3"
+}

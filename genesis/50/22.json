@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 50,
+  "translation": "Йосеф Мицрайымда тұрды — өзі және әкесінің үйі; Йосеф жүз он жыл өмір сүрді.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицрайымда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзі"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "және үйі"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесінің"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-09-05T01:37:39.910406556Z",
+  "model": "glm-5.3"
+}

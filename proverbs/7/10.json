@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "және мынау: оның алдынан әйел шықты — зинақәр киімін киіп, жүрегі айлакер",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "және мынау"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "оның алдынан"
+    },
+    {
+      "surface": "שית",
+      "gloss": "киімін"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зинақәр"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "және сақ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:52.271377899Z",
+  "model": "glm-5.3"
+}

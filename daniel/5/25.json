@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ал бұл — жазылған жазу: Мене, Мене, Текел, уПарсин.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ал бұл"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "жазу"
+    },
+    {
+      "surface": "די",
+      "gloss": "қатысты"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "жазылған"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Текел"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "уПарсин"
+    }
+  ],
+  "timestamp": "2026-09-05T07:55:32.497818218Z",
+  "model": "glm-5.3"
+}

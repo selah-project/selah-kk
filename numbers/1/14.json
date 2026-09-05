@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Гад тайпасынан — Деуелдің ұлы Эльясаф.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "Гадқа"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуелдің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:24.052539353Z",
+  "model": "glm-5.3"
+}

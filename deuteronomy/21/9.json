@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Және сен кінәсіз қанды ішіңнен жоясың, себебі Яхвенің көзінде дұрысты істейсің.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "және сен"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "жоясың"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "қанды"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "кінәсіз"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ішіңнен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "істейсің"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "дұрысты"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T02:44:12.222906451Z",
+  "model": "glm-5.3"
+}

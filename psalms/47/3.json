@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 47,
+  "translation": "Себебі Яхве — Эльон, қорқынышты, бүкіл жер үстінен ұлы Патша.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "қорқынышты"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Патша"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:25.603199640Z",
+  "model": "glm-5.3"
+}

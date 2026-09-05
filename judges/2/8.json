@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Яһошуа, Нунның ұлы, Яхвенің құлы, жүз он жасында қайтыс болды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "қайтыс болды"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нунның"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "құлы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "жасында"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-09-05T03:06:51.318462296Z",
+  "model": "glm-5.3"
+}

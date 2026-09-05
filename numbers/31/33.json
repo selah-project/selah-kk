@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Ал ірі қара — елу жеті мың бас: екінен жетпіс мың.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ал ірі қара"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "жетпіс"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:46.631103807Z",
+  "model": "glm-5.3"
+}

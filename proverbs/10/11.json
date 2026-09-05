@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Әділдің аузы — өмір бұлағы, ал жамандардың аузы зорлықты жабады.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "бұлағы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділдің"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ал аузы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардың"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "жабады"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зорлықты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:06.540321514Z",
+  "model": "glm-5.3"
+}

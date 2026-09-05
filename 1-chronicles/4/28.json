@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Олар Беэр-Шева, Молада және Хацар-Шуалда тұрысты.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "тұрысты"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Беэр- ... ішінде"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шева"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "және Молада"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "және Хацар-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "-Шуал"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:07.258866127Z",
+  "model": "glm-5.3"
+}

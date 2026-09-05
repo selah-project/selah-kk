@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Тыңда сені туған әкеңді, және кемсітпе қартайған анаңды",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "әкеңе"
+    },
+    {
+      "surface": "זה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "сені туған"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және -ма"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "кемсітпе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені ⟨қашан⟩"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "қартайғанда"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "анаңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:10.271377321Z",
+  "model": "glm-5.3"
+}

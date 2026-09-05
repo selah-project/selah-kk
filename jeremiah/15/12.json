@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Темір солтүстік темірін және қоланы қиратады ма?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "қиратады ма"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темір"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темірді"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "солтүстіктен"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "және қоланы"
+    }
+  ],
+  "timestamp": "2026-09-05T04:48:19.614408198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және Паръаһқа айтасың: «Яхве былай дейді: Ұлым, тұңғышым — Исраил.»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "және айтасың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(-ге)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръаһ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ұлым"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "тұңғышым"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T01:39:06.635869394Z",
+  "model": "glm-5.3"
+}

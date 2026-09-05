@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Жақсы ⟨болады⟩ үміт қылып, үнсіз күтуге Яхвенің құтқаруын.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Жақсы"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "үміт қылып"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "үнсіз"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "құтқаруын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:26.392174899Z",
+  "model": "glm-5.3"
+}

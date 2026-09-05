@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Жонатан Дәуітке айтты: «Кел, далаға шығайық». Екеуі далаға шықты.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Жонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Дәуіт"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "кел"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "және шығайық"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "далаға"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "екеуі"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "далаға"
+    }
+  ],
+  "timestamp": "2026-09-05T03:28:13.165797797Z",
+  "model": "glm-5.3"
+}

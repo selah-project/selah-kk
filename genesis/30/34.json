@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Лаван айтты: «Міне, қапы, сөзің бойынша болғай еді».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הן",
+      "gloss": "міне"
+    },
+    {
+      "surface": "לו",
+      "gloss": "қапы"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "болғай"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "сөзің бойынша"
+    }
+  ],
+  "timestamp": "2026-09-05T01:27:24.286407996Z",
+  "model": "glm-5.3"
+}

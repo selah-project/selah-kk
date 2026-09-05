@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Көптер жомарттың жүзін іздейді, және бәрі сыйлық беретін кісіге дос.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "көптер"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ісітеді-іздейді"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзін"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "жомарт"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және бәрі"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "дос"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кісіге"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "сыйлық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:21.366553285Z",
+  "model": "glm-5.3"
+}

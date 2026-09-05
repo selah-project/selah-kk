@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Гершомның ұлдары — Шевуэл ⟨бастан-шыққан⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершомның"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Шевуэл"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "бас"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:55.523992649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 94,
+  "translation": "Яхве адамның ойларын біледі, себебі олар құрлық.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ойларын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "המה",
+      "gloss": "олар"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "құрлық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:30.603754752Z",
+  "model": "glm-5.3"
+}

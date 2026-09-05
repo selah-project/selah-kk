@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Сен ⟨бізге⟩ пәрмендеріңді мұқият сақтауға бұйырдың.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "бұйырдың"
+    },
+    {
+      "surface": "пקדיך",
+      "gloss": "пәрмендеріңді"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сақтауға"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "мұқият"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:33.629529018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Ағаштарыңның бүкілін және жеріңнің жемісін шегіртке иеленеді.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүкілін"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ағаштарыңды"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "және жемісін"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "жеріңнің"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "иеленеді"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "шегіртке"
+    }
+  ],
+  "timestamp": "2026-09-05T02:49:18.629441381Z",
+  "model": "glm-5.3"
+}

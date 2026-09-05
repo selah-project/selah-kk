@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Лепитйаһқа он тоғызыншысы, Леһезқелға жиырмасы.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "Лепитйаһқа"
+    },
+    {
+      "surface": "תשעа",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "Леһезқелға"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "жиырма"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:36.311538079Z",
+  "model": "glm-5.3"
+}

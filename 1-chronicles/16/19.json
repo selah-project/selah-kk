@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 16:19",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Сендер саны аз адамдар, өте азырақ болғанда әрі онда жат болғанда,",
+  "tokens": [
+    {
+      "surface": "בהיותכם",
+      "gloss": "болғанда"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "өте азырақ"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "жат болғанда"
+    },
+    {
+      "surface": "בה",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:35.659975410Z",
+  "model": "glm-5.3"
+}

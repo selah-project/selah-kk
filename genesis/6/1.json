@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Болды: адам жер бетінде көбейе бастағанда және оларға қыздар туылғанда.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "החל",
+      "gloss": "бастады"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "көбейуге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетінде"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "және қыздар"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "туылды"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:17:48.926591943Z",
+  "model": "glm-5.3"
+}

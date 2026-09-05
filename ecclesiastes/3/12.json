@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Мен білдім: оларда жақсылық жоқ, тек қуану және өз өмірінде жақсылық жасау ғана.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "білдім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "בם",
+      "gloss": "оларда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тек… ғана"
+    },
+    {
+      "surface": "אם",
+      "gloss": "тек"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "қуану"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "және жасау"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "өз өмірінде"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:16.993832834Z",
+  "model": "glm-5.3"
+}

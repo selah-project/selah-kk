@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Арахтың балалары — жеті жүз елу жеті ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Арахтың"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "елу"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "жеті"
+    }
+  ],
+  "timestamp": "2026-09-05T07:59:34.293036464Z",
+  "model": "glm-5.3"
+}

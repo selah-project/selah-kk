@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Барды Шимшон Азаға, және онда зинақор әйел көрді, және оған кірді.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "Азаға"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зинақор"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T03:17:10.424930914Z",
+  "model": "glm-5.3"
+}

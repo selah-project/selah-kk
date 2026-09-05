@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Лемех өзіне екі әйел алды: біреуінің аты — Ада, екіншісінің аты — Цила.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзіне"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемех"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "екі"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "біреуінің"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "және аты"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "екіншісінің"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Цила"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:54.555551602Z",
+  "model": "glm-5.3"
+}

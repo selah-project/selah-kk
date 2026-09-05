@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 46,
+  "translation": "Данның ұлдары: Хушим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Данның"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "Хушим"
+    }
+  ],
+  "timestamp": "2026-09-05T01:34:19.324739862Z",
+  "model": "glm-5.3"
+}

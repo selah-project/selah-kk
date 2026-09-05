@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Кінәлі адамның жолы қисық әрі жат, ал таза жүрегінің ісі түзу.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "қисық"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "әрі жат"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "ал таза"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түзу"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ісі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:58.505715680Z",
+  "model": "glm-5.3"
+}

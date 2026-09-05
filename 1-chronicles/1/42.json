@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ецердің ұлдары: Билһан, Зааван және Яакан. Дишонның ұлдары: Уц және Аран.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Ецердің"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билһан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "және Зааван"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Яакан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишонның"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "және Аран"
+    }
+  ],
+  "timestamp": "2026-09-05T08:10:55.364115436Z",
+  "model": "glm-5.3"
+}

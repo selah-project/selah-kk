@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Өзіңе жамылған киіміңнің төрт қанатына шашақтар істеп қой.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "шашақтар"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "істеп қой"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "қанатына"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "киіміңнің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсы"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "жамылған"
+    },
+    {
+      "surface": "בה",
+      "gloss": "онымен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:43:51.299022681Z",
+  "model": "glm-5.3"
+}

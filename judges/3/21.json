@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Эһуд сол қолын созып, оң жамбасынан семсер алды да, оны оның ішіне қадады.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "созды"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Эһуд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қолын"
+    },
+    {
+      "surface": "יד",
+      "gloss": "қолын"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "семсерді"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "семсерді"
+    },
+    {
+      "surface": "мעל",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "жамбасынан"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "оң"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "қадады"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ішіне"
+    }
+  ],
+  "timestamp": "2026-09-05T03:08:25.758165996Z",
+  "model": "glm-5.3"
+}

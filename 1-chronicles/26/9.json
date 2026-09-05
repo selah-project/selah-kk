@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Мешелемияға ұлдар мен бауырлар болды — ержүрек ұлдар, он сегіз.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "Мешелемияға"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдар"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "мен бауырлар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ержүрек"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:36.384927789Z",
+  "model": "glm-5.3"
+}

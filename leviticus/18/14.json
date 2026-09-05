@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Әкеңнің бауырының жалаңаштығын ашпаң; оның әйеліне жақындамаң — ол сенің туысың.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жалаңаштығын"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бауырының"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "әкеңнің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ашпаң"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өтіп"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "әйеліне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "жақындамаң"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "туысың"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:40.618861787Z",
+  "model": "glm-5.3"
+}

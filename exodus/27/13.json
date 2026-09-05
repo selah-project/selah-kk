@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ал ауланың ені шығыс жағында, күн шығысқа қарай, елу шық.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "және ені"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ауланың"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "жағында"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "алдыңғы"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "күн шығысқа қарай"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "шық"
+    }
+  ],
+  "timestamp": "2026-09-05T01:49:15.548711567Z",
+  "model": "glm-5.3"
+}

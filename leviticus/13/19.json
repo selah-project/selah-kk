@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және жарадың орнында ақ ісік немесе қызғылт ақ дақ болса, ол қаһінге көрсетіледі.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "орнында"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "жарадың"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ісік"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ақ"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "дақ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ақ"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "қызғылт"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "және көрсетіледі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ге"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "қаһін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:05:13.163492856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 80,
+  "translation": "Және оң қолың отырғызған көшетті, және Өзіңе бекіткен ұлды.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "және көшет"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оны"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "отырғызған"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң қолың"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "және үстіне"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлды"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "бекіткен"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Өзіңе"
+    }
+  ],
+  "timestamp": "2026-09-05T07:38:57.909091259Z",
+  "model": "glm-5.3"
+}

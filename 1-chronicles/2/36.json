@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Аттай ⟨את⟩ Натанды туғызды, Натан ⟨את⟩ Завадты туғызды.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Аттай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Натанды"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натанды"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Завадты"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завадты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:38.130165798Z",
+  "model": "glm-5.3"
+}

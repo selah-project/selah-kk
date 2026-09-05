@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Жеді және өте тойды, және қалауларын оларға жеткізді.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "Жеді"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "тойды"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "қалауларын"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "жеткізді"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:08.507920942Z",
+  "model": "glm-5.3"
+}

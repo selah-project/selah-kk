@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Қандай сүйемін Тораңды — күні бойы ол менің шабытым!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "сүйемін"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тораңды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бойы"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "менің шабытым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:52.381826326Z",
+  "model": "glm-5.3"
+}

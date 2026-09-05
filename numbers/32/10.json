@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Сол күні Яхвенің қаһары қайнады, ант ішіп былай деді:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "қайнады"
+    },
+    {
+      "surface": "אף",
+      "gloss": "қаһары"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ант ішіп"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:16.552638993Z",
+  "model": "glm-5.3"
+}

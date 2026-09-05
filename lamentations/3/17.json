@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Әрі жанымды тыныштықтан ысырып тастады ⟨ол⟩; мен игілікті ұмыттым.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "әрі ысырып тастады"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "тыныштықтан"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "ұмыттым"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "игілікті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:07.989170660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Тас қозғаған соңымен жараланады, ағаш жарып тіреуші соңымен қауіпке ұшырайды.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "қозғаған"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "тас"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "жараланады"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "соңымен"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "жарып тіреуші"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ағаш"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "қауіпке ұшырайды"
+    },
+    {
+      "surface": "בם",
+      "gloss": "соңымен"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:07.919624050Z",
+  "model": "glm-5.3"
+}

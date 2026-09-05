@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Яхве маған төрт шеберді көрсетті.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "көрсетті"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "шеберді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:08.030428382Z",
+  "model": "glm-5.3"
+}

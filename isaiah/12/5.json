@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Яхвеге ән салыңдар, себебі ⟨ол⟩ ұлылық істеді; бұл бүкіл жерде белгілі.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ән салыңдар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ұлылық"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істеді"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "белгілі"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерде"
+    }
+  ],
+  "timestamp": "2026-09-05T04:21:50.100093792Z",
+  "model": "glm-5.3"
+}

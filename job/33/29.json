@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Қара, осының бәрін Эл істейді — екі-үш рет ⟨рет⟩ адаммен.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "қара"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "осының"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "істейді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "рет"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "адаммен"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-09-05T06:47:32.720690380Z",
+  "model": "glm-5.3"
+}

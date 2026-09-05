@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Исраил үйінен кез келген адам — маханеда немесе маханенің сыртында сиырды, қойды немесе ешкіні сойса,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кез келген"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйінен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "сойса"
+    },
+    {
+      "surface": "שור",
+      "gloss": "сиырды"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ешкіні"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "маханеда"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "сойса"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "сыртында"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "маханенің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:07:42.951686485Z",
+  "model": "glm-5.3"
+}

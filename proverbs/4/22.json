@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Өйткені олар оларды тапқандарға өмір, ал бар етке ем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "הם",
+      "gloss": "олар"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "оларды тапқандарға"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "және бар"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "етіне"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ем"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:33.096230915Z",
+  "model": "glm-5.3"
+}

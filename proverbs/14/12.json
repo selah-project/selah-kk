@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Бар жол — адамның алдында түзу ⟨болып көрінер⟩, ал оның соңы — өлім жолдары.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жол"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түзу"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ал оның соңы"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолдары"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:26.264509836Z",
+  "model": "glm-5.3"
+}

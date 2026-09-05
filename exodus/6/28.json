@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Сол күні, Яхве Мошеге Мицрайим жерінде сөйлеген күні, болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлеген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-09-05T01:38:39.379813590Z",
+  "model": "glm-5.3"
+}

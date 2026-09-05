@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Моше Исраил ұлдарына Песахты өткізу туралы сөйледі.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ге"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "өткізу туралы"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песахты"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:07.081228959Z",
+  "model": "glm-5.3"
+}

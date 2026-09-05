@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Қашан қарыз берсең жақыныңа нені болса, үйіне кірме оның кепілін алу үшін. ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "қарыз берсең"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "жақыныңа"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "қарыз"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нені болса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "тבא",
+      "gloss": "кірме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "алу үшін"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "кепілін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:02.532740676Z",
+  "model": "glm-5.3"
+}

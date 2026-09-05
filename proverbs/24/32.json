@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Сонда мен көрдім, жүрегіме түйіп қойдым, көрдім, тәрбие алдым.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "сонда мен көрдім"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "қойдым"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрегіме"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "алдым"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбие"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:29.752343208Z",
+  "model": "glm-5.3"
+}

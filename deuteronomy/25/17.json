@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Есте сақта ⟨את⟩ не істегенін саған Амалек жолда, Мицрайымнан шыққан кезіңде:",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Есте сақта"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "не істегенін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істегенін"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолда"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "шыққан кезіңде"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайымнан"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:37.833733545Z",
+  "model": "glm-5.3"
+}

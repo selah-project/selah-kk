@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Кеш болғанда ⟨ол⟩ Леяны, қызын алып, оны оған әкелді; ⟨ол⟩ оған кірді.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "кеш"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Леяны"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леяны"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "қызын"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "әкелді"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:16.565685574Z",
+  "model": "glm-5.3"
+}

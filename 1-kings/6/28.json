@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және ол ⟨את⟩ керувтерді алтынмен қаптады.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "және ол қаптады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "керувтерді"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керувтер"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтынмен"
+    }
+  ],
+  "timestamp": "2026-09-05T03:53:15.030195208Z",
+  "model": "glm-5.3"
+}

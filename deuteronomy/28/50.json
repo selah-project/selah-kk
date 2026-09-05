@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Ел — беті қатты: ол қариге бет ⟨көтермейді⟩, жасқа мейірім де етпейді.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ел"
+    },
+    {
+      "surface": "עז",
+      "gloss": "қатты"
+    },
+    {
+      "surface": "паним",
+      "gloss": "беті"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "көтермейді"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "бетін"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "қариге"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "және жасқа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "мейірім етпейді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:50:48.442755877Z",
+  "model": "glm-5.3"
+}

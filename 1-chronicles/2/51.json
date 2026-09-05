@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Салма — Бейт-Лехемнің әкесі, Хареф — Бейт-Гадердің әкесі.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехемнің"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "Хареф"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гадердің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:39.272375613Z",
+  "model": "glm-5.3"
+}

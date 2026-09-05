@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Адам қойнында от ұстай ма, және оның киімдері күймей ме?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "ұстай ма"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "қойнында"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "және оның киімдері"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "күймей ме"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:46.435538545Z",
+  "model": "glm-5.3"
+}

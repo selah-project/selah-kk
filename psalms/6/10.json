@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Естіді Яхве өтінішімді; Яхве дұға-тиінімді қабыл алды.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "естіді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "өтінішімді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "дұға-тиінімді"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "қабыл алды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:50:08.910903846Z",
+  "model": "glm-5.3"
+}

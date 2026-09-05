@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Бесінші Малкияһаға, алтыншы Мияминге.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "Малкияһаға"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бесінші"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "Мияминге"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "алтыншы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.457995957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 46,
+  "translation": "Осы Рахильдің ұлдары — Яаковқа туғандар; барлық жаны он төрт.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Осы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахильдің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туғандар"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковқа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "төрт"
+    }
+  ],
+  "timestamp": "2026-09-05T01:34:19.324620284Z",
+  "model": "glm-5.3"
+}

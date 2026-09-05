@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Дауға тұрды Яхве, және халықтарды соттауға тұрады.",
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "дауға"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "және тұрады"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "соттауға"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "халықтарды"
+    }
+  ],
+  "timestamp": "2026-09-05T04:20:21.892193548Z",
+  "model": "glm-5.3"
+}

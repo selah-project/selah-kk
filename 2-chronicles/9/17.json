@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Және патша піл сүйегінен ұлы тақ жасап, оны таза алтынмен қаптады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тақ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "піл сүйегінен"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "оны қаптады"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтынмен"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    }
+  ],
+  "timestamp": "2026-09-05T08:27:22.184994501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Ал егер кісі кедей болса, оның кепілімен жатпа. ",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кісі"
+    },
+    {
+      "surface": "עני",
+      "gloss": "кедей"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "болса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "жатма"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "оның кепілімен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:02.533113799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Су теңізден таусылсын, және өзен қурап, кеуіп кетсін.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "таусылсын"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "теңізден"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "және өзен"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "қурайды"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "және кеуейді"
+    }
+  ],
+  "timestamp": "2026-09-05T04:24:12.867808472Z",
+  "model": "glm-5.3"
+}

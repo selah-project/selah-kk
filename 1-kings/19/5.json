@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Ол жатып, бір ротем астында ұйықтады; және мынау — періште оған тиіп: «Тұр, же», — деді.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "жатып"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "ұйықтады"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "ротем"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және мынау"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "періште"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "тиіп"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "же"
+    }
+  ],
+  "timestamp": "2026-09-05T04:01:42.626674159Z",
+  "model": "glm-5.3"
+}

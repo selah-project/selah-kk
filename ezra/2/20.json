@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Гиббар ұлдары — тоқсан бес.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гиббар"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "тоқсан"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "және бес"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:54.648363437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Себебі мен сендерге жақсы ғибрат бердім; Торамды тастамаңдар.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ғибрат"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "мен бердім"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Торамды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "астам"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "тастамаңдар"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:15.967800543Z",
+  "model": "glm-5.3"
+}

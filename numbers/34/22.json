@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Және Дан балаларының тайпасы үшін — басшы Йоглидің ұлы Букки.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "және тайпасы үшін"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балаларының"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "басшы"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Йоглидің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:47.298778730Z",
+  "model": "glm-5.3"
+}

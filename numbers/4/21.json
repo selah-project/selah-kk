@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сөйледі Яхве Мошеге (Мұса) былай деп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:19.378578961Z",
+  "model": "glm-5.3"
+}

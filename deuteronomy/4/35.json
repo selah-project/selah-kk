@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сенге көрсетілді — Яхве ⟨Ол⟩ Элохим екенін білу үшін; Одан басқа ⟨ештеңе⟩ жоқ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "көрсетілді"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "білу үшін"
+    },
+    {
+      "surface": "כי",
+      "gloss": "екенін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ол⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "Одан тыс"
+    }
+  ],
+  "timestamp": "2026-09-05T02:37:31.735816153Z",
+  "model": "glm-5.3"
+}

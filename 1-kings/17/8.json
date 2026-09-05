@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Және Яхвенің сөзі ⟨ол⟩ оған келді, былай деген:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деген"
+    }
+  ],
+  "timestamp": "2026-09-05T03:59:31.505439930Z",
+  "model": "glm-5.3"
+}

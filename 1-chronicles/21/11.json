@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Гад Давидке келді және оған былай деді: осылай деді Яхве: өзіңе қабыл ал",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ке"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және деді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "כה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "қабыл ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:04.168253528Z",
+  "model": "glm-5.3"
+}

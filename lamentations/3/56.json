@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Дауысымды естідің; құтылуыма да, айғайыма да құлағыңды жасырма.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "дауысымды"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "естідің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "та (болсын)"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "жасырма"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "құлағыңды"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "құтылуыма"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "айғайыма"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:22.997814359Z",
+  "model": "glm-5.3"
+}

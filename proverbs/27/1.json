@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ертеңгі күнде мақтанба, себебі бір күн не туатынын білмейсің.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "мақтанба"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "мақтанба"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнде"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ертеңгі"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "білмейсің"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "білмейсің"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туатынын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:02.990817845Z",
+  "model": "glm-5.3"
+}

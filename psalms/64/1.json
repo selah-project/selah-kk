@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 64,
+  "translation": "Ән басшысына — Давидтің мәзмірі.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ән басшысына"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмірі"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:54.358246886Z",
+  "model": "glm-5.3"
+}

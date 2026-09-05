@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Және һейкалға және қасиеттіге екі-екі есік ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "және екі"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "есіктер"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "һейкалға"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "және қасиеттіге"
+    }
+  ],
+  "timestamp": "2026-09-05T05:27:00.646179919Z",
+  "model": "glm-5.3"
+}

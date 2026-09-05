@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Хецронның оған туған ұлдары: ⟨את⟩ Ярахмэел, ⟨את⟩ Рам және ⟨את⟩ Келубай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецронның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "туылды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ярахмэел"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Ярахмэел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Келубай"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келубай"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:34.888820191Z",
+  "model": "glm-5.3"
+}

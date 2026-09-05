@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 121,
+  "translation": "Көмекім Яхведен келеді, аспанды және жерді жасағаннан.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "көмекім"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-ден"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасағаннан"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "аспанды"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "және жерді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:23.832304469Z",
+  "model": "glm-5.3"
+}

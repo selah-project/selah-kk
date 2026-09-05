@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 40,
+  "translation": "Жауап берді Яхве ⟨את⟩ Ийовты дауыл ішінен және айтты:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Жауап берді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ийовты"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "…-нан"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "дауылнан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:49:24.199977220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Сүліктің екі қызы бар: «Бер, бер!» Міне, үш нәрсе тоймайды, төрт нәрсе «жеткілікті» демейді:",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "сүліктің"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "екі"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "הב",
+      "gloss": "бер"
+    },
+    {
+      "surface": "הב",
+      "gloss": "бер"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "міне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "тоймайды"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "демейді"
+    },
+    {
+      "surface": "הון",
+      "gloss": "жеткілікті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:13.642231522Z",
+  "model": "glm-5.3"
+}

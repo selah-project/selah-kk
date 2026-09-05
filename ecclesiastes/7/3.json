@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қайғы күлкіден жақсырақ, себебі жүздің мұңаюымен жүрек жақсырады.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсырақ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "қайғы"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "күлкіден"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "мұңаюымен"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "жақсырады"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:57.463152776Z",
+  "model": "glm-5.3"
+}

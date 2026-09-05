@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Ол саудагер кемелеріне ұқсайды, алыстан нанын әкеледі.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "кемелеріне ұқсайды"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "саудагер"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "алыстан"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "нанын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:34.179223783Z",
+  "model": "glm-5.3"
+}

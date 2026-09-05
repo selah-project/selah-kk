@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және егер мың жыл екі рет өмір сүрсе де жақсылық көрмеген болса — бәрі бір орынға бармақ па емес?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "және егер"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "өмір сүрсе"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "екі рет"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "және жақсылық"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "әлде... ма емес"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "орынға"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "барады"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:07.213381909Z",
+  "model": "glm-5.3"
+}

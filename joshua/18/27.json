@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "және Рекем, және Ирпеэл, және Тарала",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "және Рекем"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "және Ирпеэл"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "және Тарала"
+    }
+  ],
+  "timestamp": "2026-09-05T03:02:39.559409389Z",
+  "model": "glm-5.3"
+}

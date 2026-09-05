@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Және Яхве Мошеге (Мұсаға) сөйледі, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "{-ге}"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:21:52.396911439Z",
+  "model": "glm-5.3"
+}

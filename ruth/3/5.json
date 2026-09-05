@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ол оған айтты: «Айтқан нәрселеріңнің бәрін жасаймын».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ол оған"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ның нәрселерің"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "жасаймын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:53:18.593306354Z",
+  "model": "glm-5.3"
+}

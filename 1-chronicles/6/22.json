@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Тахаттың ұлы, Асирдің ұлы, Эвйасафтың ұлы, Қорахтың ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Тахаттың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Асирдің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Эвйасафтың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорахтың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:21.488088163Z",
+  "model": "glm-5.3"
+}

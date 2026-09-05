@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Сойылды, және Моше ⟨את⟩ қанды құрбандық үстелінің үстіне айнала шашты.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Сойылды"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "шашты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қанды"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "қанды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "құрбандық үстелінің"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айнала"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:18.054800729Z",
+  "model": "glm-5.3"
+}

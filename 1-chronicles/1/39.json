@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Лотанның ұлдары: Хори және Һомам; ал Лотанның әпкесі — Тимна.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанның"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "және Һомам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ал әпкесі"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанның"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-09-05T08:10:53.815597468Z",
+  "model": "glm-5.3"
+}

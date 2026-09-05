@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Арамның ұлдары: Уц, Хул, Гетер және Маш.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арамның"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "және Хул"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "және Гетер"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "және Маш"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:07.151844184Z",
+  "model": "glm-5.3"
+}

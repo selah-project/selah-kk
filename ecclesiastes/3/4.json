@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Жылауға уақыт, және күлуге уақыт; көңіл қоюға уақыт, және билеп жүруге уақыт.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "жылауға"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыт"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "күлуге"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "көңіл қоюға"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыт"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "билеп жүруге"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:51.038078967Z",
+  "model": "glm-5.3"
+}

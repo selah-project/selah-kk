@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Билһа, Рахелдің күңі, тағы қарындық болды да, Яақовқа екінші ұл туды.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "қарындық болды"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "күңі"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелдің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "שני",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яақовқа"
+    }
+  ],
+  "timestamp": "2026-09-05T01:26:13.874801568Z",
+  "model": "glm-5.3"
+}

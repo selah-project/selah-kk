@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Әрі бірінші айда, айдың он төртінші күні — Песах Яхвеге.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "әрі айда"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдың"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:28:04.677539007Z",
+  "model": "glm-5.3"
+}

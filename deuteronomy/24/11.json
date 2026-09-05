@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Сыртта тұр, ал кісі — сол, оған қарыз берген — шығарсын саған ⟨את⟩ кепілді сыртқа. ",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "сыртта"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ал кісі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "қарыз берген"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "шығарсын"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кепілді"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "кепілді"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "сыртқа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:02.532962580Z",
+  "model": "glm-5.3"
+}

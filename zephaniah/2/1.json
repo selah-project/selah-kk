@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Жиналыңдар, және жиналыңдар, ⟨⟩ ұлт — ешкім сағынбаған.",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "жиналыңдар"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "және жиналыңдар"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ұлт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "сағынбаған"
+    }
+  ],
+  "timestamp": "2026-09-05T05:44:48.724307886Z",
+  "model": "glm-5.3"
+}

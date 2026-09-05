@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 11:28",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Байлығына сенген құлайды, ал әділілер жапырақтай жайқалады.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "сенген"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "байлығына"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "құлайды"
+    },
+    {
+      "surface": "וכעלה",
+      "gloss": "жапырақтай"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "әділілер"
+    },
+    {
+      "surface": "יפרחו",
+      "gloss": "жайқалады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:13.023981747Z",
+  "model": "glm-5.3"
+}

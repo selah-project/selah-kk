@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Зұлым жалған еңбек істейді, ал әділдікті себушіге — шындық сыйақы.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Зұлым"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істейді"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "еңбек"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалған"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ал себушіге"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "әділдікті"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "сыйақы"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "шындық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:01.163684546Z",
+  "model": "glm-5.3"
+}

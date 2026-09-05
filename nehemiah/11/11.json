@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 11:11",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Серая, Хилкия ұлы, Мешуллам ұлы, Цадок ұлы, Мерайот ұлы, Аһитув ұлы — Элохим үйінің басшысы.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Серая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитув"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "басшысы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінің"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:10.368453307Z",
+  "model": "glm-5.3"
+}

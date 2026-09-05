@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Даннан — Ахиэзер, Аммишаддайдың ұлы.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "Даннан"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ахиэзер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Аммишаддайдың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:03.920916952Z",
+  "model": "glm-5.3"
+}

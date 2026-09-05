@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Шеломо Хамат-Цоваһқа барды да, оны күшпен басып алды.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цоваһ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "бекемдеді"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "оның үстінен"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:49.596152403Z",
+  "model": "glm-5.3"
+}

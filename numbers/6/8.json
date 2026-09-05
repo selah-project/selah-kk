@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Назирлігінің бүкіл күндері ол Яхвеге қасиетті.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "назирлігінің"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қасиетті"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:19.858311295Z",
+  "model": "glm-5.3"
+}

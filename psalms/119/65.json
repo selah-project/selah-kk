@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Құлыңмен жақсылық жасадың, уа Яхве, сөзің бойынша.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "жасадың"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "құлың"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "сөзің бойынша"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:57.751513454Z",
+  "model": "glm-5.3"
+}

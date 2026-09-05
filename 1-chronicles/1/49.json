@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Шаул өлді, орнына Баал-Ханан — Ахбордың ұлы — патшалық етті.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патшалық етті"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Ахбордың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:04.962373628Z",
+  "model": "glm-5.3"
+}

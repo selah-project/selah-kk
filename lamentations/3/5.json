@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Менің үстіме құрды және у-азапты ⟨мені⟩ қоршады.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "құрды"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мениң үстіме"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "және қоршады"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "у"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "және азапты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:44.040145283Z",
+  "model": "glm-5.3"
+}

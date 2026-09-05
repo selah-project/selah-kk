@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Соны қарауылға салды, себебі оған не істеу керек екені айтылмаған еді.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "салды"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "қарауылға"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "айтылмаған еді"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "істеу керек"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:21:25.076025149Z",
+  "model": "glm-5.3"
+}

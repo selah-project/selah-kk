@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Себебі қызғаныш — ердің ызасы, және ол кек қайтару күні аямайды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "қызғаныш"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ызасы"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ердің"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "аямайды"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнінде"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "кек қайтару"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:37.418574345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Күміс Менікі, және алтын Менікі — Яхве Цебаоттың сөзі.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Менікі"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "күміс"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "және Менікі"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзі (болжам)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:19.828788604Z",
+  "model": "glm-5.3"
+}

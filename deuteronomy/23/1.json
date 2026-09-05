@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Ер кісі ⟨את⟩ әкесінің әйелін алмасын, және әкесінің етек-қанатын ашпасын.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "алмасын"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алады"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ер кісі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әкесінің әйелін"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "әйелін"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесінің"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және ашпасын"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ашады"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "етек-қанатын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесінің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:47:09.636330187Z",
+  "model": "glm-5.3"
+}

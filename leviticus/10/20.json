@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Мошенің естуіне, көзіне жақты.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "естуіне"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенің"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "жақты"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "көзіне"
+    }
+  ],
+  "timestamp": "2026-09-05T02:03:31.501253101Z",
+  "model": "glm-5.3"
+}

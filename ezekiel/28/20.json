@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Және Яхвенің сөзі маған келді, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:21:25.590247002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Сол түні ол сонда түнеп, қолына келгеннен Есавға, өз бауырына, сыйлық алды.",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "түнеп"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "келгеннен"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "қолына"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "сыйлық"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Есавға"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "өз бауырына"
+    }
+  ],
+  "timestamp": "2026-09-05T01:27:15.064146655Z",
+  "model": "glm-5.3"
+}

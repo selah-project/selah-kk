@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бақбуқ ұлдары, Хақуфа ұлдары, Хархур ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бақбуқ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Хақуфа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Хархур"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:22.914796950Z",
+  "model": "glm-5.3"
+}

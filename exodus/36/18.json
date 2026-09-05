@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Және ол шатырды бір болу үшін қосуға елу мыстан қапсырма жасады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "қапсырмалар"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мыстан"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "қосуға"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шатырды"
+    },
+    {
+      "surface": "האההל→האהל",
+      "gloss": "шатырды"
+    },
+    {
+      "surface": "להית",
+      "gloss": "болуға"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T01:56:31.154735230Z",
+  "model": "glm-5.3"
+}

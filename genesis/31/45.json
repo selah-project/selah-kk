@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Яаков тасты алды да, оны ескерткіш баған етіп көтерді.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды да"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "тасты"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "оны көтерді де"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ескерткіш бағанды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:29.633311938Z",
+  "model": "glm-5.3"
+}

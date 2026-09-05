@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Ақылды эр ⟨қуатты⟩, және білім иесі қуатты нығайтады.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ақылды"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "қуатта"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "және адам"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "нығайтады"
+    },
+    {
+      "surface": "כח",
+      "gloss": "қуатты"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:06.971782891Z",
+  "model": "glm-5.3"
+}

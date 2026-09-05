@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Соғыс болған жоқ Асаның патшалығының отыз бесінші жылына дейін.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ал соғыс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "жылына"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "және бес"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "патшалығының"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асаның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:28:53.454734087Z",
+  "model": "glm-5.3"
+}

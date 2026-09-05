@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Михтам, Давидке. Мені сақта, Эл, өйткені сеніңе сыйындым.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Михтам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "мені сақта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "сыйындым"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сеніңе"
+    }
+  ],
+  "timestamp": "2026-09-05T07:39:53.726303443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Гад тайпасынан — Махидың ұлы Геуэл.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "тайпасынан"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "Геуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "Махи"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:33.645906050Z",
+  "model": "glm-5.3"
+}

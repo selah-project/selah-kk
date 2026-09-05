@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Әділдердің нұры қуанады, ал жамандардың шамы өшеді.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "нұры"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "әділдердің"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "қуанады"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ал шамы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардың"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "өшеді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:23.387907007Z",
+  "model": "glm-5.3"
+}

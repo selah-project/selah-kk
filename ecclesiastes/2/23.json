@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Өйткені оның күндерінің бәрі — ауырсыну, ал оның ісі — қайғы; түнде де оның жүрегі жатпайды — бұл да бекерлік.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "ауырсыну"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "және қайғы"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ісі"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түнде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "жатпайды"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "бекерлік"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:57.227273201Z",
+  "model": "glm-5.3"
+}

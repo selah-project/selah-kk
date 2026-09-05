@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Күйеуінің жүрегі оған сенеді, және ол олжадан тапшылық көрмейді.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "сенеді"
+    },
+    {
+      "surface": "בה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "күйеуінің"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "және олжадан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "тапшылық көреді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:45.319838173Z",
+  "model": "glm-5.3"
+}

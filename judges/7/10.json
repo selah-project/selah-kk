@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ал егер сен түсуге қорқсаң, сен және Пураһ, қызметшің, бірге лагерге түс.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "қорқсаң"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "түсуге"
+    },
+    {
+      "surface": "רד",
+      "gloss": "түс"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "және Пураһ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "қызметшің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерге"
+    }
+  ],
+  "timestamp": "2026-09-05T03:10:12.900716213Z",
+  "model": "glm-5.3"
+}

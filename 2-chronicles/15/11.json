@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Сол күні олар Яхвеге әкелген олжаларынан жеті жүз ірі қара мен жеті мың қой құрбан шалды.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "құрбан шалды"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "олжаларынан"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "әкелген"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ірі қара"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "және қой"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:29:03.678947113Z",
+  "model": "glm-5.3"
+}

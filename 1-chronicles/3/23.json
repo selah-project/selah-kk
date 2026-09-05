@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Неарйаның ұлдары: Элйоэнай, Хизқийа мен Азриқам — үш.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "Неарйаның"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "Элйоэнай"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "Хизқийа"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "Азриқам"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:38.325496230Z",
+  "model": "glm-5.3"
+}

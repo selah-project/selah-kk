@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 137,
+  "translation": "Егер сені, иә Иерушалаим, ұмытсам — оң қолым ұмытсын.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ұмытсам сені"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерушалаим"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ұмытсын"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "оң қолым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:23:23.246716875Z",
+  "model": "glm-5.3"
+}

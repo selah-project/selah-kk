@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Кім бұл — айтты да ол болды, Адонай бұйырмай?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:18.784084731Z",
+  "model": "glm-5.3"
+}

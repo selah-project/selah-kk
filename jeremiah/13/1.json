@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Осылай деді Яхве маған: «Барып, өзіңе зығыр белдік сатып ал, оны беліңе тақ, және оны суға салма».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Осылай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "және сатып ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "белдік"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "зығыр"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "оны тақ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "белің"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "және суға"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "салма"
+    }
+  ],
+  "timestamp": "2026-09-05T04:49:03.972767668Z",
+  "model": "glm-5.3"
+}

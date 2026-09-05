@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Хаттуш, Шеванья, Маллух,",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "Хаттуш"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Шеванья"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллух"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:34.166111774Z",
+  "model": "glm-5.3"
+}

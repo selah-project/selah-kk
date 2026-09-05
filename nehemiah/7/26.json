@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бейт-Лехем мен Нетофа ерлері — жүз сегізсегіз.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ерлері"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "және Нетофа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "және сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.155796295Z",
+  "model": "glm-5.3"
+}

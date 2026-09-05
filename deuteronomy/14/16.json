@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "⟨את⟩ кішкентай үкіні, және ⟨את⟩ үлкен үкіні, және үкі-жұпарды",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кішкентай үкі"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кішкентай үкі"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "үлкен үкі"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "үлкен үкі"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "және үкі-жұпар"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:27.188200202Z",
+  "model": "glm-5.3"
+}

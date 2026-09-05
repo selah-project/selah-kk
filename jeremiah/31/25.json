@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Себебі шаршаған жаныды қандырдым, ал аңсаған әр жанды толтырдым.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "қандырдым"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "шаршаған"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ал әр"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "аңсаған"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "толтырдым"
+    }
+  ],
+  "timestamp": "2026-09-05T04:55:42.389399107Z",
+  "model": "glm-5.3"
+}

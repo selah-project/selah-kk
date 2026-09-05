@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Жер үстінде ⟨мен⟩ қонақпын; өсиеттеріңді менен жасырма.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "қонақ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер үстінде"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "жасырма"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менен"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "өсиеттеріңді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:34.928129525Z",
+  "model": "glm-5.3"
+}

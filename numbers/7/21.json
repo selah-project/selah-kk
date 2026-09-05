@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бір өгіз — ірі қараның ұлы —, бір қошқар, бір тоқты — бір жылдың ұлы — өрт құрбанына:",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "өгіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ірі қараның"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "тоқты"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "жылдың"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өрт құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:30.916726617Z",
+  "model": "glm-5.3"
+}

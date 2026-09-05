@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Шаул Амалек қаласына дейін келді, алапта аңдып жатты.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қаласына"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "аңдып жатты"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "алапта"
+    }
+  ],
+  "timestamp": "2026-09-05T03:26:08.637347014Z",
+  "model": "glm-5.3"
+}

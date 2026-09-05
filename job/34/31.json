@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Сөзсіз Элге ⟨былай⟩ айтылады: «Көтердім, енді бұзбаймын».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "сөзсіз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "айтылады"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "көтердім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אחבול",
+      "gloss": "бұзбаймын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:48:41.554638981Z",
+  "model": "glm-5.3"
+}

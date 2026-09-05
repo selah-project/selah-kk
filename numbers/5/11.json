@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Яхве Мошеге сөйледі, былай деп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:48.735727059Z",
+  "model": "glm-5.3"
+}

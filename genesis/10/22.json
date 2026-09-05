@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Шемнің ұлдары: Элам, Ашшур, Арпахшад, Луд және Арам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемнің"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Элам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "және Ашшур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "және Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "және Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "және Арам"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:07.151705259Z",
+  "model": "glm-5.3"
+}

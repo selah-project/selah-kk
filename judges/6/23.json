@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Яхве оған деді: «Саған шалом! Қорықпа, өлмейсің».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "қорық"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлесің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:26:00.511675144Z",
+  "model": "glm-5.3"
+}

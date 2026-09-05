@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Ерін сүйеді ⟨ол⟩ тура сөздерді қайтарушының.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ерін"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "сүйеді"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "қайтарушының"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сөздерді"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "тура"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:24.924352576Z",
+  "model": "glm-5.3"
+}

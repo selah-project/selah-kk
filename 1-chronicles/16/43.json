@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Барлық халық ⟨өз⟩ үйіне әр адам кетті, ал Давид ⟨את⟩ үйін баталау үшін қайтты.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "кетті"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "איש",
+      "gloss": "әр адам"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "⟨өз⟩ үйіне"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "қайтты"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "баталау үшін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйін"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйін"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:08.385597219Z",
+  "model": "glm-5.3"
+}

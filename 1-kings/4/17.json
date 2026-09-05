@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Йеһошафат Паруахтың ұлы Йисаскарда ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеһошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "Паруахтың"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "Йисаскарда"
+    }
+  ],
+  "timestamp": "2026-09-05T07:27:10.527398903Z",
+  "model": "glm-5.3"
+}

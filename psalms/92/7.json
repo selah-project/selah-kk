@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 92,
+  "translation": "Надан адам білмейді, және ақымақ ⟨את⟩ мұны түсінбейді.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בער",
+      "gloss": "надан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "және ақымақ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түсінеді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мұны"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мұны"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:15.454439689Z",
+  "model": "glm-5.3"
+}

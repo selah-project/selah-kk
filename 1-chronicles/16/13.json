@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Уа, Исраил ұрпағы — ⟨оның⟩ құлы, Яаков ұлдары — ⟨оның⟩ таңдалғандары!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ұрпағы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "оның құлы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "оның таңдалғандары"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:24.774872379Z",
+  "model": "glm-5.3"
+}

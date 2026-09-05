@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Қарғысты өз әпкесі-сіңлісімен — әкесінің қызы не анасының қызы — жатқан, және бүкіл халық айтады: Аумин!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "қарғысты"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "жатқан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "өз әпкесі-сіңлісі"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесінің"
+    },
+    {
+      "surface": "או",
+      "gloss": "не"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасының"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Аумин"
+    }
+  ],
+  "timestamp": "2026-09-05T02:48:30.707832703Z",
+  "model": "glm-5.3"
+}

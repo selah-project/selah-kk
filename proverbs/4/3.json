@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Себебі мен әкеме ұл едім — нәзік және жалғыз анамның алдында.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "мен едім"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "әкеме"
+    },
+    {
+      "surface": "רך",
+      "gloss": "нәзік"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "және жалғыз"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "анамның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:15.967986126Z",
+  "model": "glm-5.3"
+}

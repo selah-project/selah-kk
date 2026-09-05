@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Нұх — жердің адамы — жүзім бауын отырғызуды бастады.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "бастады"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нұх"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамы"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "отырғызды"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "жүзім бауын"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:56.075362780Z",
+  "model": "glm-5.3"
+}

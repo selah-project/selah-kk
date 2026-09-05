@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Яхве Элохимің саған берген қақпаларыңның ешбірінде Песахты ⟨את⟩ союға мүмкіндігің жоқ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "мүмкіндігің"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "союға"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Песахты"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песахты"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "бірінде де"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "қақпаларыңның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кімнің"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимің"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:42:16.573968837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Себебі мені табушы өмір табады, Яхведен ризалық алады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "мені табушы"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "табады"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "алады"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ризалық"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:16.532081709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 118,
+  "translation": "Жақсы Яхвеге сыйынған, адамға сенгеннен.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "сыйынған"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "сенгеннен"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "адамға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:57.988694399Z",
+  "model": "glm-5.3"
+}

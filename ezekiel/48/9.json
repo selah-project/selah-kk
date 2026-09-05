@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 48:9",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Яхвеге көтеретін терума: ұзындығы бес және жиырма мың, ал ені он мың.",
+  "tokens": [
+    {
+      "surface": "התרומה",
+      "gloss": "терума"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "көтересіңдер"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ұзындығы"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бес"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "және жиырма"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ал ені"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T05:31:16.001388029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Бет тану жақсы емес, ал ерінің бір тілімі үшін еркек бұзбайды ⟨жаастанады⟩.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "тану"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "бет"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ал"
+    },
+    {
+      "surface": "פת",
+      "gloss": "тілімі"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "жаастанады"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "еркек"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:47.196555940Z",
+  "model": "glm-5.3"
+}

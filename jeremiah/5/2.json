@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және егер олар: «Яхве тірі!» — десе, рас, жалған ант ішеді.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Және егер"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "десе"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "рас"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "жалған"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ант ішеді"
+    }
+  ],
+  "timestamp": "2026-09-05T04:44:54.317091499Z",
+  "model": "glm-5.3"
+}

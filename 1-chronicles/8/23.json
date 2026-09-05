@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "және Абдон, және Зихри, және Ханан,",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "және Абдон"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "және Зихри"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "және Ханан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:54.119373621Z",
+  "model": "glm-5.3"
+}

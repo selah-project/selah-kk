@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ирмейаһу оларға айтты: «Осылай деңдер Цидкийаһуға:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмейаһу"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "כה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "деңдер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкийаһуға"
+    }
+  ],
+  "timestamp": "2026-09-05T04:51:57.221290699Z",
+  "model": "glm-5.3"
+}

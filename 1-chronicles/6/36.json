@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Букки оның ұлы, Уззи оның ұлы, Зерахияһ оның ұлы.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахияһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:56.866198217Z",
+  "model": "glm-5.3"
+}

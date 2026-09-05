@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Ахио, Шашак пен Йеремот,",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "және Ахио"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Шашак"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "және Йеремот"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:03.076961616Z",
+  "model": "glm-5.3"
+}

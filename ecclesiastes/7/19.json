@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Даналық данаға күш береді — қалада болған он билеушіден де артық.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "даналық"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "күш береді"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "данаға"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ондан"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "билеуші"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨олар⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болған"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "қалада"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:11.036958957Z",
+  "model": "glm-5.3"
+}

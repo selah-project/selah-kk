@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Шаул ⟨את⟩ Давидті алуға елшілер жіберді, ал (Михал): «Ол науқас» деді.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "елшілер"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "алуға"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "науқас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T03:29:09.704934733Z",
+  "model": "glm-5.3"
+}

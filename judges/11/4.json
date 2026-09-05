@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Күндерден кейін Аммон ұлдары Исраилмен соғысты.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "күндерден кейін"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "соғысты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммонның"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T03:14:30.924506050Z",
+  "model": "glm-5.3"
+}

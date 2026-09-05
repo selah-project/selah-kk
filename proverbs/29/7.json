@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Әділ адам кедейлердің ісін біледі, ал заңсыз білімді түсінбейді.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ісін"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "кедейлердің"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "заңсыз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түсінбейді"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білімді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:31.557017157Z",
+  "model": "glm-5.3"
+}

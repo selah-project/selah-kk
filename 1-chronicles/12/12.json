@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Атай алтыншы, Элиел жетінші.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "Атай"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "алтыншы"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Элиел"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "жетінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:52.799821183Z",
+  "model": "glm-5.3"
+}

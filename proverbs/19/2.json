@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Сондай-ақ, білімсіз жан жақсы емес, және аяқпен асығатын ⟨адам⟩ күнә жасайды.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "сондай-ақ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "-сыз"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "және асығатын"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "аяқпен"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "күнә жасайды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:43:07.456156542Z",
+  "model": "glm-5.3"
+}

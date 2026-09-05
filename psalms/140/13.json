@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 140,
+  "translation": "Білдім ⟨ки⟩ Яхве мұқтаждың үкімін, кедейлердің дәулетін жасайды.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Білдім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ки⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасайды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דין",
+      "gloss": "үкім"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мұқтаж"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "дәулет"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "кедейлер"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:06.116655670Z",
+  "model": "glm-5.3"
+}

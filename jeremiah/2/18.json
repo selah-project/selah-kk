@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ал енді саған не керек — Мицрайим жолымен Шихор суын ішу үшін? Саған не керек — Ашшур жолымен өзен суын ішу үшін?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "жолымен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ішу үшін"
+    },
+    {
+      "surface": "מי",
+      "gloss": "суын"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "Шихор"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "және не"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "жолымен"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "лשתות",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "суын"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "өзен"
+    }
+  ],
+  "timestamp": "2026-09-05T04:42:10.746971556Z",
+  "model": "glm-5.3"
+}

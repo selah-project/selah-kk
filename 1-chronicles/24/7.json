@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Және шықты бірінші жеребе Йеһояривке, Йедаяға — екінші.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "және шықты"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жеребе"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "Йеһояривке"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Йедаяға"
+    },
+    {
+      "surface": "השני",
+      "gloss": "екінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:00.712366721Z",
+  "model": "glm-5.3"
+}

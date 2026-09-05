@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Зебадия, Арад пен Эдер,",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "және Зебадия"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "Арад"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "және Эдер"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:03.077102846Z",
+  "model": "glm-5.3"
+}

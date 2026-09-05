@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "сондай-ақ Гедор, Ахио мен Зехер.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "сондай-ақ Гедор"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "Ахио"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "мен Зехер"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:05.037439953Z",
+  "model": "glm-5.3"
+}

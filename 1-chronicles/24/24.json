@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Уззиелдің ұлдары: Мийка; Мийканың ұлдарына — Шамур.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззиелдің"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мийка"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мийканың"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Шамур"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:25.724223001Z",
+  "model": "glm-5.3"
+}

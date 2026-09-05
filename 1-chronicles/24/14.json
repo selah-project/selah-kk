@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Лебилгаға он бесіншісі, Леиммерге он алтыншысы.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Лебилгаға"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бес"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Леиммерге"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:36.311217482Z",
+  "model": "glm-5.3"
+}

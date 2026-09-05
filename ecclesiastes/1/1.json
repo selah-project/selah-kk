@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Коһелеттің сөздері — Давид ұлының, Иерусалимдағы патшаның.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сөздері"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коһелеттің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлының"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Иерусалимдағы"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:27.700696439Z",
+  "model": "glm-5.3"
+}

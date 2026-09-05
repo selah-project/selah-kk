@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Кално Кархемиштей емес пе? Хамат Арпадтай емес пе? Шомрон Дамасктай емес пе?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "емес пе"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Кархемиштей"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Кално"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ме"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Арпадтай"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ме"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Дамасктай"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-09-05T04:22:05.368356074Z",
+  "model": "glm-5.3"
+}

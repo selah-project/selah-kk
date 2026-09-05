@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Йедиаел Шимридің ұлы, Йоһа оның інісі — тизилік,",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "Йедиаел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимридің"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "Йоһа"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "інісі"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "тизилік"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:20.366783756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 65,
+  "translation": "Дұғаны тыңдаушы ⟨Ты⟩ — саған бар ет-денелі ⟨адамдар⟩ келеді.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "тыңдаушы"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "дұғаны"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет-денелі ⟨адамдар⟩"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келеді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:58.419492519Z",
+  "model": "glm-5.3"
+}

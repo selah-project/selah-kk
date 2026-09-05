@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Әзірше Яхве көктерден қарап көрмейінше.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "әзірше"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "қарап"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "көрмейінше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "көктерден"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:58.497863092Z",
+  "model": "glm-5.3"
+}

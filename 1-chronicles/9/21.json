@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Зехария, Мешелемияның ұлы, кездесу шатырының есігінің қақашысы ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Зехария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Мешелемияның"
+    },
+    {
+      "surface": "שער",
+      "gloss": "қақашысы"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "есігінің"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "шатырының"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "кездесу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:25.262868623Z",
+  "model": "glm-5.3"
+}

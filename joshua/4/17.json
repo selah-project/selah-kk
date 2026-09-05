@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Яһушуа ⟨את⟩ қаһиндерді бұйырды: «Ярденнен шығыңдар» — деп.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһушуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қаһиндерді"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "қаһиндерді"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "шығыңдар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нен"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярденнен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:54:21.067795797Z",
+  "model": "glm-5.3"
+}

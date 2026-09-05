@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Кеһат ұлдарынан: басшы Уриел және оның бауырлары — жүз жиырма.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһат"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Уриел"
+    },
+    {
+      "surface": "השר",
+      "gloss": "басшы"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "және оның бауырлары"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:51.297008856Z",
+  "model": "glm-5.3"
+}

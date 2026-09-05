@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Сол түнде болды: Элохимнің сөзі Натанға келіп айтты:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түнде"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натанға"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:45:57.106622172Z",
+  "model": "glm-5.3"
+}

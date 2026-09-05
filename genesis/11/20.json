@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Реу отыз және екі жыл өмір сүрді, және ⟨את⟩ Серугті әкелді.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Реу"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "және отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "әкелді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Серугті"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Серуг"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:23.254161168Z",
+  "model": "glm-5.3"
+}

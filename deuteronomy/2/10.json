@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Әмимдер бұрын ол жерде тұрды — ұлы және көп және биік халық, Анактимдер сияқты.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Әмимдер"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "бұрын"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ол жерде"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "және көп"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "және биік"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "Анактимдер сияқты"
+    }
+  ],
+  "timestamp": "2026-09-05T02:33:58.225341554Z",
+  "model": "glm-5.3"
+}

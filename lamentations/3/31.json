@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Себебі Адонай мәңгі қағып тастамайды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "қағып тастайды"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:02.773395342Z",
+  "model": "glm-5.3"
+}

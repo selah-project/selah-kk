@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және мен әлі де тірі болып тұрған тірілерден гөрі әлдеқашан өлген ⟨את⟩ өлілерді мадақтаймын.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "және мадақтаймын"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өлілерді"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "өлілерді"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "әлдеқашан"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "өлген"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ға қарағанда"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тірілерден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "המה",
+      "gloss": "олар"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "әлі де"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:44.501142620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Азгад ұлдары — мың екі жүз жиырма екі ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгад"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "екі жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "және екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:09.314487314Z",
+  "model": "glm-5.3"
+}

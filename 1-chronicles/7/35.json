@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Оның інісі Һелемнің ұлдары: Цофах, Имна, Шелеш және Амал.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Һелемнің"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "оның інісі"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "және Имна"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "және Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "және Амал"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:16.555116204Z",
+  "model": "glm-5.3"
+}

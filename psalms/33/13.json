@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Аспаннан Яхве қарады, ⟨את⟩ барлық адам ұлдарын көрді.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "аспаннан"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "қарады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барлық адам ұлдарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамның"
+    }
+  ],
+  "timestamp": "2026-09-05T05:57:52.241543311Z",
+  "model": "glm-5.3"
+}

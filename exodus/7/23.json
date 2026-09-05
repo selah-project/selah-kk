@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және Паро бұрылып, өз үйіне кірді, және өз жүрегін бұған да қойған жоқ.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "және бұрылып"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "және кірді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "өз үйіне"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "қойған"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "өз жүрегін"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "бұған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:38:33.202251122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Патшаның жігіттері оған: «Мынау, Һаман аулада тұр» деді, патша: «Кірсін» деді.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "деді"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "жігіттері"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Һаман"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "аулада"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "кірсін"
+    }
+  ],
+  "timestamp": "2026-09-05T07:50:53.363960588Z",
+  "model": "glm-5.3"
+}

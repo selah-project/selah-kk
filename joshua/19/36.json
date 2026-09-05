@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Адама, Рама және Хацор.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "Адама"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "Хацор"
+    }
+  ],
+  "timestamp": "2026-09-05T03:03:48.142028210Z",
+  "model": "glm-5.3"
+}

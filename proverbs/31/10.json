@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Қайратты әйелді кім табар? Оның құны інжу-маржаннан ⟨алыс жоғары⟩.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "қайратты"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табар"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "және алыс"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "інжу-маржаннан"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "оның құны"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:45.319555712Z",
+  "model": "glm-5.3"
+}

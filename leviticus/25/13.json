@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Бұл Йовель жылында әр адам өз иелігіне оралады.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "жылында"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "Йовель"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ораласыңдар"
+    },
+    {
+      "surface": "איש",
+      "gloss": "әр адам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "өз иелігіне"
+    }
+  ],
+  "timestamp": "2026-09-05T02:11:24.674787813Z",
+  "model": "glm-5.3"
+}

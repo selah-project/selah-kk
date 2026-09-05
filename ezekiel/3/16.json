@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Және жеті күннің соңында Яхвенің сөзі маған келіп, былай деді.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "соңында"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күннің"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:10:25.839773526Z",
+  "model": "glm-5.3"
+}

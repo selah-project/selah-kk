@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ашумен жерде аттайдың, қаһармен ұлттарды басып тебісің.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ашумен"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "аттайдың"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "באף",
+      "gloss": "қаһармен"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "басып тебісің"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ұлттарды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:43:55.427013587Z",
+  "model": "glm-5.3"
+}

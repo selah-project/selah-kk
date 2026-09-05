@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ұрыны жек көрмейді, егер ол ұрласа — өз жанын тойдыру үшін, себебі ол аш.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "жек көреді"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "ұрыны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "ұрласа"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "тойдыру үшін"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "аш"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:09.284125977Z",
+  "model": "glm-5.3"
+}

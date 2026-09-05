@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Бет-Лехем ұлдары: жүз жиырма үш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:50.087644340Z",
+  "model": "glm-5.3"
+}

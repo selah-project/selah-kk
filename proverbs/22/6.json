@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Баланы өз жолының аузы бойынша тәрбиеле, қартайғанда да одан бұрылмайды.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "тәрбиеле"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "баланы"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузының"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "өз жолының"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "қартайғанда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "бұрылмайды"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "одан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:01.479363975Z",
+  "model": "glm-5.3"
+}

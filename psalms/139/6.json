@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 139,
+  "translation": "Ол білім менен ғажап, биік — мен оған жете алмаймын.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ғажап"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менен"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "биік"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "мен қабілетті емеспін"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:31.557804407Z",
+  "model": "glm-5.3"
+}

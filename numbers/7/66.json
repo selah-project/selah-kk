@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "numbers 7:66",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Оныншы күні Дан ұлдарының көсемі — Аммишаддайдың ұлы Ахиезер ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "оныншы"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "көсемі"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ахиезер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Аммишаддайдың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:01.394323394Z",
+  "model": "glm-5.3"
+}

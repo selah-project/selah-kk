@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "Ол айтты — шегіртке келді, және ісіртке, саны жоқ",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "шегіртке"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "және ісіртке"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:24.677354015Z",
+  "model": "glm-5.3"
+}

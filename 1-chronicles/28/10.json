@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Енді қара: себебі Яхве қасиетті үй салу үшін сені таңдады — күшті бол да, оны істе.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "қара"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "енді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "таңдады"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сені"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "салу үшін"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "қасиетті орынға"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "күшті бол"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "және оны істе"
+    }
+  ],
+  "timestamp": "2026-09-05T08:23:20.654062274Z",
+  "model": "glm-5.3"
+}

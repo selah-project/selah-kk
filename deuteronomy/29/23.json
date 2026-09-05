@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Және барлық халықтар айтады: Неге Яхве бұл жерге осылай істеді? Не ⟨деген⟩ бұл үлкен ашудың қайнауы?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халықтар"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "מה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істеді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "бұл жерге"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "қайнауы"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ашудың"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T02:50:44.371550359Z",
+  "model": "glm-5.3"
+}

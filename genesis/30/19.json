@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Лия тағы жүкті болды да, Яаковқа алтыншы ұл туды.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "жүкті болды"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лия"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "алтыншы"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковқа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:19:28.881349563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Йетердің ұлдары: Йефунне және Писпа және Ара.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ... ұлдары"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунне"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "және Писпа"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "және Ара"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:37.861375464Z",
+  "model": "glm-5.3"
+}

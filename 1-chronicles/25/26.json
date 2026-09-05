@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Он тоғызыншы — Маллотиға, оның ұлдары мен бауырлары — он екі ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "тоғызыншыға"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "Маллотиға"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "оның ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "мен оның бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:15.080160006Z",
+  "model": "glm-5.3"
+}

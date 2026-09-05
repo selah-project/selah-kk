@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Өйткені егер сен жіберуден бас тартсаң және оларды әлі ұстап тұрсаң,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "бас тартсаң"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "жіберуден"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "және әлі"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ұстап тұрсаң"
+    },
+    {
+      "surface": "בם",
+      "gloss": "оларды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:41:15.798873155Z",
+  "model": "glm-5.3"
+}

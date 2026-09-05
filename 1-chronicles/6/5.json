@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Гершомның ұрпағы: Ливни оның ұлы, Яхат оның ұлы, Зимма оның ұлы.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Гершомның ұрпағы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зимма"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:02.750322032Z",
+  "model": "glm-5.3"
+}

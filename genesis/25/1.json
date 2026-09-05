@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Авраһам қайта қосылды да әйел алды, оның аты Қетура еді.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "қайта қосылды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "оның аты"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Қетура"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:07.406621017Z",
+  "model": "glm-5.3"
+}

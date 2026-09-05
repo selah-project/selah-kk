@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 104,
+  "translation": "Елшілерін желдер еткен, қызметшілерін — жалқын от.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "еткен"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "елшілерін"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "желдер"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "қызметшілерін"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "להט",
+      "gloss": "жалқын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:14:40.172414242Z",
+  "model": "glm-5.3"
+}

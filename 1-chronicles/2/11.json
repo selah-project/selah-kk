@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Нахшон ⟨את⟩ Салманы туғызды, Салма ⟨את⟩ Боазды туғызды.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "және Нахшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салманы"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Салманы"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ал Салма"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Боазды"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боазды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:34.889358851Z",
+  "model": "glm-5.3"
+}

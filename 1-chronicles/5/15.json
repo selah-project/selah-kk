@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ахи — Абдиелдің ұлы, Гунитың ұлы — аталық үйлерінің басы ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Абдиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Гуни"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "басы"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйлерінің"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "аталық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:35.856688394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Тұр, бізге көмек бол, және бізді құтқар — Сенің хеседің үшін!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Тұр"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "көмек"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "және бізді құтқар"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:18.451914660Z",
+  "model": "glm-5.3"
+}

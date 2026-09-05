@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Йоаш Яхвенің көзінде тұраны жасады, Йехояда қаһіннің күндерінің бәрінде.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "және жасады"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "тұраны"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрінде"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндерінің"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояда"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "қаһін"
+    }
+  ],
+  "timestamp": "2026-09-05T08:34:28.004626140Z",
+  "model": "glm-5.3"
+}

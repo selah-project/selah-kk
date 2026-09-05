@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 50,
+  "translation": "Отырып ағаңның ⟨үстінен⟩ сөйлейсің, анаңның ұлына жала жабасың.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "отырып"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ағаңның"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "сөйлейсің"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ұлына"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "анаңның"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "жабасың"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "жала"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:14.760371885Z",
+  "model": "glm-5.3"
+}

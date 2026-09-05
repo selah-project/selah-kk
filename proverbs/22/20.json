@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Саған үш рет кеңестермен және біліммен жазған жоқпын ба?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "әлде"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "жазған жоқпын ба"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "үш рет"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "кеңестермен"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "және біліммен"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:20.540964889Z",
+  "model": "glm-5.3"
+}

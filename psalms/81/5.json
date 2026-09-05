@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 81,
+  "translation": "Себебі бұл — Исраил үшін жарғы, Яақовтың Элохимі үшін жоруым.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "חק",
+      "gloss": "жарғы"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Исраил үшін"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "жоруым"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Элохимі үшін"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яақовтың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:56.903200291Z",
+  "model": "glm-5.3"
+}

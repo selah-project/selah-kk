@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "және Анав, және Эштемоһ, және Аним",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "және Анав"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "және Эштемоһ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "және Аним"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:51.119189615Z",
+  "model": "glm-5.3"
+}

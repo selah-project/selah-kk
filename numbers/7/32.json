@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір алтын табақша — он шекель, әтірға толы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "табақша"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "әтір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:38.865902213Z",
+  "model": "glm-5.3"
+}

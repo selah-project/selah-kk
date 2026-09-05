@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Осыған жүрегіміз ауру болды, осыларға көзіміз қараңғылады.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "осыған"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ауру"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "жүрегіміз"
+    },
+    {
+      "surface": "על",
+      "gloss": "осыладарға"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "осылар"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "қараңғылады"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "көзіміз"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:05.200228474Z",
+  "model": "glm-5.3"
+}

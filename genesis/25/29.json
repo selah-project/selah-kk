@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Яаков қайнатылған ботқа пісірді, ал Эсав даладан келді, ол ⟨ол⟩ шаршап:",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "пісірді"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "қайнатылған ботқа"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "даладан"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал ол"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "шаршап"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:27.483829065Z",
+  "model": "glm-5.3"
+}

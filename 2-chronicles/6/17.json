@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Енді, Ә Исраилдің Элохимі Яхве, құлың Давидке айтқан сөзің бекітілсін.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Енді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ә Исраилдің Элохимі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "бекітілсін"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "сөзің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нысаны"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "құлыңа"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидке"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:45.720946917Z",
+  "model": "glm-5.3"
+}

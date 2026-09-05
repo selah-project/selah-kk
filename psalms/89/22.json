@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "Онымен қолым дайын тұрады, білегім де оны бекітеді.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "қолым"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "дайын тұрады"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "אף",
+      "gloss": "де"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "білегім"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "оны бекітеді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:35.302441467Z",
+  "model": "glm-5.3"
+}

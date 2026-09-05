@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 130,
+  "translation": "Өйткені Сенімен ⟨бар⟩ кешірім — Сенен қорқылсын деп.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Сенімен"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "кешірім"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…деп"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "Сенен қорқылсын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:53.149186503Z",
+  "model": "glm-5.3"
+}

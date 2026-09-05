@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Авиша ⟨את⟩ Буккиді туғызды, Букки ⟨את⟩ Уззиды туғызды.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Авиша"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Буккиді"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уззиды"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:45.142164568Z",
+  "model": "glm-5.3"
+}

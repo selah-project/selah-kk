@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Михмас адамдары: жүз жиырма екі.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Михмас"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:18.722931361Z",
+  "model": "glm-5.3"
+}

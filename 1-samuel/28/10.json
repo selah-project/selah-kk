@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Шаул оған Яхвемен ант берді: «Яхве тірі! ⟨Осы⟩ сөз үшін саған жаза жолықпайды».",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ант берді"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвемен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер ⟨емес⟩"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "жолықпайды"
+    },
+    {
+      "surface": "עון",
+      "gloss": "жаза"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T03:33:22.227989123Z",
+  "model": "glm-5.3"
+}

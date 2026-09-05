@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 130,
+  "translation": "Яхвені күттім, жаным күтті, сөзіне шыдап үміт еттім.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "күттім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвені"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "күтті"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "сөзіне"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "шыдап үміт еттім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:17.737634633Z",
+  "model": "glm-5.3"
+}

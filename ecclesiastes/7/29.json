@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Тек мынауға қара: мыныны ғана таптым — Элохим ⟨את⟩ адамды түзу жасады, ал олар көп айлалар іздестірді.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "тек ғана"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "қара"
+    },
+    {
+      "surface": "זה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "таптым"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "икі"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамды"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түзу"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ал олар"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "іздестірді"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "айлалар"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T07:45:57.068114796Z",
+  "model": "glm-5.3"
+}

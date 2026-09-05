@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "және Шеломо да патшалықтың тағына ⟨отырды⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "және … да"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отырды"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тағына"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "патшалықтың"
+    }
+  ],
+  "timestamp": "2026-09-05T03:50:10.497799499Z",
+  "model": "glm-5.3"
+}

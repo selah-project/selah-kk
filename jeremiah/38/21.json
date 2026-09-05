@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Ал егер сен шығудан бас тартсаң — мынау ⟨сол⟩ сөз, Яхве маған көрсеткен ⟨сөз⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "бас тартсаң"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "шығудан"
+    },
+    {
+      "surface": "זה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הראני",
+      "gloss": "маған көрсеткен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T05:01:34.716121760Z",
+  "model": "glm-5.3"
+}

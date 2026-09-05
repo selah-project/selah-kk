@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 70,
+  "translation": "Элохим, мені құтқаруға, Яхве, көмегіме асық!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "мені құтқаруға"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "көмегіме"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "асық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:05.033230045Z",
+  "model": "glm-5.3"
+}

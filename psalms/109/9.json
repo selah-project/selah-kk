@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 109,
+  "translation": "Болсын ұлдары ⟨жетімдер⟩, және әйелі ⟨жесір⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "жетімдер"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "және әйелі"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "жесір"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:59.724824726Z",
+  "model": "glm-5.3"
+}

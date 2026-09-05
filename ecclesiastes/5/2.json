@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Себебі түс көп уайымнан келеді, ал ақымақтың даусы көп сөзден ⟨болады⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "түс"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп...нан"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "уайым"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "және даусы"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп...нан"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сөз"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:40.511181547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және Яхве Моше (Мұса) мен Аһаронға сөйледі, былай деп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ға"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мұса)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "мен …ға"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:03.658800500Z",
+  "model": "glm-5.3"
+}

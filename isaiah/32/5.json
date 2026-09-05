@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Енді наданға жомарт делінбейді, және сараңға бай айтылмайды.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "делінеді"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "наданға"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "жомарт"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "және сараңға"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтылмайды"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "бай"
+    }
+  ],
+  "timestamp": "2026-09-05T04:28:51.696512229Z",
+  "model": "glm-5.3"
+}

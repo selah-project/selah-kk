@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 120,
+  "translation": "Яхве, құтқар жанымды жалған еріннен, айлакер тілден.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "құтқар"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "еріннен"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалған"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "тілден"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "айлакер"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:27.279484945Z",
+  "model": "glm-5.3"
+}

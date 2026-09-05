@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Қасиетті қаладағы барлық Лебилер — екі жүз сексен төрт ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Лебилер"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "қаладағы"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "қасиетті"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "екі жүз"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "сексен"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "төрт"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:30.794990293Z",
+  "model": "glm-5.3"
+}

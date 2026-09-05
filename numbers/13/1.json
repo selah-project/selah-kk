@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және Яхве Мошеге (Мұса) сөйледі, айтып:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мұса)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып:"
+    }
+  ],
+  "timestamp": "2026-09-05T07:24:34.790771759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Шеол, босанбайтын жатыр, суға тоймайтын жер, және «жеткілікті» демейтін от.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "және тыйылған"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "жатыр"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "тоймайтын"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суға"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "және от"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "демейтін"
+    },
+    {
+      "surface": "הון",
+      "gloss": "жеткілікті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:13.642492680Z",
+  "model": "glm-5.3"
+}

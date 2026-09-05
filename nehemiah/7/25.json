@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Гибеон ұлдары — тоқсан бес.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гибеон"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "тоқсан"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "және бес"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.155448317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 94,
+  "translation": "Бірақ Яхве маған бекініс болды, және Элохимім — пана тасым.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "бекініс"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "және Элохимім"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "тас"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "панам"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:23.257680883Z",
+  "model": "glm-5.3"
+}

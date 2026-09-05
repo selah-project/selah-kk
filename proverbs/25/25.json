@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Салқын су шаршаған жанның үстіне — және хабар жақсы, алыс жерден.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "салқын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанның"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "шаршаған"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "және хабар"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "алыс"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:23.413503030Z",
+  "model": "glm-5.3"
+}

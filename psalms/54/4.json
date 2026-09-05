@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 54,
+  "translation": "Элохим, дұғамды есті, аузымның сөздеріне құлақ тік",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "есті"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "дұғамды"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "құлақ тік"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "сөздеріне"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузымның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:34.477138547Z",
+  "model": "glm-5.3"
+}

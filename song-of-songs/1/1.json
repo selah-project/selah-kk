@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Әндердің әні — ол Шеломоныңкі.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "әні"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "әндердің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломоныңкі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:22.715648820Z",
+  "model": "glm-5.3"
+}

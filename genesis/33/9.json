@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Эсав: «Менде көп бар, бауырым! Саған тиістісі өзіңде қалсын» деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менде"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бауырым"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңде"
+    }
+  ],
+  "timestamp": "2026-09-05T01:27:45.334579619Z",
+  "model": "glm-5.3"
+}

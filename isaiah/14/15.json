@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Тек Шеолге қарай түсірілесің, шұңқырдың шеттеріне.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "тек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолге"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "түсірілесің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "шеттеріне"
+    },
+    {
+      "surface": "בור",
+      "gloss": "шұңқырдың"
+    }
+  ],
+  "timestamp": "2026-09-05T04:22:43.144544065Z",
+  "model": "glm-5.3"
+}

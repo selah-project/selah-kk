@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Барлық Исраил қарттары келді, және левилер ⟨את⟩ сандықты көтерді.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "қарттары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "және көтерді"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левилер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сандықты"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "сандықты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:50.976461080Z",
+  "model": "glm-5.3"
+}

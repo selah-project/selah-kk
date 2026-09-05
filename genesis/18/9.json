@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Олар оған айтты: «Сара, әйелің қайда?» Ол айтты: «Мынау — шатырда».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "איה",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "әйелің"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "шатырда"
+    }
+  ],
+  "timestamp": "2026-09-05T01:20:00.776074270Z",
+  "model": "glm-5.3"
+}

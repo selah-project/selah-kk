@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Олардың саны сегіз мың бес жүз seksан болды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "саны"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "және бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "сексан"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:46.338617181Z",
+  "model": "glm-5.3"
+}

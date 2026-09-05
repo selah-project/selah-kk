@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Ол оған ұлдар туды — ⟨את⟩ Йеушті, және ⟨את⟩ Шемарияны, және ⟨את⟩ Заһамды.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеушті"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Йеушті"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Шемарияны"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шемарияны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Заһамды"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Заһамды"
+    }
+  ],
+  "timestamp": "2026-09-05T09:01:53.830943632Z",
+  "model": "glm-5.3"
+}

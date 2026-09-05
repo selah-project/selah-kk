@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ицхактың құлдары аңғарда қазды және сол жерде тірі судың құдығын тапты.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "қазды"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "құлдары"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхактың"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "аңғарда"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сол жерде"
+    },
+    {
+      "surface": "באר",
+      "gloss": "құдығын"
+    },
+    {
+      "surface": "מים",
+      "gloss": "судың"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тірі"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:06.798409148Z",
+  "model": "glm-5.3"
+}

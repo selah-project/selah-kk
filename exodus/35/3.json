@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Шабат күні өз мекендеріңіздің ешбірінде от жақпаңдар.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "жақпаңдар"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ешбірінде"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "мекендеріңіздің"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шабат"
+    }
+  ],
+  "timestamp": "2026-09-05T01:55:04.188585487Z",
+  "model": "glm-5.3"
+}

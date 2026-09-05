@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Иш-Бошет жіберді де, оны ерінен — Палтиэлден, Лаиштың ұлынан — алды.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Иш-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Бошет"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "оны алды"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "—"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ерінен"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "—"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиэлден"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлынан"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Лаиштың"
+    }
+  ],
+  "timestamp": "2026-09-05T03:36:41.620062102Z",
+  "model": "glm-5.3"
+}

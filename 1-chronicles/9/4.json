@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Уттай — Аммиһудтың ұлы, Омридың ұлы, Имридың ұлы, Банидің ұлы, Перетс ұлдарынан, Яһуданың ұлы.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Уттай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиһудтың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омридың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имридың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Банидің"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуданың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:46.130027910Z",
+  "model": "glm-5.3"
+}

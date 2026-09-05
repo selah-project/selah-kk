@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Исраил ұлдары жолға шықты және Оботта ⟨ұйытты⟩.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жолға шықты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "және лагер құрды"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "Оботта"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:06.211050261Z",
+  "model": "glm-5.3"
+}

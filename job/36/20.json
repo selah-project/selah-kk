@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Түнді аңсама — халықтар орнынан жоқ болғанда.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "аңсама"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "аңса"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "түнді"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "жоғалғанға"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "халықтар"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "орнында"
+    }
+  ],
+  "timestamp": "2026-09-05T06:48:12.447494306Z",
+  "model": "glm-5.3"
+}

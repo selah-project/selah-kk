@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ол маған: «Сен кімсің?» — деді; мен оған: «Мен амалекілікпін» — дедім.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "дедім"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "амалекілік"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-09-05T03:35:34.695990666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Газзам ұлдары, Узза ұлдары, Пасеах ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газзам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеах"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.291126063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және мен бұрылып, күн астындағы бос нәрсені көрдім.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "және бұрылдым"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "және көрдім"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "бос нәрсе"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:46.515724366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Анатотта, Новта, Ананияда",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "Анатотта"
+    },
+    {
+      "surface": "נב",
+      "gloss": "Новта"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "Ананияда"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:37.623816348Z",
+  "model": "glm-5.3"
+}

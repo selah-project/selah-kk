@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Хагаб ұлдары, Шамлай ұлдары, Ханан ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "Хагаб"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "Шамлай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:01.997354078Z",
+  "model": "glm-5.3"
+}

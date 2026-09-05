@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Ол күні қашқын саған келеді, құлақтарға естірту ⟨үшін⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "қашқын"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "естірту үшін"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "құлақтарды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:18:50.141061325Z",
+  "model": "glm-5.3"
+}

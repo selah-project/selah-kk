@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "От үнемі құрбандық орнының үстінде жанып тұрады, өшілмейді.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "жанып тұрады"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "құрбандық орнының"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "өшеді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:59:33.294869431Z",
+  "model": "glm-5.3"
+}

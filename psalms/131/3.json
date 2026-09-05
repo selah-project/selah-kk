@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 131,
+  "translation": "Исраил Яхвеге үміт артсын — осы заманнан мәңгіге дейін.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "үміт артсын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "осы заманнан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "және ... дейін"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:40.464138611Z",
+  "model": "glm-5.3"
+}

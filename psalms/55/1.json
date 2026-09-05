@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 55,
+  "translation": "Басқарушыға, аспап күйімен, ғибрат, Давидке.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Басқарушыға"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "аспап күйімен"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ғибрат"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:39.627429795Z",
+  "model": "glm-5.3"
+}

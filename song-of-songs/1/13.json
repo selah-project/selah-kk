@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Менің сүйіктім — мирра байламы, төсімнің арасында түнейді.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "байламы"
+    },
+    {
+      "surface": "המר",
+      "gloss": "мирра"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "сүйіктім"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менің"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "төсімнің"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "түнейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:04.616545682Z",
+  "model": "glm-5.3"
+}

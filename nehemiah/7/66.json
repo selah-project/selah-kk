@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бүкіл жиналыс бірге: қырық түмен ⟨бырыңғай мың⟩ екі мың үш жүз алпыс.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "жиналыс"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "түмен"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "екі мың"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "алпыс"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:37.056705453Z",
+  "model": "glm-5.3"
+}

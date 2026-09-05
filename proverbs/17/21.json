@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Ақымақ туғызған ⟨оған⟩ қайғыға ⟨кіреді⟩, ал наданның әкесі қуанбайды.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "туғызған"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақ"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "қайғыға"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨оған⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ал ... емес"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "қуанбайды"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "наданның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:49.546742397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Таң сайын жаңа ⟨олар⟩; Сенің сенімділігің ұлан.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "жаңа"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "таң сайын"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ұлан"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "Сенің сенімділігің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:08.327946547Z",
+  "model": "glm-5.3"
+}

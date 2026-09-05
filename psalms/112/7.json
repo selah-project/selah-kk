@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 112,
+  "translation": "Жаман хабарды естіп қорықпайды ⟨ол⟩; жүрегі берік, Яхвеге сенген.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "хабарды"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "қорқады"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "бекітілген"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "сенеді"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:18.473343390Z",
+  "model": "glm-5.3"
+}

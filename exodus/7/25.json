@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Яхвенің ⟨את⟩ өзенін соққанынан кейін жеті күн толық өтті.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "толық өтті"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кейін"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "соққанынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өзенін"
+    },
+    {
+      "surface": "היאאר",
+      "gloss": "өзенін"
+    }
+  ],
+  "timestamp": "2026-09-05T01:40:30.694694673Z",
+  "model": "glm-5.3"
+}

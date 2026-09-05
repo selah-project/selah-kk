@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Қарғыс — қарыз алатып кінәсіз қанның жанын ұруға. Бүкіл халық айтады: Аумин!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "қарғыс"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "қарыз алатын"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ұруға"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "דם",
+      "gloss": "қанның"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "кінәсіз"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Аумин"
+    }
+  ],
+  "timestamp": "2026-09-05T02:48:25.935708025Z",
+  "model": "glm-5.3"
+}

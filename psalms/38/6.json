@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Сасып іріңдеді жараларым, ақымақтығымнан.",
+  "tokens": [
+    {
+      "surface": "הבאישם",
+      "gloss": "сасып"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "іріңдеді"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "жараларым"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "себебінен"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "ақымақтығымнан"
+    }
+  ],
+  "timestamp": "2026-09-05T05:58:55.552286673Z",
+  "model": "glm-5.3"
+}

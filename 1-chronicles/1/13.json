@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Кенаан ⟨את⟩ Цидонды — тұңғылын — және ⟨את⟩ Хетті туғызды.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цидонды"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидонды"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "тұңғылын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Хетті"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хетті"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:20.681434843Z",
+  "model": "glm-5.3"
+}

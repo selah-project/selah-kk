@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "және Ивһар, және Элишамағ, және Элифелет",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "және Ивһар"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "және Элишамағ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "және Элифелет"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:37.753761616Z",
+  "model": "glm-5.3"
+}

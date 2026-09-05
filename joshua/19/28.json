@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Және Эброн, Рехоб, Хаммон және Қана — ұлы Цидонға дейін.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "және Эброн"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "және Рехоб"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "және Хаммон"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "және Қана"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидон"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T03:03:24.092704478Z",
+  "model": "glm-5.3"
+}

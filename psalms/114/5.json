@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 114,
+  "translation": "Саған не болды, ⟨теңіз⟩, не қаштың? ⟨Иордан⟩, не кері бұрылдың?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "הים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "қаштың"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордан"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "кері бұрылдың"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "кері"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:12.726614415Z",
+  "model": "glm-5.3"
+}

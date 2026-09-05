@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Сендер Маған халық боласыңдар, ал Мен сендерге Элохим боламын.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "боласыңдар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Маған"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ал Мен"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "боламын"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-09-05T04:55:41.601451677Z",
+  "model": "glm-5.3"
+}

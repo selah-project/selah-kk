@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Және әкемнің үйіне бейбітшілікпен оралсам, Яхве маған Элохим болады —",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "оралсам"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "бейбітшілікпен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкемнің"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:29.727863728Z",
+  "model": "glm-5.3"
+}

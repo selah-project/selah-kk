@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Және ⟨את⟩ Ресенді — Ниневе мен Келах арасында; ол ⟨⟩ ұлы қала.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Ресенді"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресенді"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневе"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "мен"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T07:20:22.107806451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Патша маған айтты: «Сен нені сұрап тұрсың?» Сосын мен аспан Элохиміне дұға еттім.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "מה",
+      "gloss": "неліктен"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "сұрап тұрсың"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "дұға еттім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…іне"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "аспан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:06:11.221566486Z",
+  "model": "glm-5.3"
+}

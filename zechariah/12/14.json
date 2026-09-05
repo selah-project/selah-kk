@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Қалған рулардың бәрі — ру руымен жеке, ал олардың әйелдері жеке.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "рулардың"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "қалған"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ру"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "руымен"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "жеке"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ал олардың әйелдері"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "жеке"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:49.574517077Z",
+  "model": "glm-5.3"
+}

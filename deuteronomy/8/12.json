@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Әйтпесе жейсің, тоқасың — жақсы үйлер саласың, соларда тұрасың.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "әйтпесе"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жейсің"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "тоқасың"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "үйлер"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "саласың"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "тұрасың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:38:11.638118861Z",
+  "model": "glm-5.3"
+}

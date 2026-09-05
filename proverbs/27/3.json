@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Тас ауыр, құм да ауыр, бірақ ақымақтың ашуы екеуінен де ауыр.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ауыр"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "тас"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "құм да ауыр"
+    },
+    {
+      "surface": "החול",
+      "gloss": "құм"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ашуы"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ауыр"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "екеуінен де"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:02.991352523Z",
+  "model": "glm-5.3"
+}

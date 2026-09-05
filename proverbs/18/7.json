@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Ақымақтың аузы — оған қирау, және еріндері ⟨оның⟩ жанының тұзағы.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "қирау"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "және еріндері"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "тұзағы"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанының"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:45.979540581Z",
+  "model": "glm-5.3"
+}

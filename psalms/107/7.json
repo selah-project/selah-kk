@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 107,
+  "translation": "Және Ол оларды тура жолмен жүргізді, мекен қалаға жету үшін.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "және жүргізді оларды"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолмен"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "тура"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "баруға"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "мекен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:12.384368107Z",
+  "model": "glm-5.3"
+}

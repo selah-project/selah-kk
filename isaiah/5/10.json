@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Өйткені жүзімзардың он жұбы бір бат ⟨берер⟩, ал хомер дән бір эфа ⟨берер⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "он"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "жұбы"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "жүзімзардың"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "берер"
+    },
+    {
+      "surface": "בת",
+      "gloss": "бат"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "және дән"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хомер"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "берер"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:30:52.027564945Z",
+  "model": "glm-5.3"
+}

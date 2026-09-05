@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Тыңда, сен, ұлым, дана бол, және жүрегіңді жолға бағытта.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "және дана бол"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "және бағытта"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолға"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегіңді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:56.374842366Z",
+  "model": "glm-5.3"
+}

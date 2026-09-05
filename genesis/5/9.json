@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Эношь тоқсан жыл өмір сүрді және ⟨את⟩ Кейенанды туғызды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Эношь"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "тоқсан"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кейенанды"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кейенанды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:16.487620694Z",
+  "model": "glm-5.3"
+}

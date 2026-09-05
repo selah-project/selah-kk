@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Моше Ахаронға: «Бұл халық саған не істеді, сонда сен оған осындай үлкен күнә әкелдің?» — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істеді"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "әкелдің"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "күнә"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "үлкен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:53:23.299512442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Адам жоқ жерге, онда ешбір адам жоқ шөлге жаңбыр жаудыру үшін —",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "жаңбыр жаудыруға"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "шөл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:49:54.062203853Z",
+  "model": "glm-5.3"
+}

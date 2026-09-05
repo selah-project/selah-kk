@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "«Ал мен саған қоныс үй салдым және мәңгі-мәңгі тұруыңа мекен.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал мен"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "салдым"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "қоныс"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "және мекен"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "тұруыңа"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "мәңгі-мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:06.026251594Z",
+  "model": "glm-5.3"
+}

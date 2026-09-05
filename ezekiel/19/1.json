@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Ал сен Исраил әміршілері туралы жоқтау көтер",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ал сен"
+    },
+    {
+      "surface": "שא",
+      "gloss": "көтер"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "жоқтау"
+    },
+    {
+      "surface": "אל",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "әміршілері"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T07:34:57.430295795Z",
+  "model": "glm-5.3"
+}

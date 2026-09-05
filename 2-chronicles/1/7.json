@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Сол түні Элохим Шломоға көрінді де, оған айтты: «Сұра — саған не берейін?»",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "түнде"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "көрінді"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шломоға"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сұра"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нені"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "берейін"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T08:24:54.250194664Z",
+  "model": "glm-5.3"
+}

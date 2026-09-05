@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "«Исраил ұлдарына айт: өгіздің, қойдың және ешкінің майының ешбіреуін жемеңдер.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ге"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "חלеб",
+      "gloss": "майының"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгіздің"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "және қойдың"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "және ешкінің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жемеңдер"
+    }
+  ],
+  "timestamp": "2026-09-05T07:21:18.518386819Z",
+  "model": "glm-5.3"
+}

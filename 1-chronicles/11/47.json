@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Элиел, Обед, Йаасиел мецобайлық,",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Элиел"
+    },
+    {
+      "surface": "ויעובד",
+      "gloss": "Обед"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "Йаасиел"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "мецобайлық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:20.367338551Z",
+  "model": "glm-5.3"
+}

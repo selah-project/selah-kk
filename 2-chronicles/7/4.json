@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және патша мен бүкіл халық Яхвенің алдында құрбандық шалды.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "және патша"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "мен бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "құрбандық шалды"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "құрбандық"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:28:04.472865334Z",
+  "model": "glm-5.3"
+}

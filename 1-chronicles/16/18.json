@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "«Саған Кенаан жерін беремін, мұрагерліктеріңнің үлесін», деп.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "беремін"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерді"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "үлес"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "мұрагерліктеріңнің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:35.659816997Z",
+  "model": "glm-5.3"
+}

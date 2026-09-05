@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Және ⟨את⟩ Обалды, және ⟨את⟩ Әбимаелді, және ⟨את⟩ Шеваһы.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Обалды"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Обалды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Әбимаелді"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Әбимаелді"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Шеваһы"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеваһы"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:58.244814382Z",
+  "model": "glm-5.3"
+}

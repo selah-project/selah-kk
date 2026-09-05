@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Кемакыл әйел айқайлағыш, аңқау ⟨және⟩ ештеңе білмейді.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "кемакылдықтың"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "айқайлағыш"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "аңқау"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "және еш"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "білмейді"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:34.249560965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Шаулға: «Мынау, Давид Наиотта, Рамада» — деп жеткізілді.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "жеткізілді"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулға"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "Наиотта"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Рамада"
+    }
+  ],
+  "timestamp": "2026-09-05T03:29:17.328932991Z",
+  "model": "glm-5.3"
+}

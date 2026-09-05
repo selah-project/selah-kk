@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Даналық соғыс қаруларынан жақсы, ал бір күнәкар көп жақсылықты құртады.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даналық"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "…қаруларынан"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "және күнәкар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "құртады"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жақсылықты"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:01.324800240Z",
+  "model": "glm-5.3"
+}

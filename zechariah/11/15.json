@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Және айтты Яхве маған: тағы ал өзіңе ақымақ бақташының жабдығын.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "жабдық"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бақташының"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ақымақ"
+    }
+  ],
+  "timestamp": "2026-09-05T05:48:53.902520343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Яақов Лаванға: «Әйелімді бер, өйткені күндерім толды, мен оған кірейін», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яақов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Лаванға"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "бер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әйелімді"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "әйелімді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "толды"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндерім"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "кірейін"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:16.565214037Z",
+  "model": "glm-5.3"
+}

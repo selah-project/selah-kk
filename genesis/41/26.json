@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Жеті семіз сиыр — жеті жыл ⟨олар⟩; және жеті жақсы масақ — жеті жыл ⟨олар⟩; түс бір ⟨ол⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "сиыр"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "семіз"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨олар⟩"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "және жеті"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "масақтар"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨олар⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "түс"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T01:31:18.229056686Z",
+  "model": "glm-5.3"
+}

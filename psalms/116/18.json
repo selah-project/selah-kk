@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 116,
+  "translation": "Анттарымды Яхвеге өтеймін — енді, оның бүкіл халқының алдында.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "анттарымды"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "өтеймін"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "נא",
+      "gloss": "енді"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "халқының"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:50.568235282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Ал егер тазаруынан кейін нетек теріде жайылып өссе —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "жайылу"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "жайылып өссе"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "нетек"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "теріде"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кейін"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "тазаруының"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:37.954949326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Бұл іс Элохимнің көзінде жаман болды, және ол ⟨את⟩ Исраилді соқты.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "жаман болды"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "бұл іс"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "соқты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Исраилді"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилді"
+    }
+  ],
+  "timestamp": "2026-09-05T08:19:32.161930693Z",
+  "model": "glm-5.3"
+}

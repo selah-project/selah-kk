@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 135,
+  "translation": "Себебі Ях Яаковты Өзіне сайлады, Исраилді Өз қазынасына.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковты"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сайлады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Өзіне"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилді"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "Өз қазынасына"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:33.634774618Z",
+  "model": "glm-5.3"
+}

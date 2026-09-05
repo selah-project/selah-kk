@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Сөзін тыя білетін — білімді, рухы салқын адам — түсінгіш адам.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "тыя білетін"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "білімді"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "және салқын"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "түсінгіш"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:34.917481800Z",
+  "model": "glm-5.3"
+}

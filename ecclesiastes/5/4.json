@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Жақсы — ант бермеуің, ант беріп қойып өтемеуіңнен.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-уің (сілтеме)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ант бермеуің"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ант берген"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ант бергеннен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және өтемейтін"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "өтемейтін"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:40.511528617Z",
+  "model": "glm-5.3"
+}

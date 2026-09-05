@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Жиналған қауымның жартысы, қойдан: үш жүз мың, отыз мың, жеті мың бес жүз қой;",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "жартысы"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "қауымның"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "қойдан"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:28:52.549850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және Берианың ұлдары: Хевер және Малкиэл — ол Бирзоттың әкесі.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ... ұлдары"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Берианың"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хевер"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "және Малкиэл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Бирзоттың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:46.813195997Z",
+  "model": "glm-5.3"
+}

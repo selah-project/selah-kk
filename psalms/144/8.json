@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 144,
+  "translation": "Олардың аузы өсек сөйлейді, ал оң қолдары — өтірік оң қол.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "олар"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлейді"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "өсек"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ал оң қолдары"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "оң қол"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "өтірік"
+    }
+  ],
+  "timestamp": "2026-09-05T06:23:58.113629869Z",
+  "model": "glm-5.3"
+}

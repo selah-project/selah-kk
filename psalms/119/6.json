@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Онда ұялмас едім, барлық бұйрықтарыңа қарағанымда.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "онда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ұялмас едім"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "қарағанымда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "бұйрықтарыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:09.360009803Z",
+  "model": "glm-5.3"
+}

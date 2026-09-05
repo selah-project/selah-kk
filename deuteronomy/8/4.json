@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Киімің үстіңнен ескірген жоқ, аяғың ісінген жоқ — осы қырық жыл бойы.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "киімің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ескіген"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "үстіңнен"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "және аяғың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ісінген"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-09-05T02:39:56.383544238Z",
+  "model": "glm-5.3"
+}

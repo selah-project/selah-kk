@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Өгізді бастыруында аузын байлама.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "аузын байлама"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгізді"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "бастыруында"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:28.153466763Z",
+  "model": "glm-5.3"
+}

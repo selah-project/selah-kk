@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Нун оның ұлы, Яһошуа оның ұлы.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһошуа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:20.388291978Z",
+  "model": "glm-5.3"
+}

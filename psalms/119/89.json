@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Мәңгіге, уа Яхве, Сенің сөзің аспандарда орныққан.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Мәңгіге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Сенің сөзің"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "орныққан"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "аспандарда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:09.194282478Z",
+  "model": "glm-5.3"
+}

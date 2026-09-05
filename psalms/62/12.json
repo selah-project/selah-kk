@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 62,
+  "translation": "Бір рет сөйледі Элохим, еки ⟨рет⟩ — мұны естідім: күш — Элохимдікі.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "бір рет"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "еки"
+    },
+    {
+      "surface": "זו",
+      "gloss": "мұны"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "естідім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "яғни"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күш"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимдік"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:38.272803695Z",
+  "model": "glm-5.3"
+}

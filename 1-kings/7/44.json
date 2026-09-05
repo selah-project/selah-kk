@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "және ⟨את⟩ бір теңіз, және ⟨את⟩ теңіздің астындағы он екі өгіз —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "теңіз"
+    },
+    {
+      "surface": "הים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "біреу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "өгіздер"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "өгіздерді"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "הים",
+      "gloss": "теңіздің"
+    }
+  ],
+  "timestamp": "2026-09-05T03:52:28.953367566Z",
+  "model": "glm-5.3"
+}

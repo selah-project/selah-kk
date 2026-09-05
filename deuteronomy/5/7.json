@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Басқа құдайлар сенде Менің жүзімнің алдында болмасын",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "болмасын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болатын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "құдайлар"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзінің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:36:08.974586062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Нафтали тайпасынан — Эйнанның ұлы Аһира.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "Нафталиге"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Аһира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Эйнанның"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:24.052670247Z",
+  "model": "glm-5.3"
+}

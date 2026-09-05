@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Әр жерде Яхвенің көздері жамандықты да, жақсылықты да бақылайды.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздері"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "бақылайды"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "жамандықты"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "жақсылықты да"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:12.188293048Z",
+  "model": "glm-5.3"
+}

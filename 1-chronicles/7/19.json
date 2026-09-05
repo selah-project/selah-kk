@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 7:19",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Шемидағдың ұлдары болды: Аһйан, Шехем, Лихи және Аньям.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "Шемидағдың"
+    },
+    {
+      "surface": "אחין",
+      "gloss": "Аһйан"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "және Шехем"
+    },
+    {
+      "surface": "ולקחי",
+      "gloss": "және Лихи"
+    },
+    {
+      "surface": "ואניעם",
+      "gloss": "және Аньям"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:32.539757463Z",
+  "model": "glm-5.3"
+}

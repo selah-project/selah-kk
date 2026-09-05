@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 81,
+  "translation": "Сенде бөтен құдай болмасын, және бөтен құдайға сыйынба.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болмасын"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "құдай"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "сыйынба"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "құдайға"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:58.775690647Z",
+  "model": "glm-5.3"
+}

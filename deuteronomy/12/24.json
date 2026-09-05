@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Оны жемейсің; жердің үстіне құясың оны судай.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "жейсің оны"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "құясың оны"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "судай"
+    }
+  ],
+  "timestamp": "2026-09-05T02:41:02.276046937Z",
+  "model": "glm-5.3"
+}

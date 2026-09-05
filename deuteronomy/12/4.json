@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Яхве, өздеріңнің Элохиміңе, осылай істемеңдер.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "еме"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "істейсіңдер"
+    },
+    {
+      "surface": "כן",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "өздеріңнің Элохиміңе"
+    }
+  ],
+  "timestamp": "2026-09-05T02:42:08.421293440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Хашум ұлдары — екі жүз жиырма үш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хашум"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "екі жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "және үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:54.648198738Z",
+  "model": "glm-5.3"
+}

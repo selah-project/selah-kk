@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Әр адамның жолы өз көзінде тура, бірақ жүректерді өлшейтіні — Яхве.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "тура"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өз көзінде"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "бірақ өлшейтіні"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "жүректерді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:59.683991758Z",
+  "model": "glm-5.3"
+}

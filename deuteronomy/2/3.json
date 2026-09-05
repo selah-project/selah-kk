@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Жетерлік сендерге осы тауды ⟨את⟩ айналуды; өздеріңе солтүстікке бұрылыңдар.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "жетерлік"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "סב",
+      "gloss": "айналуды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тауды"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тауды"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "бұрылыңдар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өздеріңе"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "солтүстікке"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:23.103397726Z",
+  "model": "glm-5.3"
+}

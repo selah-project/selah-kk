@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Балақ Ципор ұлы Исраилдің эморилерге жасағанының бәрін ⟨көрді⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балақ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Ципор"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бәрін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "неші"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасағанының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "эморилерге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:25:02.977439740Z",
+  "model": "glm-5.3"
+}

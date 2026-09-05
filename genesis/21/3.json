@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Авраһам ⟨את⟩ өз ұлының атын — өзіне туған, Сара оған туған ұлдың атын — Ицхак деп қойды.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ат қойды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ат (ұлының атын)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "атын"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "өз ұлының"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "туған"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    }
+  ],
+  "timestamp": "2026-09-05T01:22:26.329407905Z",
+  "model": "glm-5.3"
+}

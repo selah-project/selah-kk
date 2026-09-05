@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "тоғызыншы Йешуаға, оныншы Шханяһуға.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "Йешуаға"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "тоғызыншы"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "Шханяһуға"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "оныншы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.458538668Z",
+  "model": "glm-5.3"
+}

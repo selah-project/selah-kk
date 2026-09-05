@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Шимон ұлдарының тайпасынан — Аммиһудтың ұлы Шемуел.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "және тайпасынан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиһудтың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:31:09.058034272Z",
+  "model": "glm-5.3"
+}

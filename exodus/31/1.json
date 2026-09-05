@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Және Яхве Мошеге (Мұса) сөйлеп былай деді:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтуды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:51:02.667344324Z",
+  "model": "glm-5.3"
+}

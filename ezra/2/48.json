@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Рецин ұлдары, Некодаһ ұлдары, Газзам ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некодаһ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газзам"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:01.997720426Z",
+  "model": "glm-5.3"
+}

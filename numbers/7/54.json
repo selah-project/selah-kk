@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Сегізінші күні Менаше ұлдарының көсемі Гамлиел, Педаһцур ұлы.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "сегізінші"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "көсем"
+    },
+    {
+      "surface": "лבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педаһ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "цур"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:29.174728405Z",
+  "model": "glm-5.3"
+}

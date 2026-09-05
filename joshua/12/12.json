@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Эглонның патшасы — біреу; Гезердің патшасы — біреу.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Эглонның"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "біреу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезердің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "біреу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:23.054049849Z",
+  "model": "glm-5.3"
+}

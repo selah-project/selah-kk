@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "және Зевадья, және Мешуллам, және Хизқи, және Хавер.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "және Зевадья"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "және Мешуллам"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "және Хизқи"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "және Хавер"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:53.159892527Z",
+  "model": "glm-5.3"
+}

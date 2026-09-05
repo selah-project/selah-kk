@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Күннің астында жасалған ⟨את⟩ бүкіл істерді көрдім, және мына — бәрі тұман және желдің азабы.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүкіл істерді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "істерді"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "жасалған"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күннің"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және мына"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "тұман"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "және азабы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "желдің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:35.341693295Z",
+  "model": "glm-5.3"
+}

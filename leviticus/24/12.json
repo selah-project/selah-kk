@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Оны қамауға алды — Яхвенің аузы бойынша оларға түсіндірілуі үшін.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "қамауға алды"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "қамауда"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "түсіндірілуі"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:22:09.421777381Z",
+  "model": "glm-5.3"
+}

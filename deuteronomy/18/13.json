@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Яхве Элохимыңмен бірге тұтас бол.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "тұтас"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бол"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимыңмен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:44:29.471861095Z",
+  "model": "glm-5.3"
+}

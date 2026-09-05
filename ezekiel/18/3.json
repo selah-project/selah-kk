@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Тірімін, — Адонай Яхвенің ныспысы, — бұдан былай бұл мақал сендерге Исраелде болмайды.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ныспысы"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    },
+    {
+      "surface": "משל",
+      "gloss": "мақал айту"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "мақал"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраелде"
+    }
+  ],
+  "timestamp": "2026-09-05T05:15:47.468053576Z",
+  "model": "glm-5.3"
+}

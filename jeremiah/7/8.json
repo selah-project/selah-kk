@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Міне, сендер өздеріңе жалған сөздерге сеніп, ⟨пайда көрмейсіңдер⟩",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "міне"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сендер"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "сенесіңдер"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өздеріңе"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ға"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздеріне"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "жалған"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "емес"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "пайда"
+    }
+  ],
+  "timestamp": "2026-09-05T04:44:13.112467094Z",
+  "model": "glm-5.3"
+}

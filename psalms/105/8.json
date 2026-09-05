@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "Естеді мәңгілікке өз одағын — сөзді, қайсын мың буынға бұйырған.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Естеді"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгілікке"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "өз одағын"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзді"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырған"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "דור",
+      "gloss": "буынға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:23.458437387Z",
+  "model": "glm-5.3"
+}

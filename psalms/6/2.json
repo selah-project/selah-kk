@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Яхве, ашуыңмен мені сөкпе, қаһарыңмен мені тәрбиелеме.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ашуыңмен"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "мені"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "сөкпе"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "қаһарыңмен"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "мені"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "тәрбиелеме"
+    }
+  ],
+  "timestamp": "2026-09-05T05:50:52.367797211Z",
+  "model": "glm-5.3"
+}

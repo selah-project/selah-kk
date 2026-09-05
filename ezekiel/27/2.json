@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ал сен, адам баласы, Цор туралы жоқтау айт",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ал сен"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "שא",
+      "gloss": "көтер"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "жоқтау"
+    }
+  ],
+  "timestamp": "2026-09-05T05:20:16.663115854Z",
+  "model": "glm-5.3"
+}

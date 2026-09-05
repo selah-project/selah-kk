@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Оны аузыма тиді де, айтты: Мынау ерніңе тиді — ісің кетті, күнаң жабылды.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "тиді"
+    },
+    {
+      "surface": "על",
+      "gloss": "-не"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузым"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "тиді"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "על",
+      "gloss": "-не"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ерніңе"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "кетті"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ісің"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "күнаң"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "жабылды"
+    }
+  ],
+  "timestamp": "2026-09-05T04:21:00.688705774Z",
+  "model": "glm-5.3"
+}

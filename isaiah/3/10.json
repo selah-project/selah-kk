@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Айтқыз адалға: ⟨оған⟩ жақсы, себебі өз істерінің жемісін ол жейтін.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "айтқыз"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адалға"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кі"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "пרי",
+      "gloss": "жемісін"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "өз істерінің"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жейтін"
+    }
+  ],
+  "timestamp": "2026-09-05T04:18:55.436019620Z",
+  "model": "glm-5.3"
+}

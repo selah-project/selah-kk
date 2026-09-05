@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "«Қашанға дейін, Яхве, өзіңді мәңгі жасырасың? Ашуың от сияқты жанбақсың?»",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "מה",
+      "gloss": "қашанға"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "жасырасың"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "жанбақсың"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сияқты"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "асуың"
+    }
+  ],
+  "timestamp": "2026-09-05T09:20:36.862228935Z",
+  "model": "glm-5.3"
+}

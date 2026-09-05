@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Шуфамға — шуфамдықтар руы, Хуфамға — хуфамдықтар руы.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "Шуфамға"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "руы"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "шуфамдықтар"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "Хуфамға"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "руы"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "хуфамдықтар"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:06.934214085Z",
+  "model": "glm-5.3"
+}

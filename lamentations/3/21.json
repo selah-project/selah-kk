@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Бұны жүрегіме қайтарамын, сондықтан үміт күтемін.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Бұны"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "қайтарамын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрегіме"
+    },
+    {
+      "surface": "על",
+      "gloss": "сондықтан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨сондықтан⟩"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "үміт күтемін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:08.327558337Z",
+  "model": "glm-5.3"
+}

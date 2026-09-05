@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Маллухи ⟨үйінен⟩ Йонатан, Шевания ⟨үйінен⟩ Йосеф;",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "Маллухи ⟨үйінен⟩"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "Шевания ⟨үйінен⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:51.929258697Z",
+  "model": "glm-5.3"
+}

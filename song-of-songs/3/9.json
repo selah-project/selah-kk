@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Паланкин жасады өзіне Шеломо (Сүлеймен) патша — Леванон (Ливан) ағаштарынан.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "паланкин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзіне"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "ағаштарынан"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Леванонның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:25.624207243Z",
+  "model": "glm-5.3"
+}

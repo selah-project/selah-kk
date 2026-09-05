@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": " Рахелдің ұлдары: Йосеф және Биньямин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелдің"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Биньямин"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:37.400056189Z",
+  "model": "glm-5.3"
+}

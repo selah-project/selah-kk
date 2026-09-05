@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Және мұра оған бауырларының арасында болмайды: Яхве — ⟨Ол⟩ Оның мұрасы, оған айтқандай.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "және мұра"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болмайды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бауырларының"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ол"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "мұрасы"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "айтқандай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:45:40.338995964Z",
+  "model": "glm-5.3"
+}

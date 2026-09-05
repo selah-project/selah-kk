@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Сақтан өзің, тастама ⟨את⟩ Левіді — барлық күндеріңде жеріңде.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "сақтан"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзің"
+    },
+    {
+      "surface": "פן",
+      "gloss": "тастап алма"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "тастама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Левіді"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левіді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "күндеріңде"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "жеріңде"
+    }
+  ],
+  "timestamp": "2026-09-05T02:41:33.380149340Z",
+  "model": "glm-5.3"
+}

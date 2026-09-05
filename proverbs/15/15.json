@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Мұқтаджанның күндерінің бәрі жаман, ал жақсы жүрек — үнемі мәре.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндерінің"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мұқтаджанның"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ал жақсы"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "мәре"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:53.646483252Z",
+  "model": "glm-5.3"
+}

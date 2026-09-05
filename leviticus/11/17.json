@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және ⟨את⟩ кіші үкіні, және ⟨את⟩ су қарғасын, және ⟨את⟩ үкіні",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "кіші үкіні"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кіші үкіні"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "су қарғасын"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "су қарғасын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "үкіні"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "үкіні"
+    }
+  ],
+  "timestamp": "2026-09-05T02:03:16.698902930Z",
+  "model": "glm-5.3"
+}

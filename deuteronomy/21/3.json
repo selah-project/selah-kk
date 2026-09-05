@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "және болады: өлікке жақын қала — сол қаланың қарттары еш жұмыс істелмеген, бұғау тартпаған сиыр қашырын алады.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "және болады"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "өлікке"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "алады"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "қарттары"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қаланың"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "қашырын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сиыр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "жұмыс істелмеген"
+    },
+    {
+      "surface": "בה",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "тартпаған"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "бұғаумен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:45:04.372250677Z",
+  "model": "glm-5.3"
+}

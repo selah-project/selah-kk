@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Уриа коһен Аҳаз патшаның бұйырғанының бәріне сай істеді.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "істеді"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Уриа"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бәріне сай"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырғанының"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аҳаз"
+    }
+  ],
+  "timestamp": "2026-09-05T04:14:27.603751328Z",
+  "model": "glm-5.3"
+}

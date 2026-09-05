@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Барлығы Невуҳаднеццар патшаның басына келді.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "על",
+      "gloss": "...дың басына"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Невуҳаднеццар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-09-05T07:53:57.293950222Z",
+  "model": "glm-5.3"
+}

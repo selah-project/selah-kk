@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Аш, Ливан, есіктеріңді, және от сенің кедрлеріңді жесін.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "аш"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "есіктеріңді"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "және жесін"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "сенің кедрлеріңді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:48:51.809642763Z",
+  "model": "glm-5.3"
+}

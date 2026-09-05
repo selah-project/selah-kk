@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Әншілер: Асафтың ұлдары — жүз жиырма сегіз.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "Әншілер"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафтың"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:44:24.899965395Z",
+  "model": "glm-5.3"
+}

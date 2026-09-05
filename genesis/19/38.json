@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Кіші қызы да ұл бала туып, есімін Бен-Амми қойды — ол бүгінге дейін аммон ұлдарының әкесі.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "кіші қызы да"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туып"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл бала"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "есімін"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Амми"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "аммон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгінге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:29.183695813Z",
+  "model": "glm-5.3"
+}

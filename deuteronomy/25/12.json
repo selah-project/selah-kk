@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "онда оның алақанын ⟨את⟩ кесіп таста; көзің оны аяған болмасын.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "кесіп таста"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алақанын"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "оның алақанын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "аяған болмасын"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "көзің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:22.707173718Z",
+  "model": "glm-5.3"
+}

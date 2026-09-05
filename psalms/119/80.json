@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Жүрегім қағидаларыңда бүтін болсын, ұялмайын деп.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрегім"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "бүтін"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "қағидаларыңда"
+    },
+    {
+      "surface": "למען",
+      "gloss": "оны үшін"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ұяламын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:05.477843828Z",
+  "model": "glm-5.3"
+}

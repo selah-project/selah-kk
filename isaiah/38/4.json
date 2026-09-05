@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Және Яхвенің сөзі Йешайаһуға келіп айтылды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешайаһуға"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтылды"
+    }
+  ],
+  "timestamp": "2026-09-05T04:30:06.062154406Z",
+  "model": "glm-5.3"
+}

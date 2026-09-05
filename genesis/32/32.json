@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Және оған күн шықты, Пенуэлден өткенде, ал ол ақсап жүрді санына сүйеніп.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "өткенде"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өткен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пенуэлден"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Пенуэл"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал ол"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ақсап жүрді"
+    },
+    {
+      "surface": "על",
+      "gloss": "сүйеніп"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "санына"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:04.845758684Z",
+  "model": "glm-5.3"
+}

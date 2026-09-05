@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бір өгіз, қора баласы, бір қошқар, бір тоқты, жасы бір жылдағы, өртеу құрбанына.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "өгіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "баласы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "қораның"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "тоқты"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "жылдың"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өртеу құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:56.743615548Z",
+  "model": "glm-5.3"
+}

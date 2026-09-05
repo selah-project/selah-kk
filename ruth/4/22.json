@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Овед ⟨את⟩ Ишайды туғызды, Ишай ⟨את⟩ Давидті туғызды.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "және Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишайды"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишайды"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "және Ишай"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидті"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:52:37.151160005Z",
+  "model": "glm-5.3"
+}

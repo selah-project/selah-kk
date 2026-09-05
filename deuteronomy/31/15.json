@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Және Яхве шатырда көрінді бұлт бағанында; және бұлт бағаны шатырдың есігі үстінде тұрды.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "және көрінді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "шатырда"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "бағанда"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "бұлт"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "және тұрды"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "баған"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "бұлттың"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "есік"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "шатырдың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:38.686466459Z",
+  "model": "glm-5.3"
+}

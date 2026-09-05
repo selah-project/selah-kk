@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Және Махирге ⟨את⟩ Гильаданы бердім.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "және Махирге"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "бердім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гильаданы"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гильаданы"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:23.757800202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Перец ұлдарынан; бірінші айға арналған барлық әскер әміршілерінің басшысы.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "басшысы"
+    },
+    {
+      "surface": "лכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "әміршілерінің"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "әскердің"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айға"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "бірінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:45.465446153Z",
+  "model": "glm-5.3"
+}

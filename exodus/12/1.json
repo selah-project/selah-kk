@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Яхве Моше (Мұса) мен Аһаронға Мицрайым жерінде айтты:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ға"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және …ға"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронға"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайым"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T01:42:13.367255712Z",
+  "model": "glm-5.3"
+}

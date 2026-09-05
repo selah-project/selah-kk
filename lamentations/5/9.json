@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Шөл семсерінің ⟨алдынан⟩ өз жанымызбен нанымызды әкелдік.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "өз жанымызбен"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "әкелдік"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "нанымызды"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "семсері"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "шөл"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:48.585980375Z",
+  "model": "glm-5.3"
+}

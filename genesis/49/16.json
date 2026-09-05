@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 49,
+  "translation": "Дан өз халқын соттайда, Исраил тайпаларының біріндей.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "соттайда"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз халқын"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "біріндей"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "тайпаларының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T01:36:20.991557225Z",
+  "model": "glm-5.3"
+}

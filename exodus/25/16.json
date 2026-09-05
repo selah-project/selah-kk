@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Және сандықтың ішіне ⟨את⟩ куәлікті қоясың — саған беретін куәлікті.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "және қоясың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ішіне"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандықтың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "куәлікті"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "куәлікті"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сы"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "беретін"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:49:20.972748546Z",
+  "model": "glm-5.3"
+}

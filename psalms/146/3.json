@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 146,
+  "translation": "Сенім қылмаңдар ақсүйектерге, адам ұлына — құтқару жоқ оған.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "қылмаңдар"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "сенім"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ақсүйектерге"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ұлына"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "құтқару"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:21.756642160Z",
+  "model": "glm-5.3"
+}

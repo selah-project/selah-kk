@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Осы алты нәрсені Яхве жек көреді, ал жетіншісі — жанына жиіркеніш:",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "жек көреді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ал жеті"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "жиіркеніш"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанына"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:35.053632225Z",
+  "model": "glm-5.3"
+}

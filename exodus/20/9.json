@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Алты күн еңбек етесің және барлық ісіңді істейсің,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "еңбек етесің"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "және істейсің"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ісіңді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:46:03.128830380Z",
+  "model": "glm-5.3"
+}

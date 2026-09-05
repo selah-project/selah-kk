@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Иссашардан — Нетанел, Цуардың ұлы.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Иссашардан"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуардың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:12:48.403689070Z",
+  "model": "glm-5.3"
+}

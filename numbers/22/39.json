@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Біләм Балакпен бірге жүрді, және олар Қирят-Хуцотқа келді.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "жүрді"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Біләм"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Қирят"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "Хуцот"
+    }
+  ],
+  "timestamp": "2026-09-05T02:25:22.382822282Z",
+  "model": "glm-5.3"
+}

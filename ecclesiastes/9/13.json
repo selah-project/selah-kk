@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Бұл даналықты да күннің астында көрдім, және ол маған ұлы ⟨болып⟩ көрінді.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": " даналықты"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күннің"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "және ұлы"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:31.571570009Z",
+  "model": "glm-5.3"
+}

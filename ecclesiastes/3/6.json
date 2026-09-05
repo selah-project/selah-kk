@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Іздеу уақыты, және жоғалту уақыты; сақтау уақыты, және лақтырып тастау уақыты.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "уақыты"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "іздеу"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыты"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "жоғалту"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақыты"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "сақтау"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыты"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "лақтырып тастау"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:10.475721155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Биньямин, Маллух, Шемария.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллух"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шемария"
+    }
+  ],
+  "timestamp": "2026-09-05T08:02:47.524360832Z",
+  "model": "glm-5.3"
+}

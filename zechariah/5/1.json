@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Одан әрі бұрылдым да, көзімді көтердім және көрдім — әне, ұшып жүрген жазба.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "бұрылдым"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "көтердім"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзімді"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "әне"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "жазба"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "ұшып жүрген"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:16.923391258Z",
+  "model": "glm-5.3"
+}

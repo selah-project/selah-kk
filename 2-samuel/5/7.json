@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және Давид ⟨את⟩ Цион бекінісін алды — ⟨ол⟩ Давид қаласы.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "алды"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цион бекінісін"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "бекінісін"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидтің"
+    }
+  ],
+  "timestamp": "2026-09-05T03:38:47.699043974Z",
+  "model": "glm-5.3"
+}

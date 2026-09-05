@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Йецерге — Йицри руы; Шиллемге — Шиллеми руы.",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "Йецерге"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "руы"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "Йицри"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "Шиллемге"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "руы"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "Шиллеми"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:03.642449941Z",
+  "model": "glm-5.3"
+}

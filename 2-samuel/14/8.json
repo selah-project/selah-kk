@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Патша әйелге айтты: «Үйіңе бар, мен сен туралы бұйрық беремін.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "үйіңе"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "бұйрық беремін"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сен туралы"
+    }
+  ],
+  "timestamp": "2026-09-05T03:42:11.674195333Z",
+  "model": "glm-5.3"
+}

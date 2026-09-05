@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және егер бет жағынан басының шашы түсіп кетсе — ол маңдайында таз, ол таза.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "және егер"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "шегінен"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "бетінің"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "түсіп кетсе"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "басының шашы"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "маңдайында таз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:10.255203596Z",
+  "model": "glm-5.3"
+}

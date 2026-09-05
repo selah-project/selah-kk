@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Бірақ етті — жанымен, яғни қанымен — жемеңдер.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бірақ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "етті"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "жанымен"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "қанымен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жемеңдер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:17:24.791541410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ол тұрды және кетті, ал Йонатан қалаға келді.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "кетті"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ал Йонатан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қалаға"
+    }
+  ],
+  "timestamp": "2026-09-05T03:30:43.599622398Z",
+  "model": "glm-5.3"
+}

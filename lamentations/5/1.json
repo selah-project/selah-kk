@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Есіңде ұста, Яхве, бізге не болғанын; қара да ⟨את⟩ біздің намысымызды көр.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Есіңде ұста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болғанын"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "қара"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "да көр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "намысымызды"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "біздің намысымызды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:55.687069405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Таза құстың бәрін жеңіздер.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "…ның бәрін"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "құстың"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "таза"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жеңіздер"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:27.467961141Z",
+  "model": "glm-5.3"
+}

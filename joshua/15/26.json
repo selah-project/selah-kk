@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Амам, және Шема, және Моладаһ,",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "Амам"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "және Шема"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "және Моладаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:53.814328476Z",
+  "model": "glm-5.3"
+}

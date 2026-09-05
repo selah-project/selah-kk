@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Моше айтты: «Мына сөз — Яхве бұйырған: орындаңдар, және Яхвенің ұлылығы сендерге көрінсін».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "זה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "орындаңдар"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "көрінсін"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ұлылығы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:34.773905760Z",
+  "model": "glm-5.3"
+}

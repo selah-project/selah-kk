@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Және мен оларға айттым: «Яхвенің сөзі маған болды, былай деп:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Және айттым"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:18:43.403252692Z",
+  "model": "glm-5.3"
+}

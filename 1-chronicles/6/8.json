@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Элқана оның ұлы, Эвиасаф оның ұлы, Ассир оның ұлы.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "Эвиасаф"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "Ассир"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:02.750963437Z",
+  "model": "glm-5.3"
+}

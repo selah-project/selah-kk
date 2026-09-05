@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Ноах шарапынан оянды және кіші ұлының оған не істегенін ⟨את⟩ білді.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "оянды"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "шарапынан"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "білді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кіші ұлының оған не істегенін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істегенін"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлының"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "кіші"
+    }
+  ],
+  "timestamp": "2026-09-05T07:20:28.284877810Z",
+  "model": "glm-5.3"
+}

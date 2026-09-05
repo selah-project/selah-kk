@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Содан Даниел патшамен сөйледі: «Патша, мәңгі өмір сүр!»",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "содан"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-мен"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "өмір сүр"
+    }
+  ],
+  "timestamp": "2026-09-05T07:57:16.632798678Z",
+  "model": "glm-5.3"
+}

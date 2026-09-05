@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 145,
+  "translation": "Салтанатыңның ұлылығын ⟨they shall speak⟩ айтады, және құдіретің туралы сөйлейді.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ұлылығын"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "патшалығыңның"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "және құдіретің"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "сөйлейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:23:49.842947900Z",
+  "model": "glm-5.3"
+}

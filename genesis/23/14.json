@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Және Эфрон Авраһамға жауап берді, оған былай деп:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жауап берді"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Эфрон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраһамды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһамды"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:58.916310254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Қоҳелет қалау сөздерін табуға ізде­ді, және жазылғаны тура — ақиқат сөздер.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "іздеді"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Қоҳелет"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "табуға"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздерін"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "қалау"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "және жазылғаны"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "тура"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздер"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ақиқат"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:30.818454777Z",
+  "model": "glm-5.3"
+}

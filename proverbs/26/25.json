@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Дауысын жылы еткен кезде оған сенбе, себебі жүрегінде жеті жеккөрініш ⟨бар⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "жылы еткен"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "дауысын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "сенбе"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "жеккөрініш"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "жүрегінде"
+    }
+  ],
+  "timestamp": "2026-09-05T09:00:41.808251372Z",
+  "model": "glm-5.3"
+}

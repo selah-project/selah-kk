@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Хамның ұлдары: Куш, Мицрайым, Пут және Кнаан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хамның"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "және Мицрайым"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "және Кнаан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:45:27.401333025Z",
+  "model": "glm-5.3"
+}

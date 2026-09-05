@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 51,
+  "translation": "Айғай дауысы ⟨Вавилоннан⟩, және үлкен қирау ⟨Касдим жерінен⟩!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дауыс"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "айғай"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Вавилоннан"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "және қирау"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерінен"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Касдим"
+    }
+  ],
+  "timestamp": "2026-09-05T05:07:51.550101877Z",
+  "model": "glm-5.3"
+}

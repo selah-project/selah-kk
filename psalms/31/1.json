@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Хормейстерге. Дәуіттің мәзмұры.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Хормейстерге"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмұры"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Дәуіттің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:57:00.537386382Z",
+  "model": "glm-5.3"
+}

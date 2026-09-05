@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Бинйамин тайпасы үшін — Рафу ұлы Палти.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "тайпасы үшін"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинйамин"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Палти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Рафу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:14.617361755Z",
+  "model": "glm-5.3"
+}

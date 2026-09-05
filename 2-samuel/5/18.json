@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Пелиштилер келді және Рефаим алқабында жайылды.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Пелиштилер"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "жайылды"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "алқабында"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаим"
+    }
+  ],
+  "timestamp": "2026-09-05T03:38:35.275466484Z",
+  "model": "glm-5.3"
+}

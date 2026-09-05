@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Микаһтың ұлдары: Питон, Мелек және Таһреа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микаһтың"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "Мелек"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "Таһреа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:24.105567827Z",
+  "model": "glm-5.3"
+}

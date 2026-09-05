@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "енді сыртта, енді көшелерде, әр бұрылыстың қасында аңдып жүр",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "енді"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "сыртта"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "енді"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "көшелерде"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "және қасында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "бұрылыстың"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "аңдып жүр"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:52.271627532Z",
+  "model": "glm-5.3"
+}

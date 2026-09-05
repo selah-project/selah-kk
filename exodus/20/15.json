@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Ұрлама.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ұрлама"
+    }
+  ],
+  "timestamp": "2026-09-05T01:44:52.390642077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және Яхве айтты: «Ашулануың ⟨саған⟩ жақсы ма?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "жақсы ма"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ашулану"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨саған⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T05:39:13.178825680Z",
+  "model": "glm-5.3"
+}

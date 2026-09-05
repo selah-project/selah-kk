@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 104,
+  "translation": "Жарықты киімдей оранған, аспанды шатырдай жайған.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "оранған"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарықты"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "киімдей"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "жайған"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "аспанды"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "шатырдай"
+    }
+  ],
+  "timestamp": "2026-09-05T06:14:40.171944731Z",
+  "model": "glm-5.3"
+}

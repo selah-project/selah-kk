@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Сен тәрізді ешкім жоқ, Яхве; ұлы Сен, және ұлы атың құдіретпен.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "сен тәрізді ешкім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "және ұлы"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "атың"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "құдіретпен"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:56.888484698Z",
+  "model": "glm-5.3"
+}

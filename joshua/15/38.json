@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "және Дилеан, және һаМицпе, және Йоктеел",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "және Дилеан"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "және һаМицпе"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "және Йоктеел"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:53.599602028Z",
+  "model": "glm-5.3"
+}

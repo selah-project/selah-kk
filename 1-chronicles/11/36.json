@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Хефер мекераттық, Ахия пелондық.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "мекераттық"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахия"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "пелондық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:22.788438302Z",
+  "model": "glm-5.3"
+}

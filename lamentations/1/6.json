@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 1:6",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Цийон қызының бүкіл сәні шығып кетті; әмірлері ешкілердей болды — жайылым таппады және қуушының алдында күшсіз кетті.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызының"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הדרה",
+      "gloss": "сәні"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "әмірлері"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ешкілердей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "таппады"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "жайылым"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "кетті"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "күшсіз"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күш"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "רודף",
+      "gloss": "қуушының"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:37.621014347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 83,
+  "translation": "Дауылыңмен осылай қуып, бораныңмен оларды үркіт.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "қуып"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "дауылыңмен"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "бораныңмен"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "үркіт"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:41.759080860Z",
+  "model": "glm-5.3"
+}

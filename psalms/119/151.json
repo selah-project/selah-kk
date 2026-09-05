@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Жақынсың Сен, Яхве, және барлық өсиеттерің шындық.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "жақынсың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және барлық"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "өсиеттерің"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "шындық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:17.609727411Z",
+  "model": "glm-5.3"
+}

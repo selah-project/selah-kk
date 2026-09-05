@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Жүсіп Пароға айтты: Пароның түсі — бір ⟨ол⟩; Элохим ⟨את⟩ істейтінін Пароға хабарлады.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Жүсіп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "түс"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пароның"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "істейтінін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "н"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істейтін"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "хабарлады"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Пароға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:31:18.228742236Z",
+  "model": "glm-5.3"
+}

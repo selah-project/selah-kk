@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Ол — Яхве, біздің Элохимі; ⟨барлық⟩ жер жүзінде ⟨оның⟩ үкімдері.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "біздің Элохимі"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер жүзінде"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "оның үкімдері"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:24.775137308Z",
+  "model": "glm-5.3"
+}

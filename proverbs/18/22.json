@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Әйел тапқан ⟨адам⟩ жақсылық тапты, және Яхвенің разылығын алды.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "және алды"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "разылық"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:58.357470548Z",
+  "model": "glm-5.3"
+}

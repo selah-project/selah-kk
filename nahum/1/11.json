@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 1:11",
+  "book": "nahum",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Сенен шықты Яхвеге қарсы жамандық ойлаушы — беліял кеңес беруші.",
+  "tokens": [
+    {
+      "surface": "ממך",
+      "gloss": "сенен"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ойлаушы"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "кеңес беруші"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "беліял"
+    }
+  ],
+  "timestamp": "2026-09-05T05:41:30.019311187Z",
+  "model": "glm-5.3"
+}

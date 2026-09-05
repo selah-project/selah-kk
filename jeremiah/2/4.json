@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Тыңдаңдар Яхвенің сөзін, Яаковтың үйі және Исраил үйінің барлық рулары!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "тыңдаңдар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтың"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және барлық"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "рулары"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінің"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T04:41:39.338338029Z",
+  "model": "glm-5.3"
+}

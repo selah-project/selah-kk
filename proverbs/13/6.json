@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Әділдік тұтақай жолды қорғайды, ал жамандық күнәні қиратады.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "әділдік"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "қорғайды"
+    },
+    {
+      "surface": "תם",
+      "gloss": "тұтақай"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолды"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "ал жамандық"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "қиратады"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "күнәні"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:31.332293711Z",
+  "model": "glm-5.3"
+}

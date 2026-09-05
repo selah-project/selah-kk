@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Олар ⟨оның⟩ қолын есіне алмады — дұшпан қолынан құтқарған күнді.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "есіне алмады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қолын"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "қолын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнді"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "құтқарған"
+    },
+    {
+      "surface": "מני",
+      "gloss": "қолынан"
+    },
+    {
+      "surface": "צר",
+      "gloss": "дұшпан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:23.970080459Z",
+  "model": "glm-5.3"
+}

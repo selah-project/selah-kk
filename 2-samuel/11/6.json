@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Дәуіт Йоавқа жіберді: «Урияһ хеттіті маған жібер», — деп; Йоав Урияһты Дәуітке жіберді.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Дәуіт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жібер"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урияһты"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урияһ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хетті"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урияһты"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урияһ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Дәуіт"
+    }
+  ],
+  "timestamp": "2026-09-05T03:40:43.764001840Z",
+  "model": "glm-5.3"
+}

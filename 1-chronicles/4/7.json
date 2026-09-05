@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Хелаһтың ұлдары — Церет, Йицһар және Этнан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хелаһтың"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Церет"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Йицһар"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "және Этнан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:51.396303578Z",
+  "model": "glm-5.3"
+}

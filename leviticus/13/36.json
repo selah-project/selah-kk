@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және коһен оны қарайды, және міне, нетек теріде жайылған — коһен сары шашты іздемейді: ол лас.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "оны қарайды"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және міне"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "жайылған"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "нетек"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "теріде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "іздемейді"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "сары"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "лас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:37.955109415Z",
+  "model": "glm-5.3"
+}

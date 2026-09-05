@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Өйткені сөзсіз ⟨болашағы⟩ бар, және үмісің қиылмайды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אם",
+      "gloss": "сөзсіз"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "соңы"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "және үмісің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "қиылады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:56.374619275Z",
+  "model": "glm-5.3"
+}

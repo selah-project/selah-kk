@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Өйткені менің арқамда күндерің көбейеді, саған өмір жылдары қосылады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менің арқамда"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "көбейеді"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "күндерің"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "қосылады"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "жылдары"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:47.510993474Z",
+  "model": "glm-5.3"
+}

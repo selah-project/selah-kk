@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "«Кім аңқау болса, осында бұрылсын!» Жүрегі кемге ол былай дейді:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "аңқау"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "бұрылсын"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "осында"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "кем"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "былай дейді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:55.862563119Z",
+  "model": "glm-5.3"
+}

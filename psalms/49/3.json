@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 49,
+  "translation": "Әрі адам балалары, әрі ер ұлдары — бірге бай мен кедей.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "әрі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "әрі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ер"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "бай"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "мен кедей"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:29.736374465Z",
+  "model": "glm-5.3"
+}

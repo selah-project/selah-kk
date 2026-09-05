@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Сапар шықты Цалмонанадан, лагер құрды Пунонда.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "сапар шықты"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "Цалмонанадан"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "Пунонда"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:39.272273212Z",
+  "model": "glm-5.3"
+}

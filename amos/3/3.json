@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Екеу бірге жүре ме, егер кездісіп алмаса?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "жүре ме"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екеу"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "егер... алмаса"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "кездісіп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:35:28.340446805Z",
+  "model": "glm-5.3"
+}

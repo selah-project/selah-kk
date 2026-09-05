@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Ұлым, жүрегің дана болса, менің жүрегім де қуанады — мен өзім.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "дана болса"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегің"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "қуанады"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрегім"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен өзім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:19.249487724Z",
+  "model": "glm-5.3"
+}

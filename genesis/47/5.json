@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 47,
+  "translation": "Айтты Паро Йосефке, былай деп: «Әкең мен бауырларың саған келді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефке"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "әкең"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "мен бауырларың"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T08:54:45.959169390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Михмас адамдары — жүз жиырма екі.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Михмастың"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:04.790738081Z",
+  "model": "glm-5.3"
+}

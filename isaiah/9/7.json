@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Адонай сөз жіберді Яаковқа, және ол Исраилге түсті.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Яаковқа"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "және түсті"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраилге"
+    }
+  ],
+  "timestamp": "2026-09-05T04:23:17.672532646Z",
+  "model": "glm-5.3"
+}

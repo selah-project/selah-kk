@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Құлыпталған бақша — әпкем, қалыңдығым; құлыпталған бұлақ, мөрленген қайнар.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "бақша"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "құлыпталған"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "әпкем"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "қалыңдығым"
+    },
+    {
+      "surface": "גל",
+      "gloss": "бұлақ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "құлыпталған"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "қайнар"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "мөрленген"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:17.561276021Z",
+  "model": "glm-5.3"
+}

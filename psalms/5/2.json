@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Сөздерімді құлақ түр, Яхве, күбірлеуімді ұқ.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "сөздерімді"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "құлақ түр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ұқ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "күбірлеуімді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:50:38.535790235Z",
+  "model": "glm-5.3"
+}

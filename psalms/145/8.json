@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 145,
+  "translation": "Мейірімді және рақымды Яхве, ашуы ⟨ösе⟩ баяу және хеседі ұлы.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Мейірімді"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "және рақымды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "баяу"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ашуы"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "және ұлы"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:53.735238521Z",
+  "model": "glm-5.3"
+}

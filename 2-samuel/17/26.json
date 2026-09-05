@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Исраил мен Авшалом Гилеад жерінде лагер құрды.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеад"
+    }
+  ],
+  "timestamp": "2026-09-05T03:43:57.719398731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 127,
+  "translation": "Мына, ұлдар — Яхвенің мұрасы, жүктің жемісі — сыйақы.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мұрасы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдар"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "сыйақы"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "жемісі"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "жүктің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:40.044313343Z",
+  "model": "glm-5.3"
+}

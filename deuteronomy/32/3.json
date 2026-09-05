@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Себебі мен Яхвенің есімін шақырамын, біздің Элохимге ұлылық беріңдер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "שם",
+      "gloss": "есімін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "шақырамын"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "беріңдер"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ұлылық"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "біздің Элохимге"
+    }
+  ],
+  "timestamp": "2026-09-05T08:42:08.189897829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ал егер апат болса, онда жанды жанның орнына бересің.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "апат"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "бересің"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:02.257831079Z",
+  "model": "glm-5.3"
+}

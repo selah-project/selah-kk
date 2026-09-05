@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Халықтан сонда шамамен үш мың адам шықты, және Ай адамдарының алдынан қашты.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "шамамен үш"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "қашты"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "адамдарының"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ай"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:03.541787011Z",
+  "model": "glm-5.3"
+}

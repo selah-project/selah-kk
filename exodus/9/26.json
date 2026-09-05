@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Тек Гошен жерінде, онда Исраил ұлдары бар жерде, бұршақ болған жоқ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "бұршақ"
+    }
+  ],
+  "timestamp": "2026-09-05T01:41:00.759933198Z",
+  "model": "glm-5.3"
+}

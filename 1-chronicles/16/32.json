@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Күркіресін теңіз және оның толысы; қуансын дала және ондағының бәрі.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "күркіресін"
+    },
+    {
+      "surface": "הים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "және оның толысы"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "қуансын"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "дала"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және бәрі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:25.666559885Z",
+  "model": "glm-5.3"
+}

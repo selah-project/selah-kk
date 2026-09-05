@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 139,
+  "translation": "және көр: егер менде қасірет жолы болса, мені мәңгілік жолға баста.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "және көр"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жол"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "қасірет"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менде"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "мені баста"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолға"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгілік"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:37.402266192Z",
+  "model": "glm-5.3"
+}

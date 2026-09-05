@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Менаше тайпасының санақтағылары отыз екі мың екі жүз ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "санақтағылары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "тайпасының"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "екі жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:30.353752083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Жетекшіге — Яхвенің құлы Давидтің ⟨өлеңі⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Жетекшіге"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "құлы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:58:26.866770841Z",
+  "model": "glm-5.3"
+}

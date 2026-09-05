@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ешкінің бір текесі күнә құрбанына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "теке"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкінің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:30.916945518Z",
+  "model": "glm-5.3"
+}

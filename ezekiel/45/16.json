@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 45,
+  "translation": "Елдің бүкіл халқы осы салыққа қатысады — Исраилдің әміріне.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "елдің"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болады"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "салық"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "әмірге"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраилдегі"
+    }
+  ],
+  "timestamp": "2026-09-05T05:29:22.476050284Z",
+  "model": "glm-5.3"
+}

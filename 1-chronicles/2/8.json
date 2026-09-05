@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Эйтанның ұлдары: Азария.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:28.410184811Z",
+  "model": "glm-5.3"
+}

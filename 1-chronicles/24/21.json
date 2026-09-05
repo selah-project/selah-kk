@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Рехавйаһуға: Рехавйаһудың ұлдарына — басшысы Ишийаһ.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "Рехавйаһуға"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Рехавйаһудың"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "басшысы"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишийаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:25.723648789Z",
+  "model": "glm-5.3"
+}

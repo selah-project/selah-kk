@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Дәуіттің өлеңі. Яхве — менің Бақташым, маған ештеңе жетіспейді.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "өлеңі"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Дәуіттің"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "менің Бақташым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "жетіспейді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:55:27.489619602Z",
+  "model": "glm-5.3"
+}

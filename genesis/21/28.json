@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Авраһам қойдан жеті саулықты ⟨את⟩ бөлек қойды.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жеті саулықты"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "саулықты"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "қойдан"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "бөлек"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:36.980925378Z",
+  "model": "glm-5.3"
+}

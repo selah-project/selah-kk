@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 84,
+  "translation": "Қаншалық сүйікті Сенің мекендерің, әй, Яхве Цебаот!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Қаншалық"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "сүйікті"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "мекендерің"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:51.628184018Z",
+  "model": "glm-5.3"
+}

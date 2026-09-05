@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Хашем гизондықтың ұлдары, Йонатан Шагеұлы һарарлық.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Хашем"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "гизондық"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "Шаге"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "һарарлық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:22.788109602Z",
+  "model": "glm-5.3"
+}

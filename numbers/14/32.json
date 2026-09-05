@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Ал сендер — сендердің өліктеріңіз осы шөлде құлайды.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "және өліктеріңіз"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сендер"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "құлайды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлде"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T02:20:10.206416273Z",
+  "model": "glm-5.3"
+}

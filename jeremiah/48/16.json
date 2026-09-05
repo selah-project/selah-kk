@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "«Жақын Моавтың апаты келуге, және оның жамандығы өте тез асығады».",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Жақын"
+    },
+    {
+      "surface": "איד",
+      "gloss": "апаты"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавтың"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "келуге"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "және оның жамандығы"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "асығады"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте тез"
+    }
+  ],
+  "timestamp": "2026-09-05T05:04:37.854284872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Күн атып, көлеңкелер қашқанша мен өзіме мирра тауына, ақііршін төбесіне жүрейін.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…ға дейін"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "атып"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "қашқанша"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "көлеңкелер"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "жүрейін"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өзіме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "המור",
+      "gloss": "мирра"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және …ға"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "төбесіне"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "ақііршін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:52.386108574Z",
+  "model": "glm-5.3"
+}

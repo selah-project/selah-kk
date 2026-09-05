@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 92,
+  "translation": "Қандай ұлы, Яхве, істерің! Өте терең ойларың!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "істерің"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "терең"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ойларың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:15.454241673Z",
+  "model": "glm-5.3"
+}

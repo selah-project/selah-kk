@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "«Бұл күні істелгендей Яхве ⟨бұйырған⟩ істеуге — сендер үшін ⟨жабу⟩ жасауға.«",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "сияқты"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істелгендей"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "істеуге"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "жабуға"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сендер үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:01:56.463936312Z",
+  "model": "glm-5.3"
+}

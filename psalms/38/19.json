@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Себебі кінәмді жариялаймын, күнәмнен қам жеймін.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "кінәмді"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "жариялаймын"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "қам жеймін"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "күнәмнен"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:09.395202732Z",
+  "model": "glm-5.3"
+}

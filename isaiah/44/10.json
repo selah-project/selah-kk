@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Кім құйып жасайды Құдайды және пұтты — пайдасыз нәрсені?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "жасайды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Құдайды"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "және пұтты"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "құйып"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "пайдасыз"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "нәрсені"
+    }
+  ],
+  "timestamp": "2026-09-05T04:33:57.112188719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және Йешуада, және Моладада, және Бейт-Палетте",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "және Йешуада"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "және Моладада"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "және Бейт-...те"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Палетте"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:59.047752763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Егер мен шынсыздықпен жүрсем, және аяғым алдақа асықса —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "жүрсем"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…пен"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "шынсыздық"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "және асықты"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "алдақа"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "аяғым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:46:07.527085108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Аяғыма шам — Сөзің, және жолыма жарық.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "шам"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "аяғыма"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Сөзің"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "және жарық"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "жолыма"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:58.951393326Z",
+  "model": "glm-5.3"
+}

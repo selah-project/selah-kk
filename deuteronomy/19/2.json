@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Яхве Элохимің саған мұра етіп беретін жеріңнің ішінен өзіңе үш қала бөл:",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "қала"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "бөл"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ішінен"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "жеріңнің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимің"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "беретін"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "мұра етіп алуға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:44:26.101491872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "⟨Ол⟩ жолдарымды қашалған таспен қоршады, соқпақтарымды қисайтты.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "қоршады"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолдарымды"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "қашалған таспен"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "соқпақтарымды"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "қисайтты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:41.628897111Z",
+  "model": "glm-5.3"
+}

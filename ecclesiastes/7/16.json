@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Өте әділ болма, және аса дана болма — неге өзіңді құртасың?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "болма"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "өте"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және болма"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "дана бол"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "аса"
+    },
+    {
+      "surface": "למה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "құртасың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:45.203273441Z",
+  "model": "glm-5.3"
+}

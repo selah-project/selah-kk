@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Болды оған солай, және халық ⟨את⟩ оны есікте таптады, және ол өлді.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "כן",
+      "gloss": "солай"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "және таптады"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "есікте"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "және өлді"
+    }
+  ],
+  "timestamp": "2026-09-05T04:09:24.581749976Z",
+  "model": "glm-5.3"
+}

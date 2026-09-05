@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Урияһ хетт — барлығы ⟨отыз⟩ жеті.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урияһ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хетт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "жеті"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:15.082308312Z",
+  "model": "glm-5.3"
+}

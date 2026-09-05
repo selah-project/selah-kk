@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Онда ⟨адамдар⟩ отырады, қырғын енді болмайды, және Йерушалаим қауіпсіз отырады.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "отырады"
+    },
+    {
+      "surface": "בה",
+      "gloss": "онда"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "қырғын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "отырады"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "қауіпсіз"
+    }
+  ],
+  "timestamp": "2026-09-05T05:49:04.707049962Z",
+  "model": "glm-5.3"
+}

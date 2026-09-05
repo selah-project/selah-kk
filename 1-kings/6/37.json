@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Төртінші жылы Яхвенің үйінің іргетасы Зив айында қаланды.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "төртінші"
+    },
+    {
+      "surface": "יוסד",
+      "gloss": "қаланды"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінің"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "вירח",
+      "gloss": "айында"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Зив"
+    }
+  ],
+  "timestamp": "2026-09-05T03:51:57.855052579Z",
+  "model": "glm-5.3"
+}

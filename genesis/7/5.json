@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және Ноах Яхвенің оған бұйырғанының бәрін жасады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ның"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "бұйырғаны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:12.521343667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Аузын және тілін сақтайтын өз жанын қиындықтардан сақтайды.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "сақтайтын"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "аузын"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "және тілін"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сақтайды"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "қиындықтардан"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:11.265343770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 81,
+  "translation": "Жетекшісіне — гиттіт үстіне — Асафқа.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "жетекшісіне"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттіт"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафқа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:39:23.639373383Z",
+  "model": "glm-5.3"
+}

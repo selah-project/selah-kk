@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Плиштимдер даласында Яхвенің жәшігі жеті ай болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "жәшігі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "даласында"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштимдердің"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-09-05T03:22:50.896684829Z",
+  "model": "glm-5.3"
+}

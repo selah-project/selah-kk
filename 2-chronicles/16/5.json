@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Болды Бааша естігенде: ол Раманы салуудан тынды да ⟨את⟩ өз жұмысын тоқтатты.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "естігенде"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Бааша"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "тынды"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "салуудан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Раманы"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Раманы"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "тоқтатты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жұмысын"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "жұмысын"
+    }
+  ],
+  "timestamp": "2026-09-05T08:30:34.471718877Z",
+  "model": "glm-5.3"
+}

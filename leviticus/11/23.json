@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Және ұшқан жорғалаушының барлығына, оған төрт аяқ болса — ол сендерге жиіркенішті.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "және барлығы"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "жорғалаушының"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ұшқан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оның — оған"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "аяқ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жиіркенішті"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:01:44.834040848Z",
+  "model": "glm-5.3"
+}

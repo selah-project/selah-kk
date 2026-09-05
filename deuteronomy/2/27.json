@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Жеріңнен өтейін; жолмен, жолмен жүрейін; оңға да, солға да бұрылмаймын.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "өтейін"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "жеріңнен"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолмен"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолмен"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "жүрейін"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "бұрылмаймын"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "оңға"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "және солға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:24.557018878Z",
+  "model": "glm-5.3"
+}

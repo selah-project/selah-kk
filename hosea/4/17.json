@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Жақтасқан пұттармен Эфраим — оны қойып жібере бер.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "жақтасқан"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "пұттармен"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "қойып жібере бер"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T05:31:01.291014680Z",
+  "model": "glm-5.3"
+}

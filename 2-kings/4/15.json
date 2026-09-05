@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ол айтты: «Оны шақыр.» Ол оны шақырды, және ол есікте тұрды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "шақыр"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оны"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "шақырды"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оны"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "есікте"
+    }
+  ],
+  "timestamp": "2026-09-05T04:07:26.558190853Z",
+  "model": "glm-5.3"
+}

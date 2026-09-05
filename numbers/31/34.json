@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Ал есектерден — алпыс бір мың бас: бірден алпыс мың.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ал есектерден"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "алпыс"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:46.631303360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Күлу кезінде де жүрек ауырады, ал оның соңы — қайғылы шаттық.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "күлу кезінде"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "ауырады"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ал оның соңы"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "шаттық"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "қайғылы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:10.977622104Z",
+  "model": "glm-5.3"
+}

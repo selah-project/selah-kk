@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 51,
+  "translation": "Себебі өз бұзықтығымды мен білемін, және күнәм үнемі алдымда.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "бұзықтығымды"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "білемін"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "және күнәм"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "алдымда"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:38.029550530Z",
+  "model": "glm-5.3"
+}

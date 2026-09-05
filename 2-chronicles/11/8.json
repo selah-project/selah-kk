@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Және ⟨את⟩ Гатты, ⟨את⟩ Марешаны және ⟨את⟩ Зифті ⟨салды⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Гатты"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гатты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Марешаны"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Марешаны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Зифті"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зифті"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:43.708448923Z",
+  "model": "glm-5.3"
+}

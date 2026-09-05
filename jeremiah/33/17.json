@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Себебі былай деді Яхве: Давидке Исраил үйінің тағында отыратын адам үзілмейді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "үзілмейді"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отыратын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тақ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінің"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T04:57:50.852337346Z",
+  "model": "glm-5.3"
+}

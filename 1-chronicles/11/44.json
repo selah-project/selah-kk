@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Ғузияһ аштараттықы, Шама және Йеиел — Һотамның ұлдары, ароэрлік.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Ғузияһ"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "аштараттықы"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "және Йеиел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Һотамның"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ароэрлік"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:18.489976485Z",
+  "model": "glm-5.3"
+}

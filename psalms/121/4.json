@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 121,
+  "translation": "Қара, Исраилді сақтаушы ұйықтамайды да, ұйысынбайды.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "қара"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ұйықтамайды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да жоқ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ұйысынбайды"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "сақтаушы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:23.832673750Z",
+  "model": "glm-5.3"
+}

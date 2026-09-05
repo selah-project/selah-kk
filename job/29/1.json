@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Ийов өз нақылын көтеруге қосты да айтты:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "қосты"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "көтеруге"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "өз нақылын"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "да айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:45:45.622757548Z",
+  "model": "glm-5.3"
+}

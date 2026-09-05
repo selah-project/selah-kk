@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Олай емес қызметкерім Моше; бүкіл үйімнің ішінде сенімді ⟨ол⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Олай"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "қызметкерім"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүкіл…ішінде"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "үйімнің"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "сенімді"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T02:20:55.176824785Z",
+  "model": "glm-5.3"
+}

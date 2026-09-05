@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Не пайда ⟨бар⟩ істегенге — онда, ол еңбек етіп жүрген нәрсесінен?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "істегенге"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "онда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "еңбек етіп жүрген"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:16.993073596Z",
+  "model": "glm-5.3"
+}

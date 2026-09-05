@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Леви ұлдары: Гершон, Кеһат және Мерари.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "және Мерари"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:52.297781996Z",
+  "model": "glm-5.3"
+}

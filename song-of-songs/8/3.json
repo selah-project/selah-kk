@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Оның сол қолы басымның астында, оң қолы мені құшақтайды.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "сол қолы"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "басымның"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "оң қолы"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "құшақтайды мені"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:25.315074183Z",
+  "model": "glm-5.3"
+}

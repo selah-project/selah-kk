@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "⟨את⟩ Эдомды және ⟨את⟩ Моавты және ⟨את⟩ Аммон балаларын",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдомды"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Моавты"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Аммон балаларын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балаларын"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    }
+  ],
+  "timestamp": "2026-09-05T04:52:10.468364923Z",
+  "model": "glm-5.3"
+}

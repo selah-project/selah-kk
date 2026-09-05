@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Моше ⟨бұны⟩ естіді де, өз бетінің үстіне жығылды.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "естіді"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "жығылды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "өз бетінің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:22:40.920085282Z",
+  "model": "glm-5.3"
+}

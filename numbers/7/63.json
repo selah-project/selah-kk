@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір бұқа — ірі қараның ұлы, бір қошқар, бір қозы — бір жасар, өрт құрбанына.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ірі қараның"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "қозы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "бір жасар"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өрт құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:49.382139894Z",
+  "model": "glm-5.3"
+}

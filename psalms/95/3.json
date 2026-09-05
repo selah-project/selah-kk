@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 95,
+  "translation": "Себебі ұлы Эл — Яхве, Ол барлық құдайлардың үстінен ұлы Патша.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "және Патша"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "құдайлардың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:54.960656432Z",
+  "model": "glm-5.3"
+}

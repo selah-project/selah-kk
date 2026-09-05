@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 25:19",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Он екінші — Хашавияға, оның ұлдары мен бауырлары — он екі ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "לחשביה",
+      "gloss": "Хашавияға"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "оның ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "мен бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:14.348159126Z",
+  "model": "glm-5.3"
+}

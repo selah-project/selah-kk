@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Шымон ұлдарынан — әскерге мықты батырлар — жеті мың бір жүз ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шымон"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "батырлар"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "мықты"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "әскерге"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "бір жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:17:00.753930601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Яала ұландары, Дарқон ұландары, Гиддел ұландары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұландары"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "Яала"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұландары"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "Дарқон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұландары"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гиддел"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:11.168850374Z",
+  "model": "glm-5.3"
+}

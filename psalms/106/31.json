@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 106,
+  "translation": "Және оған әділдік есептелді — ұрпақтан ұрпаққа мәңгілікке.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "есептелді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "әділдікке"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ұрпақтан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ұрпаққа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "лікке"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:03.200693647Z",
+  "model": "glm-5.3"
+}

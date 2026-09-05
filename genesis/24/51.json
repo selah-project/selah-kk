@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 24:51",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "«Міне, Ривқа сенің алдыңда; алып кет, ол иеңнің ұлына әйел болсын, Яхве сөйлегендей».",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "міне"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривқа"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенің алдыңда"
+    },
+    {
+      "surface": "קח",
+      "gloss": "алып кет"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "жүр"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ұлына"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "иеңнің"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дей"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлеген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T01:23:34.803479618Z",
+  "model": "glm-5.3"
+}

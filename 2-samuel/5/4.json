@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Довид патша болғанда отыз жаста ⟨болды⟩, қырық жыл патшалық етті.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "жаста"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довид"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "патша болғанда"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшалық етті"
+    }
+  ],
+  "timestamp": "2026-09-05T03:39:12.781700518Z",
+  "model": "glm-5.3"
+}

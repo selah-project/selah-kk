@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Бауырыңның әйелінің жалаңаштығын ашпаң — бауырыңның жалаңаштығы ол.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жалаңаштығын"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "әйелінің"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бауырыңның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ашпаң"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "жалаңаштығы"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бауырыңның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:40.619149977Z",
+  "model": "glm-5.3"
+}

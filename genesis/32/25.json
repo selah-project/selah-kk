@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Яақов жалғыз қалды; таң атқанша онымен бір адам күресті.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "қалды"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яақов"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "жалғыз"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "күресті"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "атқанша"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "таң"
+    }
+  ],
+  "timestamp": "2026-09-05T01:27:34.974384448Z",
+  "model": "glm-5.3"
+}

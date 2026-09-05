@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 118,
+  "translation": "Інісін Исраил айтсын: «Себебі мәңгіге ⟨созылады⟩ оның хеседі».",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "айтсын"
+    },
+    {
+      "surface": "נא",
+      "gloss": "інісін"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгіге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "оның хеседі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:15.891344148Z",
+  "model": "glm-5.3"
+}

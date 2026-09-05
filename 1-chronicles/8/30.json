@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Ал оның тұңғыш ұлы Авдон, сондай-ақ Цур, Қиш, Баал мен Надав.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ал ұлы"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "тұңғыш"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "сондай-ақ Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Қиш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "мен Надав"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:05.037294671Z",
+  "model": "glm-5.3"
+}

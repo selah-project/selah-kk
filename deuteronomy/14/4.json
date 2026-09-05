@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Бұл — жейтін малдарың: өгіз, қойдың қозысы және ешкінің лағы.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жей аласыңдар"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгіз"
+    },
+    {
+      "surface": "שה",
+      "gloss": "төл"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "қойлардың"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "және төл"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкілердің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:39.679641770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Оның әскері және олардың саны — жетпіс төрт мың алты жүз.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "оның әскері"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "олардың саны"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "жетпіс"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:56.129571036Z",
+  "model": "glm-5.3"
+}

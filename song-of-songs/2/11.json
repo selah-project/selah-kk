@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Себебі, мына, қыс өтті, жаңбыр алыстап, ⟨өз жолымен⟩ кетті.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "қыс"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өтті"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "жаңбыр"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "алыстап"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "кетті"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨өз жолымен⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:12.812556396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Осылардың бәрін кім білмейді — Яхвенің қолы мұны жасағанын?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "осының бәрінде"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "осысылар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יד",
+      "gloss": "қолы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "жасаған"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мұны"
+    }
+  ],
+  "timestamp": "2026-09-05T06:39:10.339413586Z",
+  "model": "glm-5.3"
+}

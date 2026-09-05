@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Ал Гомердің ұлдары: Ашкеназ, Рифат және Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомердің"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "және Рифат"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "және Тогарма"
+    }
+  ],
+  "timestamp": "2026-09-05T01:17:24.642441558Z",
+  "model": "glm-5.3"
+}

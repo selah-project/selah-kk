@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Шаулдың нағашысы: «Маған айтып берші, Шмуэл сендерге не деді?» — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "нағашысы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "айтып бер"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-ші"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуэл"
+    }
+  ],
+  "timestamp": "2026-09-05T03:24:31.070357378Z",
+  "model": "glm-5.3"
+}

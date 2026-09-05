@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Және Яхве Мошеге айтты: Өрілуелер тауының осы тауына шық және Исраил ұлдарына берген жерді көр.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "―"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "шық"
+    },
+    {
+      "surface": "אל",
+      "gloss": "―"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Өрілуелер"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "және көр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерді"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "―"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:48.300930740Z",
+  "model": "glm-5.3"
+}

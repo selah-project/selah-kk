@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Осы күндерде мен, Даниел, үш апталық күнді жоқтау өткіздім.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "күндерінде"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "осы"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "болдым"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "жоқтаушы"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "апта"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күнді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:59:57.186482227Z",
+  "model": "glm-5.3"
+}

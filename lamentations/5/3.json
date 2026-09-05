@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Жетім болдық, әкеміз ⟨жоқ⟩; аналарыміз жесір әйелдер сияқты.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Жетім"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "болдық"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨жоқ⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "әкеміз"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "аналарыміз"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "жесір әйелдер сияқты"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:55.687477732Z",
+  "model": "glm-5.3"
+}

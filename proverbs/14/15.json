@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Сенгіш ⟨аңғал⟩ әр сөзге сенеді, ал ақылды өз жолын ⟨танып⟩ біледі.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "сенгіш ⟨аңғал⟩"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "сенеді"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзге"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "ал ақылды"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "өз жолын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:10.978030499Z",
+  "model": "glm-5.3"
+}

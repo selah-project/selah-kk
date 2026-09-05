@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Ұлым, тоқта — ⟨сені білім сөздерінен адастыратын⟩ тәрбие ⟨тыңдаудан⟩.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "тоқта"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "тыңдау"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбие"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "адашуға"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "сөздерінен"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білімнің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:40.662684195Z",
+  "model": "glm-5.3"
+}

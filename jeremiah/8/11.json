@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және халқымның қызының сынықын ⟨את⟩ жеңіл жазды, былай деп: Шалом, шалом — ал шалом жоқ.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "және жазды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сынықын"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сынықын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызының"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халқымның"
+    },
+    {
+      "surface": "על",
+      "gloss": "−"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "жеңіл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалом"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ал жоқ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:33.640976176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Ақымаққа артық ерін жарамайды, тіпті ⟨қайта⟩ ақсүйекке өтірік ерін.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "жарамайды"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ақымаққа"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ерін"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "артық"
+    },
+    {
+      "surface": "אף",
+      "gloss": "тіпті"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨қайта⟩"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ақсүйекке"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ерін"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "өтірік"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:33.788285816Z",
+  "model": "glm-5.3"
+}

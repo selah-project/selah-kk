@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Міне осы түс, және оның пішірін патшаның алдында айтамыз.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "түс"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "және оның пішірі"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "айтамыз"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-09-05T07:53:07.236516687Z",
+  "model": "glm-5.3"
+}

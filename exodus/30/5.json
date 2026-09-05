@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Түзгілерді шітта ағашынан жаса да, оларды алтынмен қапта.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түзгілерді"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "түзгілерді"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ағашынан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шытта"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "қапта"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "оларды"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтынмен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:51:12.190675105Z",
+  "model": "glm-5.3"
+}

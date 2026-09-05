@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 46,
+  "translation": "Бұзауша — аptaı тандауай Мицрайым; қырғын сіңірден келді, келді.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "бұзауша"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "тандауай"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "аptaı"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайым"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "қырғын"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "сіңірден"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келді"
+    }
+  ],
+  "timestamp": "2026-09-05T09:20:37.577431424Z",
+  "model": "glm-5.3"
+}

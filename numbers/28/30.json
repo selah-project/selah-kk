@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "ешкілердің бір текесін — сендер үшін ⟨қаптату⟩ үшін.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "текесін"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкілердің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "⟨қаптату⟩ үшін"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сендер үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:47.295272946Z",
+  "model": "glm-5.3"
+}

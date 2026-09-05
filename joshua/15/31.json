@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "және Циклаг және Мадманна және Сансанна,",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "және Циклаг"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "және Мадманна"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "және Сансанна"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:49.758461999Z",
+  "model": "glm-5.3"
+}

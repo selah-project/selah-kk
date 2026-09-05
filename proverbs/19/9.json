@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Өтірік куә жазасыз қалмайды, ал өтірік айтқан — пүтінлей жоқ болады.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "куә"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "өтірік"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "жазасыз қалмайды"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ал айтқан"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "өтірік"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "жоқ болады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:14.189852729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Екі кеудең екі жас бұғылай — жайраның егіздері.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "екеу"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "кеудең"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "екеуіндей"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "жас бұғылар"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "егіздері"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "жайраның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:53:17.027501031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Йешайау Хизқияуға айтты: «Яхвенің сөзін тыңда».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешайау"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизқияуға"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:15:59.972859339Z",
+  "model": "glm-5.3"
+}

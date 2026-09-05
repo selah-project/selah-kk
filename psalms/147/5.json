@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 147,
+  "translation": "Ұлы Адонайымыз, күш-қуаты мол; даналығының саны жоқ.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Ұлы"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Адонайымыз"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "және мол"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күш-қуаты"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "даналығының"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:32.243282939Z",
+  "model": "glm-5.3"
+}

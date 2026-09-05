@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Сүйіктім саңылаудан қолын салды, және ішкіліктерім оған толқыды.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "сүйіктім"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "салды"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "қолын"
+    },
+    {
+      "surface": "מן",
+      "gloss": "(-дан)"
+    },
+    {
+      "surface": "החר",
+      "gloss": "саңылаудан"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "және ішкіліктерім"
+    },
+    {
+      "surface": "המו",
+      "gloss": "толқыды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:52:10.284614686Z",
+  "model": "glm-5.3"
+}

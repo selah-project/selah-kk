@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Әділдің жемісі — өмір ағашы, ал жандарды алушы хакім.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "жемісі"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділдің"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ағашы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "алушы"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "жандарды"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хакім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:16.123261502Z",
+  "model": "glm-5.3"
+}

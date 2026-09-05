@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Йеһуданың ұлдары: Перец, Хецрон, Карми, Хур және Шовал.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуданың"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "Карми"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "Хур"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "және Шовал"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:25.295417912Z",
+  "model": "glm-5.3"
+}

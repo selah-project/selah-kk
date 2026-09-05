@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Және бізді осы орынға әкелді, және бізге ⟨את⟩ осы жерді берді — сүт пен бал ағатын жерді.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "әкелді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "орынға"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "және берді"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осы жерді"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ағатын"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сүт"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "және бал"
+    }
+  ],
+  "timestamp": "2026-09-05T02:47:23.826694456Z",
+  "model": "glm-5.3"
+}

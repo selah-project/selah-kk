@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Балапан да іс-әрекетімен танылады — ісі таза ма, түзу ме",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "іс-әрекетімен"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "танылады"
+    },
+    {
+      "surface": "נער",
+      "gloss": "балапан"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ма"
+    },
+    {
+      "surface": "זך",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ме"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түзу"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ісі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:15.667486503Z",
+  "model": "glm-5.3"
+}

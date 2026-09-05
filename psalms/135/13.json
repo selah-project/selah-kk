@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 135,
+  "translation": "Яхве, есімің мәңгі мәңгіге; Яхве, естелігің ұрпақтан ұрпаққа.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "есімің"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгіге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "естелігің"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ұрпақтан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ұрпаққа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:17.528055047Z",
+  "model": "glm-5.3"
+}

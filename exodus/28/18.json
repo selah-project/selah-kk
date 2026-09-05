@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Және екінші қатар: нофех, саппир және яһалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "және қатар"
+    },
+    {
+      "surface": "השני",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "және яһалом"
+    }
+  ],
+  "timestamp": "2026-09-05T01:50:21.729603214Z",
+  "model": "glm-5.3"
+}

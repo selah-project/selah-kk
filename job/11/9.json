@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Оның өлшемі жерден ұзын, және теңізнен кең.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "ұзын"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "өлшемі"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "және кең"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "ים",
+      "gloss": "теңізден"
+    }
+  ],
+  "timestamp": "2026-09-05T06:39:22.938043912Z",
+  "model": "glm-5.3"
+}

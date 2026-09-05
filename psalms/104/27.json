@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 104,
+  "translation": "Барлығы Сенен күтеді — өз уақытында асын бересін деп.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сенен"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "күтеді"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "бересін"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "асын"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "өз уақытында"
+    }
+  ],
+  "timestamp": "2026-09-05T06:14:51.368575926Z",
+  "model": "glm-5.3"
+}

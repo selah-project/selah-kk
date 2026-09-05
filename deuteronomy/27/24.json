@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Қарғысты жасырын өз жақынын ұратын, және бүкіл халық айтады: Аумин!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "қарғысты"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ұратын"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "өз жақынын"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "жасырын"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Аумин"
+    }
+  ],
+  "timestamp": "2026-09-05T02:48:30.708134862Z",
+  "model": "glm-5.3"
+}

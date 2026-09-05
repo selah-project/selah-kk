@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 62,
+  "translation": "Тек қана Элохимге үнсіз тоқта, жаным, өйткені одан келеді үмітім.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "тек қана"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "үнсіз тоқта"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "үмітім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:24.808611229Z",
+  "model": "glm-5.3"
+}

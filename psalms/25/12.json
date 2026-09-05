@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Яхведен қорқатын адам кім ол? Оған Ол өзі таңдаған жолды үйретеді.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ол"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "қорқатын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Ол үйретеді"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолды"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "өзі таңдаған"
+    }
+  ],
+  "timestamp": "2026-09-05T05:55:38.682392785Z",
+  "model": "glm-5.3"
+}

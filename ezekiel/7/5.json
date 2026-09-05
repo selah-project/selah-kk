@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Осылай деген Адонай Яхве: жамандық, бір ғана жамандық — мына, келуде.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Осылай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір ғана"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "באה",
+      "gloss": "келуде"
+    }
+  ],
+  "timestamp": "2026-09-05T05:09:38.943306176Z",
+  "model": "glm-5.3"
+}

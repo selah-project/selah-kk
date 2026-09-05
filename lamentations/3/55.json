@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Есіміңді, Яхве, төменгі шұңқырдан шақырдым.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "шақырдым"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Есіміңді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "шұңқырдан"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "төменгі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:22.997216609Z",
+  "model": "glm-5.3"
+}

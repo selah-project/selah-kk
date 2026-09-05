@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Бар жолдарыңда Оны таны, ⟨сонда⟩ Ол ⟨саған⟩ жолдарыңды түзейді.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "жолдарыңда"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "Оны таны"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨сонда⟩ Ол"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "түзейді"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "жолдарыңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:43.759388197Z",
+  "model": "glm-5.3"
+}

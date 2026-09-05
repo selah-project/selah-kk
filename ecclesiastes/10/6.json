@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Ақымақ биік орындарға қойылды, ал байлар төмен отырады.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "қойылды"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ақымақ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "биік орындарға"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ал байлар"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "төмен"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "отырады"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:03.694527600Z",
+  "model": "glm-5.3"
+}

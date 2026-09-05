@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Он жетінші — Йошбекашаһ, ұлдары мен бауырлары — он екі ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "жетіншіге"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "Йошбекашаһқа"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "мен бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:11.362232336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Бір ұрпақ бар — әкесін қарғайды, және ⟨את⟩ анасын баталамайды.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ұрпақ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесін"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "қарғайды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "анасын"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "баталайды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:51.110350301Z",
+  "model": "glm-5.3"
+}

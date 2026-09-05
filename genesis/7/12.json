@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және жаңбыр жер үстінде қырық күн және қырық түн болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "жаңбыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "және қырық"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:29.667253384Z",
+  "model": "glm-5.3"
+}

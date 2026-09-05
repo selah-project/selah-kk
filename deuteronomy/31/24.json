@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Болды: Мошенің ⟨את⟩ осы Тораның сөздерін кітапқа жазып бітіргенінде — толық таусылғанша.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "бітіргенінде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "жазып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздерін"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздерін"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тораның"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "על",
+      "gloss": "ға"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "кітап"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "толық таусылғанша"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:07.553294143Z",
+  "model": "glm-5.3"
+}

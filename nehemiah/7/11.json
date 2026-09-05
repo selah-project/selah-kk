@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Пахат-Моавтың ұлдары — Йешуа мен Йоавтың ұлдарынан — мың сегіз жүз он сегіз.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавтың"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Йешуа"
+    },
+    {
+      "surface": "ושואב",
+      "gloss": "мен Йоавтың"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:11.645451417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Шемнің ұлдары: Эйлам, Ашшур, Арпахшад, Луд, Арам ⟨және оның ұлдары⟩ Уц, Хул, Гетер және Машех.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемнің"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "Хул"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "Гетер"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "Машех"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:27.058959077Z",
+  "model": "glm-5.3"
+}

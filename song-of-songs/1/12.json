@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Патша өз отырысында ⟨отырғанда⟩, менің нардым өз иісін берді.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…кезде"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "өз отырысында"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "мениң нардым"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берді"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "өз иісін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:50:45.107448726Z",
+  "model": "glm-5.3"
+}

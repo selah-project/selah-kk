@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Сонда Мицрайымның үстіне жаңа патша тұрды — Йосефті ⟨את⟩ білмейтін.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңа"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайымның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "білмейтін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефті"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-05T01:36:43.536099943Z",
+  "model": "glm-5.3"
+}

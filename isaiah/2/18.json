@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "және пұттар түгел жоқ болады.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "және пұттар"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "жоқ болады"
+    }
+  ],
+  "timestamp": "2026-09-05T04:18:18.262769778Z",
+  "model": "glm-5.3"
+}

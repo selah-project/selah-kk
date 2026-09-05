@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Оныншы — Шимиге, оның ұлдары мен бауырлары — он екі ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "оныншы"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "оның ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "мен бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:14.347777971Z",
+  "model": "glm-5.3"
+}

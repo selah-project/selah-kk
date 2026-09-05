@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 5:18",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Бұлағың құтты болсын, және жастығыңның әйелінен қуан.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "מקורך",
+      "gloss": "бұлағың"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "құтты"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "және қуан"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "әйелінен"
+    },
+    {
+      "surface": "נעורך",
+      "gloss": "жастығыңның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:03.388014167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Рақымсыздардан Яхве алыс, ал әділдердің дұғасын естіді.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "алыс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "рақымсыздардан"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "ал дұғасын"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "әділдердің"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "естіді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:28.002655864Z",
+  "model": "glm-5.3"
+}

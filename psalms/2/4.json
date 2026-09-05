@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Аспандарда Отырған күледі, Адонай оларды мазақ етеді.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Отырған"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "аспандарда"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "күледі"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "мазақ етеді"
+    },
+    {
+      "surface": "למו",
+      "gloss": "оларды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:51:23.494686218Z",
+  "model": "glm-5.3"
+}

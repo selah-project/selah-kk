@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 128,
+  "translation": "Мынау, рас, осылай бата алады Яхведен қорқатын ер.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Мынау"
+    },
+    {
+      "surface": "כי",
+      "gloss": "рас"
+    },
+    {
+      "surface": "כן",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "бата алады"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ер"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "қорқатын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:12.217733675Z",
+  "model": "glm-5.3"
+}

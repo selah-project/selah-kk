@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 50,
+  "translation": "Егер аш болсам — саған айтпаймын, өйткені әлем менікі әрі оның толықтығы.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "аш болсам"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтпаймын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менікі"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "әлем"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "әрі оның толықтығы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:53.879711629Z",
+  "model": "glm-5.3"
+}

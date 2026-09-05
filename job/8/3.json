@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Эл үкімді бұрай ма? Немесе Шаддай әділдікті бұрай ма?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "бұрай ма"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "үкімді"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "бұрай ма"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "әділдікті"
+    }
+  ],
+  "timestamp": "2026-09-05T08:43:47.151388660Z",
+  "model": "glm-5.3"
+}

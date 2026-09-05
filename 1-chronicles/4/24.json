@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Шимонның ұлдары: Немуел, Ямин, Ярив, Зерах, Шаул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимонның"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "Немуел"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "Ямин"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Ярив"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:15.053780578Z",
+  "model": "glm-5.3"
+}

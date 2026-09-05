@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Солай болды: халықтың ішінен соғыс адамдарының бәрі өліп таусылғанда.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "солай болды"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "таусылғанда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "адамдарының"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "למות",
+      "gloss": "өліп"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ішінен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықтың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:03.400246568Z",
+  "model": "glm-5.3"
+}

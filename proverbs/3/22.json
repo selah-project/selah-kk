@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Сөйтіп олар жаныңа өмір, мойныңа жарасымдылық болады.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болады"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "жаныңа"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "және жарасымдылық"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "мойныңа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:23.718850941Z",
+  "model": "glm-5.3"
+}

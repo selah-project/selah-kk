@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Күн шығады және күн батып келеді, және өз орнына ентігіп, ол шығатын жеріне ⟨қайта⟩ барады.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "күн шығады"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "және келеді"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және орнына"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "өз орнына"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ентігіп"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "шығатын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сол жерде"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:53.766768100Z",
+  "model": "glm-5.3"
+}

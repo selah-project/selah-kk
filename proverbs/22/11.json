@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Таза жүректі сүйген адамның — ернінде әсемдік, досы — патша.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "сүйген"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүректі"
+    },
+    {
+      "surface": "חן",
+      "gloss": "әсемдік"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ернінде"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "досы"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:38.450600106Z",
+  "model": "glm-5.3"
+}

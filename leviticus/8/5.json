@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Моше жиналысқа айтты: мынау ⟨бұл⟩ Яхве орындауға бұйырған сөз.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "жиналыс"
+    },
+    {
+      "surface": "זה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "орындауға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:19.031231184Z",
+  "model": "glm-5.3"
+}

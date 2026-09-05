@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ол қорқынышты және үрейлі; одан ⟨оның⟩ үкімі және оның ұлылығы шығады.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "қорқынышты"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "және үрейлі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "үкімі"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "ұлылығы"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "шығады"
+    }
+  ],
+  "timestamp": "2026-09-05T05:43:16.060113950Z",
+  "model": "glm-5.3"
+}

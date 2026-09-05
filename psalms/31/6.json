@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Қолыңа ұсынамын рухымды; құтқардың ⟨את⟩ мені, Яхве, ақиқаттың Элі.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Қолыңа"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ұсынамын"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "рухымды"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "құтқардың"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "мені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элі"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ақиқат"
+    }
+  ],
+  "timestamp": "2026-09-05T05:57:07.828825757Z",
+  "model": "glm-5.3"
+}

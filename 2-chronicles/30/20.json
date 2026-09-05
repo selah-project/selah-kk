@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Яхве Хизқияһұлына құлақ асты да, халықты ⟨את⟩ емдеді.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "құлақ асты да"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизқияһұлына"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "емдеді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:46:53.991522533Z",
+  "model": "glm-5.3"
+}

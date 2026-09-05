@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "«Ием ⟨את⟩ құлдарын сұрап еді: ‘Сендерде әке бар ма, әлде бауыр ма?’",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ием"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сұрап еді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "құлдарын"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "құлдарын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "היש",
+      "gloss": "бар ма"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерде"
+    },
+    {
+      "surface": "אב",
+      "gloss": "әке"
+    },
+    {
+      "surface": "או",
+      "gloss": "әлде"
+    },
+    {
+      "surface": "אח",
+      "gloss": "бауыр"
+    }
+  ],
+  "timestamp": "2026-09-05T01:34:38.134503335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Азаматқа алдамшы нан тәтті, кейін оның аузы қиыршықтас ⟨толады⟩.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "тәтті"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамға"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "алдамшы"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "кейін"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "толады"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "оның аузы"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "қиыршықтас"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:21.289515201Z",
+  "model": "glm-5.3"
+}

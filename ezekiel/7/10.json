@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Мына күн! Мына ⟨ол⟩ келді; таң шықты, таяқ гүл ашты, тәкаппарлық бүршік жарды.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "באה",
+      "gloss": "келді"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "таң"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "гүл ашты"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "таяқ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "бүршік жарды"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "тәкаппарлық"
+    }
+  ],
+  "timestamp": "2026-09-05T05:09:27.702004927Z",
+  "model": "glm-5.3"
+}

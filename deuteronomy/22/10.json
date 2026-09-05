@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Өгізбен және есекпен бірге жер жыртпа.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "жер жыртпа"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "өгізбен"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "және есекпен"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:43:51.298722059Z",
+  "model": "glm-5.3"
+}

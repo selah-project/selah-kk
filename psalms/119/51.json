@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Тектілер мені тым қатты мазақ етті — Тораңнан тайған жоқпын.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "тектілер"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "мені мазақ етті"
+    },
+    {
+      "surface": "עד",
+      "gloss": "тым"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "қатты"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Тораңнан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "тайғым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:01.763663256Z",
+  "model": "glm-5.3"
+}

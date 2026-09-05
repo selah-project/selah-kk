@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Қамыс теңізінен жол тартты, Син шөлінде лагер құрды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жол тартты"
+    },
+    {
+      "surface": "מים",
+      "gloss": "теңізінен"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "қамыс"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлінде"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:36.611725045Z",
+  "model": "glm-5.3"
+}

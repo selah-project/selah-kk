@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Патша оған айтты: «Ол қайда?» Цива патшаға айтты: «Мынау — ол Махир, Аммиелдің ұлының үйінде, Ло-Деварда.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Цива"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінде"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиел"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "Ло-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Девар"
+    }
+  ],
+  "timestamp": "2026-09-05T03:39:35.546240754Z",
+  "model": "glm-5.3"
+}

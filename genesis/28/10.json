@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Шықты Яаков (Жақып) Беер-Шевадан, жүрді Харранға.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков (Жақып)"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Беер-Шевадан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Беер-Шевадан"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жүрді"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "Харранға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:51.962755205Z",
+  "model": "glm-5.3"
+}

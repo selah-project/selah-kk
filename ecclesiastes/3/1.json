@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Әр нәрсеге — белгіленген уақыт, және аспан астындағы әр қалауға — өз уақыты.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "әр нәрсеге"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "белгіленген уақыт"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыт"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "қалауға"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "аспан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:51.037482472Z",
+  "model": "glm-5.3"
+}

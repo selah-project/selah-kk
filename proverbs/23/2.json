@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Және тамаққа құштар жан иесі болсаң, жұтқыншағыңа пышақ қой.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "және қой"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "пышақ"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "жұтқыншағыңа"
+    },
+    {
+      "surface": "אם",
+      "gloss": "болсаң"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "иесі"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:44.036629282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Олар сенен сәлем сұрайды да, саған екі нан береді, сен олардың қолынан аласың",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "сұрайды"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенен"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "сәлем"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "береді"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "екі"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "аласың"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "қолынан"
+    }
+  ],
+  "timestamp": "2026-09-05T03:24:33.608342449Z",
+  "model": "glm-5.3"
+}

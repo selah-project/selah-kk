@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Йигал, Натанның ұлы, Цобадан; Бани һа-Гади,",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "Йигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натанның"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "Цобадан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "һа-Гади"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:23.377296813Z",
+  "model": "glm-5.3"
+}

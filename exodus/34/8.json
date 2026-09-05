@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Моше тез жауап берді: жерге иіліп, сәжде жасады.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "тез"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "иіліп"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "сәжде жасады"
+    }
+  ],
+  "timestamp": "2026-09-05T01:53:53.473104782Z",
+  "model": "glm-5.3"
+}

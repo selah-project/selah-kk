@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Барлық қолдар әлсізденеді, және барлық тізелер суға ⟨айналады⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "қолдар"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "әлсізденеді"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және барлық"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "тізелер"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "айналады"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T05:10:30.656119601Z",
+  "model": "glm-5.3"
+}

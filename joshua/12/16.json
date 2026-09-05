@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Маққеда патшасы — бір; Бет-Эл патшасы — бір;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Маққеда"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-Элдің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Эл⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:23.185287026Z",
+  "model": "glm-5.3"
+}

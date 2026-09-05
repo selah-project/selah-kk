@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 25:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Төртінші Йицриге — ұлдары және бауырлары — он екі.",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "төртінші"
+    },
+    {
+      "surface": "ליצרי",
+      "gloss": "Йицриге"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "және бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.505364308Z",
+  "model": "glm-5.3"
+}

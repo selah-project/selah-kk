@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Жауанның ұлдары: Элишаһ, Таршишаһ, Киттим және Роданим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Жауанның"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Элишаһ"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "және Таршишаһ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Киттим"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "және Роданим"
+    }
+  ],
+  "timestamp": "2026-09-05T08:45:27.401058247Z",
+  "model": "glm-5.3"
+}

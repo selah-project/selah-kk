@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Адалды сақта, түзуді көр: өйткені бейбіт адамның соңы ⟨бар⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "сақта"
+    },
+    {
+      "surface": "תם",
+      "gloss": "адалды"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "және көр"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түзуді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "соңы"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "бейбіт"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:36.903211767Z",
+  "model": "glm-5.3"
+}

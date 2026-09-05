@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Ақылдының жүрегі аузын ағартады, ал еріндеріне түсінік қосады.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ақылдының"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ағартады"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "аузын"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ал"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "еріндеріне"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "қосады"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "түсінік"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:51.346308362Z",
+  "model": "glm-5.3"
+}

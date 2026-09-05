@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Барлық сақтаудан жүрегіңді сақта, өйткені одан өмір шығатындары ⟨шығады⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "сақтаудан"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "сақта"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегіңді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "шығатындары"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:33.096677517Z",
+  "model": "glm-5.3"
+}

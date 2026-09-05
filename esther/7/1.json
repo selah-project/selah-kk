@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Патша мен Һаман Эстер патшайымның ⟨…⟩ қасына ішуге келді.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "және Һаман"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ішуге"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨…⟩ қасына"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "патшайым"
+    }
+  ],
+  "timestamp": "2026-09-05T07:51:05.692508025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Менің бетіме қарсы сенің басқа құдайларың болмасын.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болмасын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенің"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "құдайлар"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне\/қарсы"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетіме"
+    }
+  ],
+  "timestamp": "2026-09-05T01:46:03.516788270Z",
+  "model": "glm-5.3"
+}

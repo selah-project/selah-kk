@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Бекерге түскен байлық азаяды, ал қолмен жинаған көбейеді.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "байлық"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "бекерге түскен"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "азаяды"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ал жинаған"
+    },
+    {
+      "surface": "על",
+      "gloss": "қолмен"
+    },
+    {
+      "surface": "יד",
+      "gloss": "қолмен"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "көбейеді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:23.388340687Z",
+  "model": "glm-5.3"
+}

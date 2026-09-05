@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Қай жерде патшаның сөзі ⟨болса⟩ — билік, және кім оған «Не істеп жатырсың?» дей алады?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "қай жерде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "билік"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "және кім"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дей алады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "істеп жатырсың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:46.878040838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Және Азария, Эзра (Езра) және Мешуллам,",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "және Азария"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Эзра"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "және Мешуллам"
+    }
+  ],
+  "timestamp": "2026-09-05T08:10:57.451278076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Олар оған айтты: «Жоқ, ием, бірақ құлдарың астық сатып алуға келді».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ием"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "бірақ құлдарың"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "сатып алуға"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "астық"
+    }
+  ],
+  "timestamp": "2026-09-05T01:32:38.774709176Z",
+  "model": "glm-5.3"
+}

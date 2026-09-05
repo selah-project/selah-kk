@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Міне, бұлар Эсавдың ұрпақтары — ⟨ол⟩ Эдом.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Міне, бұлар"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ұрпақтары"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавдың"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:23.548265958Z",
+  "model": "glm-5.3"
+}

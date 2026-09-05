@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Әсте оның жолын үйреніп ⟨жаныңа⟩ тұзақ аласың.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "әсте"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "үйренесің"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "оның-жолын"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "және-аласың"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "тұзақ"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "жаныңа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:43.709669941Z",
+  "model": "glm-5.3"
+}

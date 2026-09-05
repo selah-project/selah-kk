@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 43,
+  "translation": "Осы халықты өзіме құрдым — Мені мадақтауымды ⟨олар⟩ баяндайды.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "זו",
+      "gloss": "осы"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "құрдым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өзіме"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "мадақтауымды"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "баяндайды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:32:29.949003529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Оларды жүрегіңнің үстіне үнемі байла, оларды тамағыңа бу.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "оларды байла"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегіңнің"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "оларды бу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "тамағыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:40.253771320Z",
+  "model": "glm-5.3"
+}

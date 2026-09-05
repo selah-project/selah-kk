@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 5:27",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Міне, осыны зерттедік — дәл осылай; тыңда, ал сен өзіңе біл.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "міне"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осыны"
+    },
+    {
+      "surface": "חקרנוה",
+      "gloss": "зерттедік"
+    },
+    {
+      "surface": "כן",
+      "gloss": "дәл"
+    },
+    {
+      "surface": "היא",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ал сен"
+    },
+    {
+      "surface": "דע",
+      "gloss": "біл"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    }
+  ],
+  "timestamp": "2026-09-05T06:38:08.626433209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Элохим одан жоғары көтерілді — ⟨ол⟩ өзімен сөйлескен жерде.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "көтерілді"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "онда"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлескен"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны (Яаковты)"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:10.376028976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Өйткені мен саған бүгін бұйырып отырған бұл өсиет сенен жасырын емес, ол алыс та емес.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "өсиет"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "отырған"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "бұйырамын"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгін"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "жасырын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "сенен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және емес"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "алыс"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:49:48.746739934Z",
+  "model": "glm-5.3"
+}

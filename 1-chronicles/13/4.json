@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және бүкіл жиналыс солай істеуге деді, өйткені бұл іс бүкіл халықтың көзінде тура ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "деді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "жиналыс"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "істеуге"
+    },
+    {
+      "surface": "כן",
+      "gloss": "солай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "тура"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "іс"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықтың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:10.448875645Z",
+  "model": "glm-5.3"
+}

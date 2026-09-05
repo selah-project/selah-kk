@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Ер немесе әйелде басында немесе сақалында жаралы бейнде болса",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "және ер"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "басында"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "сақалында"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:56.832085895Z",
+  "model": "glm-5.3"
+}

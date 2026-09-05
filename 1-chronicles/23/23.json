@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Мушидің ұлдары: Махли, Эдер мен Йеремот — үшеу.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Мушидің"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "мен Эдер"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "Йеремот"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үшеу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:51.004060319Z",
+  "model": "glm-5.3"
+}

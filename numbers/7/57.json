@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бір өгіз, ірі ұрпақтың ұлы, бір қошқар, бір қой, жасы бір жылдық, өрт құрбаны үшін.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "өгіз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ірі қара"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "қой"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "бір жылдық"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өрт құрбаны үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:40.915762374Z",
+  "model": "glm-5.3"
+}

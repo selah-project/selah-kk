@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Алғайық етіп жиырма жыл өтті, Шеломо Яхвенің ⟨את⟩ үйін және ⟨את⟩ өз үйін салған.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "мקץ",
+      "gloss": "соңында"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "салған"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйін"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "өз үйін"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "өз үйін"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:49.595489974Z",
+  "model": "glm-5.3"
+}

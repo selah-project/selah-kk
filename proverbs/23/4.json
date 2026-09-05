@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Бай болуға қажыма, өз ақылыңнан бас тарт.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "қажыма"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "тобық"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "бай болуға"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "өз ақылыңнан"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "бас тарт"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:44.037594079Z",
+  "model": "glm-5.3"
+}

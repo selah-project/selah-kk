@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 76,
+  "translation": "Нұрлы ⟨ісің⟩ сен, олжалы таулардан асқан ұлысың.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "нұрлы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "асқан ұлы"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "таулардан"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "олжалы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:56.844932515Z",
+  "model": "glm-5.3"
+}

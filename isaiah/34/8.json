@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Себебі Яхвеге тиесілі өш алу күні, Цион дауы үшін қайтарым жылы.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "өш алу"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге тиесілі"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "қайтарым"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "дауы үшін"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ционның"
+    }
+  ],
+  "timestamp": "2026-09-05T04:30:33.646312297Z",
+  "model": "glm-5.3"
+}

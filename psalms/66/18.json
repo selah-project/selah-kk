@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 66,
+  "translation": "Арамдықты егер жүрегімде көрсем, Адонай тыңдамайды.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "арамдықты"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрсем"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "жүрегімде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "тыңдамайды"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:22.757758602Z",
+  "model": "glm-5.3"
+}

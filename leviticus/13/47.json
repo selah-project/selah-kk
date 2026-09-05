@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және киімде, егер онда ауру зақымы болса — жүн киімде немесе зығыр киімде,",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "және киімде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "зақымы"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ауру"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "киімде"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "жүн"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "киімде"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "зығыр"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:36.467746763Z",
+  "model": "glm-5.3"
+}

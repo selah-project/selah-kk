@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Моше Исраил ұлдарына айтты: Яхве ⟨את⟩ Мошені бұйырған нәрсенің бәрі бойынша.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бәрі бойынша"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нейше"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошені"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошені"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:04.168332401Z",
+  "model": "glm-5.3"
+}

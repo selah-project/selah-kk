@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Өгіздер жоқ жерде қора таза, ал өнімнің көптігі өгіздің күшімен.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "жоқ жерде"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "өгіздер"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "қора"
+    },
+    {
+      "surface": "בר",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ал көптігі"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "өнімнің"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "күшімен"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгіздің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:30.321783835Z",
+  "model": "glm-5.3"
+}

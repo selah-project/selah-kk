@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 43,
+  "translation": "Мен, Мен — Яхве, және Менен басқа құтқарушы жоқ.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "Менен басқа"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "құтқарушы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:58:10.730917949Z",
+  "model": "glm-5.3"
+}

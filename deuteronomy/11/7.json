@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "өйткені сендердің көздерірің Яхвенің ⟨את⟩ бар ұлы ісін көріп тұр, қайсыны Ол істеді",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "сендердің көздерірің"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "көріп тұр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бар ұлы ісін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ісін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсыны"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ол істеді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:29.832503780Z",
+  "model": "glm-5.3"
+}

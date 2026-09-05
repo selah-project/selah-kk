@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "О, Адонай, Исраил жауларының алдында желкесін бұрғаннан кейін не айтайын?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "О"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтайын"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кейін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ғой"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "бұрды"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "желкесін"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "жауларының"
+    }
+  ],
+  "timestamp": "2026-09-05T02:58:48.675504533Z",
+  "model": "glm-5.3"
+}

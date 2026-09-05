@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Яһошуа (Жошыа) осы патшалардың бәрімен ⟨את⟩ көп күн соғыс жүргізді.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бәрімен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәр"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "патшалардың"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "соғыс"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:01.942490792Z",
+  "model": "glm-5.3"
+}

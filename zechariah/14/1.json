@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Қара, Яхвеге ⟨арналған⟩ күн келеді, және олжаң ішіңде бөлінеді.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Қара"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "және бөлінеді"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "олжаң"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ішіңде"
+    }
+  ],
+  "timestamp": "2026-09-05T05:49:35.557291924Z",
+  "model": "glm-5.3"
+}

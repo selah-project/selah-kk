@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Егер бір адам әйел алып, оған кірсе де, оны жекірсе,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Егер"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "кірсе де"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "оны жекірсе"
+    }
+  ],
+  "timestamp": "2026-09-05T07:24:38.810573650Z",
+  "model": "glm-5.3"
+}

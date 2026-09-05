@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ярденнен алған осы он екі тасты Яһушуа Гилгалда тікте орнатты.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "он екі тасты"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "тасты"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алған"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "олар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нен"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярденнен"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "орнатты"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһушуа"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Гилгалда"
+    }
+  ],
+  "timestamp": "2026-09-05T02:54:21.068516407Z",
+  "model": "glm-5.3"
+}

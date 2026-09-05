@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір ешкі лағы, күнә құрбанына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "лағы"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:05.428399514Z",
+  "model": "glm-5.3"
+}

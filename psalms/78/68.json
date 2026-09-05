@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Бірақ ⟨את⟩ Йеһуда тайпасын таңдады, өзі сүйген ⟨את⟩ Цион тауын.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "таңдады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеһуда тайпасын"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "тайпасын"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цион тауын"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауын"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "өзі"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйген"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:06.560751294Z",
+  "model": "glm-5.3"
+}

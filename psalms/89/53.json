@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "Мақталған Яхве мәңгіге. Әумін әрі әумін.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Мақталған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгіге"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Әумін"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "әрі әумін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:00.692906185Z",
+  "model": "glm-5.3"
+}

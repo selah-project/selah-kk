@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Жатсаң — қорықпайсың, жатып алғанда ұйқың тәтті болады.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Жатсаң —"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "(жату)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "қорықпайсың"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "жатып алғанда"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "тәтті болады"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ұйқың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:23.719177755Z",
+  "model": "glm-5.3"
+}

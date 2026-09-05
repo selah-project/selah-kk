@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ол айтты: Өзіңе көтер! Ол қолын созып оны алды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "көтер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "созды"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "қолын"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "оны алды"
+    }
+  ],
+  "timestamp": "2026-09-05T04:06:46.956029355Z",
+  "model": "glm-5.3"
+}

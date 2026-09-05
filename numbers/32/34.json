@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Гад ұлдары ⟨את⟩ Дивонды және ⟨את⟩ Атаротты және ⟨את⟩ Ароэрді салды.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "салды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дивонды"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Дивонды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Атаротты"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атаротты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Ароэрді"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ароэрді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:24.062424299Z",
+  "model": "glm-5.3"
+}

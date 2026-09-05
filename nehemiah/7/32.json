@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бейт-Эл және Һа-Ай адамдары: жүз жиырма үш.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "және Һа-Ай"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:18.723064350Z",
+  "model": "glm-5.3"
+}

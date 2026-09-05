@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Яхве зұлымдардың таяғын, билеушілердің ғасырын сынады.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "сынады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таяғын"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "зұлымдардың"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ғасырын"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "билеушілердің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:23:18.013202689Z",
+  "model": "glm-5.3"
+}

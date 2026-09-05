@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Осы күні сендер Авив айында шығып бара жатырсыңдар.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "осы күні"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сендер"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "шығып бара жатырсыңдар"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айында"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Авив"
+    }
+  ],
+  "timestamp": "2026-09-05T01:44:06.293023741Z",
+  "model": "glm-5.3"
+}

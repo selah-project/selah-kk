@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Азарияһуға, Одед ұлына, Элохим руһы келді.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "және Азарияһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Одедтің"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руһ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимнің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:30:06.376432210Z",
+  "model": "glm-5.3"
+}

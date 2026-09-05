@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Ярмут, және Адулам, Сохо және Азека",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "Ярмут"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "және Адулам"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Сохо"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "және Азека"
+    }
+  ],
+  "timestamp": "2026-09-05T03:02:06.397537253Z",
+  "model": "glm-5.3"
+}

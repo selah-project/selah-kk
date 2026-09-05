@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Яхве Мошеге (Мұса) сөйлеп айтты:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлеп айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге (Мұса)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:09:44.127284738Z",
+  "model": "glm-5.3"
+}

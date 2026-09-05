@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Және қаһиндерден: Йедаяһ, Йехоярив және Яхин.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "және ... дегеннен"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "қаһиндер"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедаяһ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "Йехоярив"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "Яхин"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:01.283051745Z",
+  "model": "glm-5.3"
+}

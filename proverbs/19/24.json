@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Жалқау қолын ыдысқа тығып қояды, аузына да қайта апармайды.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "тығып қояды"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "жалқау"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "қолын"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ыдысқа"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "аузына"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "қайта апармайды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:01.100567800Z",
+  "model": "glm-5.3"
+}

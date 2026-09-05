@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Әрі тағы эдомдықтар келіп, Иеһудаһта соқты да тұтқын түсірді.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "әрі тағы"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "эдомдықтар"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келіп"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "соқты"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Иеһудаһта"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "түсірді"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "тұтқын"
+    }
+  ],
+  "timestamp": "2026-09-05T08:34:59.193380331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "және Ишпан, және Эбер, және Элиэл,",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "және Ишпан"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "және Эбер"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "және Элиэл"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:54.119177421Z",
+  "model": "glm-5.3"
+}

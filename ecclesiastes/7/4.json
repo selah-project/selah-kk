@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ақылдылардың жүрегі жоқтау үйінде, ал ақылмақтардың жүрегі қуаныш үйінде.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ақылдылардың"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйінде"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "жоқтау"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ал жүрегі"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ақылмақтардың"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйінде"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "қуаныш"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:57.463284019Z",
+  "model": "glm-5.3"
+}

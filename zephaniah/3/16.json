@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Осы күні Иерушалаимға айтылады: Қорқпа! Сион, қолдарыңды салдыратпа!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "осы"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтылады"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Иерушалаимға"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—еме"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "қорқпа"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—еме"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "салдыратпа"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "қолдарыңды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:43:55.791579820Z",
+  "model": "glm-5.3"
+}

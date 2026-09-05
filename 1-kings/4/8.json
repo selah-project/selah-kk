@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "және бұлар олардың аттары: Бен-Һур, Эфраим тауында.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "және бұлар"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "олардың аттары"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Һур"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тауында"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    }
+  ],
+  "timestamp": "2026-09-05T03:50:28.277188086Z",
+  "model": "glm-5.3"
+}

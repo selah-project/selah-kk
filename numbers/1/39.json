@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Санақтағылары Дан тайпасы үшін — алпыс екі мың және жеті жүз.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "санақтағылары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "тайпасы үшін"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "және алпыс"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "және жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:43.622301767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ол мені ащы-тұттылармен тойдырды, мені жусанға қандырды.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "тойдырды"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "ащы-тұттылармен"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "қандырды"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "жусанға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:00.185164268Z",
+  "model": "glm-5.3"
+}

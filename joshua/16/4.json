@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Йосеф ұлдары — Менаше мен Эфраим — мұраларын иеленді.",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "иеленді"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "мנшה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "мен Эфраим"
+    }
+  ],
+  "timestamp": "2026-09-05T03:02:15.533642180Z",
+  "model": "glm-5.3"
+}

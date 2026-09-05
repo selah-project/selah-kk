@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ционда әйелдерді, Яһуда қалаларында пәк қыздарды қорлады.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "әйелдерді"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ционда"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "қорлады"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "пәк қыздарды"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "қалаларында"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуданың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:48.586423136Z",
+  "model": "glm-5.3"
+}

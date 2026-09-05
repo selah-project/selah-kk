@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "Эзрахит Этанға арналған маскил (ғибрат айтатын өлең).",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "маскил"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Этанға"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "эзрахит"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:31.506182907Z",
+  "model": "glm-5.3"
+}

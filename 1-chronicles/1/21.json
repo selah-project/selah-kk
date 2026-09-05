@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "және ⟨את⟩ Һадорамды, және ⟨את⟩ Узалды, және ⟨את⟩ Дикланы",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Һадорамды"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Һадорамды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Узалды"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Узалды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Дикланы"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Дикланы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:10:56.675442541Z",
+  "model": "glm-5.3"
+}

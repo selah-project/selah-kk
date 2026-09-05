@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Қаин Яхвенің қасынан шығып, Еденнен шығысқа қарай Нод жерінде қоныстанды.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шығып"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қаин"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "қасынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "қоныстанды"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Нод"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "шығысқа қарай"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Еден"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:05.805714513Z",
+  "model": "glm-5.3"
+}

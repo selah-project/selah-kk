@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Бар, оларға айт: өздеріңе, шатырларыңа қайтыңдар.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "қайтыңдар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өздеріңе"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "шатырларыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:36:18.704944971Z",
+  "model": "glm-5.3"
+}

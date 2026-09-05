@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Маллух, Харим, Баана.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "Маллух"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Баана"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:50.998167968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "шулы ол әрі тәкаппар; өз үйінде аяқтары тұрмайды",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "шулы"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "әрі тәкаппар"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "өз үйінде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "тұрмайды"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "аяқтары"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:52.271503064Z",
+  "model": "glm-5.3"
+}

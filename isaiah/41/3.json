@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Оларды қуып, шаломмен өтеді; жолға өз аяғымен кірмейді.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "қуып"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "өтеді"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шаломмен"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "жолға"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "өз аяғымен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "кірмейді"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-05T04:33:04.313825982Z",
+  "model": "glm-5.3"
+}

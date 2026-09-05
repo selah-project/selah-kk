@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Шалом жоқ, — деді Яхве, -- залымдарға.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалом"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "залымдарға"
+    }
+  ],
+  "timestamp": "2026-09-05T04:33:41.600859560Z",
+  "model": "glm-5.3"
+}

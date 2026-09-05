@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Сөйледі Яхве Мошеға: «Айт».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеға"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "«Айт»"
+    }
+  ],
+  "timestamp": "2026-09-05T02:10:44.567822548Z",
+  "model": "glm-5.3"
+}

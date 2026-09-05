@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Яхведен қорқуда — қуатты сенім, ал оның балаларына пана болады.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "қорқуда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "сенім"
+    },
+    {
+      "surface": "עז",
+      "gloss": "қуатты"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ал оның балаларына"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "пана"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:32.087168558Z",
+  "model": "glm-5.3"
+}

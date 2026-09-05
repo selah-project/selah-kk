@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Вания, Меремат, Элияшив.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "Вания"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Меремат"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Элияшив"
+    }
+  ],
+  "timestamp": "2026-09-05T08:04:52.217493602Z",
+  "model": "glm-5.3"
+}

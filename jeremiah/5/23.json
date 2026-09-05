@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ал бұл халықтың жүрегі — бұғаулы және бағынбау, олар бұрылып кетті.",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "және халық"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "бұғаулы"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "және бағынбау"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "бұрылды"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "және кетті"
+    }
+  ],
+  "timestamp": "2026-09-05T07:33:52.952808371Z",
+  "model": "glm-5.3"
+}

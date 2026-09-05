@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 22:23",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Егер қыз — бойжеткен — ерге құдаланған болса, және еркек оны қалада тапса, және онымен жатса,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "נער",
+      "gloss": "қыз"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "бойжеткен"
+    },
+    {
+      "surface": "מארשה",
+      "gloss": "құдаланған"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ерге"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "және тапса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "еркек"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "қалада"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "және жатса"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "онымен"
+    }
+  ],
+  "timestamp": "2026-09-05T08:41:57.641240402Z",
+  "model": "glm-5.3"
+}

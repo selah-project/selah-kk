@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Ақымақ түсінуге құмар емес, тек жүрегі ⟨оның⟩ ашылуына ⟨құмар⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "құмар"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "түсінуге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "сайын"
+    },
+    {
+      "surface": "אם",
+      "gloss": "тек"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "ашылуына"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрегі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:10.235019118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ал енді сендерге, қаһандрар, осы әмір ⟨тұр⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "әмір"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "қаһандрар"
+    }
+  ],
+  "timestamp": "2026-09-05T05:49:49.488833835Z",
+  "model": "glm-5.3"
+}

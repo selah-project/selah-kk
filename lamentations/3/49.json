@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Көзім төгіліп ағуда, және тоқталмайды — еш тынысту жоқ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "көзім"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "төгіліп ағуда"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және тоқталмайды"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "тынбайды"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "еш"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "тынысту жоқ"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:58.497574484Z",
+  "model": "glm-5.3"
+}

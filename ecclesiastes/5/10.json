@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Жақсылық көбейгенде оны жейтіндер көбейеді; ал иесіне не пайда — көзінің көруінен ⟨басқа⟩?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "көбейгенде"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "көбейеді"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "оны жейтіндер"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ал не"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "иесіне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "көруінен"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "көзінің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:28.360227137Z",
+  "model": "glm-5.3"
+}

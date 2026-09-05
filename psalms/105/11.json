@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "«Саған ⟨את⟩ Кенаан жерін, сендердің мұра-үлестеріңді беремін» деп.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "беремін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кенаан жерін"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерін"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "үлес"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "мұраларың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:20.204443135Z",
+  "model": "glm-5.3"
+}

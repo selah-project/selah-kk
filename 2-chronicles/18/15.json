@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Патша оған: «Мен сені қанша рет ант ейткіземін — маған Яхвенің атымен тек ақиқат қана айтасың!» — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "עד",
+      "gloss": "қанша"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "неше"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "рет"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "ант ейткіземін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "айтасың"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ақиқат"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "атымен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:32:18.715994136Z",
+  "model": "glm-5.3"
+}

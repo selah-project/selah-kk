@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "Қай ер тірі болып өлімді көрмейді? Өз жанын Шеол қолынан құтқара ма? Селаһ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Қай"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ер"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "тірі болып"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көреді"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлімді"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "құтқара ма"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанын"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "қолынан"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:23.693661522Z",
+  "model": "glm-5.3"
+}

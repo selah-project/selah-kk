@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Және Яхвенің періштесі Авраһамға көктен екінші рет үндеді.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "үндеді"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "періштесі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһамға"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "екінші рет"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ден"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "көктен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:22:54.646569415Z",
+  "model": "glm-5.3"
+}

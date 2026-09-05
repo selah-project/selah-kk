@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Ал енді, Яхве, сен — ⟨сол⟩ Элохимсің, құлыңа ⟨туралы⟩ осы жақсылықты сөйледің.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨сол⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "сөйледің"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨туралы⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "құлыңа"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "жақсылықты"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:19:18.976363394Z",
+  "model": "glm-5.3"
+}

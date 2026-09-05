@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Және басының шашы қырылған кезіндей өсе бастады.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "бастады"
+    },
+    {
+      "surface": "שער",
+      "gloss": "шашы"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "басының"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "өсуге"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кезіндей"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "қырылған"
+    }
+  ],
+  "timestamp": "2026-09-05T03:16:25.689589035Z",
+  "model": "glm-5.3"
+}

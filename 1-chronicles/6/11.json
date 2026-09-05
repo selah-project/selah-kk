@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Элқана, оның ұлы; Элқананың ұлдары: Цофай оның ұлы, және Наһат оның ұлы.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқананың"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Цофай"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "және Наһат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:48.273902445Z",
+  "model": "glm-5.3"
+}

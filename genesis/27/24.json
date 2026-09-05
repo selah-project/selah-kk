@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ол айтты: «Сен осы менің ұлым Эсавсың ба?» Ол айтты: «Мен өзім».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "менің ұлым"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен өзім"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:17.147466250Z",
+  "model": "glm-5.3"
+}

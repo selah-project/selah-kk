@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Түсінетін адамға бір сөгу терең енеді — ақмаққа жүз қамшыдан гөрі.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "енеді"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "сөгу"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "түсінетін адамға"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "қамшыдан гөрі"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақмаққа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:55.410032132Z",
+  "model": "glm-5.3"
+}

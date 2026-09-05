@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Олардың түйелері төрт жүз отыз бес; есектері алты мың жеті жүз жиырма.",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "түйелері"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "бес"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "есектері"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:23.882770305Z",
+  "model": "glm-5.3"
+}

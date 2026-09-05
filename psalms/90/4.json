@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 90,
+  "translation": "Өйткені мың жыл көзіңде кеше өткен күндей, түндегі бір күзеттей.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "көзіңде"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "күндей"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өткендей"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "өтеді"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "және күзет"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түндегі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:53.581127196Z",
+  "model": "glm-5.3"
+}

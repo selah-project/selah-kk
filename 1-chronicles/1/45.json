@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Йовав өлді, ал орнына Темани елінен Хушам патшалық құрды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патшалық құрды"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "елінен"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Темани"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:18.539600305Z",
+  "model": "glm-5.3"
+}

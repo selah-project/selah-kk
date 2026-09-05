@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Уззи ⟨את⟩ Зерахияны туғызды, Зерахия ⟨את⟩ Мерайотты туғызды.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зерахияны"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахия"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Зерахия"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мерайотты"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:45.142318091Z",
+  "model": "glm-5.3"
+}

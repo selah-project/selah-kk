@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қалқаным — Элохим ⟨үстінде⟩, тура жүректілерді құтқарушы.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "қалқаным"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "құтқарушы"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "тура"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    }
+  ],
+  "timestamp": "2026-09-05T05:50:11.983993157Z",
+  "model": "glm-5.3"
+}

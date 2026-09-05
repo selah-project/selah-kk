@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 73,
+  "translation": "Ал менің — аяғым аз қалды тайып, қадамдарым енді құлады.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал менің"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "аз қалды"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "тайып"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "аяғым"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "енді"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "құлады"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "қадамдарым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:50.082514586Z",
+  "model": "glm-5.3"
+}

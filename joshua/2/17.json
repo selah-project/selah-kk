@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 2:17",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ерлер оған айтты: «Сен бізге ант ішкізген осы анттан біз кінәсізбіз.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ерлер"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "кінасіз"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "біз"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "анттан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ант ішкізген"
+    }
+  ],
+  "timestamp": "2026-09-05T02:55:27.235565284Z",
+  "model": "glm-5.3"
+}

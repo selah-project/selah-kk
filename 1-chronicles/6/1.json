@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Левінің ұлдары: Гершом, Кеһат және Мерари.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левінің"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "және Мерари"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:03.367179689Z",
+  "model": "glm-5.3"
+}

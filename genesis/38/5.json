@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Тағы да қосып, ұл туды және ⟨את⟩ атын Шела қойды; ⟨ол⟩ оны туған кезінде Кезивте болды ⟨еді⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "тағы қосты"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ат қойды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Шела"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Кезивте"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "туған кезінде"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:36.984412245Z",
+  "model": "glm-5.3"
+}

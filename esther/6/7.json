@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Һаман патшаға: «Патша құрметтеуді қалаған адам ⟨үшін⟩…» — деп айтты.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Һаман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ға"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "қалаған"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "құрметтеу"
+    }
+  ],
+  "timestamp": "2026-09-05T07:50:53.364671841Z",
+  "model": "glm-5.3"
+}

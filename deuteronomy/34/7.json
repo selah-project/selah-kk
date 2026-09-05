@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Моше қайтыс болғанда жүз ⟨және⟩ жиырма жаста еді; көзі күңіренген жоқ, қуаты да тайған жоқ.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "және жиырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жас"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "қайтыс болғанда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "күңіренген"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "көзі"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "тайған"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "қуаты"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:07.883141605Z",
+  "model": "glm-5.3"
+}

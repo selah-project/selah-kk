@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Және бір онындық — бір қозыға, он төрт қозыға.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "және бір онындық"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "онындық"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "бір қозыға"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "біреуі"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "қозыға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:28:23.289708262Z",
+  "model": "glm-5.3"
+}

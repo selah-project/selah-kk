@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 102,
+  "translation": "Ол жолда күшімді әлсіретті, күндерімді қысқартты.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "әлсіретті"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолда"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "күшін"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "қысқартты"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндерін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:50.435797864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "«Беліял сөзі оған құйылды, ал ол жатқандықтан енді тұрмайды» — дейді.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Беліял"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "құйылды"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "жатқандықтан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "енді"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "тұрмайды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:58:56.903035457Z",
+  "model": "glm-5.3"
+}

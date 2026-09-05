@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Тексерік жолдарымызды, сынайық және Яхвеге қайтайық.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "тексерік"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "жолдарымызды"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "және сынайық"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "және қайтайық"
+    },
+    {
+      "surface": "עד",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:18.784842780Z",
+  "model": "glm-5.3"
+}

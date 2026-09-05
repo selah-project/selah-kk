@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Суда жүзбеқанаты және қабыршағы жоқтың бәрі — ол сендерге жиіркеніш.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсысының"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оның"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "жүзбеқанаты"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "және қабыршағы"
+    },
+    {
+      "surface": "במים",
+      "gloss": "суда"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жиіркеніш"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:01:43.890873775Z",
+  "model": "glm-5.3"
+}

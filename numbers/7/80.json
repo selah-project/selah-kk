@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Алтын астау бір — он шекель, тұтқынға толы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "астанау"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "тұтқын"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:50.288046052Z",
+  "model": "glm-5.3"
+}

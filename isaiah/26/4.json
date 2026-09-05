@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "«Яхвеге мәңгіге дейін сеніңдер, өйткені Ях Яхве — мәңгілердің құзы.»",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "сеніңдер"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "мәңгіге дейін"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צור",
+      "gloss": "құз"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "мәңгілердің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:26:53.395360049Z",
+  "model": "glm-5.3"
+}

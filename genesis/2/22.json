@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Және Яхве Элохим адамнан алған ⟨את⟩ қабырғаны әйел етіп құрады және оны адамға әкелді.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "құрады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қабырғаны"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "қабырғаны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсыны"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "алған"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "әйел етіп"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "әкелді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:54.005707272Z",
+  "model": "glm-5.3"
+}

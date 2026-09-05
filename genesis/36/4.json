@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Ада Эсавқа ⟨את⟩ Элифасты туды, және Босмат ⟨את⟩ Регуелды туды.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Эсавқа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элифасты"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифасты"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "және Босмат"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Регуелды"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Регуелды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:23.548864058Z",
+  "model": "glm-5.3"
+}

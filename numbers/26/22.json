@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Осы — Яһуданың рулары, олардың саны бойынша: жетпіс алты мың бес жүз.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рулары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуданың"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "саны бойынша"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "жетпіс"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:26:13.181462996Z",
+  "model": "glm-5.3"
+}

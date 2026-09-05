@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Себебі Сенімен ⟨бар⟩ өмір бұлағы, Сенің нұрыңмен нұр көреміз.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Сенімен"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "бұлағы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "Сенің нұрыңмен"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "көреміз"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нұр"
+    }
+  ],
+  "timestamp": "2026-09-05T05:57:23.711343741Z",
+  "model": "glm-5.3"
+}

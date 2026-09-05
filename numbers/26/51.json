@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Мынау — Исраил ұлдарының саны: алты жүз мың бір мың жеті жүз отыз.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Мынау"
+    },
+    {
+      "surface": "пקודי",
+      "gloss": "саны"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "және бір мың"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "және отыз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:03.642983013Z",
+  "model": "glm-5.3"
+}

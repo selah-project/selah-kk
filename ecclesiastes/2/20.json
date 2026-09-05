@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Сөйтіп мен күн астында еңбек еткен барлық еңбек туралы ⟨את⟩ жүрегімді күдер үзуге айналдым.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "айналдым"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "күдер үзуге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүрегімді"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрегімді"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "еңбек"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "еңбек еткен"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T07:45:10.997497403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 40,
+  "translation": "Және ол үй жағынан қақпаның алқабын бір қамыс етіп өлшеді.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "өлшеді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қақпаның алқабын"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "алқабын"
+    },
+    {
+      "surface": "השער",
+      "gloss": "қақпаның"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "үй жағынан"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "бір қамыс"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T05:27:32.278093467Z",
+  "model": "glm-5.3"
+}

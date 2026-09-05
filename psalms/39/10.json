@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Үндемедім, аузымды ашпадым, себебі Сен ⟨оны⟩ істедің.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Үндемедім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ашамын"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузымды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "істедің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:05.151733179Z",
+  "model": "glm-5.3"
+}

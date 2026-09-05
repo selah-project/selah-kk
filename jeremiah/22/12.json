@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Өйткені оны жер аударған жерде ол өледі, ал ⟨את⟩ осы жерді енді көрмейді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "жер аударған"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өледі"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "жерді"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көрмейді"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    }
+  ],
+  "timestamp": "2026-09-05T04:51:34.395686820Z",
+  "model": "glm-5.3"
+}

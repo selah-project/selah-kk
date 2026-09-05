@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Моше осы сөздердің бәрін Исраилдің бәріне айтумен бітірді.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "бітірді"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "айтумен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бәрін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздердің"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәріне"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T02:51:45.259838560Z",
+  "model": "glm-5.3"
+}

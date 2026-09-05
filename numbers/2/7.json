@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Зебулұн тайпасы, ал Зебулұн ұлдарының ұлысы — Элиав, Хелонның ұлы.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "тайпа"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулұн"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ал ұлысы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулұн"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-09-05T07:22:12.913681069Z",
+  "model": "glm-5.3"
+}

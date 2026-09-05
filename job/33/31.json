@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Құлақ тік, Ийов, тыңда мені; үндеме, ал Мен сөйлеймін.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "құлақ тік"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "үндеме"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ал Мен"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сөйлеймін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:47:32.723968648Z",
+  "model": "glm-5.3"
+}

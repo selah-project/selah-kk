@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Олардың бейбітшілігін де, игілігін де қума — жоқ, барлық күндеріңде, мәңгі.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "қума"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "бейбітшіліктерін"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "және игіліктерін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "күндеріңде"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T02:47:15.675395963Z",
+  "model": "glm-5.3"
+}

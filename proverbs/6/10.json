@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Аздап ұйқы, аздап құмарық, аздап қол қусыру — жатуға.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "аздап"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ұйқы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аздап"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "құмарық"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аздап"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "қусыру"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "қол"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "жатуға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:36.595943855Z",
+  "model": "glm-5.3"
+}

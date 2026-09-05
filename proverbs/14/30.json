@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Емдейтін жүрек — еттің өмірі, ал шіру — сүйектердің ⟨қанқуы⟩.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "өмірі"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "еттің"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "емдейтін"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "ал шіру"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "сүйектердің"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "қанқу"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:42.022075135Z",
+  "model": "glm-5.3"
+}

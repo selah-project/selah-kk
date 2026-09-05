@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Оны екінші күні Нафтали ұлдарының әміршісі Эйнанның ұлы Ахирам ⟨алды⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "әмірші"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахирам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Эйнан"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:50.287714279Z",
+  "model": "glm-5.3"
+}

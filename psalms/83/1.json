@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 83,
+  "translation": "Ән, мәзмор, Асафқа.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ән"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафқа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:27.710829243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Тәртіпті сүйген білімді сүйеді, ал сөгінді жеккөретін — надан.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "сүйеді"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәртіп"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйеді"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ал жеккөреді"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "сөгінді"
+    },
+    {
+      "surface": "בער",
+      "gloss": "надан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:00.419959651Z",
+  "model": "glm-5.3"
+}

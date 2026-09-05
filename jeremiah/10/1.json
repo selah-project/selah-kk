@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Тыңдаңдар ⟨את⟩ сөзді, қайсы туралы Яхве сендерге сөйледі, Исраил үйі.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "тыңдаңдар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзді"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөзді"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсы туралы"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T04:47:13.008877852Z",
+  "model": "glm-5.3"
+}

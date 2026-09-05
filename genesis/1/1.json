@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Әуел баста Элохим ⟨את⟩ аспанды және ⟨את⟩ жерді жаратты.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Әуел баста"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "жаратты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аспанды"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "аспанды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "жерді"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:16.406119394Z",
+  "model": "glm-5.3"
+}

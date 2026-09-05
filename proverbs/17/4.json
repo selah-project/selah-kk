@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Жаман іс істеуші зұлымдық ерніне құлақ асады, өтірікші қауіпті тілге тыңдайды.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "жаман іс істеуші"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "құлақ асады"
+    },
+    {
+      "surface": "על",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ерн"
+    },
+    {
+      "surface": "און",
+      "gloss": "зұлымдық"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "өтірікші"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "тыңдайды"
+    },
+    {
+      "surface": "על",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тіл"
+    },
+    {
+      "surface": "הות",
+      "gloss": "қауіпті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:37.116382365Z",
+  "model": "glm-5.3"
+}

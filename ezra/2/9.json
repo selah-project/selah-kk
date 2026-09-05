@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Заккай ұлдары — жеті жүз алпыс ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккай"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "және алпыс"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:09.313897456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Байлық көп досты қосады, ал кедей өз досынан айырылады.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "байлық"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "қосады"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "досты"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ал кедей"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "өз досынан"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "айырылады"
+    }
+  ],
+  "timestamp": "2026-09-05T08:43:01.294070644Z",
+  "model": "glm-5.3"
+}

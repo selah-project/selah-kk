@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Дауыңды даула ⟨את⟩ жақыныңмен, және сырды бөтенге ашпа.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "дауыңды"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "даула"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жақыныңмен"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "жақыныңмен"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "және сыр"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ашпа"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ашпа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:25.142130093Z",
+  "model": "glm-5.3"
+}

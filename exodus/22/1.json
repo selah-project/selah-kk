@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Егер ұры ⟨қазып кіруде⟩ табылып, соғылып өлсе, оның үшін ⟨қан⟩ ⟨жоқ⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "қазып кіруде"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табылып"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ұры"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "соғылып"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өлсе"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨жоқ⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оның үшін"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "⟨қан⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:49.401217974Z",
+  "model": "glm-5.3"
+}

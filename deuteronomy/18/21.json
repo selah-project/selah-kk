@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Ал егер жүрегіңде айтсаң: «Яхве ⟨את⟩ сөзді айтқан жоқ — оны қалай білеміз?»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтсаң"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "жүрегіңде"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "білеміз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзді"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөзді"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T02:43:31.844756315Z",
+  "model": "glm-5.3"
+}

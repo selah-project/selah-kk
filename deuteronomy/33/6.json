@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Рувім жасасын және өлмесін, және оның адамдары санаулы болсын.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "жасасын"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувім"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "өлмесін"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "оның адамдары"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "санаулы"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:03.815490307Z",
+  "model": "glm-5.3"
+}

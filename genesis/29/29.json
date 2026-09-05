@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 29:29",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Лаван Рахильге, өз қызына, ⟨את⟩ Билһаны — өз күңін — оған күң болуға берді.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берді"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахильге"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "өз қызына"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билһаны"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһа"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "өз күңін"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לשפחה",
+      "gloss": "күң болуға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:26:20.561429573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Нatan Давитке: «Жүрегіңдегінің бәрін істе, өйткені Элохим сенімен», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давит"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ға"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "жүрегіңде"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сенімен"
+    }
+  ],
+  "timestamp": "2026-09-05T08:46:12.281479896Z",
+  "model": "glm-5.3"
+}

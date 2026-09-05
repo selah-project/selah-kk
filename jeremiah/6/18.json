@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Сондықтан тыңдаңдар, ұлыттар, және біл, қауым, ⟨את⟩ олардағыны.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "сондықтан"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңдаңдар"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ұлыттар"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "және біл"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "қауым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "олардағыны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "בם",
+      "gloss": "оларда"
+    }
+  ],
+  "timestamp": "2026-09-05T04:44:53.880907666Z",
+  "model": "glm-5.3"
+}

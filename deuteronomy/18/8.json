@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Үлес сияқты үлес жесін — аталары бойынша өз сатқандарынан бөлек.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "үлес"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "үлес сияқты"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жесін"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "бөлек"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "өз сатқандарынан"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "аталары"
+    }
+  ],
+  "timestamp": "2026-09-05T02:43:53.175007582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ол айтты: «Бұлар — жер жүзінің бүкіл иесінің алдында тұрған екі май ұлдары».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бұлар"
+    },
+    {
+      "surface": "שני",
+      "gloss": "екеу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "майдың ұлдары"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "жас майдың"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "тұрған"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "иесінің"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:46.778613671Z",
+  "model": "glm-5.3"
+}

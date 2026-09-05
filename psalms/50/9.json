@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 50,
+  "translation": "Жоқ, үйіңнен бұқа алмаймын, қораларыңнан текелерді.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "алмаймын"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "үйіңнен"
+    },
+    {
+      "surface": "פר",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "қораларыңнан"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "текелерді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:53.879122682Z",
+  "model": "glm-5.3"
+}

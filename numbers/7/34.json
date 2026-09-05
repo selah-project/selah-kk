@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ешкілердің бір тегесі күнә құрбандығы үшін.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "теге"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкілердің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбандығы үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:31.071560967Z",
+  "model": "glm-5.3"
+}

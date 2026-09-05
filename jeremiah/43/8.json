@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 43,
+  "translation": "Тахпанхесте Яхвенің сөзі Йірмияһуға болды, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йірмияһу"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "Тахпанхесте"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:03:46.888126093Z",
+  "model": "glm-5.3"
+}

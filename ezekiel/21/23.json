@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Және Яхвенің сөзі маған келіп ⟨айтылды⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Және… болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨айтылды⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T05:16:17.117282851Z",
+  "model": "glm-5.3"
+}

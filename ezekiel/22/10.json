@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Әкенің жалаңаштығын ашты сенде, ниданың ластығын қорлады сенде.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жалаңаштығын"
+    },
+    {
+      "surface": "אב",
+      "gloss": "әкенің"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ашты"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "ластығын"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "ниданың"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "қорлады"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенде"
+    }
+  ],
+  "timestamp": "2026-09-05T05:18:00.215050051Z",
+  "model": "glm-5.3"
+}

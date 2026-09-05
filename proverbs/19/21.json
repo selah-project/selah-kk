@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Әдам жүрегінде көп ой-жоспарлар, бірақ Яхвенің кеңесі — сол тұрады.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "көп"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ой-жоспарлар"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "жүрегінде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "әдамның"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "және кеңесі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "היא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "тұрады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:01.099797527Z",
+  "model": "glm-5.3"
+}

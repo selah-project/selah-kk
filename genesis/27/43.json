@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Енді, ұлым, дауысымызды естіп, тұр да өзің үшін Лаванға, ағама, Харанға қашып бар».",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "енді"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "естіп"
+    },
+    {
+      "surface": "вקלי",
+      "gloss": "дауысымызды"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "қашып бар"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзің үшін"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қа"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаванға"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ағама"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "Харанға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:23.260549145Z",
+  "model": "glm-5.3"
+}

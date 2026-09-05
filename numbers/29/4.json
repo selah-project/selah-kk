@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Және жеті қошқардың әр біріне бір онын.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "және бір онын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "қошқарға"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "қошқардың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:28:08.938233424Z",
+  "model": "glm-5.3"
+}

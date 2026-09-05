@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қейростың ұлдары, Сианың ұлдары, Падонның ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Қейростың"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Сианың"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падонның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:09.503340455Z",
+  "model": "glm-5.3"
+}

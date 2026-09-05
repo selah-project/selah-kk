@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Себебі түстер көп болғанда хавелер де, сөздер де көп болады; бірақ ⟨את⟩ Элохимнен қорқ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп болғанда"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "түстер"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "хавелер де"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "сөздер де"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп болады"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бірақ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохимнен"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "қорқ"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:55.485208575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Мен айттым: Әй, Адонай Яхве! Мына, мен сөйлеуді білмеймін, өйткені мен жас жігітпін.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "және айттым"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "әй"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "білмеймін"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлеуді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "נער",
+      "gloss": "жас жігіт"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-09-05T04:41:55.452367632Z",
+  "model": "glm-5.3"
+}

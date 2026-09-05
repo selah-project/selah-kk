@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Сендер маған жауап беріп ⟨את⟩ айттыңдар: сен істеу үшін айтқан ⟨сөз⟩ жақсы.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "және жауап бердіңдер"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мені"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "және айттыңдар"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сен айтқан"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "істеу үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:02.731771675Z",
+  "model": "glm-5.3"
+}

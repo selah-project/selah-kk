@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Исраилде оның аты «аяқ киімі шешілгеннің үйі» деп аталады.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "аталады"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "оның аты"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраилде"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "шешілген"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "аяқ киімі"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:22.706871769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Көптер билеушінің жүзін іздейді, ал адамның үкімі — Яхведен.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "көптер"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "іздейді"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзін"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "билеушінің"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ал Яхведен"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "үкімі"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    }
+  ],
+  "timestamp": "2026-09-05T07:42:04.059398028Z",
+  "model": "glm-5.3"
+}

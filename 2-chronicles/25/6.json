@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Және ол Исраилден жүз мың батыр жауынгерді жүз кікар күміске жалдады.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "жалдады"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Исраилден"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "жауынгерді"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "кікар"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күміске"
+    }
+  ],
+  "timestamp": "2026-09-05T08:47:11.611713036Z",
+  "model": "glm-5.3"
+}

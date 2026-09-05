@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Тас пен тас — Яхве үшін жиіркенішті, және алаяқ таразылар жақсы емес.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жиіркенішті"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "тас"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "және тас"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "және таразылар"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "алаяқ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:43.602597653Z",
+  "model": "glm-5.3"
+}

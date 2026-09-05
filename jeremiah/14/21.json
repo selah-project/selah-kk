@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 14:21",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Есімің үшін менсінбе, ұлылығыңның тағын құлатпа; еске ал, одағыңды ⟨את⟩ бізбен бұзба.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ау"
+    },
+    {
+      "surface": "תנאץ",
+      "gloss": "менсінбе"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Есімің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ау"
+    },
+    {
+      "surface": "תנבל",
+      "gloss": "құлатпа"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тағын"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ұлылығыңның"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "еске ал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ау"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "бұзба"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "одағыңды"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ бізбен"
+    }
+  ],
+  "timestamp": "2026-09-05T04:48:01.363403401Z",
+  "model": "glm-5.3"
+}

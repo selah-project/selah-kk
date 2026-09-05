@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 88,
+  "translation": "Себебі жаныма жамандықтан тояды, және өмірім Шеолге жетті.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "тояды"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "жамандықтан"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныма"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "және өмірім"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолге"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "жетті"
+    }
+  ],
+  "timestamp": "2026-09-05T09:19:36.315308309Z",
+  "model": "glm-5.3"
+}

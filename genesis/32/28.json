@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Ол оған айтты: «Сенің есімің кім?» Ол айтты: «Яақов.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кім\/не"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "есімің"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яақов"
+    }
+  ],
+  "timestamp": "2026-09-05T01:27:34.975141030Z",
+  "model": "glm-5.3"
+}

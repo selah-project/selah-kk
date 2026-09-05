@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Және алтын қондырмалар жасайсың.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "және жасайсың"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "қондырмалар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-09-05T01:50:47.496119290Z",
+  "model": "glm-5.3"
+}

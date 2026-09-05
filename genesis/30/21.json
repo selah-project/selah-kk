@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Сосын ол қыз бала туды да, оның атын Дина қойды.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "сосын"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қыз"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оның атын"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "атын"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:48.813482146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Соққанына жағын берсін, қорлықтан тойсын.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "береді"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "соққанына"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "жағын"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "тойсын"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "қорлықтан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:02.773266754Z",
+  "model": "glm-5.3"
+}

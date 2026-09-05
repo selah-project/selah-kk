@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Исраил үйі ⟨את⟩ жерді тазарту үшін оларды жеті ай жерлейді.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "оларды жерлейді"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "тазартады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерді"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-09-05T05:25:59.650120508Z",
+  "model": "glm-5.3"
+}

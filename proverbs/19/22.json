@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Әдамның арманы — оның хеседі; кедей адам өтірікші әдамнан жақсы.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "арманы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "әдамның"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "оның хеседі"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "және жақсы"
+    },
+    {
+      "surface": "רש",
+      "gloss": "кедей"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "әдамнан"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "өтірікшіден"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:01.100136844Z",
+  "model": "glm-5.3"
+}

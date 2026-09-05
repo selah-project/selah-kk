@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 29:14",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Кедейлерді шындықпен соттайтын патшаның тағы мәңгі тұрады.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "соттайтын"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "шындықпен"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "кедейлерді"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "тұрады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:11.350774663Z",
+  "model": "glm-5.3"
+}

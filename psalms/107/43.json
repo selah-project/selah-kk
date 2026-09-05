@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 107,
+  "translation": "Кім дана — осыны ұқсын, сонда Яхвенің хеседтерін түсінер еді.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "дана"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ұқсын"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "осыларды"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "түсінер"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "хеседтерін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:24.067824957Z",
+  "model": "glm-5.3"
+}

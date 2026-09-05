@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Давит аталарымен жатты, және Давит қаласында жерленді.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "жатты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давит"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "аталары"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "жерленді"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "қаласында"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давит"
+    }
+  ],
+  "timestamp": "2026-09-05T03:50:02.303506075Z",
+  "model": "glm-5.3"
+}

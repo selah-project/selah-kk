@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Қастық үйіне мысал айт және оларға былай де: Адонай Яхве былай деген: Қазанды қой, қазанды қой және оған су құй.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "мысал айт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ке"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "қастық"
+    },
+    {
+      "surface": "משל",
+      "gloss": "мысал"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "және де"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "қой"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "қазанды"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "қой"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "және"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "құй"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T05:18:44.477600427Z",
+  "model": "glm-5.3"
+}

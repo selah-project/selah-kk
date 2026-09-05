@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 146,
+  "translation": "Мақтаңдар Яхты! Мақта, жаным, Яхвені ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "мақтаңдар"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яхты"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "мақта"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвені"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:21.756185780Z",
+  "model": "glm-5.3"
+}

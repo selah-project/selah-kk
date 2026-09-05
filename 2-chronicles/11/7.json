@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Және ⟨את⟩ Бейт-Цурды, ⟨את⟩ Сохоны және ⟨את⟩ Адулламды ⟨салды⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Бейт-Цурды"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-Цурды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Сохоны"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Сохоны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Адулламды"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Адулламды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:43.708300568Z",
+  "model": "glm-5.3"
+}

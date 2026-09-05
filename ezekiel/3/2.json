@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Мен аузымды аштым, және Ол маған осы оралымды жедірді.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "аштым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аузымды"
+    },
+    {
+      "surface": "пי",
+      "gloss": "аузымды"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "жедірді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оралымды"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "оралымды"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T05:10:31.145147318Z",
+  "model": "glm-5.3"
+}

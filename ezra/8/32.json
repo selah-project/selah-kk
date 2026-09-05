@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Иерусалимге келдік, және онда үш күн болдық.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "және келдік"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Иерусалимге"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "және қоныстадық"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:44:04.897316974Z",
+  "model": "glm-5.3"
+}

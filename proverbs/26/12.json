@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Өз көзінше дана адамды көрдің бе? Ақымаққа одан гөрі үміт бар.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "көрдің"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "дана"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өз көзінше"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "үміт"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ақымаққа"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:58.713092340Z",
+  "model": "glm-5.3"
+}

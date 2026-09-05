@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Жақсы есім жақсы майға қарағанда жақсырақ, ал өлім күні туылған күннен жақсырақ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсырақ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "есім"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "жақсы майдан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ал күні"
+    },
+    {
+      "surface": "המות",
+      "gloss": "өлім"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "күннен"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "туылған"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:57.462646873Z",
+  "model": "glm-5.3"
+}

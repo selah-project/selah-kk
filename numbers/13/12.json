@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Дан тайпасы үшін — Гемалли ұлы Аммиэл.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "тайпасы үшін"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Гемалли"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:14.617928982Z",
+  "model": "glm-5.3"
+}

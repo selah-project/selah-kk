@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Сөз Яхвеге маған келді, айтуға:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T04:50:41.726789095Z",
+  "model": "glm-5.3"
+}

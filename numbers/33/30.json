@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Хашмонадан аттанып, Мосеротта аялдады.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "аттанып"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "Хашмонадан"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "аялдады"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "Мосеротта"
+    }
+  ],
+  "timestamp": "2026-09-05T07:22:47.228023591Z",
+  "model": "glm-5.3"
+}

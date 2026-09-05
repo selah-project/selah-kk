@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "ешкілердің текесі бір — күнә құрбанына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "текесі"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкілердің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:49.382263663Z",
+  "model": "glm-5.3"
+}

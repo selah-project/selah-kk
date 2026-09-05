@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Ал бидай мен қарабидай соғылмады — себебі олар піспеген ⟨әлі⟩.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "және бидай"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "және қарабидай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "соғылды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "піспеген"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "олар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:41:14.407523631Z",
+  "model": "glm-5.3"
+}

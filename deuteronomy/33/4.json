@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Бізге Моше Тора бұйырды — Яаков жамағатының мұрасы.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "мұрасы"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "жамағатының"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-09-05T02:52:29.981545705Z",
+  "model": "glm-5.3"
+}

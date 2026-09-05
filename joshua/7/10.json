@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және Яхве Яһошуаға айтты: «Тұр, неге ⟨сен⟩ бетіңмен жерге құласың?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһошуаға"
+    },
+    {
+      "surface": "קם",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "למה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "құласың"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "бетіңмен"
+    }
+  ],
+  "timestamp": "2026-09-05T07:25:40.748832491Z",
+  "model": "glm-5.3"
+}

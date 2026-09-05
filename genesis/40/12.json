@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 40,
+  "translation": "Йосеф оған айтты: мынау — оның жоруы: үш бұтақ — үш күн.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "זה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "жоруы"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "бұтақ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "הם",
+      "gloss": "олар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:51.417174428Z",
+  "model": "glm-5.3"
+}

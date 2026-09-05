@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ал әйел болса, бағалауың отыз шекел.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал әйел болса"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "бағалауың"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:24.812602662Z",
+  "model": "glm-5.3"
+}

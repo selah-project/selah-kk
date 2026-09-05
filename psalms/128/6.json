@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 128,
+  "translation": "Және ұлдарыңның ұлдарын көр! Шалом Исраилге!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "және көр"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдарын"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ұлдарыңның"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалом"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:28.001921691Z",
+  "model": "glm-5.3"
+}

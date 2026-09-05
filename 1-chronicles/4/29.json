@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "және Билһада, және Эцемде, және Толадта",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "және Билһада"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "және Эцемде"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "және Толадта"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:24.843502904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Және Яхве маған деді: Қара, Сихонды және ⟨את⟩ жерін саған беріп бастадым — ⟨את⟩ жерін иеленуді баста.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "қара"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "бастадым"
+    },
+    {
+      "surface": "תת",
+      "gloss": "беруді"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сихонды"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихонды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "жерін"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "жерін"
+    },
+    {
+      "surface": "החל",
+      "gloss": "баста"
+    },
+    {
+      "surface": "רש",
+      "gloss": "иеленуді"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "иелену үшін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерін"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "жерін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:50.968553972Z",
+  "model": "glm-5.3"
+}

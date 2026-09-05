@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Мошені (Мұса) үндеді, және Яхве оған кездесу шатырынан сөйледі, айтуға:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "үндеді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошені (Мұса) —"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мұса)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "және сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "шатырдан"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "кездесу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:58:44.117718771Z",
+  "model": "glm-5.3"
+}

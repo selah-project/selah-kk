@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Және егер оның ішінде ақау болса — ақсақ не соқыр, кез келген жаман ақау — оны Яхве Элохиміңе соймаңда.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "және егер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болса"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оның ішінде"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ақау"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ақсақ"
+    },
+    {
+      "surface": "או",
+      "gloss": "не"
+    },
+    {
+      "surface": "עור",
+      "gloss": "соқыр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кез келген"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ақау"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "оны соймаңда"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохиміңе"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:30.758830085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Йояда ⟨את⟩ Йонатанды туғды, Йонатан ⟨את⟩ Яддуаны туғды.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Йояда"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йонатанды"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яддуаны"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Яддуа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:37.236123901Z",
+  "model": "glm-5.3"
+}

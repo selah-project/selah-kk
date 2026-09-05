@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Себебі барлық үстелдер құсық пен ластықтан толы — таза орын жоқ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "үстелдер"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "толы"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "құсық"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ластық"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "орын"
+    }
+  ],
+  "timestamp": "2026-09-05T04:27:27.012419162Z",
+  "model": "glm-5.3"
+}

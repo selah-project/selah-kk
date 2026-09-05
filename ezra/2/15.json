@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Адиннің ұлдары — төрт жүз елу ⟨және⟩ төртеу.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Адиннің"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "және төртеу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:53.508260810Z",
+  "model": "glm-5.3"
+}

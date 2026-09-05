@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Есте, әрдайым есте сақтаймын — жаным менің ішімде еңкейді.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "есте"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "әрдайым есте сақтаймын"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "және еңкейді"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "менің ішімде"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:07.990077972Z",
+  "model": "glm-5.3"
+}

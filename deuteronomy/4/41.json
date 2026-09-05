@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сол кезде Моше Йарденнің арғы жағында, күн шығатын жақта үш қаланы бөліп берді.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "сол кезде"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "бөліп берді"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "қаланы"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "арғы жағында"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йарденнің"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "шығысқа"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T02:36:10.746171878Z",
+  "model": "glm-5.3"
+}

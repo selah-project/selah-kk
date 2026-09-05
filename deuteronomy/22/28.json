@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Егер ер некелеспеген жас бойжеткенді тапса, оны ұстап алып, онымен жатса, және олар ұсталса,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "тапса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ер"
+    },
+    {
+      "surface": "נער",
+      "gloss": "жас"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "бойжеткенді"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "некелеспеген"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "ұстап алып"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "жатса"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "ұсталса"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:49.050077838Z",
+  "model": "glm-5.3"
+}

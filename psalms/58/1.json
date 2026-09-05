@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 58,
+  "translation": "Басшыға қарай. Жойма. Давидтің. Миктам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Басшыға қарай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Жойма"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Миктам"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:33.947249395Z",
+  "model": "glm-5.3"
+}

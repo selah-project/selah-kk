@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Құлады басымыздың тәжі; ай-ай ⟨енді⟩ бізге, өйткені күна жасадық.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "құлады"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "тәжі"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "басымыздың"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ай-ай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨енді⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "күна жасадық"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:41.497419065Z",
+  "model": "glm-5.3"
+}

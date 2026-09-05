@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ниневенің жүгі — Элқошылық Наһумның көрініс кітабы.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "жүгі"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневенің"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "кітабы"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "көрініс"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Наһумның"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "Элқошылық"
+    }
+  ],
+  "timestamp": "2026-09-05T05:43:24.360682474Z",
+  "model": "glm-5.3"
+}

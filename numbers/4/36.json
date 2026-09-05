@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және олардың саны, рулары бойынша, екі мың жеті жүз елу болды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "саны"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "рулары бойынша"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "екі мың"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "елу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:03.788381474Z",
+  "model": "glm-5.3"
+}

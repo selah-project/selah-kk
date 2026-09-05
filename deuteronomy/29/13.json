@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Және тек сендермен ғана емес — Мен ⟨את⟩ осы одақты және ⟨את⟩ осы антты кесемін.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "және емес"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ сендермен"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "тек сендер ғана"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "кесемін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оса одақты"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "одақты"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осыны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "оса антты"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "антты"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осыны"
+    }
+  ],
+  "timestamp": "2026-09-05T07:24:50.040769536Z",
+  "model": "glm-5.3"
+}

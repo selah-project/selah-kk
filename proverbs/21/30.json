@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Хикмет жоқ, және ұғым жоқ, және кеңес жоқ — Яхвеге қарсы.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмет"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ұғым"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "кеңес"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:00.003613395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Мераёт оның ұлы, Амарйа оның ұлы, Аһитув оның ұлы.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мераёт"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарйа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитув"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:19.419145521Z",
+  "model": "glm-5.3"
+}

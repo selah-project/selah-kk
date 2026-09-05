@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Тыңда, Яхве, және маған рақым ет, Яхве, маған көмекші бол.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Тыңда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "және рақым ет маған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бол"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "көмекші"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:03.474573554Z",
+  "model": "glm-5.3"
+}

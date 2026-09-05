@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Ол айтты: «Адонай, егер көзіңізде рақым тапсам, құлымнан өтіп кетпеңізші!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "נא",
+      "gloss": "өтінемін"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "тапсам"
+    },
+    {
+      "surface": "חן",
+      "gloss": "рахым"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "көзіңізде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жетпе"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ші"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "өтіп кет"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "құлыңның"
+    }
+  ],
+  "timestamp": "2026-09-05T01:20:46.810463656Z",
+  "model": "glm-5.3"
+}

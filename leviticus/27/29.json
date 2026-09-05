@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Адамнан харам етілген кез келген херем құтқарылмайды — өліммен өлтіріледі.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "кез келген"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "херем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "харам етілген"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамнан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "құтқарылады"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өліммен"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтіріледі"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:24.416211295Z",
+  "model": "glm-5.3"
+}

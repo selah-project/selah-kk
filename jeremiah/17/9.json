@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Айлакер ⟨жүрек⟩ бәрінен де, және ол — емделмес ⟨мұралы⟩; кім оны білген?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "айлакер"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бәрінен де"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "және емделмес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "оны білген"
+    }
+  ],
+  "timestamp": "2026-09-05T04:49:10.005365669Z",
+  "model": "glm-5.3"
+}

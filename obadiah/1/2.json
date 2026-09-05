@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Мынау, сені ұлттар арасында кішкентай еттім — өте қорланғансың.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "кішкентай"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "еттім"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ұлттар арасында"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "қорланғансың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    }
+  ],
+  "timestamp": "2026-09-05T07:37:46.346676406Z",
+  "model": "glm-5.3"
+}

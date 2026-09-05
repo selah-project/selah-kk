@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Ол оған: «Менімен ⟨את⟩ үйге барып, нан же», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩менімен"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "үйге"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "және же"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-09-05T03:57:42.345624132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Әйелмен зина жасаған жүрегі кем — өз жанын қиратқан, оны істейді сол.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "зина жасаған"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйелмен"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "кем"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "қиратқан"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "істейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:09.284540310Z",
+  "model": "glm-5.3"
+}

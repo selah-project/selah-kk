@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Құлдардың ат үстінде, ал әміршілердің жер үстінде құлдар сияқты жүргенін көрдім.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "құлдар"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ат"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ал әміршілер"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "жүрген"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "құлдар сияқты"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:03.694707247Z",
+  "model": "glm-5.3"
+}

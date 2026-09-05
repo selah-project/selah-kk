@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "және Адаия, және Бераия, және Шимрат — Шимейдің ұлдары.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "және Адаия"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "және Бераия"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "және Шимрат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимейдің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:54.118873517Z",
+  "model": "glm-5.3"
+}

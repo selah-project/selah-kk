@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Йосеф бауырларын ⟨את⟩ таныды, ал олар оны танымады.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "таныды"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бауырларын"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бауырларын"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ал олар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "танымады"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T07:20:53.343448040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Өйткені аспанға Қолымды көтеремін және айтамын: Мен мәңгі тірімін.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "көтеремін"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ға"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "аспан"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Қолымды"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "және айтамын"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T02:51:49.113457516Z",
+  "model": "glm-5.3"
+}

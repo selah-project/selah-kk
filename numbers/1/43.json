@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 1:43",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Саналғандары — Нафтали тайпасының — үш және елу мың, және төрт жүз.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "саналғандары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "тайпасының"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "және елу"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "және төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:12.466449131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Екі-екі Ноахқа, кемеге еркек және ұрғашы кірді — Элохим ⟨את⟩ Ноахқа бұйырғанындай.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "באו",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−қа"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "кеме"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "еркек"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "және ұрғашы"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "сияқты"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ноах"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:29.666598359Z",
+  "model": "glm-5.3"
+}

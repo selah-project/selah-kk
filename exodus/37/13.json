@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Оған ол төрт алтын жүзік құйды да, жүзіктерді төрт аяғына сай төрт бұрышына салды.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "құйды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "жүзік"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "салды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүзіктерді"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "жүзіктерді"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "бұрышына"
+    },
+    {
+      "surface": "אשר",
+      "gloss": " сай"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "аяғына"
+    }
+  ],
+  "timestamp": "2026-09-05T01:56:29.555103824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Жаным топыраққа жабысты; сөзің бойынша мені тірілт.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "жабысты"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "топыраққа"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "тірілт"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "сөзің бойынша"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:41.054437976Z",
+  "model": "glm-5.3"
+}

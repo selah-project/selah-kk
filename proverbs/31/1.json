@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Лемуел патшаның сөздері — анасы оны түзетіп үйреткен жүк-сөз.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сөздері"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуелдің"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "משא",
+      "gloss": "жүк-сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оны"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "түзетіп үйреткен"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:51.183734378Z",
+  "model": "glm-5.3"
+}

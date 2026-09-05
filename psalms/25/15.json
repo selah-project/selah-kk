@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Көзім әрқашан Яхвеге, себебі Ол тордан аяғымды шығарады.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "көзім"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "әрқашан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ол"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "шығарады"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "тордан"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "аяғымды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:02.990404332Z",
+  "model": "glm-5.3"
+}

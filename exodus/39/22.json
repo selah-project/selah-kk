@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Олар эфодтың ⟨את⟩ шапанын — тоқыма жұмысы, түгелдей көк — жасады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "олар жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шапанды"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "шапанын"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфодтың"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "жұмысы"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "тоқыма"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "түгелдей"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "көк"
+    }
+  ],
+  "timestamp": "2026-09-05T01:57:33.569392536Z",
+  "model": "glm-5.3"
+}

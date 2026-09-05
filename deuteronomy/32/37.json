@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Және ⟨ол⟩ айтады: қайда ⟨олардың⟩ құдайлары — олар сыйынған жартас? ⟨Оған⟩",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "אי",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "құдайлары"
+    },
+    {
+      "surface": "צור",
+      "gloss": "жартас"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "сыйынған"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:51:49.112758420Z",
+  "model": "glm-5.3"
+}

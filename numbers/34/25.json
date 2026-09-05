@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "және Зебулун ұлдары руынан — әмірші Элицафан, Парнактың ұлы.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "руынан және"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "әмірші"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Элицафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "Парнак"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:44.564409385Z",
+  "model": "glm-5.3"
+}

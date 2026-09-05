@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Күніне жеті рет сені әділ үкімдерің үшін мақтадым.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "жеті рет"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күніне"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "сені мақтадым"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "үкімдерің"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "әділ"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:00.344359555Z",
+  "model": "glm-5.3"
+}

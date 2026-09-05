@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Барлығы бір орынға барады: барлығы топырақтан болды, және барлығы топыраққа қайта оралады.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "барады"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "орынға"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "топырақтан"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "және барлығы"
+    },
+    {
+      "surface": "שב",
+      "gloss": "қайта оралады"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "топыраққа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:56.381520270Z",
+  "model": "glm-5.3"
+}

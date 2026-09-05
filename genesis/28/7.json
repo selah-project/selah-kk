@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Яақов әкесіне және анасына тыңдады, және Падан-Арамға кетті.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "тыңдады"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яақов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесіне"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және −ға"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасына"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "және кетті"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:59.472028840Z",
+  "model": "glm-5.3"
+}

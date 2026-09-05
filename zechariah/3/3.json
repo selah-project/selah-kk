@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ал Йеһошуа лас киімдер киген еді, періштенің алдында тұрды.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ал Йеһошуа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "еді"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "киген"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "киімдер"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "лас"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "және тұрды"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "періштенің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:46:48.593015903Z",
+  "model": "glm-5.3"
+}

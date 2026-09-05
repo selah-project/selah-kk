@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Леви үйінен бір адам кетті де, Леви қызын ⟨את⟩ алды.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "кетті де"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бір адам"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйінен"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Леви қызын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызын"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-09-05T01:37:46.944694170Z",
+  "model": "glm-5.3"
+}

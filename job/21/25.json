@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ал бұл ащы жанмен өледі, және жақсылықтан жемейді.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ал бұл"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өледі"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "жанмен"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ащы"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жемейді"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "жақсылықтан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:44:14.686656510Z",
+  "model": "glm-5.3"
+}

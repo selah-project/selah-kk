@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Тахаттан жүріп өтті де, Тараһта ⟨⟩ аялдады.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жүріп өтті"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "Тахаттан"
+    },
+    {
+      "surface": "ויחנу",
+      "gloss": "аялады"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "Тараһта"
+    }
+  ],
+  "timestamp": "2026-09-05T08:55:39.283821100Z",
+  "model": "glm-5.3"
+}

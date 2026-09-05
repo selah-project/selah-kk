@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Және оның бауырлары одан қызғанды, ал әкесі ⟨את⟩ сөзді сақтады.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "және қызғанды"
+    },
+    {
+      "surface": "בו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бауырлары"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ал әкесі"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сақтады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзді"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөзді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:02.676047902Z",
+  "model": "glm-5.3"
+}

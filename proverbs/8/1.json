@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Даналық шақырмай ма, ал түсінік өз даусын бермей ме?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "еме пе"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даналық"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "шақырады"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "және түсінік"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "береді"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "өз даусын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:32.354391977Z",
+  "model": "glm-5.3"
+}

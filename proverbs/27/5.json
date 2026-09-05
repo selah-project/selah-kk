@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Жасырын махаббаттан гөрі ашық сөгіс жақсырақ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "жақсырақ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "сөгіс"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ашық"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "махаббаттан"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "жасырын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:38.676805884Z",
+  "model": "glm-5.3"
+}

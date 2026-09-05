@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Және өз халқына айтты: «Мынау — Исраил ұлдары деген халық көп және бізден күшті.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ға"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз халқы"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "және күшті"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "бізден"
+    }
+  ],
+  "timestamp": "2026-09-05T07:19:34.880803154Z",
+  "model": "glm-5.3"
+}

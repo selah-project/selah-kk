@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Атарот, Дивон, Язер, Нимра, Хешбон, Эльале, Севам, Нево және Беон.",
+  "tokens": [
+    {
+      "surface": "עטרות",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "Дивон"
+    },
+    {
+      "surface": "ויעזר",
+      "gloss": "Язер"
+    },
+    {
+      "surface": "ונמרה",
+      "gloss": "Нимра"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "Хешбон"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "Эльале"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "Севам"
+    },
+    {
+      "surface": "ונבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ובען",
+      "gloss": "Беон"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:59.893357386Z",
+  "model": "glm-5.3"
+}

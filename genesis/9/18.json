@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Нұхтың кемеден шыққан ұлдары ⟨болды⟩ — Шем, Хам және Яфет; Хам — ⟨ол⟩ Кенаанның әкесі.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нұхтың"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "шыққан"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "התבה",
+      "gloss": "кемеден"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "Яфет"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаанның"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:56.075097012Z",
+  "model": "glm-5.3"
+}

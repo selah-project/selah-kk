@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Өйткені Яхвенің үлесі — өз халқы; Яаков — мұрасының өлшеу жіп ⟨жері⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "үлесі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз халқы"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "өлшеу жіп ⟨жері⟩"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "мұрасының"
+    }
+  ],
+  "timestamp": "2026-09-05T02:51:35.774424620Z",
+  "model": "glm-5.3"
+}

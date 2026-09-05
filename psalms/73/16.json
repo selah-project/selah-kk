@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 73,
+  "translation": "Және ойладым мынаны білуге — ⟨ол⟩ ауыр еңбек ⟨ол⟩ көзімше.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "және ойладым"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "білуге"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мынаны"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ауыр еңбек"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзімше"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:10.514436792Z",
+  "model": "glm-5.3"
+}

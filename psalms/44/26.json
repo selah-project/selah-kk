@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Себебі жан-жарасымыз шаңға батып, ішіміз жерге жабысты",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "батып"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "шаңға"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "жан-жарасымыз"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "жабысты"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "ішіміз"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:18.451713572Z",
+  "model": "glm-5.3"
+}

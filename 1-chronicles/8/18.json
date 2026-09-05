@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "және Ишмерай, және Излия, және Йовав — Элпаалдың ұлдары.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "және Ишмерай"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "және Излия"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "және Йовав"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаалдың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:53.160125397Z",
+  "model": "glm-5.3"
+}

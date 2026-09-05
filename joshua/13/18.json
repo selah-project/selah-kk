@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "және Яһца, және Кедемот, және Мефаат,",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "және Яһца"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "және Кедемот"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "және Мефаат"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:40.668798818Z",
+  "model": "glm-5.3"
+}

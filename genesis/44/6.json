@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Ол оларға жетіп алып, ⟨את⟩ осы сөздерді оларға айтты.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "жетіп алды"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздерді"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздерді"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T01:33:52.773862139Z",
+  "model": "glm-5.3"
+}

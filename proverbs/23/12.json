@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Жүрегіңді тәртіпке әкел, және құлағыңды білім сөздеріне.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "әкел"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "тәртіпке"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегіңді"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "және құлағыңды"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "сөздеріне"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:24.778066351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Сонда Яхвенің құлы Моше (Мұса) сол жерде, Моав жерінде, Яхвенің аузы ⟨бойынша⟩ қайтыс болды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "қайтыс болды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сол жерде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "құлы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:07.882710650Z",
+  "model": "glm-5.3"
+}

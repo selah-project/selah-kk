@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Этни ұлы, Зерах ұлы, Адая ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "Этни"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Адая"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:26.321820379Z",
+  "model": "glm-5.3"
+}

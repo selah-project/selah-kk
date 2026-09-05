@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ал Авиишұрдың әйелінің аты — Авиһайыл, ол оған ⟨את⟩ Аһбан мен ⟨את⟩ Молидті туды.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "және аты"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "әйелінің"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Авиишұр"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Авиһайыл"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ол туды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аһбан"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Аһбан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Молид"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Молидті"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:53.701056015Z",
+  "model": "glm-5.3"
+}

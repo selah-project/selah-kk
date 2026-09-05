@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 137,
+  "translation": "Қалай айтамыз ⟨את⟩ Яхвенің әнін — бөтеннің жерінде?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "айтамыз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенің әнін"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "әнін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтеннің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:17.571855157Z",
+  "model": "glm-5.3"
+}

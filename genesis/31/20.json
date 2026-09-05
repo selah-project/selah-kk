@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Яаков арамейлік Лаванның ⟨את⟩ көңілін ұрлады — өзі қашып бара жатқанын оған хабарламай.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ұрлады"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көңілін"
+    },
+    {
+      "surface": "לב",
+      "gloss": "көңілін"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаванның"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "арамейлік"
+    },
+    {
+      "surface": "על",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "-май"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "хабарламай"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ты"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "қашып"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзі"
+    }
+  ],
+  "timestamp": "2026-09-05T01:27:29.010423872Z",
+  "model": "glm-5.3"
+}

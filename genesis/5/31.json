@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Лемехтің барлық күндері жеті жүз жетпіс жеті жыл болды, және ол өлді.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемехтің"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "және жетпіс"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "және жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:17:27.213781650Z",
+  "model": "glm-5.3"
+}

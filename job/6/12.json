@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Тастың күші ме күшім, мыс па менің етім?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ме"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күші"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "тастың"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "күшім"
+    },
+    {
+      "surface": "אם",
+      "gloss": "па"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "етім"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "мыс"
+    }
+  ],
+  "timestamp": "2026-09-05T06:37:39.812922684Z",
+  "model": "glm-5.3"
+}

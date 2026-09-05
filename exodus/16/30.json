@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Және халық жетінші күні дем алды.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "және дем алды"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "жетінші"
+    }
+  ],
+  "timestamp": "2026-09-05T01:45:33.850177670Z",
+  "model": "glm-5.3"
+}

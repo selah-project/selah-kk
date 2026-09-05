@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және Мал-жаныңа дәлдеңде шөп беремін, және жейсің де тоқасың.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "және беремін"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "шөп"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "дәлдеңде"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "мал-жаныңа"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "және жейсің"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "де тоқасың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:39:34.779521437Z",
+  "model": "glm-5.3"
+}

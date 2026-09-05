@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Азария ⟨את⟩ Амарияны туғызды, ал Амария ⟨את⟩ Аһитубты туғызды.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амарияны"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарияны"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ал Амария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аһитубты"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитубты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:39.521365483Z",
+  "model": "glm-5.3"
+}

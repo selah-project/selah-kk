@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 124,
+  "translation": "Онда жанымыздың үстінен тәкаппар сулар өтер еді.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Онда"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өтер еді"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінен"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "жанымыздың"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "тәкаппар"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:19.626251410Z",
+  "model": "glm-5.3"
+}

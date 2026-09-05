@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ұлым, Торамды ұмытпа, және өсиеттерімді жүрегің сақтасын.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ұлым"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Торамды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ұмытпа"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "және өсиеттерімді"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "сақтасын"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:12.666337792Z",
+  "model": "glm-5.3"
+}

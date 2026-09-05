@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Шаллумның ұлы, Цадоктың ұлы, Аһитубтың ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллумның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадоктың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитубтың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:03:55.835447748Z",
+  "model": "glm-5.3"
+}

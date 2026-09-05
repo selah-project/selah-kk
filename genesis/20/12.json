@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "«Және рас, ол — әпкем, әкемнің қызы, тек шешемнің қызы ⟨емес⟩; ол маған әйел болды.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "және"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "рас"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "әпкем"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкемнің"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אך",
+      "gloss": "тек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "шешемнің"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "әйел"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:57.226137325Z",
+  "model": "glm-5.3"
+}

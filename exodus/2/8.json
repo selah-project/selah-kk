@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Пароһның қызы оған айтты: бар. Жас қыз барып, баланың анасын шақырды.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пароһның"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "העלмаה",
+      "gloss": "жас қыз"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "шақырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анасын"
+    },
+    {
+      "surface": "אם",
+      "gloss": "анасын"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "баланың"
+    }
+  ],
+  "timestamp": "2026-09-05T01:37:44.456194294Z",
+  "model": "glm-5.3"
+}

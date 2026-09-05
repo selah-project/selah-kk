@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және Эн-Риммонда, және Цораһта, және Ярмутта",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "және Эн-Риммонда"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Эн-Риммон"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "және Цораһта"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "және Ярмутта"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:37.622776885Z",
+  "model": "glm-5.3"
+}

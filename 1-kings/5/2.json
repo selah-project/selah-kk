@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Шеломоның бір күндік азығы — отыз кор ұн тағамы және алпыс кор ұн еді.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "азығы"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоның"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "бір күнге"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ұн тағамы"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "және алпыс"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ұн"
+    }
+  ],
+  "timestamp": "2026-09-05T03:53:33.928037439Z",
+  "model": "glm-5.3"
+}

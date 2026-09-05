@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Өйткені зинақар әйел — терең шұңғыма, және бөтен әйел — тар құдық.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "шұңғыма"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "терең"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зинақар әйел"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "және құдық"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "тар"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "бөтен әйел"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:46.083923408Z",
+  "model": "glm-5.3"
+}

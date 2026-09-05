@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Яхвенің сөзі Ирмейаһқа айтылды:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмейаһ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтылды"
+    }
+  ],
+  "timestamp": "2026-09-05T04:58:09.473436170Z",
+  "model": "glm-5.3"
+}

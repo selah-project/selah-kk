@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ирмеяһуға (Жеремия) Яхведен ⟨את⟩ болған сөз — былай деп:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ға"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяһу (Жеремия)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхведен — кімнен екені көрсетілген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:09.490385983Z",
+  "model": "glm-5.3"
+}

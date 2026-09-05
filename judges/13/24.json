@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 13:24",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Әйел ұл туды және ұлының атын Шимшон (Самсон) қойды; бала өсті, Яхве оны баталады.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "өсті"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "баталады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T07:25:43.394229769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 97,
+  "translation": "От Оның алдында жүреді және айнала Оның жауларын өртейді.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "От"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Оның алдында"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "жүреді"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "және өртейді"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айнала"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "Оның жауларын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:20.530353121Z",
+  "model": "glm-5.3"
+}

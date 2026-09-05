@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Өліге — кез келген адамның жанына тиген адам жеті күн лас болады.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "тиген"
+    },
+    {
+      "surface": "במת",
+      "gloss": "өліге"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "кез келген"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "және лас болады"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T02:23:43.654567638Z",
+  "model": "glm-5.3"
+}

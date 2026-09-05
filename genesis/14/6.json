@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "және ⟨את⟩ һорилерді олардың Сеір тауында, шөлге жақын Эл-Паранға дейін.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "һорилерді"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "һорилерді"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "олардың тауында"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеір"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паранға"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "על",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "шөлге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:19:03.250829537Z",
+  "model": "glm-5.3"
+}

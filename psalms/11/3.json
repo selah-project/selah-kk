@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Өйткені негіздер қиратылғанда — әділ не істеді?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "негіздер"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "қиратылғанда"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "істеді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:53:35.391781677Z",
+  "model": "glm-5.3"
+}

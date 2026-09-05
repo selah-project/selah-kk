@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Олардың көзінше мен ⟨את⟩ Барухты былай деп әмір еттім:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "әмір еттім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Барухты"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барухты"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "олардың көзінше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T04:57:49.990318108Z",
+  "model": "glm-5.3"
+}

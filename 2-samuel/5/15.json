@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ивһар, Элишуа, Нефег және Яфиа.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Ивһар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "және Элишуа"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "және Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "және Яфиа"
+    }
+  ],
+  "timestamp": "2026-09-05T03:37:45.054087870Z",
+  "model": "glm-5.3"
+}

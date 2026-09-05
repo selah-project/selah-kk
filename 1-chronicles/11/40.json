@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Ира һа-Йитриден, Гареб һа-Йитриден.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "һа-Йитриден"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гареб"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "һа-Йитриден"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:17.800658786Z",
+  "model": "glm-5.3"
+}

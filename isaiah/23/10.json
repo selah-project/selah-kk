@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Өз жеріңді Нілдей ағыз, Таршиш қызы — енді белдік жоқ.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ағыз"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "өз жеріңді"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "Нілдей"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "белдік"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    }
+  ],
+  "timestamp": "2026-09-05T04:25:59.363265743Z",
+  "model": "glm-5.3"
+}

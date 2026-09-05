@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бір бұқа, сиырдың ұлы, бір қошқар, бір қозы, жасы бір жылдағы, өртеу құрбанына.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сиырдың"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "қозы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "жасы бір жылдағы"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өртеу құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:50.348424798Z",
+  "model": "glm-5.3"
+}

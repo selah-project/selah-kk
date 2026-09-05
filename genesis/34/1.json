@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Дина — Лияның қызы, Лия оны Яаковқа (Жақыпқа) туған — жердің қыздарын көруге шықты.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лияның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оны"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туған"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковқа"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көруге"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "қыздарын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:32.496457286Z",
+  "model": "glm-5.3"
+}

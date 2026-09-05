@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "және есектер — отыз мың бес жүз,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "және есектер"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "және бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:09.636819089Z",
+  "model": "glm-5.3"
+}

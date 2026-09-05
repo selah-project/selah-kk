@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Тәрбиені қатты ұста, жіберме; оны сақта, себебі ол — сенің өмірің.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "қатты ұста"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "тәрбиені"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алыс"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "жіберме"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "оны сақта"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "сенің өмірің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:53.300086443Z",
+  "model": "glm-5.3"
+}

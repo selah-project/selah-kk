@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Йаред жүз алпыс екі жыл өмір сүрді және Ханохты әкелді.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Йаред"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "және алпыс"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "және жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "әкелді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ханохты"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    }
+  ],
+  "timestamp": "2026-09-05T01:17:10.038370996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Екі куәның немесе үш куәның аузы бойынша өлімге кесілген өлтіріледі; бір куәның аузы бойынша ол өлтірілмейді.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "куәның"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "куәның"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтіріледі"
+    },
+    {
+      "surface": "המת",
+      "gloss": "өлімге кесілген"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтіріледі"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "עד",
+      "gloss": "куәнің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:45:25.990525809Z",
+  "model": "glm-5.3"
+}

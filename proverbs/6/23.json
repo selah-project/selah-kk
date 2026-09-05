@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Өйткені өсиет — шам, ал Тора — жарық, ал өмір жолы — тәрбиенің сөгістері.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "נר",
+      "gloss": "шам"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "өсиет"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ал Тора"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарық"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ал жол"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "сөгістер"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбиенің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:40.254356219Z",
+  "model": "glm-5.3"
+}

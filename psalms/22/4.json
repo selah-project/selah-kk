@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Ал Сен — қасиеттісің, Исраил мадақтарына отырушы.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ал Сен"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "қасиеттісің,"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "отырушы"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "мадақтарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T05:54:57.087900789Z",
+  "model": "glm-5.3"
+}

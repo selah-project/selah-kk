@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 18:22",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Және Исраіл ұлдары енді жиын шатырына жақындамасын — күнә көтеріп, өлмесін.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "жақындамасын"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраілдің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатыр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "жиын"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "көтеріп"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "күнә"
+    },
+    {
+      "surface": "למות",
+      "gloss": "өлуді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:23:48.534366410Z",
+  "model": "glm-5.3"
+}

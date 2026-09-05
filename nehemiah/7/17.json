@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Азғад ұлдары: екі мың үш жүз жиырма екі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азғад"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "екі мың"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "және екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.285602003Z",
+  "model": "glm-5.3"
+}

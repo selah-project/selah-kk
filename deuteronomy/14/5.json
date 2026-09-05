@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Айал және ақбөкен және елік және тау ешкі және дишон және тео және замар —",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "айал"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "және ақбөкен"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "және елік"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "және тау ешкі"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "және дишон"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "және тео"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "және замар"
+    }
+  ],
+  "timestamp": "2026-09-05T02:42:32.087134814Z",
+  "model": "glm-5.3"
+}

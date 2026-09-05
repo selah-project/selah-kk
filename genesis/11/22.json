@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Серуг отыз жыл өмір сүрді, ⟨את⟩ Нахорды туғызды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Серуг"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахорды"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахорды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:03.349657964Z",
+  "model": "glm-5.3"
+}

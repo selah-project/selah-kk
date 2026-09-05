@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Аузымен оны алдап, тілдерімен оған өтірік айтты.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "алдап оны"
+    },
+    {
+      "surface": "бפיהם",
+      "gloss": "аузымен"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "тілдерімен"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "өтірік айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:33.478114138Z",
+  "model": "glm-5.3"
+}

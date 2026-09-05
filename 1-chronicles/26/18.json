@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Парбарда батыста төртеу ⟨болды⟩, жолға екеу, Парбарда ⟨тағы⟩ екеу.",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "Парбарда"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "батыста"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төртеу"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "жолға"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екеу"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "Парбарда"
+    }
+  ],
+  "timestamp": "2026-09-05T09:01:08.585059697Z",
+  "model": "glm-5.3"
+}

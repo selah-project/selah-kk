@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Ал оман — эпаның оныншы бөлігі.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ал оман"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "оныншы бөлігі"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эпаның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T01:45:02.561033977Z",
+  "model": "glm-5.3"
+}

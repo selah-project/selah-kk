@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "күйік орнына күйік, жара орнына жара, көк дақ орнына көк дақ.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "күйік"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "күйік"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "көк дақ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "көк дақ"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:01.143148326Z",
+  "model": "glm-5.3"
+}

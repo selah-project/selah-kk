@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Ана, олар маған былай дейді: «Яхвенің сөзі қайда? келсінші».",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ана"
+    },
+    {
+      "surface": "המה",
+      "gloss": "олар"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "дейді"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "איה",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келсін"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-ші"
+    }
+  ],
+  "timestamp": "2026-09-05T04:49:59.474155343Z",
+  "model": "glm-5.3"
+}

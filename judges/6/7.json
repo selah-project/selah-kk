@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және болды: қашан Исраил ұлдары Яхвеге Мадиян себебінен айқайласа,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "айқайлады"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אדות",
+      "gloss": "себебінен"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадиян"
+    }
+  ],
+  "timestamp": "2026-09-05T03:09:45.648775806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 56,
+  "translation": "Қорыққан күні мен Саған сенемін.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "қорыққан"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Саған"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "сенемін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:13.289459838Z",
+  "model": "glm-5.3"
+}

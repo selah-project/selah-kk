@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Тамағыма сенің сөзің қандай жағымды — аузыма балдан асады!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "жағымды"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "тамағыма"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "сөзің"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "балдан"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "аузыма"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:59.132444101Z",
+  "model": "glm-5.3"
+}

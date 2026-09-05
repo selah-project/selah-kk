@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "және Элишамағ, және Элиядағ, және Элифелет — тоғызы.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "және Элишамағ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "және Элиядағ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "және Элифелет"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "тоғызы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:37.754092272Z",
+  "model": "glm-5.3"
+}

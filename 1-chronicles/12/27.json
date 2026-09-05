@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Леви ұлдарынан — төрт мың алты жүз ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:17:00.754155857Z",
+  "model": "glm-5.3"
+}

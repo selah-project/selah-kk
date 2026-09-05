@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "және Қина, және Димона, және Адаада.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "және Қина"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "және Димона"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "және Адаада"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:52.667325831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Жиырма бірінші — Хотирге, оның ұлдары мен бауырлары — он екі ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "біріншiге"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "және жиырма"
+    },
+    {
+      "surface": "лהותיר",
+      "gloss": "Хотирге"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "оның ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "мен оның бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:15.080410896Z",
+  "model": "glm-5.3"
+}

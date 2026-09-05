@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір бұқа, малдың ұлы, бір қошқар, бір қой, бір жасарұлан, өртеу құрбанына.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "малдың"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "қой"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "жасар"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өртеу құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:05.428266315Z",
+  "model": "glm-5.3"
+}

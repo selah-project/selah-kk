@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бейт-Азмавет ерлері — қырық екі.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ерлері"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "және екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.156244364Z",
+  "model": "glm-5.3"
+}

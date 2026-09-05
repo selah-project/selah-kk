@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Аузыңның Торасы маған мыңдаған алтын мен күмістен жақсы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "аузыңның"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "мыңдаған"
+    },
+    {
+      "surface": "זהб",
+      "gloss": "алтыннан"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "және күмістен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:28.209374725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Йеһошуа ⟨את⟩ халықты жіберді, әр адам өз мұрасына.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықты"
+    },
+    {
+      "surface": "איש",
+      "gloss": "әр адам"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "өз мұрасына"
+    }
+  ],
+  "timestamp": "2026-09-05T03:05:46.712021743Z",
+  "model": "glm-5.3"
+}

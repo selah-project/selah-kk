@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 49,
+  "translation": "Мәзміршіге — Қораһ ұлдарына — мәзмір.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "мәзміршіге"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қораһ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмір"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:29.735921509Z",
+  "model": "glm-5.3"
+}

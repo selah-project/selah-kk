@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Йеһонатанның ұлы — Мерив-Баал, ал Мерив-Баал ⟨את⟩ Мияхы туғызды.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеһонатанның"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив- (бірінші бөлігі)"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Баал"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ал Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мияхы"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мияхы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:23.748013962Z",
+  "model": "glm-5.3"
+}

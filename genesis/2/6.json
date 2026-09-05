@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "және бұлт жерден көтеріліп, ⟨את⟩ топырақтың бүкіл бетін суғаратын.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "және бұлт"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "көтеріледі"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…тан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "және суғарды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүкіл бетін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетін"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "топырақтың"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:43.476253277Z",
+  "model": "glm-5.3"
+}

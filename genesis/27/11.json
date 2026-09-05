@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Және айтты Яаков Яаков Ривкаға, анасына: қара, Эсав бауырым — түкті адам, ал мен — тегіс адам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривка"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасына"
+    },
+    {
+      "surface": "הן",
+      "gloss": "қара"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бауырым"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "שער",
+      "gloss": "түкті"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ал мен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "тегіс"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:39.496746305Z",
+  "model": "glm-5.3"
+}

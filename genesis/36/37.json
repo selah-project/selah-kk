@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Самлаһ қайтыс болды, және оның орнына өзеннің Рехobotынан Шаул патша болды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "қайтыс болды"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самлаһ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патша болды"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "оның орнына"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "Рехobotынан"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "өзеннің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:48.684650160Z",
+  "model": "glm-5.3"
+}

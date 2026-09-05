@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Болды Эфраим тауынан бір адам, ал аты — Михайеһу (Миха).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тауынан"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ал аты"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михайеһу (Миха)"
+    }
+  ],
+  "timestamp": "2026-09-05T03:16:37.699957444Z",
+  "model": "glm-5.3"
+}

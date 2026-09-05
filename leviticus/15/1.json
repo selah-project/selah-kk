@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Яхве Моше (Мұса) мен Аһаронға сөйлеп айтты:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлеп айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және -ға"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T07:21:43.536714171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Мен — сүйгенімнің, ал сүйгеним — менікі; ол лалагүлдер арасында бағушы.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "сүйгенімнің"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ал сүйгеним"
+    },
+    {
+      "surface": "ли",
+      "gloss": "менікі"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "бағушы"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "лалагүлдер арасында"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:38.222089635Z",
+  "model": "glm-5.3"
+}

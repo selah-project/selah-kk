@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Дауіттікі. Саған, уа Яхве, жанымды көтеремін.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Дауіттікі"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Саған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "көтеремін"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:12.657482131Z",
+  "model": "glm-5.3"
+}

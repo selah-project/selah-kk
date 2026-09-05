@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Ақымақтың ашуы бірден білінеді, ал ұятты жасыратын — айлакер.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "бірден"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "білінеді"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ашуы"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ал жасыратын"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ұятты"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "айлакер"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:42.076503433Z",
+  "model": "glm-5.3"
+}

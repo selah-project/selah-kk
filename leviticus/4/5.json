@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Майланған коһен бұқаның қанынан алып, оны ⟨את⟩ кездесу шатырына әкеледі.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "алады"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "майланған"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "қанынан"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бұқаның"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ оны",
+      "marks": "оны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ішіне"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатыр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "кездесу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:00:22.385147553Z",
+  "model": "glm-5.3"
+}

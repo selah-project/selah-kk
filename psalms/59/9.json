@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 59,
+  "translation": "Ал Сен, Яхве, оларға күлерсің, барлық ұлттарды мазақтарсың.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ал Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "күлерсің"
+    },
+    {
+      "surface": "למו",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "мазақтарсың"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ұлттарды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:48.519634044Z",
+  "model": "glm-5.3"
+}

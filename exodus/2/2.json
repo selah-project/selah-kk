@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Әйел бойда болды да, ұл туды; оның ⟨את⟩ жақсы екенін көріп, оны үш ай жасырды.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "бойда болды да"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "көріп"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оның"
+    },
+    {
+      "surface": "כי",
+      "gloss": "екенін"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оның"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "жасырды"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-09-05T01:37:46.945091599Z",
+  "model": "glm-5.3"
+}

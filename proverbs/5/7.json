@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ал енді, ұлдарım, мені тыңдаңдар және аузымның сөздерінен бұрылмаңдар.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдарым"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңдаңдар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және −"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "бұрылмаңдар"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "сөздерінен"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузымның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:40.389187559Z",
+  "model": "glm-5.3"
+}

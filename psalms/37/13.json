@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Адонай оған күледі, себебі ⟨оның⟩ күні келетінін көрді.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "күледі"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ені⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "келетінін"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "күні"
+    }
+  ],
+  "timestamp": "2026-09-05T05:58:22.671331993Z",
+  "model": "glm-5.3"
+}

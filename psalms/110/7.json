@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 110,
+  "translation": "Жол бойындағы арықтан ішеді, сондықтан басын көтереді.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "арықтан"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жол бойындағы"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ішеді"
+    },
+    {
+      "surface": "על",
+      "gloss": "сондықтан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "соның үшін"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "көтереді"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "басын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:55.161042278Z",
+  "model": "glm-5.3"
+}

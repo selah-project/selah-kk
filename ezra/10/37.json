@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Маттанияһ, Маттенай және Яасау,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "Маттанияһ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Маттенай"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "және Яасау"
+    }
+  ],
+  "timestamp": "2026-09-05T08:04:49.223785918Z",
+  "model": "glm-5.3"
+}

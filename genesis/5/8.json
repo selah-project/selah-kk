@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және Шеттің барлық күндері он екі жыл және тоғыз жүз жыл болды, және ол өлді.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шеттің"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "және тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:46.421396376Z",
+  "model": "glm-5.3"
+}

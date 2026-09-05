@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Қирау алдында — менмендік, және құлау алдында — асқақ рух.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "қирау"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "менмендік"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "және алдында"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "құлау"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "асқақ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:20.459691243Z",
+  "model": "glm-5.3"
+}

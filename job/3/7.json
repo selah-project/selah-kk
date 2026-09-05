@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Мына, ол түн қу тұқымды болсын; онда жетелену кірмесін.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "түн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "גלмוט",
+      "gloss": "қу тұқымды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(-месін)"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "кірмесін"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "жетелену"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:36:16.302617751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "және өзіңе ⟨емін-еркін⟩ төбешік салдың, және әр алаңда өзіңе биік орын жасадың.",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "салдың"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "גב",
+      "gloss": "төбешік"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "жасадың"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "биік орын"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "алаңда"
+    }
+  ],
+  "timestamp": "2026-09-05T05:14:15.479403555Z",
+  "model": "glm-5.3"
+}

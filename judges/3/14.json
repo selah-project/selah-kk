@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Исраил ұлдары Моав патшасы Эглонға ⟨את⟩ он сегіз жыл қызмет етті.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "қызмет етті"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эглонға"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Эглонға"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-09-05T03:09:16.431431538Z",
+  "model": "glm-5.3"
+}

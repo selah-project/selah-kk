@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 83,
+  "translation": "Тағы Ашшур олармен бірікті, олар Лұттың балаларына иық болды. Селаһ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Тағы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "бірікті"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "олармен"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "иық"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "балаларына"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лұттың"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:12.535567333Z",
+  "model": "glm-5.3"
+}

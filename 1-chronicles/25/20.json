@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Он үшіншіге — Шувел, оның ұлдары мен бауырлары — он екі ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "он үшіншіге"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "−ыншы"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Шувел"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "оның ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "мен бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:14.348277098Z",
+  "model": "glm-5.3"
+}

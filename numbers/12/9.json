@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Яхвенің ашуы оларға тұтанды, және ол кетті.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "тұтанды"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ашуы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "және кетті"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:28.856389993Z",
+  "model": "glm-5.3"
+}

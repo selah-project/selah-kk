@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 10:17",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Әрі қалайша осы іемнің құлы осы іеммен сөйлей алады? Ал менде енді күш тұрмайды да, тыныс та менде қалмады.",
+  "tokens": [
+    {
+      "surface": "והיך",
+      "gloss": "әрі қалайша"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ала алады"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "құлы"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "іемнің"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сөйлеуге"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…мен"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "іем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ал мен"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "енді"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "тұрады"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менде"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күш"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "және тыныс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "қалды"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менде"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:09.267831320Z",
+  "model": "glm-5.3"
+}

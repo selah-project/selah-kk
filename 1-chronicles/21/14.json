@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Яхве Исраилге індет жіберді, және Исрайилден жетпіс мың ер құлады.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "індет"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраилге"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "және құлады"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Исраилден"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "жетпіс"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ер"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:44.008228620Z",
+  "model": "glm-5.3"
+}

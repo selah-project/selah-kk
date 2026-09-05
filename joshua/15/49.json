@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "және Данна, және Қирьят-Санна — ол ⟨是⟩ Дебир",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "және Данна"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "және Қирьят-Санна"
+    },
+    {
+      "surface": "סנה",
+      "gloss": ""
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Дебир"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:51.118965546Z",
+  "model": "glm-5.3"
+}

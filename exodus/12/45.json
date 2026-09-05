@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Тұрғын үйге жалданған адам оны жемейді.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "тұрғын"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "және жалданған адам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жемейді"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T01:42:31.483242387Z",
+  "model": "glm-5.3"
+}

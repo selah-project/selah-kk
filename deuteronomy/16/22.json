@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Және өзіңе тас баған қойып тұрғызбаң — оны Яхве Элохимің жек көреді.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "тұрғызбаң"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "тас баған"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсы"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "жек көреді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:43:22.673342031Z",
+  "model": "glm-5.3"
+}

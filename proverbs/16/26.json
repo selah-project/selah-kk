@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Еңбеккөрше жан — өзі үшін еңбектенеді, өйткені ауызы оны мәжбүр етеді.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "еңбеккөрше"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "еңбектенеді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзі үшін"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "мәжбүр етеді"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оны"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ауызы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:50.580745722Z",
+  "model": "glm-5.3"
+}

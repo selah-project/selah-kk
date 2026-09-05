@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 63,
+  "translation": "Давидке (Дәуіт) арналған мәзмор, ол Яһуда шөлінде болғанда.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "болғанда"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлінде"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:05:07.045028468Z",
+  "model": "glm-5.3"
+}

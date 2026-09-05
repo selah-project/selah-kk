@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 72,
+  "translation": "Бітті Довидтің дұғалары, Ишайдың ұлы.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "бітті"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "дұғалары"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довидтің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишайдың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:43.578510431Z",
+  "model": "glm-5.3"
+}

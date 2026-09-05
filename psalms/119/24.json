@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Куәліктерің де — қуанышым, кеңесшілерім.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "куәліктерің"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "қуанышым"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "кішілері"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "кеңесімнің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:55.630086432Z",
+  "model": "glm-5.3"
+}

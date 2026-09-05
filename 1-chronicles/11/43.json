@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Һанан — Мақаһтың ұлы, және Йосафат митниттікі.",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "Һанан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мақаһтың"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "және Йосафат"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "митниттікі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:18.489754092Z",
+  "model": "glm-5.3"
+}

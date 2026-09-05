@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "және Зиза — Шифиұлы, Аллонның ұлы, Йедайаның ұлы, Шимридің ұлы, Шемайаның ұлы.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "және Зиза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "Шифи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Аллонның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "Йедайаның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимридің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайаның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:10.143341293Z",
+  "model": "glm-5.3"
+}

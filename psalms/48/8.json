@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Шығыс желімен ⟨Сен⟩ Таршіш кемелерін қиратасың.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "желмен"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "шығыс"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "қиратасың"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "кемелерін"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршіш"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:20.765346015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Зебулұннан — Элиав, Хелонның ұлы.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "Зебулұннан"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелонның"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:03.920422085Z",
+  "model": "glm-5.3"
+}

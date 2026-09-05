@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Және Шаул айтты: «Тыңда, әй, Ахитуб ұлы». Және ол айтты: «Мінің, ием».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "נא",
+      "gloss": "әй"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитубтың"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "мінің"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ием"
+    }
+  ],
+  "timestamp": "2026-09-05T03:30:40.140284608Z",
+  "model": "glm-5.3"
+}

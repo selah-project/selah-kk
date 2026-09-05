@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Жұмсақ жауап қасарысқа қайтарады, ал ауыртатын сөз ашуды көтереді.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "жауап"
+    },
+    {
+      "surface": "רך",
+      "gloss": "жұмсақ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "қайтарады"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "қасарысты"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ал сөз"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ауыртатын"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "көтереді"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ашуды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:12.187601353Z",
+  "model": "glm-5.3"
+}

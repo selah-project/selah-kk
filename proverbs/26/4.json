@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ақымақты оның ақмақтығындай жауап берме, әйтпесе оған сен де ұқсап қаласың.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "берме"
+    },
+    {
+      "surface": "תען",
+      "gloss": "жауап"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақты"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "оның ақмақтығындай"
+    },
+    {
+      "surface": "פן",
+      "gloss": "әйтпесе"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ұқсап қаласың"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:44.931220753Z",
+  "model": "glm-5.3"
+}

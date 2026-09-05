@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Маазия, Билгай, Шемаия — міне осылар коһендер.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Маазия"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Билгай"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаия"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "мыналар"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коһендер"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:35.510016467Z",
+  "model": "glm-5.3"
+}

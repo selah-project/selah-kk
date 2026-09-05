@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Таяқпен ұрасың — нәпсісін ⟨את⟩ Шеолдан құтқарасың.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяқпен"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ұрасың"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "нәпсісін"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеолдан"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "құтқарасың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:19.248834585Z",
+  "model": "glm-5.3"
+}

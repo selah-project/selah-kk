@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Даудан тоқтау — адамға даңқ, ал ⟨әрбір⟩ ақылсыз қызу таласады.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "даңқ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамға"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "тоқтау"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "даудан"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ал әрбір"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ақылсыз"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "қызу таласады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:51.570582165Z",
+  "model": "glm-5.3"
+}

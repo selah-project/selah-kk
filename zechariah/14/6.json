@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Және сол күні болады: жарық болмайды, ⟨нұрдың⟩ асылдары қатып қалады.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарық"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "асылдары"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "қатып қалады"
+    }
+  ],
+  "timestamp": "2026-09-05T05:49:10.679467543Z",
+  "model": "glm-5.3"
+}

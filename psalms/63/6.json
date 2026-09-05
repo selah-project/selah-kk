@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 63,
+  "translation": "Мен жаныма тойып жүрген",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "-дай"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "майдың"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "және семіздіктің"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "тойып"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "және ернім"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "жырлаған"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "мадақтайды"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:05:05.601997697Z",
+  "model": "glm-5.3"
+}

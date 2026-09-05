@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Бірақ оның соңы жусаннан ащы, екі ауызды семсерден өткір.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "және оның соңы"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ащы"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "жусаннан"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "өткір"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "семсерден"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "екі ауызды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:25.859470326Z",
+  "model": "glm-5.3"
+}

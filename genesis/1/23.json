@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Және болды кеш, және болды таң — бесінші күн.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кеш"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "бесінші"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:44.711379934Z",
+  "model": "glm-5.3"
+}

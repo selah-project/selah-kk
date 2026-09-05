@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Бар жүрегіңмен Яхвеге тұян, ал өз ақыл-естіңе сүйенбе.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "тұян"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегіңмен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ал өз"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ақыл-естіңе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...бе"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "сүйенбе"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:43.759186619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Саған жүрегіңше берсін және барлық кеңесіңді орындасын.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "берсін"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "жүрегіңше"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және барлық"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "кеңесіңді"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "орындасын"
+    }
+  ],
+  "timestamp": "2026-09-05T05:54:40.700301025Z",
+  "model": "glm-5.3"
+}

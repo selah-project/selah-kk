@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Ходеш әйелінен ол ⟨את⟩ Йовабты және ⟨את⟩ Цивьяны және ⟨את⟩ Мешаны және ⟨את⟩ Малкамды туғызды.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—нан"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Ходеш"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "әйелінен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоваб"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йоваб"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Цивья"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Цивья"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Меша"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Меша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Малкам"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Малкам"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:03.894850121Z",
+  "model": "glm-5.3"
+}

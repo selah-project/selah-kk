@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Тереңдіктер жоқ кезде мен туылдым, суы ауыр бұлақтар жоқ кезде.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "жоқ кезде"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "тереңдіктер"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "туылдым"
+    },
+    {
+      "surface": "באין",
+      "gloss": "жоқ кезде"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "бұлақтар"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "суы ауыр"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:01.858937609Z",
+  "model": "glm-5.3"
+}

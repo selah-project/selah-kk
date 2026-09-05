@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Оң қолыңды создың — жер оларды жұтты.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "создың"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң қолыңды"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "жұтты"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:42:31.040995953Z",
+  "model": "glm-5.3"
+}

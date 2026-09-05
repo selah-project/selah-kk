@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 139,
+  "translation": "Қайда барармын рухыңнан, және қайда жүзіңнен қашармын?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "барармын"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "рухыңнан"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "және қайда"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "жүзіңнен"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "қашармын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:31.558054878Z",
+  "model": "glm-5.3"
+}

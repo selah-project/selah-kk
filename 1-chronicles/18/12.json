@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Цруяның ұлы Абишай тұз аңғарында ⟨את⟩ Эдомды он сегіз мыңдап жеңді.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "және Абишай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруяның"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "жеңді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдомды"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомды"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "аңғарында"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "тұз"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мыңдап"
+    }
+  ],
+  "timestamp": "2026-09-05T08:18:45.866809770Z",
+  "model": "glm-5.3"
+}

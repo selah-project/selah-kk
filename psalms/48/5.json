@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Себебі, міне, патшалар жиналды, бірге өтіп кетті.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "міне"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "патшалар"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "жиналды"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "өтті"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:20.764601590Z",
+  "model": "glm-5.3"
+}

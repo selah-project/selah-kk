@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 37:34",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Яаков киімдерін жыртып, беліне қап кигізіп, ұлын көп күн жоклады.",
+  "tokens": [
+    {
+      "surface": "ויקרע",
+      "gloss": "жыртып"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "киімдерін"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "кігізіп"
+    },
+    {
+      "surface": "שק",
+      "gloss": "қап"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "беліне"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "жоклады"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлын"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:15.617289634Z",
+  "model": "glm-5.3"
+}

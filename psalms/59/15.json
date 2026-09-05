@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 59,
+  "translation": "Қайтсын кешке, ит сияқты ұлып, қаланы айналсын.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "қайтсын"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "кешке"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ұлиды"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ит сияқты"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "айналсын"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қаланы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:58.103847046Z",
+  "model": "glm-5.3"
+}

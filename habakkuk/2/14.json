@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Себебі жер Яхвенің ⟨את⟩ ұлылығын танумен толады, сулар теңіздің үстін жапқандай.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "толады"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "танумен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ұлылық"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ұлылық"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "сулар тәрізді"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "жапқандай"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстін"
+    },
+    {
+      "surface": "ים",
+      "gloss": "теңіздің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:00.192575186Z",
+  "model": "glm-5.3"
+}

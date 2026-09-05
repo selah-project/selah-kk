@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бір ешкінің текесі күнә құрбанына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "текесі"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкінің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:50.348527264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 120,
+  "translation": "Мен — бейбітшілік ⟨пын⟩, ал айтқан сайын — олар соғысқа.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "бейбітшілік"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ал айтқан сайын"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "айтқанда"
+    },
+    {
+      "surface": "המה",
+      "gloss": "олар"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "соғысқа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:10.277932721Z",
+  "model": "glm-5.3"
+}

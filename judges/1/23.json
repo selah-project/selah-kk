@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Йосеф үйі Бейт-Элдi барлап көруге жiбердi; ал қаланың аты бұрын Луз еді.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "барлап көруге жiбердi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элдi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ал аты"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қаланың"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "бұрын"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Луз"
+    }
+  ],
+  "timestamp": "2026-09-05T03:06:16.762659587Z",
+  "model": "glm-5.3"
+}

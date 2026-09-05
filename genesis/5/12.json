@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Кейенан жетпіс жыл өмір сүрді және ⟨את⟩ Маһалалэлді туғызды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кейенан"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "жетпіс"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Маһалалэлді"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Маһалалэлді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:16.488625791Z",
+  "model": "glm-5.3"
+}

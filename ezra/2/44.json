@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Керостың ұлдары, Сияһаның ұлдары, Падонның ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "Керостың"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "Сияһаның"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падонның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:44:12.195453499Z",
+  "model": "glm-5.3"
+}

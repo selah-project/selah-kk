@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ал Сен, Яхве, — маған қалқан, менің даңқым және басымды көтеруші.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ал Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "қалқан"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "даңқым"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "және көтеруші"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "басымды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:51:15.339055653Z",
+  "model": "glm-5.3"
+}

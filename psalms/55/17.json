@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 55,
+  "translation": "Мен Элохимге үн қатайын, ал Яхве мені құтқарады.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-ге"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "үн қатайын"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ал Яхве"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "мені құтқарады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:04.247263085Z",
+  "model": "glm-5.3"
+}

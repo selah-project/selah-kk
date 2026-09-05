@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 47,
+  "translation": "Паръо Яаковқа: «Өміріңнің жылдарының күндері қанша?» — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковқа"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "қанша"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "שני",
+      "gloss": "жылдарының"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "өміріңнің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:19:39.908154361Z",
+  "model": "glm-5.3"
+}

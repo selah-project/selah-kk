@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ешкі лағы біреу күнә құрбанына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "лақ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкінің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "біреу"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:58.341324554Z",
+  "model": "glm-5.3"
+}

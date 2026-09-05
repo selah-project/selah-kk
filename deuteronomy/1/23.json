@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "«Сөз көзіме жақты болды, мен сендерден он екі еркек алдым — әр тайпадан бір кісі.»",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "жақты болды"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзіме"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "алдым"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "сендерден"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "еркек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кісі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "тайпадан"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:01.577220758Z",
+  "model": "glm-5.3"
+}

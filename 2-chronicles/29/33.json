@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Және қасиеттелгендер — ірі қара алты жүз, қой үш мың.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "және қасиеттелгендер"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ірі қара"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "және қой"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:36:59.249145456Z",
+  "model": "glm-5.3"
+}

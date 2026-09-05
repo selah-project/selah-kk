@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Ол киімін өз қасына қойып қойды, иесі үйіне келгенше.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "қойып қойды"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "киімін"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "өз қасына"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кілгенше"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "иесі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйіне"
+    }
+  ],
+  "timestamp": "2026-09-05T01:31:07.707309919Z",
+  "model": "glm-5.3"
+}

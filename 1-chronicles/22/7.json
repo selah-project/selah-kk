@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 22:7",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Дәуіт ұлы Шеломоһқа айтты: «Ұлым, менің жүрегімде өз Элохимі Яхвенің атына үй салу тұрды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Дәуіт"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломоһқа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ішіндe"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "жүрегімде"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "салу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "атына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:38.958268476Z",
+  "model": "glm-5.3"
+}

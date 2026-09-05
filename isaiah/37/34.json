@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Ол келген жолменен қайтып кетеді, ал бұл қалаға кірмейді — Яхвенің сөзі.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "жолменен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "בה",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "қайтып кетеді"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ал -ға"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "кірмейді"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:30:14.577112966Z",
+  "model": "glm-5.3"
+}

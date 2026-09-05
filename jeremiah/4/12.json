@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Осындардан толы жел маған келеді; енді мен де ⟨את⟩ ⟨оларды⟩ үкімдер айтамын.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "жел"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толы"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "осындардан"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "енді"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "айтамын"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "үкімдер"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨оларды⟩",
+      "marks": "оларды"
+    }
+  ],
+  "timestamp": "2026-09-05T04:43:24.070474447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Жылқы соғыс күніне дайындалады, ал құтқару Яхведен.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "жылқы"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "дайындалады"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күніне"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "ал Яхвеге"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "құтқару"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:00.004070753Z",
+  "model": "glm-5.3"
+}

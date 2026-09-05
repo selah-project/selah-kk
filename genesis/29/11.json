@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Яаков Рахелді сүйді де, дауысын ⟨את⟩ көтеріп, жылап жіберді.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "сүйді"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахелді"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "көтеріп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дауысын"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "дауысын"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "жылап жіберді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:27.768130542Z",
+  "model": "glm-5.3"
+}

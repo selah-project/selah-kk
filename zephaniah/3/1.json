@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ой-пай, қарсы шыққан және ластанғанға — қанаушы қалаға!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой-пай"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "қарсы шыққан"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "және ластанғанға"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қалаға"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "қанаушы"
+    }
+  ],
+  "timestamp": "2026-09-05T05:44:52.386725428Z",
+  "model": "glm-5.3"
+}

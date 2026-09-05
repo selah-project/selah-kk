@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Әділдің азы жамандардың көп байлығынан жақсы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "әділдің"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "байлығынан"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардың"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:58:22.672005947Z",
+  "model": "glm-5.3"
+}

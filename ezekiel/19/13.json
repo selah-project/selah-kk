@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Енді ол шөлдіде, құрғақ және шөлдеген жерде отырғызылған.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "енді"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "отырғызылған"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлдіде"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "құрғақ"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "және шөлдеген"
+    }
+  ],
+  "timestamp": "2026-09-05T05:15:35.138222015Z",
+  "model": "glm-5.3"
+}

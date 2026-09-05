@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Және Яхве маған айтып еді: «Мен ⟨את⟩ осы халықты көрдім, және мынау — қатты мойынды халық.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осы халықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықты"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және мынау"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "қатты"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "мойын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T02:39:29.472679591Z",
+  "model": "glm-5.3"
+}

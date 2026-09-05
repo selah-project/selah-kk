@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Авраһам тұрды және жердің халқына — Хеттің ұлдарына — сәжде етті.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "сәжде етті"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халқына"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хеттің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:22:43.717018491Z",
+  "model": "glm-5.3"
+}

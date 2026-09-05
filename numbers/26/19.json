@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Йеһуданың ұлдары — Эр мен Онан; ал Эр мен Онан Кенаан жерінде қайтыс болды.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуданың"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "мен Онан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "қайтыс болды"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "мен Онан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-09-05T02:26:18.927440076Z",
+  "model": "glm-5.3"
+}

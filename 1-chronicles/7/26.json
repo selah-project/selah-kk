@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Лаадан оның ұлы, Аммиһуд оның ұлы, Элишама оның ұлы.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиһуд"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:20.388167510Z",
+  "model": "glm-5.3"
+}

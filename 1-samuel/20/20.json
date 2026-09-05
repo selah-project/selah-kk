@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Ал мен үш жебені жанына атаймын, өзіме нысанаға жіберу үшін.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал мен"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "жебені"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "атаймын"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "жіберу үшін"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өзіме"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "нысанаға"
+    }
+  ],
+  "timestamp": "2026-09-05T03:30:01.035152496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "«Енді өздеріңе Исраил тайпаларынан он екі адам алыңдар — тайпаға бір адам, бір адам».",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Енді"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "алыңдар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өздеріңе"
+    },
+    {
+      "surface": "שני",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "екі"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "тайпаларынан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "тайпаға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:54:34.133476763Z",
+  "model": "glm-5.3"
+}

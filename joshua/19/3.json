@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "және Хацар-Шуал және Бала және Ацем.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "және Хацар"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Шуал"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "және Бала"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "және Ацем"
+    }
+  ],
+  "timestamp": "2026-09-05T03:03:17.654250171Z",
+  "model": "glm-5.3"
+}

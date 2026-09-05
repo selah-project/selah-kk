@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Және егер төсекте ⟨ол⟩ немесе ол отырған ыдыста ⟨бір адам⟩ оған тисе, кешке дейін лас болады.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "және егер"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "төсекте"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "ыдыста"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "отырған"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "тигенде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "лас болады"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "кешке"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:30.101363002Z",
+  "model": "glm-5.3"
+}

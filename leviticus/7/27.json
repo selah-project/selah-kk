@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қанды жейтін әрбір жан — сол жан өз халқының ішінен қиылады.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "әрбір"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жейтін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "қанды"
+    },
+    {
+      "surface": "דם",
+      "gloss": "қан"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "және қиылады"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "сол жан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "өз халқының ішінен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:00:36.001690024Z",
+  "model": "glm-5.3"
+}

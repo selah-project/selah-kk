@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Балам, бал же — өйткені жақсы, және ұя балы — татты таңдайыңа.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "же"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балам"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "бал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "және ұя балы"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "татты"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "таңдайыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:54.816209790Z",
+  "model": "glm-5.3"
+}

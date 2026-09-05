@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Санылғандардың бәрі алты жүз мың үш мың бес жүз елу болды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "санылғандар"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "және үш"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "және бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "елу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:11.307398010Z",
+  "model": "glm-5.3"
+}

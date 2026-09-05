@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Тыңда, ұлым, сөздерімді ал да, саған өмір жылдары көбейеді.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Тыңда"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "сөздерімді"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "көбейеді"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "жылдары"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:27.580497462Z",
+  "model": "glm-5.3"
+}

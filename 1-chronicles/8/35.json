@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Миханың ұлдары: Питон, Мелех, Таарех және Аһаз.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миханың"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "Мелех"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "Таарех"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "Аһаз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:07.961356356Z",
+  "model": "glm-5.3"
+}

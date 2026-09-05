@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Шаллум ⟨את⟩ Хилкияны туғызды, ал Хилкия ⟨את⟩ Азарияны туғызды.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хилкияны"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкияны"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ал Хилкия"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарияны"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарияны"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:39.521894714Z",
+  "model": "glm-5.3"
+}

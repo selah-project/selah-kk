@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Ирмеяһу оныншы, Мақбаннай он бірінші.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяһу"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "оныншы"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Мақбаннай"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "бірінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:17:21.659306709Z",
+  "model": "glm-5.3"
+}

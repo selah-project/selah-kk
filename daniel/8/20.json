@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Сен көрген екі мүйізді қошқар — Мадай мен Парас патшалары.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "көрген"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ие"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "мүйіздердің"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "патшалары"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадайдың"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "және Парастың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:55:54.245986747Z",
+  "model": "glm-5.3"
+}

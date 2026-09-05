@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Тақтаның ұзындығы он алқым, ал бір тақтаның ені — бір алқым жарым.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "алқым"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ұзындығы"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "тақтаның"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "және бір алқым"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "алқымның"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ені"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "тақтаның"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T01:49:49.541132608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Патша: «Сен сұрап көр, бұл жігіт кімнің ұлы екенін», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Патша"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сұрап көр"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кімнің"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "жігіт екенін"
+    }
+  ],
+  "timestamp": "2026-09-05T03:27:56.460429293Z",
+  "model": "glm-5.3"
+}

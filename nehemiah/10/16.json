@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Бунни, Азғад, Бебай,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Бунни"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азғад"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бебай"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:47.591518823Z",
+  "model": "glm-5.3"
+}

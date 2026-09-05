@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Аузын шаңға қойсын — мүмкін үміт бар.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "қойсын"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "шаңға"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "аузын"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "мүмкін"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "үміт"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:02.773051835Z",
+  "model": "glm-5.3"
+}

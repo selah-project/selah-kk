@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Және Яхвенің сөзі маған келді, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:19:09.506778644Z",
+  "model": "glm-5.3"
+}

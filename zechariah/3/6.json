@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Яхвенің періштесі Йеһошуаны ⟨куәландырып⟩ былай деді:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "куәландырды"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "періште"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "Йеһошуаны"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:36.707092932Z",
+  "model": "glm-5.3"
+}

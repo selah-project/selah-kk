@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Балам, Яхвені және патшаны қорқыңыр; өзгергіштермен ⟨араласпа⟩.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "қорқыңыр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балам"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "және патшаны"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-мен"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "өзгергіштер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алаң"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "араласпа"
+    }
+  ],
+  "timestamp": "2026-09-05T09:00:06.843721169Z",
+  "model": "glm-5.3"
+}

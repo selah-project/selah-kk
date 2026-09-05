@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Азарел, Шелемия, Шемария.",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "Азарел"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "және Шелемия"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шемария"
+    }
+  ],
+  "timestamp": "2026-09-05T08:05:03.281220263Z",
+  "model": "glm-5.3"
+}

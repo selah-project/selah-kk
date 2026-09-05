@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Оларға туатын ұлдар — үшінші ұрпақ — Яхвенің жиналысына кіреді.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ұлдар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "туатын"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ұрпақ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "үшінші"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кіреді"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "жиналысына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:28.938672106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Калебтің, Йефунне ұлының, ұлдары: Иру, Эла және Наам; ал Эланың ұлдары — Қеназ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калебтің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунне"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Иру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "және Наам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эланың"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "және Қеназ"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:12.136293485Z",
+  "model": "glm-5.3"
+}

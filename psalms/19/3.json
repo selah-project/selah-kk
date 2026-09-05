@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Күн күнге сөз ағызады, және түн түнге білімді таныстырады.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Күн"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күнге"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "ағызады"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "және түн"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "түнге"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "таныстырады"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білімді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:55:02.735205654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Һадад өлді. Содан кейін Эдомның князьдері болды: Тимна князі, Альва князі, Йетет князі.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Һадад"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "князьдері"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомның"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князі"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князі"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Альва"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князі"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Йетет"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:04.963018595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 116,
+  "translation": "Сендім, өйткені сөйлеймін; мен қатты азап шектім.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "сендім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сөйлеймін"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "азап шектім"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "қатты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:47.197966554Z",
+  "model": "glm-5.3"
+}

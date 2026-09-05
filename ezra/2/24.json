@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Азмавет ұлдары: қырық екі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:50.088406860Z",
+  "model": "glm-5.3"
+}

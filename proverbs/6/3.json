@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ұлым, енді осылай істе де құтыл, өйткені достыңның алына түстің; бар, бас ие, достарыңды қоздыр",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "істе"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "енді"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ұлым"
+    },
+    {
+      "surface": "והנצל",
+      "gloss": "құтыл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "באת",
+      "gloss": "түстің"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "алына"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "достыңның"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "התרפס",
+      "gloss": "бас ие"
+    },
+    {
+      "surface": "ורהב",
+      "gloss": "қоздыр"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "достарыңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:24.973637893Z",
+  "model": "glm-5.3"
+}

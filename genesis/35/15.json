@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Яаков Элохим өзімен сонда сөйлескен жердің атын Бейт-Эль деп атады.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атты (жердің атын)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "атын"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "онда"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлескен"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны (Яаковты)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эль"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:10.376636155Z",
+  "model": "glm-5.3"
+}

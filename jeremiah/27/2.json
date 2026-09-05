@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Осылай деді Яхве маған: өзіңе жаса бұғаулар және қамыттар, және оларды мойныңа сал:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "бұғаулар"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "және қамыттар"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "және сал"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "мойныңа"
+    }
+  ],
+  "timestamp": "2026-09-05T04:54:43.140316806Z",
+  "model": "glm-5.3"
+}

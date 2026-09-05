@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Маноах әйеліне айтты: «Элохимді көрдік, сондықтан өліп өлеміз».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "әйеліне"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өліп"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "өлеміз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себепті"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимді"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "көрдік"
+    }
+  ],
+  "timestamp": "2026-09-05T07:25:43.393329791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Алты күн оны жинаңдар, ал жетінші күні — шаббат, ⟨онда⟩ ⟨болмайды⟩.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "оны жинаңдар"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ал күні"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетінші"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шаббат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T01:44:37.273752804Z",
+  "model": "glm-5.3"
+}

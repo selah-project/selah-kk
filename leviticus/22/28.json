@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Әрі өгіз немесе қой — оны ⟨את⟩ және ⟨את⟩ ұлын бір күнде союмаңдар.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "өгіз"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "שה",
+      "gloss": "қой"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "ұлын"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "союмаңдар"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнде"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:09:01.946369353Z",
+  "model": "glm-5.3"
+}

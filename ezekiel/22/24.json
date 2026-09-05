@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Адам баласы, оған айт: сен — тазартылмаған жерсің, қаһар күні жаңбыр жаумайтын жерсің.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "баласы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "את",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "тазартылмаған"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "жаңбыр жаумайтын"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнінде"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "қаһар"
+    }
+  ],
+  "timestamp": "2026-09-05T05:17:52.732073539Z",
+  "model": "glm-5.3"
+}

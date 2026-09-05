@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Қара, Эл өз күшімен ⟨биік⟩ — Оған ұқсас ұстаз кім?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Қара"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "биік етеді"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "өз күшімен"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "Оған ұқсас"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ұстаз"
+    }
+  ],
+  "timestamp": "2026-09-05T06:47:43.702767254Z",
+  "model": "glm-5.3"
+}

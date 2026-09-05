@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Жақыныңа қарсы жалған куәлік айтпа.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "жақыныңа қарсы"
+    },
+    {
+      "surface": "עד",
+      "gloss": "куәлік"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:44:52.390760540Z",
+  "model": "glm-5.3"
+}

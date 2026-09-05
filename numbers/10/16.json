@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Зебулун ұлдары тайпасының әскері үстінен Элиав, Хелонның ұлы ⟨тұрды⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ал үстінен"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "әскері"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "тайпасының"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Хелонның"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:18.211289313Z",
+  "model": "glm-5.3"
+}

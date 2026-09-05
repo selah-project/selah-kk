@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Шимаһ оның ұлы, Хаггијаһ оның ұлы, Асаяһ оның ұлы.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Шимаһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Хаггијаһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асаяһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:08.417544074Z",
+  "model": "glm-5.3"
+}

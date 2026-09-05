@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ешкілердің текесі бір — күнә құрбаны үшін.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "текесі"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкілердің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбаны үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:40.916000064Z",
+  "model": "glm-5.3"
+}

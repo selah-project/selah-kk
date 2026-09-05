@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Ал енді тыңда, Яаков, құлым менің, және Исраил — оны мен таңдадым.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "құлым"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "және Исраил"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "таңдадым"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T04:33:09.930212735Z",
+  "model": "glm-5.3"
+}

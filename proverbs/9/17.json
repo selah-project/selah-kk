@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Ұрланған су тәтті, жасырылған нан жағымды.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "ұрланған"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "тәтті"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "және нан"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "жасырылған"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "жағымды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:29.805333164Z",
+  "model": "glm-5.3"
+}

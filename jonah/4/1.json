@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Йонаға ⟨бұл⟩ ұлы жамандық болды, және ол ⟨өзіне⟩ ашуланды.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "жаман болды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨...⟩-ға"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ашуланды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨өзіне⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T05:39:13.178163599Z",
+  "model": "glm-5.3"
+}

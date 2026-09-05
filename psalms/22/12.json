@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Менен алыстаушы болма, өйткені қиындық жақын, себебі көмекші жоқ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "болма"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "алыстаушы"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Менен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "қиындық"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "көмекші"
+    }
+  ],
+  "timestamp": "2026-09-05T05:54:17.051135284Z",
+  "model": "glm-5.3"
+}

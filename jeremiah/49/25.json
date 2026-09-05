@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 49,
+  "translation": "Қалайша тасталмады мақтау қаласы, қуанышымның қаласы!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "қалайша"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "тасталмады"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қаласы"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "мақтау"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "қаласы"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "қуанышымның"
+    }
+  ],
+  "timestamp": "2026-09-05T05:05:49.707608693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Яһудилерге ⟨болды⟩ жарық, қуаныш, ләззат және құрмет.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Яһудилерге"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "жарық"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "қуаныш"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "ләззат"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "құрмет"
+    }
+  ],
+  "timestamp": "2026-09-05T07:50:40.374645619Z",
+  "model": "glm-5.3"
+}

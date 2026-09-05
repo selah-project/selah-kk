@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Гилеадта цәр жоқ па? Онда емші жоқ па? Сонда неге халқымның қызының жазылуы көтерілмеді?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "цәр"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ па"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Гилеадта"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "емші"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ па"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "неге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "көтерілмеді"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "жазылуы"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызының"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халқымның"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:20.328330720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Жаным қолымда үнемі, ал Тораңды ұмытқан жоқпын.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "қолымда"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үнемі"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ал Тораңды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ұмытқан жоқпын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:54.693688600Z",
+  "model": "glm-5.3"
+}

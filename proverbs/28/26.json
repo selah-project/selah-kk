@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Өз жүрегіне сенген — ақымақ, ал даналықпен жүрген — ⟨құтылады⟩.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "сенген"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "өз жүрегіне"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақ"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "ал жүрген"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "даналықпен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "құтылады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:08.479642481Z",
+  "model": "glm-5.3"
+}

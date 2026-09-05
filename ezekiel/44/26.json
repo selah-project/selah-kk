@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Және оның тазарылуынан кейін жеті күнді оған санайды.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "және …-ден кейін"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "оның тазарылуынан"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күнді"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "санайды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T05:29:28.801719515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Паран шөлінде тұрды, және анасы оған Мицрайым елінен әйел алды.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлінде"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паран"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "және алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасы"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "елінен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайым"
+    }
+  ],
+  "timestamp": "2026-09-05T01:22:07.208961207Z",
+  "model": "glm-5.3"
+}

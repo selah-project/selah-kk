@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Яхве Мошеге және Аһаронға айтты:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және —"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронға"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    }
+  ],
+  "timestamp": "2026-09-05T01:38:15.067305787Z",
+  "model": "glm-5.3"
+}

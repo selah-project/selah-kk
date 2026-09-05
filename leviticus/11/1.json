@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "«Яхве Моше мен Аһаронға сөйледі, оларға деп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеға"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және Аһаронға"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:59.453777270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Тарахтан жолға шықты және Митқада лагер құрды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жолға шықты"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "Тарахтан"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "Митқада"
+    }
+  ],
+  "timestamp": "2026-09-05T08:41:24.288117825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "жетінші һа-Қоцқа, сегізінші Авиаһқа.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "һа-Қоцқа"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "жетінші"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "Авиаһқа"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "сегізінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.458332131Z",
+  "model": "glm-5.3"
+}

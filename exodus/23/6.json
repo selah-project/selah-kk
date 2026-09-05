@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Кедейіңнің дауында ⟨оның⟩ соттылығын бұрмалама.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "бұрмалама"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "соттылығын"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "кедейіңнің"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "дауында"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:13.144178013Z",
+  "model": "glm-5.3"
+}

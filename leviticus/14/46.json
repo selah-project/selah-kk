@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Үй жабылып тұрған күндердің бәрінде үйге кірген адам кешке дейін лас болады.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "және кірген"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ға"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрінде"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндердің"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "жабылып тұрған"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ оны",
+      "marks": "үйді"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "лас болады"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "кешке"
+    }
+  ],
+  "timestamp": "2026-09-05T02:05:21.663320970Z",
+  "model": "glm-5.3"
+}

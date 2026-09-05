@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Олар алғаш рет Яхвенің аузы бойынша Мошенің қолымен жолға шықты.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жолға шықты"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "алғаш рет"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "пי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "қолымен"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:18.210633660Z",
+  "model": "glm-5.3"
+}

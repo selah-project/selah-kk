@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Ол ⟨את⟩ Бейт-Лехемді, ⟨את⟩ Этамды және ⟨את⟩ Текоаны салды.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "салды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бейт-Лехемді"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Лехемді"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Этамды"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Этамды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Текоаны"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текоаны"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:43.708089350Z",
+  "model": "glm-5.3"
+}

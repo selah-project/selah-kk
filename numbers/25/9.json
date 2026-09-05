@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "«Қажағада өлгендер — төрт және жиырма мың болды».",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "өлгендер"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "қажағада"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "және жиырма"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:25:51.421269848Z",
+  "model": "glm-5.3"
+}

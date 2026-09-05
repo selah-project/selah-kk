@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Оян! Неге ұйқыдасың, Адонай? Тұр! Мәңгі тәрк етпе!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "оян"
+    },
+    {
+      "surface": "למה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ұйқыдасың"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨жақырма⟩"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "тәрк етпе"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:32.434117473Z",
+  "model": "glm-5.3"
+}

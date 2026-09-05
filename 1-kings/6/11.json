@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және Яхвенің сөзі Шломоға келді, былай деген:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ға"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломоға"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деген"
+    }
+  ],
+  "timestamp": "2026-09-05T03:52:31.187601942Z",
+  "model": "glm-5.3"
+}

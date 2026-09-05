@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Жаһардың ұлдары: Қорах, Нефег және Зихри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Жаһардың"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорах"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "және Нефег"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "және Зихри"
+    }
+  ],
+  "timestamp": "2026-09-05T01:38:30.473752036Z",
+  "model": "glm-5.3"
+}

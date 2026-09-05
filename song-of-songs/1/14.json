@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Сүйіктім менің үшін — Эйн-Геди бақтарындағы хна шоғыры.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "шоғыры"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "хна"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "сүйіктім"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менің үшін"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "бақтарында"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Эйн"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:04.616762417Z",
+  "model": "glm-5.3"
+}

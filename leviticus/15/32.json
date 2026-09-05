@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Мынау — завдың Заңы, және одан шығатын ұрық жатысы, онымен ластануы туралы.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Заңы"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "завдың"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "және ол"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "шығатын"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "жатысы"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ұрық"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ластануы"
+    },
+    {
+      "surface": "בה",
+      "gloss": "онымен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:50.574160092Z",
+  "model": "glm-5.3"
+}

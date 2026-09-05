@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "және Қедеш, және Эдреи, және Эйн-Хацор.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "және Қедеш"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "және Эдреи"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "және Эйн"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    }
+  ],
+  "timestamp": "2026-09-05T03:03:20.206810356Z",
+  "model": "glm-5.3"
+}

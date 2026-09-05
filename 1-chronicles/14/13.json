@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Пелиштилер тағы да қосып аңғарда жайылды.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "қосты"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы да"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Пелиштилер"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "жайылды"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "аңғарда"
+    }
+  ],
+  "timestamp": "2026-09-05T08:45:53.172131794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Мишманна төртінші, Ирмения бесінші.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "Мишманна"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртінші"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Ирмения"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "бесінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:52.799695459Z",
+  "model": "glm-5.3"
+}

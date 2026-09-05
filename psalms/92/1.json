@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 92,
+  "translation": "Мизмор, өлең — шабат күніне.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "өлең"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күніне"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабат"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:06.286505813Z",
+  "model": "glm-5.3"
+}

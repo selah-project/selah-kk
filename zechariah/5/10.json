@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Меніммен сөйлеп тұрған періштеге айттым: бұлар ⟨את⟩ эфааны қайда алып барады?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "періштеде"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөйлеген"
+    },
+    {
+      "surface": "בי",
+      "gloss": "меніммен"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "המה",
+      "gloss": "бұлар"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "алып барады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эфааны"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфааны"
+    }
+  ],
+  "timestamp": "2026-09-05T05:46:18.308011737Z",
+  "model": "glm-5.3"
+}

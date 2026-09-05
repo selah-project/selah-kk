@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Ол босанды және ұл туды; және ⟨את⟩ оның атын Эр деп атады.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "босанды"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оның атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "оның атын"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:54.322009326Z",
+  "model": "glm-5.3"
+}

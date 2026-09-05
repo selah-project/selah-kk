@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Гивонда тұрды Гивонның әкесі Йеиэл (Иеил), ал әйелінің аты Мааха.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Гивонда"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивонның"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Йеиэл"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ал аты"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "әйелінің"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:43.533182754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 130,
+  "translation": "Ях, егер қателерді қадағаласаң, Адонай, кім тұра алады?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "қателерді"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "қадағаласаң"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "тұра алады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:53.148923110Z",
+  "model": "glm-5.3"
+}

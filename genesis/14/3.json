@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Барлық осылар Сидим аңғарына қарай одақтасты — ол Тұз теңізі.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "осындар"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "одақтасты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "аңғар"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Сидимнің"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "тұздың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:20:04.627500454Z",
+  "model": "glm-5.3"
+}

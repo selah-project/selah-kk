@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Биіктердің басында, жол үстінде, ⟨жолдардың қиылысында⟩ тұрады.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "басында"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "биік жерлердің"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолдың"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "жолдардың"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "тұрады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:32.354618840Z",
+  "model": "glm-5.3"
+}

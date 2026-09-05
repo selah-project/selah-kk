@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Хор жетекшісіне, Дәуіттің (Давид) мәзмірі.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хор жетекшісіне"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмір"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Дәуіттің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:54:41.990117368Z",
+  "model": "glm-5.3"
+}

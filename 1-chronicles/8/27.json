@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "және Яарешия, және Элия, және Зихри — Йероһамның ⟨ұлдары⟩.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "және Яарешия"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "және Элия"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "және Зихри"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероһам"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:02.793373980Z",
+  "model": "glm-5.3"
+}

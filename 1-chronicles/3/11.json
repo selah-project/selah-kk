@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Йорам оның ұлы, Аҳазйаһу оның ұлы, Йоаш оның ұлы.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Йорам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Аҳазйаһу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:35.667048683Z",
+  "model": "glm-5.3"
+}

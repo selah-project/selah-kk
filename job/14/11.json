@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Теңізден су кетіп, өзен таусылып, құрғайды.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "кетеді"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-ден"
+    },
+    {
+      "surface": "ים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "және өзен"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "таусылады"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "құрғайды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:42:20.558526061Z",
+  "model": "glm-5.3"
+}

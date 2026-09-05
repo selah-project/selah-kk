@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Еркектің қадамдары Яхведен — ал адам өз жолын қайдан түсінсін?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "қадамдары"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "еркектің"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ал адам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "қалайша"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түсінсін"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "өз жолын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:43.602972592Z",
+  "model": "glm-5.3"
+}

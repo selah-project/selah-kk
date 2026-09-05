@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 45,
+  "translation": "Бірінші айдың он төртінші күні сіздерге Песах болады — жеті күндік мереке; мацот жейді.",
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "Бірінші"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдың"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сіздерге"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "חג",
+      "gloss": "мереке"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндік"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жейді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:29:36.839465077Z",
+  "model": "glm-5.3"
+}

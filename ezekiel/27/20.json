@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Дедан саудагерің ⟨болды⟩ мінуге арналған көрпе-киімдермен.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "Дедан"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "саудагерің"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "киімдерімен"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "көрпе"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "мінуге"
+    }
+  ],
+  "timestamp": "2026-09-05T05:20:42.723332416Z",
+  "model": "glm-5.3"
+}

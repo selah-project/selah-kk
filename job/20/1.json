@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Цофар Нааматтық жауап берді және айтты:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жауап берді"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Цофар"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "Нааматтық"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:43:51.056172758Z",
+  "model": "glm-5.3"
+}

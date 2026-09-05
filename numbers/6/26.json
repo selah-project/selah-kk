@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Яхве саған Өз бетін көтеріп қаратсын және саған шалом берсін.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "көтеріп қаратсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Өз бетін"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "және қойсын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:01.676425042Z",
+  "model": "glm-5.3"
+}

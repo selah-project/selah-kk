@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Моше ⟨את⟩ Аһаронды және ⟨את⟩ ұлдарын жақындатты, ⟨את⟩ оларды сумен жуды.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "жақындатты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аһаронды"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "ұлдарын"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "жуды"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ оларды"
+    },
+    {
+      "surface": "במים",
+      "gloss": "сумен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:19.031539979Z",
+  "model": "glm-5.3"
+}

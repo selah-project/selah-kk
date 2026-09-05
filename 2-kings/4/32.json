@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Элиша үйге кірді — мынау, бала өліп, өз төсегінде жатыр.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "үйге"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өліп"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "жатыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "өз төсегінің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:06:57.996115224Z",
+  "model": "glm-5.3"
+}

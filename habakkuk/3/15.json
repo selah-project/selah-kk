@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Теңізді аттарыңмен таптадың — көп сулардың қайнаған лайы.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "таптадың"
+    },
+    {
+      "surface": "בים",
+      "gloss": "теңізді"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "аттарыңмен"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "қайнаған лайы"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сулардың"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:43:59.006830831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Немесе егер қайтса тірі ет, және айналса аққа — келеді ұстаздық иеге.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "қайтса"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "החי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "және айналса"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "аққа"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ұстаздық иеге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:03:58.585054428Z",
+  "model": "glm-5.3"
+}

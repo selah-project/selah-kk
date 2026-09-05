@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Құлдар бізге билік етті; құтқарушы жоқ — олардың қолынан.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Құлдар"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "билік етті"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "құтқарады"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "олардың қолынан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:43.851462176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Жүргеніңде қадамың тарылмайды, ал жүгіргеніңде сүріп құламайсың.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Жүргеніңде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "тарылмайды"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "қадамың"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ал"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "жүгіргеніңде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "сүріп құламайсың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:27.580880084Z",
+  "model": "glm-5.3"
+}

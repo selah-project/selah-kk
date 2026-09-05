@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 56,
+  "translation": "Даланың барлық аңдары, келіңдер, жеуге — орманның барлық аңдары.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "аңдары"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "даланың"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "келіңдер"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "жеуге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "аңдары"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "орманның"
+    }
+  ],
+  "timestamp": "2026-09-05T04:37:04.871397176Z",
+  "model": "glm-5.3"
+}

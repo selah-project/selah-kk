@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Және ол зұлым ұл туғызды — қан төгуші, және ол осының бірін бауырына жасады.",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "және туғызды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "зұлым"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "төгуші"
+    },
+    {
+      "surface": "דם",
+      "gloss": "қан"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "және жасады"
+    },
+    {
+      "surface": "אח",
+      "gloss": "бауырына"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "бірін"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "осының"
+    }
+  ],
+  "timestamp": "2026-09-05T09:19:43.493677699Z",
+  "model": "glm-5.3"
+}

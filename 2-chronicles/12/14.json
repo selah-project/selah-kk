@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Ол жамандық істеді, себебі жүрегін Яхвені ⟨את⟩ іздеуге дайындамады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "істеді"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жамандықты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "дайындамады"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрегін"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "іздеуге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвені"
+    }
+  ],
+  "timestamp": "2026-09-05T08:29:49.747313998Z",
+  "model": "glm-5.3"
+}

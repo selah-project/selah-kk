@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 20:19",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Құпияны ашатын — өсек таратушы; ернін жайғаушымен араласпа.",
+  "tokens": [
+    {
+      "surface": "גולה",
+      "gloss": "ашады"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "құпияны"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "жүрген"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "өсекшіл"
+    },
+    {
+      "surface": "ולפתה",
+      "gloss": "және жайғаушы"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ерндерін"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "араласпа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:21.290086968Z",
+  "model": "glm-5.3"
+}

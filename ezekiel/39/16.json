@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Және қаланың аты да Хамона ⟨болады⟩; жерді тазартады.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "және ... да"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қаланың"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "Хамона"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "және тазартады"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:25:50.419608085Z",
+  "model": "glm-5.3"
+}

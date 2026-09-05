@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Орын өтті, жаз бітті, ал біз құтылмадық.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "өтті"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "орын"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "бітті"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "жаз"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ал біз"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "құтылмадық"
+    }
+  ],
+  "timestamp": "2026-09-05T04:46:19.099054543Z",
+  "model": "glm-5.3"
+}

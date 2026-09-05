@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Әділдік халықты көтереді, ал халықтардың хатырі — күнә.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "Әділдік"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "көтереді"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "халықты"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "хатырі"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "халықтардың"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "күнә"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:29.676830182Z",
+  "model": "glm-5.3"
+}

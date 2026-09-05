@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Һелес һа-Палты, Ираһ Иккеш ұлы, һа-Текоаһлық,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "Һелес"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "һа-Палты"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ираһ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Иккеш"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "һа-Текоаһлық"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:16.531779680Z",
+  "model": "glm-5.3"
+}

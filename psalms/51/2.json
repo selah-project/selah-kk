@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 51,
+  "translation": "Натан пайғамбар оған келгенде — Бат-Шебаға кірген кезіндей.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "келгенде"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайғамбар"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кезіндей"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кірген"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ға"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеба"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:21.569818109Z",
+  "model": "glm-5.3"
+}

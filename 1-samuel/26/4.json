@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Давид тыңшылар жіберді және Шаулдың шынымен келгенін білді.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "тыңшылар"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "білді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "−ны"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ның"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "шынымен"
+    }
+  ],
+  "timestamp": "2026-09-05T03:33:20.164280235Z",
+  "model": "glm-5.3"
+}

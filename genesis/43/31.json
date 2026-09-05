@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 43,
+  "translation": "Бетін жуып, шықты, өзін ұстады да: «Нан ⟨беріңдер⟩!» — деді.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "жуып"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "бетін"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "өзін ұстады"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "беріңдер"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-09-05T01:33:23.698360288Z",
+  "model": "glm-5.3"
+}

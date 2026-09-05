@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Сен, Яхве, мәңгі отырасың, тағың — ұрпақтан ұрпаққа.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "отырасың"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "тағың"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ұрпақтан"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ұрпаққа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:05.200717124Z",
+  "model": "glm-5.3"
+}

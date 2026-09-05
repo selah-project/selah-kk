@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Осылай деді Адонай Яхве: бүкіл жер қуанғанындай, саған өңірату жасаймын.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "қуанғанындай"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "өңірату"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "жасаймын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T05:25:00.876341947Z",
+  "model": "glm-5.3"
+}

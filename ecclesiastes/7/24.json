@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Болған нәрсе алыста, ал терең, өте терең — оны кім таба алады?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "алыста"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсені"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ал терең"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "терең, өте"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "таба алады"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:06.163127796Z",
+  "model": "glm-5.3"
+}

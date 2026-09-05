@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Йоэл, Асииелдің ұлы Сераяһтың ұлы Йошибияһтың ұлы Йеһу",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "Йеһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "Йошибияһтың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Сераяһтың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "Асииелдің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:55.868095304Z",
+  "model": "glm-5.3"
+}

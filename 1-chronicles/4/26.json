@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ал Мишманың ұлдары: Ҳаммуэл оның ұлы, Заккур оның ұлы, Шимъи оның ұлы.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ал ... ұлдары"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "Мишманың"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "Ҳаммуэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:07.258527998Z",
+  "model": "glm-5.3"
+}

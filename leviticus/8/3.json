@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "және ⟨את⟩ бүкіл жиналысты кездесу шатырының есігіне жина",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "жиналысты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "жиналысты"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "жина"
+    },
+    {
+      "surface": "אל",
+      "gloss": "есігіне"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "есігіне"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатырының"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "кездесу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:00:53.319330052Z",
+  "model": "glm-5.3"
+}

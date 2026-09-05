@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Оған ⟨את⟩ хошенді қойды және хошенге ⟨את⟩ Уримді және ⟨את⟩ Тумимді қосты.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хошенді"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошен"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "қосты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уримді"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Урим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Тумимді"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Тумим"
+    }
+  ],
+  "timestamp": "2026-09-05T02:02:19.032017315Z",
+  "model": "glm-5.3"
+}

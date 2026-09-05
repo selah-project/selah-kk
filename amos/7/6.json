@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Яхве осыған өкінді: «Бұл да болмайды», — деді Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "өкінді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінен"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осыған"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болмайды"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T05:37:52.706224356Z",
+  "model": "glm-5.3"
+}

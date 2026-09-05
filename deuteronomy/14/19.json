@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Және ұшатын жорғалаушының бәрі — ол сендерге таза емес, жеуге болмайды",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "және бәрі"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "жорғалаушы"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ұшатын"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза емес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жеуге болмайды"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:28.678268578Z",
+  "model": "glm-5.3"
+}

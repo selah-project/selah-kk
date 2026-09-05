@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Созылған күту жүректі ауыртады, ал келген тілек — өмір ағашы.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "күту"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "созылған"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ауыртады"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүректі"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ал ағашы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "тілек"
+    },
+    {
+      "surface": "באה",
+      "gloss": "келген"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:23.388487994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Қалай көмектестің күші жоққа? Қалай құтқардың күші жоқ қолды?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "көмектестің"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күш"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "құтқардың"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "қолды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күш"
+    }
+  ],
+  "timestamp": "2026-09-05T06:45:06.126503663Z",
+  "model": "glm-5.3"
+}

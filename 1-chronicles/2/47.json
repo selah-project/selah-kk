@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Йахдайдың ұлдары: Регем, Йотам, Гейшан, Пелет, Эйфа және Шааф.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ал ұлдары"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "Йахдайдың"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "Регем"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "Йотам"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "Гейшан"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "Пелет"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "Эйфа"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "және Шааф"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:41.497392809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Ақылды ұл әкені қуантады, ал ақымақ адам анасын менсінбейді.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ақылды"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "қуантады"
+    },
+    {
+      "surface": "אב",
+      "gloss": "әкені"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ал ақымақ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "менсінбейді"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:30.058921054Z",
+  "model": "glm-5.3"
+}

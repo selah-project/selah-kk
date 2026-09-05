@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Биньямин: Бела, және Бехер, және Йедиаэл — үшеу.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "және Бехер"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "және Йедиаэл"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үшеу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:09.839878803Z",
+  "model": "glm-5.3"
+}

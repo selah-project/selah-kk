@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Өйткені жер бетінде әділ адам жоқ — жақсылық жасап, күнә жасамайтын.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер бетінде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасайтын"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жасамайтын"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "күнә"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:11.037113947Z",
+  "model": "glm-5.3"
+}

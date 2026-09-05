@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Күлкіге айттым: «жынды» — ал қуанышқа: «не істейді бұл?»",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "күлкіге"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "жынды"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "және қуанышқа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істейді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:58.987072433Z",
+  "model": "glm-5.3"
+}

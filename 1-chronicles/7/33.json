@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Яфлеттің ұлдары: Пасах, Бимһал және Ашұат — осылар Яфлеттің ұлдары.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Яфлет"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "Пасах"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "және Бимһал"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "және Ашұат"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Яфлеттің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:16.554667646Z",
+  "model": "glm-5.3"
+}

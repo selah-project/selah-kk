@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "бір күні — патша Аһашвероштың барлық өңірлерінде — он екініші айдың он үші, ол Адар айы.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "өңірлерінде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Аһашвероштың"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "үші"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдың"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ай"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Адар"
+    }
+  ],
+  "timestamp": "2026-09-05T07:52:08.029298614Z",
+  "model": "glm-5.3"
+}

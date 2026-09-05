@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Әрі Яхве маған тағы сөйлеп, былай деді:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "әрі қостап"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлеуге"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T04:21:15.405544600Z",
+  "model": "glm-5.3"
+}

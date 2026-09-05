@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Аздап ұйқы, аздап төселеу, аздап қолдарды құшақтау — жату үшін.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "аздап"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ұйқы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аздап"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "төселеу"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аздап"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "құшақтау"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "қолдарды"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "жату үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:31.394607507Z",
+  "model": "glm-5.3"
+}

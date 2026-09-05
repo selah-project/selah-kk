@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 11:34",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Жеуге болатын барлық ас — үстіне ондай су келсе — лас; әр ыдыста ішуге болатын әр сусын да лас.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "астың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жеуге болады"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келсе"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оның үстіне"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "лас"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және әр"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "сусын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ішуге болады"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ыдыста"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "лас"
+    }
+  ],
+  "timestamp": "2026-09-05T02:01:48.876110620Z",
+  "model": "glm-5.3"
+}

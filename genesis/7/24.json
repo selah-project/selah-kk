@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Сулар жер үстінде жүз елу күн үстемдік етті.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "үстемдік етті"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "және жүз"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T07:19:29.748210418Z",
+  "model": "glm-5.3"
+}

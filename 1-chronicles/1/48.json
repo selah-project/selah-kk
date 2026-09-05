@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Самла өлді, ал орнына Өзен бойындағы Реховоттан Шаул патшалық құрды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патшалық құрды"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "Реховоттан"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Өзен"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:18.540281663Z",
+  "model": "glm-5.3"
+}

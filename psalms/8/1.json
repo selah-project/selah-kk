@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Басқарушыға, гиттим әуеніне, Давидтің мәзмірі.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Басқарушыға"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттим әуеніне"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмірі"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    }
+  ],
+  "timestamp": "2026-09-05T05:51:35.864378642Z",
+  "model": "glm-5.3"
+}

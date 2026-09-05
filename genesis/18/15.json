@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Сара жасырды: «Мен күлмедім», — себебі ол қорықты; Ол айтты: «Жоқ, күлдің.»",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "жасырды"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "мен күлмедім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "қорықты"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ол айтты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "қайта"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "күлдің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:20:09.055310286Z",
+  "model": "glm-5.3"
+}

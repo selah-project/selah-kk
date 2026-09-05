@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Жалған сөз көтерме; жамандыққа қол қоспа, зұлымдық куәгері болып.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "көтерме"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "естілген сөзді"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "жалған"
+    },
+    {
+      "surface": "אל",
+      "gloss": "баc"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "қойма"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "қолыңды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаманмен"
+    },
+    {
+      "surface": "להית",
+      "gloss": "болып"
+    },
+    {
+      "surface": "עד",
+      "gloss": "куәгер"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зұлымдықтың"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:48.796085784Z",
+  "model": "glm-5.3"
+}

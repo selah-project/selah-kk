@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Және ⟨את⟩ үйді қымбат таспен сән үшін қаптады, ал алтын — Парваим алтыны.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "қаптады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйді"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйді"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таспен"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "қымбат"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "сән үшін"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ал алтын"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтыны"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Парваим"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:00.515782732Z",
+  "model": "glm-5.3"
+}

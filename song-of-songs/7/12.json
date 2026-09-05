@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Кел, сүйігім, далаға шығайық, ауылдарда түнейік.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Кел"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "сүйігім"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "шығайық"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "далаға"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "түнейік"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "ауылдарда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:53:01.739207975Z",
+  "model": "glm-5.3"
+}

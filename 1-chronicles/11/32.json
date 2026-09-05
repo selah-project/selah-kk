@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Һурай — Гааш наһалдарынан, Абиел Арабаттық.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Һурай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "наһалдарынан"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гааш"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Абиел"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "Арабаттық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:37.809688600Z",
+  "model": "glm-5.3"
+}

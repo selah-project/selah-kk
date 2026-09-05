@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Сөйтіп Шаул өлді, және оның үш ұлы, және оның бүкіл үйі бірге өлді.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "сөйтіп өлді"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "және үш"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және бүкіл"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "өлді"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:17.652601021Z",
+  "model": "glm-5.3"
+}

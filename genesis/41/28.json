@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Осыл — ⟨менің⟩ Пароға айтқан сөзім: Элохим ⟨את⟩ істейтінін Пароға көрсетті.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "осыл"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "н"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "айтқаным"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "н"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істейтін"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "көрсетті"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-09-05T01:31:18.229387132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және ⟨оларды⟩ үйіңнің есік ұстандарына және қақпаларыңа жаз",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "және жаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "есік ұстандарына"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйіңнің"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "және қақпаларыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:36:51.822435484Z",
+  "model": "glm-5.3"
+}

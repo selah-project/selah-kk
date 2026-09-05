@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Эсавтың ұлдары: Элифаз, Реуел, Йеуш, Яалам және Корах.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавтың"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуел"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "және Йеуш"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "және Яалам"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "және Корах"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:21.192306249Z",
+  "model": "glm-5.3"
+}

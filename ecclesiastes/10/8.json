@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Құдық қазған оған құлады, ал қорған бұзғанды жылан шағады.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "қазған"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "құдық"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "құлады"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ал бұзған"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "қорған"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "шағады"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "жылан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:03.694913366Z",
+  "model": "glm-5.3"
+}

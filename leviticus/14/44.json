@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Коэн кіріп қарасын, және мына, жара үйге жайылған — ол үйдегі қатты жегі цараат; ол лас.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "кіреді"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "қарайды"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және мына"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "жайылған"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйде"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "қатты жегі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйде"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "лас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:55.122677517Z",
+  "model": "glm-5.3"
+}

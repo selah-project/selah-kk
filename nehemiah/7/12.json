@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Эламның ұлдары — мың екі жүз елу төрт.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эламның"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "екі жүз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "және төрт"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:11.645574836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Осы кезде Абия — Яробамның ұлы — ауырды.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Осы кез"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "де"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ауырды"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яробамның"
+    }
+  ],
+  "timestamp": "2026-09-05T03:59:16.423000604Z",
+  "model": "glm-5.3"
+}

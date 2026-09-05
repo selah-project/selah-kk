@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Тойған жанды балұяты жайпайды, ал аш жанға барлық ащы тәтті.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "тойған"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "жайпайды"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "балұяты"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ал жанға"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "аш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ащы"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "тәтті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:38.677829281Z",
+  "model": "glm-5.3"
+}

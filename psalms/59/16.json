@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 59,
+  "translation": "Олар — жеу үшін арылып жүреді; егер тоймаса — түндеп жүреді.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "олар"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "арылып жүреді"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "жеу үшін"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "тоймаса"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "түндеп жүреді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:58.103996029Z",
+  "model": "glm-5.3"
+}

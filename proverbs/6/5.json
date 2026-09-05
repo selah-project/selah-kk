@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Құтқар өзіңді жаядай қолдан, және құстай қауыстың қолынан.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "құтқар өзіңді"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "жаядай"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "қолдан"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "және құстай"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "қолынан"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "қауыстың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:46.622230112Z",
+  "model": "glm-5.3"
+}

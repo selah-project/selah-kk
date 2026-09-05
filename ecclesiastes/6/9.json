@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Көздің көруі жанның кезуінен жақсы; бұл да һәбел және рухтың азаптығы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "көруі"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "көздің"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "кезуі"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанның"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "һәбел"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "және азаптығы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухтың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:57.651197022Z",
+  "model": "glm-5.3"
+}

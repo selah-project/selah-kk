@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Және Ицхак (Ысқақ) Герарда қоныстады.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "және қоныстады"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "Герарда"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:48.455018197Z",
+  "model": "glm-5.3"
+}

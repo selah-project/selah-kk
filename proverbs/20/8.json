@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Патша әділдік тағында отырып, көзімен барлық жамандықты елестеді.",
+  "tokens": [
+    {
+      "surface": "мелך",
+      "gloss": "Патша"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "отырып"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "דין",
+      "gloss": "әділдік"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "елестеді"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "көзімен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандықты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:59.115195046Z",
+  "model": "glm-5.3"
+}

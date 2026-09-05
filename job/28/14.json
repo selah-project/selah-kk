@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Тегін айтты: «Ол менде жоқ», және теңіз айтты: «Ол менменен жоқ».",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Тегін"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менде"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "וים",
+      "gloss": "және теңіз"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "менменен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:45:16.083295554Z",
+  "model": "glm-5.3"
+}

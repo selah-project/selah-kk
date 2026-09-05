@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Яхве Мошеге сөйлеп былай деді.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлеп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ға"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:11.307621800Z",
+  "model": "glm-5.3"
+}

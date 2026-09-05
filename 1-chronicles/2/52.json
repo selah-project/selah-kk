@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Шовалдың — Қирjat-Жаримнің әкесінің — ұлдары болды: Гароэһ және Менухоттың жартысы.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "Шовалдың"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Қирjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Жаримнің"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Гароэһ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "жартысы"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "Менухоттың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:39.272524946Z",
+  "model": "glm-5.3"
+}

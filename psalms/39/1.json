@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Басшыға, Йедутунға — Давид (Дәуіт)тің әні.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Басшыға"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Йедутунға"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "әні"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:51.786413994Z",
+  "model": "glm-5.3"
+}

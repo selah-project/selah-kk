@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Авраһам малда, күмісте және алтында өте ауыр ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ауыр ⟨болды⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "малда"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "күмісте"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "және алтында"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:44.358245581Z",
+  "model": "glm-5.3"
+}

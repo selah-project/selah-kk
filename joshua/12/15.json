@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Ливна патшасы — бір; Адуллам патшасы — бір;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ливна"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Адуллам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:23.185143211Z",
+  "model": "glm-5.3"
+}

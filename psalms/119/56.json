@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Бұл маған ⟨бұйырды⟩, өйткені бұйрықтарыңды сақтадым.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨бұйырды⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "бұйрықтарыңды"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "сақтадым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:45.788203686Z",
+  "model": "glm-5.3"
+}

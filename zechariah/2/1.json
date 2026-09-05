@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Көзімді көтеріп ⟨את⟩ көзімді қардым — және мынау, төрт мүйіз.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "көтеріп қардым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көзімді"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзімді"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "қардым"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "мүйіз"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:08.030011534Z",
+  "model": "glm-5.3"
+}

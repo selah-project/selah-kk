@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Бар нәрсенің шегін көрдім — бұйрықтарың өте кең.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "бар нәрсенің"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "тұмандығының"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "соңын"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "кең"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "бұйрықтарың"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    }
+  ],
+  "timestamp": "2026-09-05T06:19:20.968533831Z",
+  "model": "glm-5.3"
+}

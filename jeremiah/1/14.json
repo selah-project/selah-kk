@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Солтүстіктен ашылады жамандық жердің барлық тұрғындарының үстіне.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "солтүстіктен"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ашылады"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "тұрғындарының"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:42:15.520303776Z",
+  "model": "glm-5.3"
+}

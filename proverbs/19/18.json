@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Балаңды тәрбіле, өйткені үміт бар; және оны өлтіруге жаныңды салма.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "тәрбіле"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "балаңды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "үміт"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және -ма"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "оны өлтіруге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨болсын⟩ қатындырма"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "салма"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаныңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:46.425076534Z",
+  "model": "glm-5.3"
+}

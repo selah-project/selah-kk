@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ұлым, егер күнәһәрлер сені азғырса, көнбе.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ұлым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "азғырса"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "күнәһәрлер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ау"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "көнбе"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:50.668014952Z",
+  "model": "glm-5.3"
+}

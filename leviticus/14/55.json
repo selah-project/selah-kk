@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Және киімнің царааты үшін және үй үшін.",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "царааты үшін"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "киімнің"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "үй үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:17.231693713Z",
+  "model": "glm-5.3"
+}

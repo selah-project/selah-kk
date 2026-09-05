@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір қасық, он ⟨шекель⟩ алтын, құрбандық түтінінен толы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "қасық"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "құрбандық түтінінен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:06.355816050Z",
+  "model": "glm-5.3"
+}

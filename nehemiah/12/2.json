@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "«Амарйа, Маллух, Хаттуш.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "Амарйа"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллух"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Хаттуш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:33.198906557Z",
+  "model": "glm-5.3"
+}

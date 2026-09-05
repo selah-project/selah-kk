@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Яхве Шмуэльді шақырды, және ол: «Міне, мен!» деді.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "шақырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ді"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуэль"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және деді"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "«Міне, мен!»"
+    }
+  ],
+  "timestamp": "2026-09-05T03:20:49.885491324Z",
+  "model": "glm-5.3"
+}

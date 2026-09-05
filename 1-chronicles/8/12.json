@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Элпаалдың ұлдары: Эбер, Мишам және Шемед — ол ⟨את⟩ Ононы және ⟨את⟩ Лодты және оның қыстақтарын салды.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаал"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эбер"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Мишам"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Шемед"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "салды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оно"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Лод"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "оның қыстақтары"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:03.895646307Z",
+  "model": "glm-5.3"
+}

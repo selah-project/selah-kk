@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Сол жерден өтіп Эфрайим тауына барып, Миханың үйіне келді.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "өтіп бара жатты"
+    },
+    {
+      "surface": "משם",
+      "gloss": "сол жерден"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ға дейін"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    }
+  ],
+  "timestamp": "2026-09-05T03:17:05.752921934Z",
+  "model": "glm-5.3"
+}

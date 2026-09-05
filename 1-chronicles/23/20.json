@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Уззиэлдің ұлдары: басы Миха, екіншісі Ишшийаһ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззиэлдің"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "басы"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "Ишшийаһ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "екіншісі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:45.618221785Z",
+  "model": "glm-5.3"
+}

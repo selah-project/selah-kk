@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ол мені шарап үйіне ертіп кіргізді, ал оның үстіме тұрған туы — махаббат.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Ол мені ертіп кіргізді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "היין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ал оның туы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстіме тұрған"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "махаббат"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:27.789029861Z",
+  "model": "glm-5.3"
+}

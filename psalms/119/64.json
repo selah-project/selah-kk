@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Жер хеседіңмен толы, Яхве — хұқықтарыңды мені үйрет.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "хеседіңмен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "хұқықтарыңды"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "мені үйрет"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:59.508074866Z",
+  "model": "glm-5.3"
+}

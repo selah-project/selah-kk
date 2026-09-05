@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Рахель өлді және Эфратаның жолында — ол Бейт-Лехем — жерленді.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахель"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "жерленді"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолында"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Эфратаның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:33.995493923Z",
+  "model": "glm-5.3"
+}

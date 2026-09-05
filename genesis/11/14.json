@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Шелах отыз жыл өмір сүрді және ⟨את⟩ Эверді туғызды.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "חי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эверді"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эверді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:06.270047659Z",
+  "model": "glm-5.3"
+}

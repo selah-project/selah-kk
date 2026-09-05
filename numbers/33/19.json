@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Ритмадан жүріп өтті де, Риммон-Перецте лагер болды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жүріп өтті де"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "Ритмадан"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер болды"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "Риммон-"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перецте"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:44.679703615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Өсек тарататын жүргіш құпияны ашады, ал сенімді рух сөзді жабады.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "жүргіш"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "өсек тарататын"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ашады"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "құпияны"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "ал сенімді"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "жабады"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:06.408772760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Саул оның өте ақылмен іс қойғанын көріп, одан қорықты.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ақылмен іс қойғанын"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "қорықты"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "одан"
+    }
+  ],
+  "timestamp": "2026-09-05T03:28:47.014202561Z",
+  "model": "glm-5.3"
+}

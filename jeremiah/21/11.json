@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Және Яҳуданың патша үйіне: Яхвенің сөзін тыңдаңдар.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "және үйіне"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яҳуданың"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңдаңдар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:50:15.773377760Z",
+  "model": "glm-5.3"
+}

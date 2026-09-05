@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Сондай өзінің жолдасының әйеліне кірген — оған тиген ешкім жазаусыз қалмайды.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "сондай"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "кірген"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…іне"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "әйеліне"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "өзінің жолдасының"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "жазаусыз қалады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ешкім"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "тиген"
+    },
+    {
+      "surface": "בה",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:09.283778698Z",
+  "model": "glm-5.3"
+}

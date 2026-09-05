@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Һа-Рама және Гава адамдары: алты жүз жиырма бір.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Һа-Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "және Гава"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:18.722795439Z",
+  "model": "glm-5.3"
+}

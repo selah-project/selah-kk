@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Сөздің соңы басынан жақсы, рухының ұзындығы жоғары рухтан жақсы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "соңы"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөздің"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "басынан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ұзындығы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухының"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "жоғары"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухтан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:17.689615442Z",
+  "model": "glm-5.3"
+}

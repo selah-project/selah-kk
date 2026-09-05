@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Аузын сақтаған өз жанын сақтайды; ернін кең ашатынға қирау ⟨болады⟩.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "сақтаған"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "аузын"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сақтайды"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "кең ашатын"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ернін"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "қирау"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:23.878421717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "Және олар елден елге, патшалықтан басқа халыққа кезіліп жүрді.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "кезіліп жүрді"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "елден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "елге"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "патшалықтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халыққа"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "басқа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:34.670980212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Элиһу жауап берді және айтты:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жауап берді"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элиһу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:48:19.285311412Z",
+  "model": "glm-5.3"
+}

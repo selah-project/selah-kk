@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Астына үш — жер дірілдеді, ал астына төрт — ол көтере ⟨алмайды⟩:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "дірілдеді"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ал астына"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "қабілетсіз"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "көтеруге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:31.083649482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 84,
+  "translation": "Жетекшіге, гиттит үстінен, Қорах ұлдарына, мәзмүр.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Жетекшіге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінен"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттит"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмүр"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:51.627823468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 43,
+  "translation": "Үйден маған сөйлегенді естідім, және бір кісі жаныма тұрды.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "естідім"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "сөйлеуді"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "үйден"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "және бір кісі"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨болды⟩"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "жаныма"
+    }
+  ],
+  "timestamp": "2026-09-05T05:29:03.222539005Z",
+  "model": "glm-5.3"
+}

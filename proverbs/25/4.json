@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Күмістен қожды аласта — балгерге ыдыс шығады.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "аласта"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "қожды"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "күмістен"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "шығады"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "балгерге"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ыдыс"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:20.383548466Z",
+  "model": "glm-5.3"
+}

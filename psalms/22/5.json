@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Саған сенеді аталарымыз, сенді — және Сен оларды құтқардың.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Саған"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "сенеді"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "аталарымыз"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "сенді"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "құтқардың"
+    }
+  ],
+  "timestamp": "2026-09-05T05:53:55.929105537Z",
+  "model": "glm-5.3"
+}

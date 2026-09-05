@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 150,
+  "translation": "Тынысы барның бәрі Яһты мақтасын! Яһты мақтаңдар!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "тынысы барның"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "мақтасын"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһты"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "мақтаңдар"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:23:46.592165653Z",
+  "model": "glm-5.3"
+}

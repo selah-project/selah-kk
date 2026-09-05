@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Санаққа алынғандары — Шимон руының: тоғыз және елу мың және үш жүз.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "санаққа алынғандары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "руының"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "және елу"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "және үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:51.933796973Z",
+  "model": "glm-5.3"
+}

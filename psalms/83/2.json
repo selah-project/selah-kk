@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 83,
+  "translation": "Элохим, саған тыныштық болма, үндеме және тынышталма, Эл.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "болма"
+    },
+    {
+      "surface": "дמי",
+      "gloss": "тыныштық"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үндеме"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "және тынышталма"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "тынышталма"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:27.711195730Z",
+  "model": "glm-5.3"
+}

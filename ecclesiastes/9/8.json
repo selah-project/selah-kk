@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Әр уақытта киімдерің ақ болсын, ал басыңның үстіндегі май ешқашан жетіспесін.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақытта"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "киімдерің"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ақ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "және май"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "басыңның"
+    },
+    {
+      "surface": "אל",
+      "gloss": "а"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "жетіспесін"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:30.141674355Z",
+  "model": "glm-5.3"
+}

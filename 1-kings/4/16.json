@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Баана, Хушай ұлы, — Ашерде және Беалотта.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Баана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "Ашерде"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "және Беалотта"
+    }
+  ],
+  "timestamp": "2026-09-05T03:50:40.195174954Z",
+  "model": "glm-5.3"
+}

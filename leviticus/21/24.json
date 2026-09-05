@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Моше Аһаронға, оның ұлдарына және Исраилдің барлық ұлдарына айтты.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронға"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және -ға"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "оның ұлдарына"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және -ға"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:09:10.633152944Z",
+  "model": "glm-5.3"
+}

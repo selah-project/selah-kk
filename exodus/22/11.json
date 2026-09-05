@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Ал егер одан ұрланған болса — ұрыланса, ⟨ол⟩ иесіне өтейді.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ұрланған"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ұрыланса"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "өтейді"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "иесіне"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:01.713552679Z",
+  "model": "glm-5.3"
+}

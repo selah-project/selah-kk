@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Бұрмаландым, өте төмен еңкідім; күн бойы қайғымен жүрдім.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "бұрмаландым"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "еңкідім"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "כל",
+      "gloss": "толы"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "қайғымен"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "жүрдім"
+    }
+  ],
+  "timestamp": "2026-09-05T05:58:55.552462198Z",
+  "model": "glm-5.3"
+}

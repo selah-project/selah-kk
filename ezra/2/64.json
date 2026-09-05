@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Бүкіл жиналыс біртұтас: қырық екі мың үш жүз алпыс ⟨жан⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "жиналыс"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "біртұтас"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "мың"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "екі мың"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "алпыс"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:20.959646192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Һатақ келді және Эстерге Мардохайдың ⟨את⟩ сөздерін жеткізді.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Һатақ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "жеткізді"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстерге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздерін"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздерін"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохайдың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:20.520644316Z",
+  "model": "glm-5.3"
+}

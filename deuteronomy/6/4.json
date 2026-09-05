@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Тыңда, Исраил: Яхве — біздің Элохиміз, Яхве — бір.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Тыңда"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохиміз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:37:27.819395028Z",
+  "model": "glm-5.3"
+}

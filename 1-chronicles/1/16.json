@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Және ⟨את⟩ арвадиды, және ⟨את⟩ цемариды, және ⟨את⟩ хаматиды.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "арвадиды"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "арвадиды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "цемариды"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "цемариды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "хаматиды"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "хаматиды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:20.682104815Z",
+  "model": "glm-5.3"
+}

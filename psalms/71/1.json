@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 71,
+  "translation": "Сенде, Яхве, пана тіледім — мәңгі ұятқа қалмайын.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Сенде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "пана тіледім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алашы"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ұятқа қалайын"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:34.692298243Z",
+  "model": "glm-5.3"
+}

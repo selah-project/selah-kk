@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Шема ⟨את⟩ Рахамды туғызды, Йоркеамның әкесін; Рекем ⟨את⟩ Шаммайды туғызды.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахамды"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Рахамды"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "Йоркеамның"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "Рекем"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаммайды"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммайды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:37.674345153Z",
+  "model": "glm-5.3"
+}

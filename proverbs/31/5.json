@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Әйтпесе ішіп, заңды ұмытып, барлық мұжық балаларының үкілін бұзар.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "әйтпесе"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ішіп"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "ұмытып"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "заңды"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "бұзар"
+    },
+    {
+      "surface": "דין",
+      "gloss": "үкілін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балаларының"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мұжық"
+    }
+  ],
+  "timestamp": "2026-09-05T09:00:08.494727394Z",
+  "model": "glm-5.3"
+}

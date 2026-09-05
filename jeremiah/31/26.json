@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Осыған мен ояндым және көрдім, және ұйқым маған тәтті болды.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Осыған"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осыған"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ояндым"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "және көрдім"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "және ұйқам"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "тәтті болды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T04:55:42.389624363Z",
+  "model": "glm-5.3"
+}

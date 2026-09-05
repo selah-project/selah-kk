@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Осылай деді Яхве Цебаот: тағы халықтар келеді, көп қалалардың тұрғындары.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болатыны"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "халықтар"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "және тұрғындары"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "қалалардың"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:26.002483712Z",
+  "model": "glm-5.3"
+}

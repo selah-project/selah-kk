@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Болды Яхвенің сөзі Йирмияуға, былай деген:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Йирмияуға"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмияу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деген"
+    }
+  ],
+  "timestamp": "2026-09-05T04:58:32.738992523Z",
+  "model": "glm-5.3"
+}

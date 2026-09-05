@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "және адам жандарынан — он алты мың;",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "және жаны"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:09.637182434Z",
+  "model": "glm-5.3"
+}

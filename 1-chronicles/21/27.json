@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Және Яхве періштеге айтты, және ⟨ол⟩ өз қылышын қынына қайта салды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "періштеге"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "қайта салды"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "өз қылышын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ішіне"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "қынына"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:32.742228328Z",
+  "model": "glm-5.3"
+}

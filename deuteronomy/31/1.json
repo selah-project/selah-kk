@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Барды Моше (Мұса) және ⟨את⟩ осы сөздерді бүкіл Исраилге айтты.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мұса)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздерді"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздерді"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:03.393743797Z",
+  "model": "glm-5.3"
+}

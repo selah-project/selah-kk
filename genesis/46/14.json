@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 46,
+  "translation": "Және Звулунның ұлдары: Серед, Элон және Яхлеэл.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Звулунның"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "Серед"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "және Элон"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "және Яхлеэл"
+    }
+  ],
+  "timestamp": "2026-09-05T01:34:37.612423543Z",
+  "model": "glm-5.3"
+}

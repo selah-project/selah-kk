@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Патша ⟨жоқ⟩ көп әскермен құтқарылатын; батыр көп күшпен құтылмайтын.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "құтқарылатын"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "әскермен"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "құтылмайтын"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күшпен"
+    }
+  ],
+  "timestamp": "2026-09-05T05:57:52.241995152Z",
+  "model": "glm-5.3"
+}

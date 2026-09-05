@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Және Арпахшад отыз бес жыл өмір сүрді және ⟨את⟩ Шелахты туғызды.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "және Арпахшад"
+    },
+    {
+      "surface": "חי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "және отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "және туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелахты"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелах"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:16.111632082Z",
+  "model": "glm-5.3"
+}

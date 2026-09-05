@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Жолдарымнан ауытқытты, мені жыртты, мені қираған етті.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "жолдарымнан"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ауытқытты"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "мені жыртты"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "мені қойды"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "қираған күйде"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:41.629261363Z",
+  "model": "glm-5.3"
+}

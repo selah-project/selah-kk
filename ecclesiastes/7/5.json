@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Хакімнің сөгісін тыңдаған жақсы, ақмақтардың әнін тыңдаған адамнан.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "тыңдаған"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "сөгісін"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хакімнің"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "адамнан"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңдаған"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "әнін"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ақмақтардың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:17.688573742Z",
+  "model": "glm-5.3"
+}

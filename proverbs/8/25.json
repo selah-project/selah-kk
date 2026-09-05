@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Таулар орнатылмастан бұрын, төбелердің алдында мен туылдым.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "бұрын"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "таулар"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "орнатылмастан"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "төбелердің"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "туылдым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:05.155405872Z",
+  "model": "glm-5.3"
+}

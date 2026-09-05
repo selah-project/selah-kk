@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Оны Яхве Элохиміңнің алдында жыл сайын Яхве таңдаған жерде сен және үйің жейсің.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохиміңнің"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "оны жейсің"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "саналы"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "таңдаған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "және үйің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:41:13.018702054Z",
+  "model": "glm-5.3"
+}

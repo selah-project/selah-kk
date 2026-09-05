@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Ал мен айттым тыныштығымда: «Мен мәңгі тайғаным жоқ».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал мен"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "тыныштығымда"
+    },
+    {
+      "surface": "בל",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "тайғаным"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:34.006643178Z",
+  "model": "glm-5.3"
+}

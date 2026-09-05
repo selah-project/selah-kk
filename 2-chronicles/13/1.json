@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Яровам патшаның ⟨он⟩ сегізінші жылында Абия Яһуда үстіне патшалық етті.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "жылында"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патшалық етті"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абия"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуда"
+    }
+  ],
+  "timestamp": "2026-09-05T08:30:07.280126462Z",
+  "model": "glm-5.3"
+}

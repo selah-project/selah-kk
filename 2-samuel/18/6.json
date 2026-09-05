@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Халық далаға Исраилді қарсы алуға шықты, соғыс Эфрайим орманында болды.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalağa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "қарсы алуға"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилді"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "орманында"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    }
+  ],
+  "timestamp": "2026-09-05T03:44:05.490103062Z",
+  "model": "glm-5.3"
+}

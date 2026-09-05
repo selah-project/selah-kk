@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Бер, ұлым, жүрегіңді маған, және көздерің жолдарымды ұнатсын.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегіңді"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "және көздерің"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолдарымды"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "ұнатсын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:46.083613078Z",
+  "model": "glm-5.3"
+}

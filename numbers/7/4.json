@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Сонда Яхве Мошеге сөйлеп былай деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "сөйлеп деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:50.883943578Z",
+  "model": "glm-5.3"
+}

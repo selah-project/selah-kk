@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Халық Мошеге (Мұса) қарай айқайлады, Моше Яхвеге қарай жалбарынды, және от басылды.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "айқайлады"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "жалбарынды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "басылды"
+    },
+    {
+      "surface": "האש",
+      "gloss": "от"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:31.568736400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Нецах ұландары, Хатифа ұландары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұландары"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Нецах"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұландары"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Хатифа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:11.168567983Z",
+  "model": "glm-5.3"
+}

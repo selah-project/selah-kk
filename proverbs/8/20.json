@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Әділеттілік жолымен жүремін, құқы жолдарының ортасында.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "жолымен"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "әділеттілік"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "жүремін"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортасында"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "жолдарының"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "құқы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:35.067217606Z",
+  "model": "glm-5.3"
+}

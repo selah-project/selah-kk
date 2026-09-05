@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Еріншек қолын ыдысқа жасырады, оны аузына қайтаруға талып кетеді.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "жасырады"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "еріншек"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "қолын"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ыдысқа"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "талып кетеді"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "қайтаруға"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "аузына"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:14.396359812Z",
+  "model": "glm-5.3"
+}

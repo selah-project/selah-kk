@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Бар нәрсе: «Мынаны көр, бұл жаңа!» деп айтылады — бірақ ол әлдеқашан бұрынғы ғасырларда, бізден бұрын болған.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нәрсе"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "деп айтылады"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көр"
+    },
+    {
+      "surface": "זה",
+      "gloss": "мынаны"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "әлдеқашан"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "ғасырларда"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "бізден бұрын"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:48.566080225Z",
+  "model": "glm-5.3"
+}

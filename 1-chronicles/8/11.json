@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Хушімнен де ⟨את⟩ Абитубты және ⟨את⟩ Элпаалды туғызды.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Хушімнен де"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Абитуб"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Абитуб"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Элпаал"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаал"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:03.895423565Z",
+  "model": "glm-5.3"
+}

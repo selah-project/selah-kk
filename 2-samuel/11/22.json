@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Елші кетті, келді әрі Яһуу Дәуітке Яһуу жібергеннің бәрін ⟨את⟩ жеткізді.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "кетті"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "елші"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "жеткізді"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Дәуітке"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бәрін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ның"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "жіберген"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Яһуу"
+    }
+  ],
+  "timestamp": "2026-09-05T03:40:23.892193388Z",
+  "model": "glm-5.3"
+}

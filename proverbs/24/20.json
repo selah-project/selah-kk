@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Өйткені жаманның соңы болмайды, залымдардың шамы өшеді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "соңы"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "жаманның"
+    },
+    {
+      "surface": "נר",
+      "gloss": "шам"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "залымдардың"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "өшеді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:49.801365368Z",
+  "model": "glm-5.3"
+}

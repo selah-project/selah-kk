@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Тұтастығымен жүрген кедей — ерні қисық және ⟨ол⟩ наданнан жақсы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "רש",
+      "gloss": "кедей"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "жүрген"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "тұтастығымен"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "қисық"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ерні"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "және ⟨ол⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "надан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:43:07.455912217Z",
+  "model": "glm-5.3"
+}

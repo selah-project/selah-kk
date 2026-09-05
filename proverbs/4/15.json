@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Одан аулақ бол, одан өтпе; одан айнып, алыстап өт.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "одан аулақ бол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өтпе"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "одан өтпе (тосу жоқ — бұйрық: өтпе)"
+    },
+    {
+      "surface": "בו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "айнып"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "одан (алыстап)"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "өт"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:53.300577188Z",
+  "model": "glm-5.3"
+}

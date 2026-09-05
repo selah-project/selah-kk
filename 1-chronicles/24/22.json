@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Ицһарилерден: Шеломот; Шеломоттың ұлдарынан — Яҳат.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "Ицһарилерден"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломот"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломоттың"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яҳат"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:25.723916443Z",
+  "model": "glm-5.3"
+}

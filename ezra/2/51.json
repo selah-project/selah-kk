@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Бақбуқ балалары, Хақуфа балалары, Харһур балалары,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бақбуқ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Хақуфа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Харһур"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:54.041045142Z",
+  "model": "glm-5.3"
+}

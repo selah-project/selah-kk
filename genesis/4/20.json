@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ада ⟨את⟩ Ябалды туды; ол шатырда тұратындар мен мал баққандардың әкесі болды.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ябалды"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Ябал"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "тұратындардың"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатырда"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "және мал"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:54.555785589Z",
+  "model": "glm-5.3"
+}

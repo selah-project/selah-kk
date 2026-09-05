@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "және Аһия, Ханан, Анан,",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "және Аһия"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "Анан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:08:50.997996144Z",
+  "model": "glm-5.3"
+}

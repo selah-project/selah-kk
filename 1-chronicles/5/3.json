@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Реувеннің, Исраэльдің тұңғышының ұлдары: Ханох пен Паллу, Хецрон пен Карми.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "тұңғышы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраэль"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "және Паллу"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "және Карми"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:45.815613596Z",
+  "model": "glm-5.3"
+}

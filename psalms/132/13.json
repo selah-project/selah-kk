@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 132,
+  "translation": "Себебі Яхве Цийонды таңдады, оны өзіне мекен етіп қалады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "таңдады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийонды"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "қалады"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "мекен етіп"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзіне"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:50.603759542Z",
+  "model": "glm-5.3"
+}

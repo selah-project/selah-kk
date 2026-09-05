@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Бигвайдың ұлдары — екі мың елу ⟨және⟩ алтау.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигвайдың"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "екі мың"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "және алтау"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:53.508114411Z",
+  "model": "glm-5.3"
+}

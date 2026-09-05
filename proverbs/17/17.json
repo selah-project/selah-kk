@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Барлық уақытта дос ⟨сүйеді⟩, ал бауыр қиындық үшін туылады.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақытта"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйеді"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "дос"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ал бауыр"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "қиындық үшін"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "туылады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:23.556845910Z",
+  "model": "glm-5.3"
+}

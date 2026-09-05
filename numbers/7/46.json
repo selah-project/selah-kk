@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бір ешкінің текесі күнә құрбандығына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "текесі"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкінің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбандығына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:48.724790328Z",
+  "model": "glm-5.3"
+}

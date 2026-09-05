@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Бірінші күні — қасиетті жиналыс; ешбір құлдық жұмысын жасамаңдар.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "жиналыс"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қасиетті"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "жұмыс"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "құлдық еңбек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "жасамаңдар"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:19.624873983Z",
+  "model": "glm-5.3"
+}

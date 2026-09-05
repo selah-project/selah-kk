@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ол маған: Адам баласы, бар, Исраил үйіне кір, және оларға Менің сөздеріммен сөйле, — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "בן",
+      "gloss": "баласы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кір"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "сөйле"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "сөздеріммен"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T05:10:31.145464982Z",
+  "model": "glm-5.3"
+}

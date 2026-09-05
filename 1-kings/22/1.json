@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Олар үш жыл отырды — Арам мен Исраилдің арасында соғыс жоқ еді.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "отырды"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "және арасында"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T04:05:13.993763365Z",
+  "model": "glm-5.3"
+}

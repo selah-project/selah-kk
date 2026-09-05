@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ярһмеелге басқа әйел де болды, аты Атараһ еді; ол — Онамның анасы.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "басқа"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "Ярһмеелге"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "аты"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Атараһ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אם",
+      "gloss": "анасы"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онамның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:49.282851678Z",
+  "model": "glm-5.3"
+}

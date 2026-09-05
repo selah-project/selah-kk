@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 114,
+  "translation": "Теңіз ⟨оны⟩ көрді де қашты, Ярден артқа бұрылды.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "де қашты"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "бұрылды"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "артқа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:26.141707317Z",
+  "model": "glm-5.3"
+}

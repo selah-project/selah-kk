@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Һатах патша қақпасының алдындағы қала алаңына Мордехайға шықты.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Һатах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехайға"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жеріне"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "алаңына"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қаланың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "שער",
+      "gloss": "қақпасының"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-09-05T07:49:29.114744516Z",
+  "model": "glm-5.3"
+}

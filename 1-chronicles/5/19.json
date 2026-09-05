@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Олар һагрилермен — Йетурмен, Нафишпен және Нодавбен — соғыс жүргізді.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-мен"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "һагрилер"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "Нодав"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:55.059241974Z",
+  "model": "glm-5.3"
+}

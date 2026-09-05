@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Себебі жамандық ісіне үкім тез жасылмайды; сондықтан адам баласының жүрегі олардың ішінде жамандық жасауға толы.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "אין",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "жасылмайды"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "үкім"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ісіне"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "тез"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "сондықтан"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толы"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "בני",
+      "gloss": "баласының"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "олардың ішінде"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жасауға"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандық"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:43.220379569Z",
+  "model": "glm-5.3"
+}

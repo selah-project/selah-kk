@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Уақыт — Яхве ⟨үшін⟩ істейтін уақыт; Тораңды бұзды ⟨олар⟩.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "істеуге"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "бұзды"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тораңды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:44.268313104Z",
+  "model": "glm-5.3"
+}

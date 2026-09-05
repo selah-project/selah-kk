@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Яхве Біләмнің аузына сөз қойды да айтты: «Балаққа қайта орал, былай деп айтарсың».",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "аузына"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Біләмнің"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "қайта орал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қа"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балаққа"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "айтарсың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:26:10.719878028Z",
+  "model": "glm-5.3"
+}

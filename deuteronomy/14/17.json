@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "және құтан, және ⟨את⟩ рахима құсын, және ⟨את⟩ су құзғынын",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "және құтан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "рахима құсын"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "рахима құсын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "су құзғынын"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "су құзғынын"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:28.677877295Z",
+  "model": "glm-5.3"
+}

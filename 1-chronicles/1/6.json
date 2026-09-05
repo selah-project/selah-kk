@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Және Гомердің ұлдары: Ашкеназ, Дифат және Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомердің"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "және Дифат"
+    },
+    {
+      "surface": "ותוגרממה",
+      "gloss": "және Тогарма"
+    }
+  ],
+  "timestamp": "2026-09-05T08:45:29.187869253Z",
+  "model": "glm-5.3"
+}

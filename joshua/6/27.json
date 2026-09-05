@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Яхве Ыйаһуамен ⟨את⟩ еді, және оның аты бүкіл жерде естілді.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ыйаһуа"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Ыйаһуа"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "аты"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерде"
+    }
+  ],
+  "timestamp": "2026-09-05T02:56:33.341466924Z",
+  "model": "glm-5.3"
+}

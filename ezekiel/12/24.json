@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Себебі Исраил үйінің ішінде енді ешбір құр көрініс және жұмсақ болжам болмайды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болмайды"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ешбір"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "көрініс"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "құр"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "және болжам"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "жұмсақ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ішінде"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінің"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T05:12:10.510042132Z",
+  "model": "glm-5.3"
+}

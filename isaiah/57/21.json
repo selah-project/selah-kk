@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 57,
+  "translation": "«Шалом жоқ, — деді Элохимім, — зұлымдарға».",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалом"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимім"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "зұлымдарға"
+    }
+  ],
+  "timestamp": "2026-09-05T04:38:02.212275525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "И Хирам ⟨патшаға⟩ жүз жиырма талант алтын жіберді.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И ... жіберді"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "патшаға"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-09-05T03:56:09.327049114Z",
+  "model": "glm-5.3"
+}

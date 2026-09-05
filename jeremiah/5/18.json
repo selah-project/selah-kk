@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Алайда сол күндерде де — Яхвенің сөзі — сендерге ⟨את⟩ түгел жою жасамаймын.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "және де"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "күндерде"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "жасамаймын"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ сендерге"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "түгел жою"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:15.896763052Z",
+  "model": "glm-5.3"
+}

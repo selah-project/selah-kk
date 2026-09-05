@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Ал Аһарон Хор тауында өлгенінде жүз ⟨ және⟩ жиырма үш жаста еді.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "Ал Аһарон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "жасында"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "өлгенінде"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тауында"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Хор"
+    }
+  ],
+  "timestamp": "2026-09-05T02:31:22.607354851Z",
+  "model": "glm-5.3"
+}

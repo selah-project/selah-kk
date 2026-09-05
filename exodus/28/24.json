@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Және ⟨את⟩ екі алтын жіпті екі сақинаға, хошен шеттеріне қой.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "және қой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "екі жіпті"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "жіпті"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "екі"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "сақинаға"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "шеттеріне"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:50:55.690034784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Бұл бес патша қашты да, Македадағы үңгірде жасырынды.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "қашты"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "бес"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "патша"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "жасырынды"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "үңгірде"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "Македадағы"
+    }
+  ],
+  "timestamp": "2026-09-05T02:58:25.132735829Z",
+  "model": "glm-5.3"
+}

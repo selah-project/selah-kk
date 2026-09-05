@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Коһен ⟨את⟩ саусағын қанға шалап, қаннан Яхвенің алдына, қасиетті перденің бетіне ⟨את⟩ жеті рет себеді.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "шалайды"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "саусағын"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "саусағын"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "қанға"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "себеді"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "қаннан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "рет"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "беті"
+    },
+    {
+      "surface": "פני",
+      "gloss": "беті"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "перденің"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "қасиетті"
+    }
+  ],
+  "timestamp": "2026-09-05T02:00:22.385399982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Даниел Кореш патшаның бірінші жылына дейін ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "жылына"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Кореш"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    }
+  ],
+  "timestamp": "2026-09-05T07:50:03.405717924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Бауырларына қайтып оралды да айтты: «Бала жоқ — ал мен қайда барамын?»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "қайтып оралды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бауырларына"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "бала"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен болсам"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "қайда"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בא",
+      "gloss": "барамын"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:29.637069147Z",
+  "model": "glm-5.3"
+}

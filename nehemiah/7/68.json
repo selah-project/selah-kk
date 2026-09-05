@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Түйелер: төрт жүз отыз бес; есектер: алты мың жеті жүз жиырма.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "түйелер"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "бес"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "есектер"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:37.057173358Z",
+  "model": "glm-5.3"
+}

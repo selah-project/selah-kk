@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Он бір күндік жол Хоребтен Сеир тауының жолымен Қадеш-Барнеаға дейін ⟨бар⟩.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "бір"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күндік"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Хоребтен"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолымен"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауының"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Барнеа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:49.849029722Z",
+  "model": "glm-5.3"
+}

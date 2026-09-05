@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Яхве Элохиміңдерді сынаушы болмаңдар, Массада сынағандарыңдай.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "сынаушы болмаңдар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохиміңдерді"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дей"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "сынағандарыңдай"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Массада"
+    }
+  ],
+  "timestamp": "2026-09-05T02:36:48.684188312Z",
+  "model": "glm-5.3"
+}

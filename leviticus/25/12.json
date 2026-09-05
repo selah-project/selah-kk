@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Себебі Йовель ол — қасиетті болады сендерге; өнімін ⟨את⟩ егістіктен жейсіңдер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Йовель"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қасиетті"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "егістіктен"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жейсіңдер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өнімін"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "өнімін"
+    }
+  ],
+  "timestamp": "2026-09-05T07:21:14.261098766Z",
+  "model": "glm-5.3"
+}

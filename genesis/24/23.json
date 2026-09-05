@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Ол айтты: «Сен кімнің қызысың? Маған айтшы. Сенің әкеңнің үйінде бізге түнелуге орын бар ма?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кімнің"
+    },
+    {
+      "surface": "את",
+      "gloss": "сен"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "айтшы"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-шы"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "היש",
+      "gloss": "бар ма"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінде"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "сенің әкеңнің"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "орын"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "түнелуге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:23:41.536116375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және екінші айдың жиырма жетінші күнінде жер толық құрғады.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "және айда"
+    },
+    {
+      "surface": "השני",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "және жиырма"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдың"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "құрғады"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:15.925013195Z",
+  "model": "glm-5.3"
+}

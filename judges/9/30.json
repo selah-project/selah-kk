@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Солай Зебул, қаланың әмірі, Эбед ұлы Гаалдың ⟨את⟩ сөздерін естіді, әрі ашуы қызды.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "естіді"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Зебул"
+    },
+    {
+      "surface": "שר",
+      "gloss": "әмірі"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "қаланың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздерін"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздерін"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Гаалдың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Эбед"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "қызды"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ашуы"
+    }
+  ],
+  "timestamp": "2026-09-05T03:11:20.988290231Z",
+  "model": "glm-5.3"
+}

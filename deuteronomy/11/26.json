@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Қараңыз, мен бүгін алдарыңызға берік пен қарғыс қойып тұрмын.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Қараңыз"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "қойып тұрмын"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "алдарыңызға"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгін"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "берік"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "және қарғыс"
+    }
+  ],
+  "timestamp": "2026-09-05T02:39:22.626758360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бұл бойың пальмаға ұқсайды, кеудең жүзім шоқтарына ұқсас.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "бойың"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "ұқсайды"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "пальмаға"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "және кеудең"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "жүзім шоқтарына"
+    }
+  ],
+  "timestamp": "2026-09-05T06:53:01.960541673Z",
+  "model": "glm-5.3"
+}

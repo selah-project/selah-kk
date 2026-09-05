@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Шаммайдың ⟨ұлы⟩ Маон болды, ал Маон Бейт-Цурдың әкесі ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "және ⟨ұлы⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммайдың"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ал Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цурдың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:41.496763418Z",
+  "model": "glm-5.3"
+}

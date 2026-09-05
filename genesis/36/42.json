@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "көсем Қеназ, көсем Теман, көсем Мибцар.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "көсем"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Қеназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "көсем"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "көсем"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мибцар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:55.710589955Z",
+  "model": "glm-5.3"
+}

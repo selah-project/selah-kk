@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Йеһошафат Исраил патшасына айтты: Бүгін Яхвенің ⟨את⟩ сөзін сұрап көрші.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеһошафат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…на"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "сұрап көр"
+    },
+    {
+      "surface": "נא",
+      "gloss": "…ші"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "бүгін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзін"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T04:05:20.853766371Z",
+  "model": "glm-5.3"
+}

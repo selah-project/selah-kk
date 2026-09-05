@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Алтыншы күні Гад ұлдарының басшысы — Деуелдің ұлы Эльясап.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "алтыншы"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "басшысы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясап"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуел"
+    }
+  ],
+  "timestamp": "2026-09-05T07:22:31.550752153Z",
+  "model": "glm-5.3"
+}

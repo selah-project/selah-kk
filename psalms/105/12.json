@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "Олар санаулы адам болғанда, аз ғана әрі онда жат болғанда.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "болғанда"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "санаулы"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "аз ғана"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "және жат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:20.206155362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Өйткені байлық мәңгіге ⟨қалмайды⟩, және тәж — ұрпақтан ұрпаққа ⟨шыдамайды⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгіге"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "байлық"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "және егер"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "тәж"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ұрпақтан"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ұрпаққа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:43.546507781Z",
+  "model": "glm-5.3"
+}

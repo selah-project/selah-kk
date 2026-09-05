@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Және сол жердің алтыны жақсы; онда бдолах және шоһам тасы бар.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "және алтыны"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бдолах"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "және тасы"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шоһам"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:27.638564841Z",
+  "model": "glm-5.3"
+}

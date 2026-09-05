@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Және екінші қатар — нофех, саппир және яһалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "және қатар"
+    },
+    {
+      "surface": "השני",
+      "gloss": "екінші"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "және яһалом"
+    }
+  ],
+  "timestamp": "2026-09-05T01:56:10.983954829Z",
+  "model": "glm-5.3"
+}

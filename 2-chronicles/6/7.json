@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Әкем Давидтің көңілінде Яхве, Исраилдің Элохимінің Есімі үшін үй салу болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрегінде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидтің"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкемнің"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "салу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Есімі үшін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимінің"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:36.282474535Z",
+  "model": "glm-5.3"
+}

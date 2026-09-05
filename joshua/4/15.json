@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және Яхве Йеһошуаға былай деп айтты:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ге"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:54:35.698076558Z",
+  "model": "glm-5.3"
+}

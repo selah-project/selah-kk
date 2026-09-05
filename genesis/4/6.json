@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Яхве Қаинға: «Не үшін ашуландың, не үшін жүзің түсті?» — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ға"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қаин"
+    },
+    {
+      "surface": "למה",
+      "gloss": "не үшін"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ашуландың"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "және не үшін"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "түсті"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:29.605007833Z",
+  "model": "glm-5.3"
+}

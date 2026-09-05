@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Есау Кенаан қыздарының әкесі Ицхактың көзінде жаман екенін көрді.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есау"
+    },
+    {
+      "surface": "כי",
+      "gloss": "мынаны"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "қыздарының"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаанның"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхактың"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесінің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:59.472142970Z",
+  "model": "glm-5.3"
+}

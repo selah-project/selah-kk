@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Дауымды айттың, Адонай, жаныма болған дауларды; өмірімді құтқардың.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "дауды айттың"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "дауларым"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымның"
+    },
+    {
+      "surface": "гאלת",
+      "gloss": "құтқардың"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "өмірімді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:07.109836260Z",
+  "model": "glm-5.3"
+}

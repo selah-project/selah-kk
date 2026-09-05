@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Оның есті ізі жерден жоғалды, және сырттың бетінде оның аты жоқ.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "есті ізі"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "жоғалды"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оның"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетінде"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "сырттың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:41:24.629548238Z",
+  "model": "glm-5.3"
+}

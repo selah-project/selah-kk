@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Естідің олардың қорлығын, уа Яхве, олардың ойларының бәрін менің үстіме.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "естідің"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "олардың қорлығын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "олардың ойларының"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "менің үстіме"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:59.753869067Z",
+  "model": "glm-5.3"
+}

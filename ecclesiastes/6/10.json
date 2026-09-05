@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Болған нәрсенің аты әуелден аталған және оның адам екені белгілі; одан күштімен дауласа алмайды.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "әуелден"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "аталған"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "аты"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "және белгілі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "қабілетті"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "дауласуға"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-мен"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "одан күшті"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:57.651529704Z",
+  "model": "glm-5.3"
+}

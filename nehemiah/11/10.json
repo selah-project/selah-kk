@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Коһендерден: Йедая, Йоярив ұлы, Яхин.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-ден"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коһендер"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярив"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Яхин"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:10.368238598Z",
+  "model": "glm-5.3"
+}

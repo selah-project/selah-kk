@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Сонда Исраил ⟨את⟩ осы әнді ән салды: «Құдық, көтеріл, оған жауап беріңдер!»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Сонда"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ән салды"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әнді"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "әнді"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "көтеріл"
+    },
+    {
+      "surface": "באר",
+      "gloss": "құдық"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "жауап беріңдер"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:23:55.278193346Z",
+  "model": "glm-5.3"
+}

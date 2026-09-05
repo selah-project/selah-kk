@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 102,
+  "translation": "Ал Сен — ⟨сол⟩ Өзің, және жылдарың таусылмайды.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ал Сен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨сол⟩ Өзің"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "және жылдарың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "таусылмайды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:14:47.785828135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Оған рұқсат берме, оған құлақ аспа; көзің оған жаны ашымасын, аяма, оны жасырма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "рұқсат берме"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "құлақ ас"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "жаны ашы"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "көзің"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "аяма"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "жасыр"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:31.573669844Z",
+  "model": "glm-5.3"
+}

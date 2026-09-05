@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Зерахияның ұлы, Узидың ұлы, Буккидің ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахияның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Узидың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буккидің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:03:55.835694937Z",
+  "model": "glm-5.3"
+}

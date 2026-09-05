@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қара! мынаны таптым, — деді Қоһелет, — бірін біріне қосып, есеп-қисынды табу үшін.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Қара!"
+    },
+    {
+      "surface": "זה",
+      "gloss": "мынаны"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "таптым"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "деді"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Қоһелет"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бірін"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "біріне қосып"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tabу үшін"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "есеп-қисынды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:31.567034068Z",
+  "model": "glm-5.3"
+}

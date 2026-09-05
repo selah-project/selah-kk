@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Өлтірме.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "өлтірме"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:43.945192970Z",
+  "model": "glm-5.3"
+}

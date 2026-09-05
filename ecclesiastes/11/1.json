@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Наныңды су бетіне жібер, өйткені күндердің көптігінде оны табасың.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "жібер"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "наныңды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетіне"
+    },
+    {
+      "surface": "המים",
+      "gloss": "судың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көптігінде"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндердің"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "оны табасың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:35.043319273Z",
+  "model": "glm-5.3"
+}

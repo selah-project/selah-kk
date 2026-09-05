@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "«Тұр, өйткені іс саған тиесілі, біз сеніменбіз; бекем бол да істе!»",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "іс"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "біз"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сеніменбіз"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "бекем бол"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "істе"
+    }
+  ],
+  "timestamp": "2026-09-05T08:04:23.937524210Z",
+  "model": "glm-5.3"
+}

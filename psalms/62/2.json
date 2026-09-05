@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 62,
+  "translation": "Тек Элохимге қарай жаным үндемей тұр — Одан ⟨болып⟩ менің құтқарылуым.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "тек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "үндемей"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Одан"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "құтқарылуым"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:47.841364148Z",
+  "model": "glm-5.3"
+}

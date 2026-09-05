@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Маһлидікі — Элазар; оның ұлдары болған жоқ.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "Маһлидікі"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оның"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдары"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.682097967Z",
+  "model": "glm-5.3"
+}

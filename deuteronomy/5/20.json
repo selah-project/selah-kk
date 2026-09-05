@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және жақыныңа қарсы жалған куәлік берме.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "жауап берме"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "жақыныңа қарсы"
+    },
+    {
+      "surface": "עד",
+      "gloss": "куәлік"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "жалған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:43.945634892Z",
+  "model": "glm-5.3"
+}

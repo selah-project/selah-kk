@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ол әкесіне келді де: «Әкем!» — деді. Ол: «Мен осындамын; сен кімсің, балам?» — деді.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "әкесіне"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесіне"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "«Әкем!»"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "осындамын"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балам"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:53.730547645Z",
+  "model": "glm-5.3"
+}

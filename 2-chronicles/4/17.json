@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ярden (Иордан) жазығында патша оларды құйды — balшық жерде, Суккот пен Цередата арасында.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "жазығында"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден (Иордан)"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "оларды құйды"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "balшық"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Суккот"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "пен"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Цередата"
+    }
+  ],
+  "timestamp": "2026-09-05T09:02:05.508054163Z",
+  "model": "glm-5.3"
+}

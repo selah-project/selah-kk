@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Көзіңе ұйқы берме, кірпіңе ұйқы шалып жібермесін",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "берме"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бер"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ұйқы"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "көзіңе"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ұйқы шалып жібермесін"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "кірпіңе"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:24.973867760Z",
+  "model": "glm-5.3"
+}

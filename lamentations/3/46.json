@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Аузын айғайлап ашты біздің барлық жауларымыз бізге қарсы.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ашты (аузын)"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бізге қарсы"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "аузын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "жауларымыз"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:38.833226025Z",
+  "model": "glm-5.3"
+}

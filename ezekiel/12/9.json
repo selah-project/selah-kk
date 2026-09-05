@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Адам баласы, саған айтпады ма — үйі, Исраилдің үйі, көтеріліс үйі — не істеп жүрсің?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "баласы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адам"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ма"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "айтпады"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "көтеріліс"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сенсің"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істеп жүрсің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:11:35.935241477Z",
+  "model": "glm-5.3"
+}

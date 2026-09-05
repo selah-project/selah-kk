@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 39,
+  "translation": "Және үшінші қатар — лешем, шево және ахлама.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "және қатар"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үшінші"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лешем"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "шево"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "және ахлама"
+    }
+  ],
+  "timestamp": "2026-09-05T01:56:10.984088307Z",
+  "model": "glm-5.3"
+}

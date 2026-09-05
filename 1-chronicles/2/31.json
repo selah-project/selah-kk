@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Аппайымның ұлдары — Иши; Ишинің ұлдары — Шешан; Шешанның ұлдары — Аһлай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Аппайымның"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Иши"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Ишинің"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешанның"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Аһлай"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:53.701636863Z",
+  "model": "glm-5.3"
+}

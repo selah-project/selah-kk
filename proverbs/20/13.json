@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Ұйқыны сүйме, кедей болудан қорқ; көзіңді аш, наннан той.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "сүйме"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "сүй"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ұйқыны"
+    },
+    {
+      "surface": "פן",
+      "gloss": "кетіп қалма"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "кедей болудан"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "аш"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "көзіңді"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "той"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "наннан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:41.948720637Z",
+  "model": "glm-5.3"
+}

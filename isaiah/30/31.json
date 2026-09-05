@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Өйткені Яхвенің даусынан Ашшур құлайды — таяқпен соғады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "даусынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "құлайды"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяқпен"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "соғады"
+    }
+  ],
+  "timestamp": "2026-09-05T04:29:04.096294418Z",
+  "model": "glm-5.3"
+}

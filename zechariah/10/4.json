@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Одан — бұрыш тас, одан — шеге, одан — соғыс садағы, одан бірге әр басқыншы шығады.",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "бұрыш тас"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "шеге"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "садақ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "шығады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "басқыншы"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    }
+  ],
+  "timestamp": "2026-09-05T05:49:16.324129592Z",
+  "model": "glm-5.3"
+}

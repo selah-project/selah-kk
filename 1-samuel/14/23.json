@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Сөйтіп Яхве Исраелді сол күні құтқарды, ал соғыс Бет-Авеннен өтті.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "құтқарды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Исраелді"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраел"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ал соғыс"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "өтті"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бет-Авеннен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авен"
+    }
+  ],
+  "timestamp": "2026-09-05T03:26:14.781690128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Жолды тастағанға түзету ауыр, сөзге түзетуді жек көрген өледі.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "түзету"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ауыр"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "тастағанға"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "жолды"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "жек көрген"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "сөзге түзетуді"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өледі"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:46.415029054Z",
+  "model": "glm-5.3"
+}

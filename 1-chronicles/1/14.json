@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Және ⟨את⟩ йебусты, және ⟨את⟩ эмориды, және ⟨את⟩ гиргашиді.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "йебусты"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "йебусты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "эмориды"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "эмориды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "гиргашиді"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "гиргашиді"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:20.681723940Z",
+  "model": "glm-5.3"
+}

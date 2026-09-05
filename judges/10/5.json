@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Жаир қайтыс болды және Қамонда жерленді.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "қайтыс болды"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Жаир"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "жерленді"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "Қамонда"
+    }
+  ],
+  "timestamp": "2026-09-05T03:12:48.107048605Z",
+  "model": "glm-5.3"
+}

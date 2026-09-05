@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Бұл да һәм хәкімдерге тиесілі: сотта бетімен танысу жақсылық емес.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "һәм хәкімдерге"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "тану"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "бет"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "сотта"
+    },
+    {
+      "surface": "בל",
+      "gloss": "емес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:23.974023828Z",
+  "model": "glm-5.3"
+}

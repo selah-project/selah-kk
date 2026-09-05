@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Яхве патшалық етеді мәңгіге және әрқашанға.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "патшалық етеді"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "мәңгіге"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "және әрқашанға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:44:08.942722127Z",
+  "model": "glm-5.3"
+}

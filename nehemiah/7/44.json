@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Өлеңшілер: Асаптың ұлдары — жүз қырық сегіз.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "Өлеңшілер"
+    },
+    {
+      "surface": "бני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асап"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:25.067798380Z",
+  "model": "glm-5.3"
+}

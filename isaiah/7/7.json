@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Адонай Яхве былай деді: «Ол орнықпайды және болмайды».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "орнықпайды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болмайды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:31:10.952125829Z",
+  "model": "glm-5.3"
+}

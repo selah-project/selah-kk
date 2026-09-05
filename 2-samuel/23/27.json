@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Авиэзер һа-Анатоты, Мебуннай һа-Һушаты,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиэзер"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "һа-Анатоты"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Мебуннай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "һа-Һушаты"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:16.532093782Z",
+  "model": "glm-5.3"
+}

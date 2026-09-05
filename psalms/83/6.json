@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 83,
+  "translation": "Себебі олар жүректерін бірге қосып кеңесті, Яхвеге қарсы одақ қияды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "кеңесті"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенің қарсыңа"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "одақ"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "қияды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:26.130238720Z",
+  "model": "glm-5.3"
+}

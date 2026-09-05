@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Сол кезде мен сендерге ⟨את⟩ жасауға тиіс болған бүкіл істерді бұйырдым.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "бұйырдым"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "сендерге ⟨את⟩"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "сол кезде"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүкіл істерді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "істерді"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсыны"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "жасауға тиіс"
+    }
+  ],
+  "timestamp": "2026-09-05T07:24:06.081001322Z",
+  "model": "glm-5.3"
+}

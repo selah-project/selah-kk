@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Себебі ⟨Ол⟩ жүрегінен қинамайды да, адам балаларын қайғыртпайды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "қинамайды"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "жүрегінен"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "және қайғыртады"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балаларын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    }
+  ],
+  "timestamp": "2026-09-05T07:45:17.746318005Z",
+  "model": "glm-5.3"
+}

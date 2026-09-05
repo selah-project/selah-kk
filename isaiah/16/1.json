@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Жер иесінің қошқарын жіберіңдер, Селадан шөлге, Цийон қызының тауына.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "жіберіңдер"
+    },
+    {
+      "surface": "כר",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "משל",
+      "gloss": "билеушінің"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Селадан"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "шөлге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызының"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон"
+    }
+  ],
+  "timestamp": "2026-09-05T04:25:05.288268526Z",
+  "model": "glm-5.3"
+}

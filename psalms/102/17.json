@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 102,
+  "translation": "Себебі Яхве Ционды құрды, өз ұлықтығында көрінді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "құрды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ционды"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "көрінді"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "өз ұлықтығында"
+    }
+  ],
+  "timestamp": "2026-09-05T06:14:09.261824616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Яхве айтты: «Яһуда шығады; мына, Мен ⟨את⟩ жерді оның қолына бердім».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуда"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "шығады"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "бердім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерді"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерді"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "оның қолына"
+    }
+  ],
+  "timestamp": "2026-09-05T03:07:07.184705675Z",
+  "model": "glm-5.3"
+}

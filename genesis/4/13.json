@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Қаин Яхвеге: «Менің жазам көтеруден де үлкен», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қаин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(-ге)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "жазам"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "көтеруден"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:05.804728903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Ұлы ұлы не үлкен қызы ұл бала туып, есімін Моав қойды — ол бүгінге дейін моавтың әкесі.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "туып"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "үлкен қызы"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл бала"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "есімін"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "моавтың"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгінге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:29.183372142Z",
+  "model": "glm-5.3"
+}

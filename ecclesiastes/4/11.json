@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сондай-ақ егер екеуі жатса, оларға жылылық болады; ал жалғызға қайдан жылылық келсін?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "сондай-ақ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "жатса"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екеуі"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "жылылық болады"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ал жалғызға"
+    },
+    {
+      "surface": "איך",
+      "gloss": "қайдан"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "жылылық келсін"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:03.509837806Z",
+  "model": "glm-5.3"
+}

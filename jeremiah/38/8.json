@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Эвед-Мелек патшаның үйінен шығып, патшаға сөйлеп мынаны деді:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "құл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйінен"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:01:00.949066870Z",
+  "model": "glm-5.3"
+}

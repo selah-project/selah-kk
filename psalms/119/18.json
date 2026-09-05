@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Көзімді аш, Тораңнан ғажап нәрселерді көрейін.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "аш"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзімді"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "көрейін"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ғажап нәрселерді"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Тораңнан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:18:34.927857261Z",
+  "model": "glm-5.3"
+}

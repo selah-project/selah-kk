@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ефраим тайпасының санақтағылары қырық мың бес жүз ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "санақтағылары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "тайпасының"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:30.353333140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Тахат — оның ұлы, Уриел — оның ұлы, Узия — оның ұлы, және Шаул — оның ұлы.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Тахат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Уриел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Узия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "және Шаул"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:48.273429232Z",
+  "model": "glm-5.3"
+}

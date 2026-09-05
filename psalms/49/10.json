@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 49,
+  "translation": "Және ⟨ол⟩ тағы мәңгі өмір сүрсін, шұңқырды көрмесін.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "және өмір сүрсін"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көрер"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "шұңқырды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:52.127913204Z",
+  "model": "glm-5.3"
+}

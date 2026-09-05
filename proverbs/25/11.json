@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Күміс безендірулердегі алтын алмалар — сөз уақыты бойынша айтылған.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "алмалар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "безендірулердегі"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күміс"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтылған"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "уақыты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:25.142873684Z",
+  "model": "glm-5.3"
+}

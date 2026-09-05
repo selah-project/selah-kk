@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Ифтаһ, Ашна және Нецив.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "және Ифтаһ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "және Ашна"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "және Нецив"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:47.840237670Z",
+  "model": "glm-5.3"
+}

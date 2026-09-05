@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Яхвенің шамы — адамның демі, іштің бүкіл ішкі бөлмелерін іздейді.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "шамы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "демі"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "іздейді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ішкі бөлмелерін"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "іштің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:20.701239700Z",
+  "model": "glm-5.3"
+}

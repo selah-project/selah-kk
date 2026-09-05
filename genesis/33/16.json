@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Сол күні Эсав өз жолымен Сеирге қайтты.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "қайтты"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "өз жолымен"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Сеирге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:28:11.679230308Z",
+  "model": "glm-5.3"
+}

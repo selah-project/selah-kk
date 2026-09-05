@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Қалай құлады батырлар және құрдым соғыс құралдары!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "құлады"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "батырлар"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "және құрдым"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "құралдары"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "соғыс"
+    }
+  ],
+  "timestamp": "2026-09-05T03:35:25.813298143Z",
+  "model": "glm-5.3"
+}

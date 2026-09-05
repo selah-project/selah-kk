@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Элохимды қаралама, және халқыңның көсемін қарғама.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "қаралама"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "және көсемін"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "халқыңның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "қарғама"
+    }
+  ],
+  "timestamp": "2026-09-05T01:46:52.223825859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "және Ногаһ, және Нефег, және Яфиа.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "және Ногаһ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "және Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "және Яфиа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:37.946507345Z",
+  "model": "glm-5.3"
+}

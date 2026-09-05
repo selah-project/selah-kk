@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Өйткені кім барлық тірілердің қатарына таңдалса — ⟨оның⟩ үміті бар: өйткені тірі ит — өлі арыстаннан жақсырақ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Өйткені"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "таңдалса"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қатарына"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тірілердің"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "үміт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "итке"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсырақ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "— қарағанда"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "арыстаннан"
+    },
+    {
+      "surface": "המת",
+      "gloss": "өлі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:43:58.435452223Z",
+  "model": "glm-5.3"
+}

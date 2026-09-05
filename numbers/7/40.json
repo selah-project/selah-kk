@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір ешкі еркегі — күнә құрбанына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ешкі еркегі"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкінің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:49.433111295Z",
+  "model": "glm-5.3"
+}

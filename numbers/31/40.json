@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Және адам жанынан он алты мың, олардың Яхвеге тиесілі салығы отыз екі жан",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "он алты"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "олардың салығы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз екі"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:05.625667741Z",
+  "model": "glm-5.3"
+}

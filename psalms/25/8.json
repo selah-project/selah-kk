@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Игі және тура ⟨екен⟩ Яхве, сондықтан күнәһкарларға жолда ⟨үйретеді⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Игі"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "және тура"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "сол"
+    },
+    {
+      "surface": "כן",
+      "gloss": "себептен"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "үйретеді"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "күнәһкарларға"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолда"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:02.427063382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Өз саудасы жақсы екенін татты; түнде оның шамы өшпейді.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "татты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "екенін"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "өз саудасы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨жоқ⟩"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "өшеді"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "түнде"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "оның шамы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:50.534639372Z",
+  "model": "glm-5.3"
+}

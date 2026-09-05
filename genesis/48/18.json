@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Йосып әкесіне: Жоқ, әке, олай емес, өйткені бұл — туған; оң қолыңды оның басына қой, — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосып"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесіне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "олай"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әке"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "туған"
+    },
+    {
+      "surface": "שים",
+      "gloss": "қой"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң қолыңды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "оның басына"
+    }
+  ],
+  "timestamp": "2026-09-05T01:36:19.873970498Z",
+  "model": "glm-5.3"
+}

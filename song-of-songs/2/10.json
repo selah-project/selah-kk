@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Додым маған жауап берді және айтты: «Тұр қане, сүйіктім, сұлуым, жүр қане.»",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "жауап берді"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "додым"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "қане"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "сүйіктім"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "сұлуым"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "және жүр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "қане"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:12.812162249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "И Исраил Дәуіт үйіне қарсы бүлініп, осы күнге дейін солай болды.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "бүлінді"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Дәуіттің"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күнге"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:26:15.604078303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ал барлық малды және қалалардың олжасын өзімізге тонап алдық.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ал барлық"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "малды"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "және олжасын"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "қалалардың"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "тонап алдық"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "өзімізге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:46.828513618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Және ⟨את⟩ етті және ⟨את⟩ теріні лагердің сыртында отпен өртеді.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "етті"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "етті"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "теріні"
+    },
+    {
+      "surface": "העור",
+      "gloss": "теріні"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "өртеді"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отпен"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "сыртында"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагердің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:01:39.936839873Z",
+  "model": "glm-5.3"
+}

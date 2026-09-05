@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Мұрамыз жат адамдарға айналды, үйлеріміз бөтен жұртқа.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "Мұрамыз"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "айналды"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "жат адамдарға"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "үйлеріміз"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "бөтен жұртқа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:55.687336641Z",
+  "model": "glm-5.3"
+}

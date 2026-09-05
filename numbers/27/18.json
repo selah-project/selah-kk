@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Яхве Моше (Мұса)ға айтты: «Өзіңе Йеһошуаны, Нун ұлын ал — онда рух бар адам — және қолыңды оның үстіне қой.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ға"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеһошуаны"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлын"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кімде"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "және қой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қолыңды"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "қолыңды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оның үстіне"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:38.303595967Z",
+  "model": "glm-5.3"
+}

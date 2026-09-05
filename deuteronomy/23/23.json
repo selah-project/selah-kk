@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Және егер уәде беруден бас тартсаң, сенде күнә болмайды.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "және егер"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "бас тартсаң"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "уәде беруден"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨жоқ⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "күнә"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:35.155735661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Бірге тұтқындар тыныш — қанаушының үнін естімейді.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "тұтқындар"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "тыныш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "естімейді"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнін"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "қанаушының"
+    }
+  ],
+  "timestamp": "2026-09-05T06:36:14.205392106Z",
+  "model": "glm-5.3"
+}

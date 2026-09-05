@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 6:11",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "және аласың күміс пен алтын, жасайсың тәждерді, қоясың Йеһошуа басына, Йеһоцадак ұлының, ұлы Kahininің.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "және аласың"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күміс"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "және алтын"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "және жасайсың"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "тәждерді"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "және қоясың"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "басына"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Йеһоцадак"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kahiniнің"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T05:46:11.743951516Z",
+  "model": "glm-5.3"
+}

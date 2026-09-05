@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "«Ал Мен өз Патшамды өз қасиетті тауым — Цийонның үстіне қойдым».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ал Мен"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "қойдым"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "өз Патшамды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийонның"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауым"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "қасиетті"
+    }
+  ],
+  "timestamp": "2026-09-05T05:51:09.560853084Z",
+  "model": "glm-5.3"
+}

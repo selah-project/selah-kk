@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "және болды бар жамандығыңнан кейін: ай, ай саған — Адонай Яхвенің сөзі.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кейін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "жамандығыңнан"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ай"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T05:14:15.479183537Z",
+  "model": "glm-5.3"
+}

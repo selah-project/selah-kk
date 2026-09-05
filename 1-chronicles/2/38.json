@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Овед Йеһуды ⟨את⟩ әкеледі, Йеһу Азарияны ⟨את⟩ әкеледі.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеһуды"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йеһу"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "Йеһу"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарияны"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:34.598176406Z",
+  "model": "glm-5.3"
+}

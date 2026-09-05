@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Жина ал жерден мүлкіңді, қамауда отырған жан.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "жина ал"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "мүлкіңді"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "отырған"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "қамауда"
+    }
+  ],
+  "timestamp": "2026-09-05T04:45:52.896575953Z",
+  "model": "glm-5.3"
+}

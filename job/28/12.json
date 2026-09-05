@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Ал даналық қайдан табылады? Ақылдың орны қайда?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "ал даналық"
+    },
+    {
+      "surface": "мאין",
+      "gloss": "қайдан"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табылады"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "және қайда"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "орны"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ақылдың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:45:10.058200960Z",
+  "model": "glm-5.3"
+}

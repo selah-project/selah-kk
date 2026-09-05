@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Куштың ұлдары: Сева, Хавила, Савта, Раама және Савтеха; ал Рааманың ұлдары: Шева мен Дедан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куштың"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Сева"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "Хавила"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "Савта"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "Раама"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "Савтеха"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "Рааманың"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "Дедан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:13.941085023Z",
+  "model": "glm-5.3"
+}

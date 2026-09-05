@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Яһошафат Исраилдің падишаһына: «Бүгін Яҳвенің ⟨את⟩ сөзін сұрап көр», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Яһошафат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падишаһына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "сұрап көр"
+    },
+    {
+      "surface": "נא",
+      "gloss": "өтінемін"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "бүгін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзін"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:31:48.307171397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Михаэл, Ишпа мен Йоһа — Берианың ұлдары.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "және Михаэл"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "Ишпа"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "мен Йоһа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Берианың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:03.077238699Z",
+  "model": "glm-5.3"
+}

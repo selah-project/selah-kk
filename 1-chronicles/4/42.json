@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 4:42",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және олардың ішінен Шимон ұлдарының бес жүз ері Сеір тауына барды",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "және олардан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ішінен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "барды"
+    },
+    {
+      "surface": "להר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеір"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ері"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ופלטיה",
+      "gloss": "Пелатия"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "Неария"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "Рефая"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Уззиел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Иши"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "басшылығымен"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:03.000132288Z",
+  "model": "glm-5.3"
+}

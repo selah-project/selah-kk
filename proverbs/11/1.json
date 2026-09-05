@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Арам таразы — Яхвенің жек көруі, ал тұтас тас — оның ықтияры.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "таразы"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "арам"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жек көруі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ал тас"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "тұтас"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "оның ықтияры"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:56.956984222Z",
+  "model": "glm-5.3"
+}

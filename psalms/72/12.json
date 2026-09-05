@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 72,
+  "translation": "Себебі ол айқайлаған мiskin-ді құтқарады, және жәрдемшісі жоқ кедейді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "құтқарады"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "мiskin"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "айқайлаған"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "және кедейді"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "жәрдемші"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:05:52.894753781Z",
+  "model": "glm-5.3"
+}

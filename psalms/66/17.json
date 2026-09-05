@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 66,
+  "translation": "Оған аузыммен шақырдым, және тілімнің астында мақтау ⟨тұр⟩.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Оған"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузым"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "шақырдым"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "және мақтау"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "тілімнің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:22.757542077Z",
+  "model": "glm-5.3"
+}

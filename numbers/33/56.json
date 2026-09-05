@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Сонда оларға жасауды ойлағанымды сендерге жасаймын.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "сонда ... болады"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ойлағанымды"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жасауды"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "жасаймын"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:13.323204892Z",
+  "model": "glm-5.3"
+}

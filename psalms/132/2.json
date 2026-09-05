@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 132,
+  "translation": "кім Яхвеге ант берді, Абир Яақобқа уәде етті:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ант берді"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "уәде етті"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Абирге (Мықтысына)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яақоб (Жақып)"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:09.140520386Z",
+  "model": "glm-5.3"
+}

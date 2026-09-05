@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Және барлық ет көреді: өйткені мен Яхве оны жандырдым — ол өшпейтін.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "және көреді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "жандырдым оны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "өшетін"
+    }
+  ],
+  "timestamp": "2026-09-05T05:17:28.041845012Z",
+  "model": "glm-5.3"
+}

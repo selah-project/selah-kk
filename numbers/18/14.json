@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Исраилдегі барлық херем сенікі болады.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "херем"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраилдегі"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенікі"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    }
+  ],
+  "timestamp": "2026-09-05T02:23:02.662510236Z",
+  "model": "glm-5.3"
+}

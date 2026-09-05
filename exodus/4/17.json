@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және ⟨את⟩ осы таяқты қолыңа ал, онымен ⟨את⟩ белгілерді істейсің.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "осы таяқты"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "таяқты"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "қолыңа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "істейсің"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онымен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "белгілерді"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "белгілерді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:39:11.118425551Z",
+  "model": "glm-5.3"
+}

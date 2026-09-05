@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Цофахтың ұлдары: Суах, Харанефер, Шуал, Бери және Имра.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофахтың"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "Суах"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "және Харанефер"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "және Шуал"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "және Бери"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "және Имра"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:16.555245421Z",
+  "model": "glm-5.3"
+}

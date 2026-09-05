@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Және Яҳуда бауырларына айтты: Не пайда, бауырымызды өлтіріп, қанын жасырсақ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яҳуда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бауырларына"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "есе"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "өлтіріп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бауырымызды"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "бауырымызды"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "жасырсақ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қанын"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "қанын"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:37.066024397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 31:36",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Ал әскерге шыққандардың үлесі болған жартысы — қой саны: үш жүз отыз екі мың бес жүз бас қой.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ал …болған"
+    },
+    {
+      "surface": "המחצה",
+      "gloss": "жартысы"
+    },
+    {
+      "surface": "חלк",
+      "gloss": "үлесі"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "шыққандардың"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "әскерге"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "қой"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:46.631621583Z",
+  "model": "glm-5.3"
+}

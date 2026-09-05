@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "жиналды бірге Йеһошуамен және Исраилмен соғысу үшін — бір ауыз",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "жиналды"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "соғысу үшін"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуамен"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "және мен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилмен"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ауыз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:57:36.361617226Z",
+  "model": "glm-5.3"
+}

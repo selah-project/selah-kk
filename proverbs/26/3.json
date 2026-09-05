@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Атқа қамшы, есекке жүген, ал ақымақтардың арқасына — таяқ.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "қамшы"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "атқа"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "жүген"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "есекке"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "және таяқ"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "арқасына"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ақымақтардың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:44.930942832Z",
+  "model": "glm-5.3"
+}

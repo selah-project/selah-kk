@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Сені бөтен мақтасын, өз аузың емес; таныс емес, өз ернің емес.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "мақтасын"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "аузың"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "таныс емес"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ернің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:02.991153040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Себебі айтасың: «Саған не пайда? Күнәмнен не ұтамын?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтасың"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "ұтамын"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "күнәмнен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:48:19.285681462Z",
+  "model": "glm-5.3"
+}

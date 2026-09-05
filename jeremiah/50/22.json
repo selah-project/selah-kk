@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 50,
+  "translation": "Жерде соғыс дауысы және үлкен қирау.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дауысы"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "соғыс"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "және қирау"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "үлкен"
+    }
+  ],
+  "timestamp": "2026-09-05T05:05:48.528552664Z",
+  "model": "glm-5.3"
+}

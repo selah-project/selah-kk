@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 73,
+  "translation": "Ал мен әрқашан Сенің қасымдамын, Сен оң қолымнан ұстадың.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал мен"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "әрқашан"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Сенің қасымдамын"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ұстадың"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "қолымнан"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "оң"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:08.204613986Z",
+  "model": "glm-5.3"
+}

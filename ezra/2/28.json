@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Бейт-Эл һәм Ғай адамдары — екі жүз жиырма үш.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "һәм Ғай"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "екі жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:04.790897262Z",
+  "model": "glm-5.3"
+}

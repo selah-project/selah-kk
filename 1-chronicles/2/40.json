@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Элъаса Сисмайды ⟨את⟩ әкеледі, Сисмай Шаллумды ⟨את⟩ әкеледі.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Элъаса"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сисмайды"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Сисмай"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "Сисмай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллумды"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:34.598661215Z",
+  "model": "glm-5.3"
+}

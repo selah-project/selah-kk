@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Неге бұл — ақымақтың қолында ақша бар, даналықты сатып алу үшін, ал жүрегі жоқ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ақша"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "қолында"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "сатып алу үшін"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даналықты"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "және жүрек"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:11.059100915Z",
+  "model": "glm-5.3"
+}

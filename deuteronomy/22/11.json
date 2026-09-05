@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Шәатнез киім киме — жүн мен зығыр бірге.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "киме"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "Шәатнез"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "жүн"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "және зығыр"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:43:51.298865455Z",
+  "model": "glm-5.3"
+}

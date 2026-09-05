@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Ал Давид, Ишайдың ұлы, бүкіл Исраил үстінде патшалық құрды.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ал Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишайдың"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшалық құрды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T08:24:20.889824547Z",
+  "model": "glm-5.3"
+}

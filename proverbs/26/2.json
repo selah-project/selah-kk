@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Кезуші құстай, ұшушы қарлығаштай — себепсіз қарғыс ⟨орнына⟩ келмейді.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "құстай"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "кезуге"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "қарлығаштай"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ұшуға"
+    },
+    {
+      "surface": "כן",
+      "gloss": "сол сияқты"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "қарғыс"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "себепсіз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "келеді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:44.930533459Z",
+  "model": "glm-5.3"
+}

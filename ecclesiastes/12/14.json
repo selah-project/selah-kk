@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Өйткені Элохим ⟨את⟩ әрбір істі соттылыққа әкеледі, әрбір жасырын нәрсе үшін — жақсы бе, жаман ба.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Өйткені"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әрбір істі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әрбір"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "істі"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "соттылыққа"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әрбір"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "жасырын нәрсе"
+    },
+    {
+      "surface": "אם",
+      "gloss": "бе"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "және ба"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    }
+  ],
+  "timestamp": "2026-09-05T08:43:46.752623197Z",
+  "model": "glm-5.3"
+}

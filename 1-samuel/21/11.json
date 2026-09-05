@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Давид тұрды да, сол күні Шаулдың бетінен қашып, Гаттың патшасы Акишке келді.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "қашты"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "бетінен"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдың"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акишке"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гаттың"
+    }
+  ],
+  "timestamp": "2026-09-05T03:31:34.222615917Z",
+  "model": "glm-5.3"
+}

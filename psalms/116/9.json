@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 116,
+  "translation": "Яхвенің алдында тіршілік жерлерінде жүремін.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "жүремін"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "жерлерінде"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тіршілік"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:47.197588682Z",
+  "model": "glm-5.3"
+}

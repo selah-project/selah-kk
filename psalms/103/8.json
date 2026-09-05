@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 103,
+  "translation": "Рақымды және мейірімді Яхве, ашуы ⟨ұзақ⟩, хеседі мол.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "рақымды"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "және мейірімді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ұзақ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ашуы"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "және мол"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:50.942463538Z",
+  "model": "glm-5.3"
+}

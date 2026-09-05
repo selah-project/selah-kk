@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 24:44",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "«Сен де іш, түйелеріңе де су тартамын» десе — Яхве менің иемнің ұлына белгілеген сол әйел.»",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "десе"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "іш"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "және де"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "түйелеріңе"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "тартамын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсын"
+    },
+    {
+      "surface": "הכיח",
+      "gloss": "белгіледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ұлына"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "иемнің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:54:34.619945770Z",
+  "model": "glm-5.3"
+}

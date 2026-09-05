@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Бұлар — Абихаилдың ұлдары: Хуридің ұлы, Яроахтың ұлы, Гилғадтың ұлы, Михаэльдің ұлы, Йешишайдың ұлы, Яхдоның ұлы, Бұздың ұлы.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Бұлар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Абихаил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Хури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "Яроах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилғад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаэль"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "Йешишай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "Яхдо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Бұз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:35.856301791Z",
+  "model": "glm-5.3"
+}

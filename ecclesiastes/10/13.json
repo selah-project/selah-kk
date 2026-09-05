@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Аузының сөздерінің басы — ақылсыздық, ал аузының соңы — жаман есірерлік.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "басы"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздерінің"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "аузының"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "ақылсыздық"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "ал соңы"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "аузының"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "есірерлік"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жаман"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:18.168274135Z",
+  "model": "glm-5.3"
+}

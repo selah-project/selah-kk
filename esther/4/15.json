@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сонда Эстер Мардохайға жауап қайтартты:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Сонда…айтты"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "жауап қайтартуға"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохай"
+    }
+  ],
+  "timestamp": "2026-09-05T07:49:30.341808477Z",
+  "model": "glm-5.3"
+}

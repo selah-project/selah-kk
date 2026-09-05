@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Жехония тұтқынның ұлдары: Шеалтиел оның ұлы,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Жехония"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "тұтқын"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтиел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:50.264277249Z",
+  "model": "glm-5.3"
+}

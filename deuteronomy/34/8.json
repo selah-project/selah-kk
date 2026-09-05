@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Исраил ұлдары ⟨את⟩ Мошені Моав жазығында отыз күн жоқтады; Мошені жоқтау мен аза күндері толып бітті.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "жоқтады"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошені"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "жазығында"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "толып бітті"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "жоқтау"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "аза"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:07.883280879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Дебірде екі керувты зәйтүн ағашынан жасады, биіктігі он шық.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "Дебірде"
+    },
+    {
+      "surface": "שני",
+      "gloss": "екі"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "керувты"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ағашынан"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "зәйтүн"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "шық"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "биіктігі"
+    }
+  ],
+  "timestamp": "2026-09-05T03:52:00.985392051Z",
+  "model": "glm-5.3"
+}

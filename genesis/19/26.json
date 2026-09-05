@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Және оның артынан оның әйелі қарады, және ол тұз баған болды.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "қарады"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "оның әйелі"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "оның артынан"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "және болды"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "баған"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "тұз"
+    }
+  ],
+  "timestamp": "2026-09-05T07:20:45.695167299Z",
+  "model": "glm-5.3"
+}

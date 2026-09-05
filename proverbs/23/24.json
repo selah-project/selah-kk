@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Сәлде қуанады әділдің әкесі, хакім баланы туған оған қуанады",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "шексіз қуаныш"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "қуанады"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділдің"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "туған"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хакім"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "және қуанады"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:10.271854446Z",
+  "model": "glm-5.3"
+}

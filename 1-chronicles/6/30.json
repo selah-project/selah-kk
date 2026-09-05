@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Хашавияның ұлы, Амацаяның ұлы, Хилқияның ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавияның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амацаяның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилқияның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:14.001665151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ал Элқананың ұлдары: Амасай және Аһимот.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ал ... ұлдары"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқананың"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амасай"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "және Аһимот"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:48.273723357Z",
+  "model": "glm-5.3"
+}

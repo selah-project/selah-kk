@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Садағын ⟨жерге басып⟩ тартты, мені жебе үшін нысана етіп тұрғызды.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "тартты"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "садағын"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "мені тұрғызды"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "нысана сияқты"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "жебе үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:41.629369905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Аса биік көздер, өтірік тіл және кінәсіз қанды төгетін қолдар,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "көздер"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "аса биік"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тіл"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "өтірік"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "және қолдар"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "төгетін"
+    },
+    {
+      "surface": "דם",
+      "gloss": "қанды"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "кінәсіз"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:49.739204418Z",
+  "model": "glm-5.3"
+}

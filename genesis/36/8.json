@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Және Эсав Сеир тауында қоныстанды — Эсав, ол ⟨дәл⟩ өзі Эдом.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "қоныстанды"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тауында"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол өзі"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:09.801921678Z",
+  "model": "glm-5.3"
+}

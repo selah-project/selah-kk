@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Сенаа ұлдары, үш мың алты жүз отыз.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "және алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "және отыз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:55.018101078Z",
+  "model": "glm-5.3"
+}

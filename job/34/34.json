@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Жүрек иелері маған айтады, және дана ер маған тыңдайды.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ерлері"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "және ер"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "дана"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңдайды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:48:29.018685554Z",
+  "model": "glm-5.3"
+}

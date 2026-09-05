@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 63,
+  "translation": "Оларды қылыштың қолына ⟨құяды⟩, шақалдарға үлес болады.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "құяды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "қолына"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "қылыш"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "үлес"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "шақалдарға"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болады"
+    }
+  ],
+  "timestamp": "2026-09-05T07:38:45.901050675Z",
+  "model": "glm-5.3"
+}

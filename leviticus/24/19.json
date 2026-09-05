@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Және ер, егер өз жолдасына кемшілік берсе — ол жасағандай, солай оған да жасалсын.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "және ер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берсе"
+    },
+    {
+      "surface": "מום",
+      "gloss": "кемшілік"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "өз жолдасына"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаған"
+    },
+    {
+      "surface": "כן",
+      "gloss": "солай"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасалсын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:10:29.931683382Z",
+  "model": "glm-5.3"
+}

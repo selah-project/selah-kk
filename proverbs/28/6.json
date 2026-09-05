@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Түзулікте жүрген кедей — жақсы, қисық жолды ⟨бағыттаған⟩, алайда ол бай болса да.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "רש",
+      "gloss": "кедей"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "жүрген"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "түзулікте"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "қисық"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "жолдарды"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "алайда ол"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "бай"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:06.670205543Z",
+  "model": "glm-5.3"
+}

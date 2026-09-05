@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Лекиш үшін: Лекиштің ұлдары — Йерахмел.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "Лекиш үшін"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Лекиштің"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмел"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:12.481457985Z",
+  "model": "glm-5.3"
+}

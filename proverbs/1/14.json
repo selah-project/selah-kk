@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Гөріліңді ішімізге таста ⟨ gloss астында бір қалта болсын бәрімізге⟩.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "гөріліңді"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "таста"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "ішімізге"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "қалта"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "бәрімізге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:58.806180510Z",
+  "model": "glm-5.3"
+}

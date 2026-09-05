@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "⟨את⟩ бір теңізді, және ⟨את⟩ он екі өгізді оның астына.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "теңізді"
+    },
+    {
+      "surface": "הים",
+      "gloss": "теңізді"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "өгізді"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "өгізді"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "оның астына"
+    }
+  ],
+  "timestamp": "2026-09-05T09:02:05.507621462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 76,
+  "translation": "Болды Салемде ⟨Оның⟩ лашығы, ал Сионда ⟨Оның⟩ мекені.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Салемде"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "лашығы"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ал ⟨Оның⟩ мекені"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Сионда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:53.021266401Z",
+  "model": "glm-5.3"
+}

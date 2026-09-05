@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "И Исақтың әкесі оған айтты: жақында-ақ және мені сүй, ұлым.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Исақ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оның әкесі"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "жақында"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-ақ"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "және сүй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    }
+  ],
+  "timestamp": "2026-09-05T01:26:33.760330969Z",
+  "model": "glm-5.3"
+}

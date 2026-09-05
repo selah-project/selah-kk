@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Ал сен тұрып, үйіңе бар; қалаға аяғың кіргенде бала өледі.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ал сен"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "тұрып"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "үйіңе"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "кіргенде"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "аяғың"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "қалаға"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өледі"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "бала"
+    }
+  ],
+  "timestamp": "2026-09-05T08:58:04.091978931Z",
+  "model": "glm-5.3"
+}

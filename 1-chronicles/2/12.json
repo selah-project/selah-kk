@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Боаз ⟨את⟩ Оведті туғызды, Овед ⟨את⟩ Ишайды туғызды.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "және Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведті"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Оведті"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ал Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишайды"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишайды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:34.889523900Z",
+  "model": "glm-5.3"
+}

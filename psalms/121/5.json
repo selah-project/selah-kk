@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 121,
+  "translation": "Яхве — сақтаушың, Яхве — көлеңкең, оң қолыңның ⟨қасында⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "сақтаушың"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "көлеңкең"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "יד",
+      "gloss": "қолыңның"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:20.071161015Z",
+  "model": "glm-5.3"
+}

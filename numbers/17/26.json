@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Моше Яхве ⟨את⟩ оны қалай бұйырған болса, соншалай жасады.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "істеді"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қалай... болса"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны (Мошені)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "соншалай"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    }
+  ],
+  "timestamp": "2026-09-05T02:22:40.217839597Z",
+  "model": "glm-5.3"
+}

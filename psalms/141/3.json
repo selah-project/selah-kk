@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 141,
+  "translation": "Яхве, ауызыма күзет қой, еріндерімнің есігін сақта.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "қой"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "күзет"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ауызыма"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "сақта"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "דל",
+      "gloss": "есігін"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "еріндерімнің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:57.455909301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Шеломоһтың ұлы Рехавам ⟨еді⟩, Абиһа оның ұлы, Аса оның ұлы, Йеһошафат оның ұлы.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "және ұлы"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһтың"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абиһа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеһошафат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:35.666894670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Әрине, маған қарсы ⟨қайтады⟩ ол, қолын аудара береді күні бойы.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "әрине"
+    },
+    {
+      "surface": "בי",
+      "gloss": "маған қарсы"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨қайтады⟩"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "аудара береді"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "қолын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн бойы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:16.618280449Z",
+  "model": "glm-5.3"
+}

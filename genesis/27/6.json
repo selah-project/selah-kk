@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ривқа ұлы Яаковқа былай деді: «Мына, мен әкеңнің ағаң Есавқа айтқанын естідім», — деп.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "және Ривқа"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қа"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "естідім"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әкеңді"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "әкеңді"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "айтқанын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қа"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ағаң"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:48.225263581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Гивонда Гивонның әкесі тұрды, ал әйелінің есімі Маақа еді.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Гивонда"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивонның"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ал есімі"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "әйелінің"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Маақа"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:05.036976868Z",
+  "model": "glm-5.3"
+}

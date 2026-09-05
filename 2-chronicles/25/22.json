@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Йеһуда Исраилдің алдында жеңілді, және әр адам өз шатырына қашты.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "жеңілді"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуда"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "қашты"
+    },
+    {
+      "surface": "איש",
+      "gloss": "әр адам"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "өз шатырына"
+    }
+  ],
+  "timestamp": "2026-09-05T08:35:12.072097394Z",
+  "model": "glm-5.3"
+}

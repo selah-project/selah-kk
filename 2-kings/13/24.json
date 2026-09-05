@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Хазаэл Арам патшасы өлді де, орнына ұлы Бен-Һадад патша болды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Хазаэл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патша болды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Һадад"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "орнына"
+    }
+  ],
+  "timestamp": "2026-09-05T07:29:55.995472364Z",
+  "model": "glm-5.3"
+}

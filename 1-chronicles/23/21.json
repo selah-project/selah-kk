@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Мерари ұлдары: Махли мен Муши; Махлидің ұлдары: Элазар мен Қиш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "мен Муши"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлидің"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "мен Қиш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:51.003603449Z",
+  "model": "glm-5.3"
+}

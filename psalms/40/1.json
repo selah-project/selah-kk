@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 40,
+  "translation": "Қауым басшысына. Давидтің мәзмұры.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "қауым басшысына"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмұры"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:31.755702822Z",
+  "model": "glm-5.3"
+}

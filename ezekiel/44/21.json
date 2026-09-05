@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Және шарап — ешбір кеһен ішкі аулаға кірген кездерінде ішпейді.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "және шарап"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ішеді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ешбір"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "кеһен"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "кіргендерінде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "аула"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ішкі"
+    }
+  ],
+  "timestamp": "2026-09-05T05:29:31.329587205Z",
+  "model": "glm-5.3"
+}

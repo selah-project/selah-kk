@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Қайтарасың оларға сыйақыны, уа Яхве, олардың қолдарының ісіше.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "қайтарасың"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "сыйақыны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ісіше"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "олардың қолдарының"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:59.754463745Z",
+  "model": "glm-5.3"
+}

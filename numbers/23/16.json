@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Яхве Биламға кездестi, оның аузына сөз қойды және айтты: «Балакқа қайт және осылай сөйле».",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "кездестi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "оның аузына"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "қайт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-қа"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "және осылай"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "сөйле"
+    }
+  ],
+  "timestamp": "2026-09-05T02:26:11.020609947Z",
+  "model": "glm-5.3"
+}

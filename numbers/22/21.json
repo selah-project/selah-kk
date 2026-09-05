@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Билам таңертең тұрды да ⟨את⟩ езулісін ердеп, Моаб әміршілерімен жүрді.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "таңертең"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ердеді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "езулісін"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "езулісін"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жүрді"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-мен"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "әміршілері"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:11.485603287Z",
+  "model": "glm-5.3"
+}

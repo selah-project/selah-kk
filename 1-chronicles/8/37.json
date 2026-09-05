@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Моца ⟨את⟩ Бинеаны туғызды; Рафаһ оның ұлы, Эласаһ оның ұлы, Ацел оның ұлы.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинеаны"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинеа"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Рафаһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Эласаһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "оның ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:19.683682839Z",
+  "model": "glm-5.3"
+}

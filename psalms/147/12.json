@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 147,
+  "translation": "Мақта, Иерушалаим, Яхвені; мадақта, Сион, Элохиміңді.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "мақта"
+    },
+    {
+      "surface": "ישרולם",
+      "gloss": "Иерушалаим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвені"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "мадақта"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохиміңді"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:00.559779342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Қашан лагерь жауларыңа қарсы шықса, сақтанасың ⟨өзіңді⟩ барлық жаман нәрседен.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "шықса"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "жауларыңа"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "сақтанасың"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нәрседен"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:28.938866351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 109,
+  "translation": "Және білсін: мынау — қолың, Сен, Яхве, ⟨оны⟩ істедің.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "және білсін"
+    },
+    {
+      "surface": "כי",
+      "gloss": "мынау —"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "қолың"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "⟨оны⟩ істедің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:55.117072233Z",
+  "model": "glm-5.3"
+}

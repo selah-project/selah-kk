@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Яхвенің ⟨את⟩ сөзі — Яхведен Ярмияһуға болған сөз былай деді:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ярмияһуға"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмияһу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхведен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    }
+  ],
+  "timestamp": "2026-09-05T04:51:41.958625912Z",
+  "model": "glm-5.3"
+}

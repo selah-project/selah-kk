@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Үй — ол, оның алдындағы ⟨ғимарат⟩ — қырық шықыра болды.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "және қырық"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "шықырада"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ғимарат"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    }
+  ],
+  "timestamp": "2026-09-05T03:52:53.338075161Z",
+  "model": "glm-5.3"
+}

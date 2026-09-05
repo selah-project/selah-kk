@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 69,
+  "translation": "Мені құтқар, Элохим, өйткені сулар ⟨жанымға⟩ дейін келді.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "мені құтқар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанымға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:22.735990815Z",
+  "model": "glm-5.3"
+}

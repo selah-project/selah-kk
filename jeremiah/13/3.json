@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және Яхвенің сөзі екінші рет маған келді, айтылғандай:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "екінші рет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтылғандай"
+    }
+  ],
+  "timestamp": "2026-09-05T04:49:03.973282441Z",
+  "model": "glm-5.3"
+}

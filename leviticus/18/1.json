@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Яхве Мошеге (Мұса) сөйлеп айтты:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:55.736266540Z",
+  "model": "glm-5.3"
+}

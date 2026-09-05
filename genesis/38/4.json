@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Тағы босанды және ұл туды; және ⟨את⟩ оның атын Онан деп атады.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "босанды"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оның атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "оның атын"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Онан"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:54.322144130Z",
+  "model": "glm-5.3"
+}

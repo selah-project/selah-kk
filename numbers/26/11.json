@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Қорахтың ұлдары өлмеді.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорахтың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "өлді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:26:44.464868110Z",
+  "model": "glm-5.3"
+}

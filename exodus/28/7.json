@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Оның екі иықтасы болсын, екі шетіне қосылатын — солай біріктірілсін.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "екі"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "иықтасы"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "қосылатын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оның"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "שני",
+      "gloss": "екі"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "шетіне"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "біріктірілсін"
+    }
+  ],
+  "timestamp": "2026-09-05T01:50:34.756980218Z",
+  "model": "glm-5.3"
+}

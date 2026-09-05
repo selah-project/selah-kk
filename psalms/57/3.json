@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 57,
+  "translation": "Элохимге, Элионға дауыттаймын — маған толық тындыратын Элге.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "дауыттаймын"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Элион"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элге"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "тындыратын"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:03:49.379869935Z",
+  "model": "glm-5.3"
+}

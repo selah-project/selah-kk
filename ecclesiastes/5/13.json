@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Сол байлық жаман қиындықта жоғалады, және ұл туады, және қолында ештеңе жоқ.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "жоғалады"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "байлық"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "қиындықта"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "және туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "қолында"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ештеңе"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:40.741106202Z",
+  "model": "glm-5.3"
+}

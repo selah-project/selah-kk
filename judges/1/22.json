@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Йосеф үйі де — олар да — Бейт-Элге көтерілді, және Яхве олармен еді.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "көтерілді"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйі"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "הם",
+      "gloss": "олар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "және Яхве"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "олармен"
+    }
+  ],
+  "timestamp": "2026-09-05T03:06:16.762529252Z",
+  "model": "glm-5.3"
+}

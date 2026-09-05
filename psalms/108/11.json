@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 108,
+  "translation": "Кім мені бекініс қалаға апарады? Кім мені Эдомға дейін жеткізеді?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кім"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "мені апаратын"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қала"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "бекініс"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кім"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "жеткізеді"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:45.450098741Z",
+  "model": "glm-5.3"
+}

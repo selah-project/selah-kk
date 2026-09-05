@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Ал Арпахшад ⟨את⟩ Шалахты туғызды, Шалах ⟨את⟩ Эверді туғызды.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ал Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шалахты"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шалахты"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Шалах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эверді"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эверді"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:27.059371105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Ақымақтардың еңбегі оларды шолжайтады, өйткені ол қалаға баруды білмейді.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "еңбегі"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ақымақтардың"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "оларды шолжайтады"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "баруды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "қала"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:18.169121101Z",
+  "model": "glm-5.3"
+}

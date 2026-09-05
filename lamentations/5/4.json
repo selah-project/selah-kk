@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Суымызды күміс үшін іштік, отынымыз бағамен келеді.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Суымызды"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "күміс үшін"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "іштік"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "отынымыз"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "бағамен"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келеді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:55.687627135Z",
+  "model": "glm-5.3"
+}

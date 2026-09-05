@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Сіңлісы алыстан тұрды — оған не істелетінін білу үшін.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "сіңлісы"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "алыстан"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "білу үшін"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "істелетінін"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:37:46.945501880Z",
+  "model": "glm-5.3"
+}

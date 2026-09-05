@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Өтірік куә жоқ болады, ал тыңдаған адам мәңгі сөйлейді.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "куә"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "өтірік"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "жоқ болады"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ал адам"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "тыңдаған"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "сөйлейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:02.632931489Z",
+  "model": "glm-5.3"
+}

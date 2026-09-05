@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Азубаһ қайтыс болған соң Калеб ⟨את⟩ Эфратты өзіне алды, және ол оған ⟨את⟩ Хурды туғызды.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "қайтыс болды"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Азубаһ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзіне"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфратты"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Эфратты"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "және туғызды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хурды"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хурды"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:57.834663818Z",
+  "model": "glm-5.3"
+}

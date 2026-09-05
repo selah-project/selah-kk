@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Қарғалған ⟨болсын⟩ сенің себетің және қамыр илеу астаң.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "қарғалған"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "себетің"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "және қамыр илеу астаң"
+    }
+  ],
+  "timestamp": "2026-09-05T02:50:30.472794300Z",
+  "model": "glm-5.3"
+}

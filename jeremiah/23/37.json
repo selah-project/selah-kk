@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Осылай пайғамбарға айтасың: «Яхве ⟨саған⟩ не жауап берді, және Яхве не айтты?»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтасың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайғамбар"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "жауап берді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "және не"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T04:52:57.887252448Z",
+  "model": "glm-5.3"
+}

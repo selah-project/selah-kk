@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Яхвенің Мошеге бұйырғанындай; ол оларды Синай шөлінде сандады.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "сияқты"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырғанындай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ол сандады"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлінде"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-09-05T02:13:59.267000175Z",
+  "model": "glm-5.3"
+}

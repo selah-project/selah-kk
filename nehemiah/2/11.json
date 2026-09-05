@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Мен Йерушалаимға (Иерусалим) келдім және онда үш күн болдым.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "келдім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ға"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "болдым"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:05:50.318562992Z",
+  "model": "glm-5.3"
+}

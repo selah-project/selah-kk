@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Жасағаны Яхвенің көзінде жаман болды, және Оны да өлтірді.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "жаман болды"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нің"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасағаны"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлтірді"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Оны"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:34.296823430Z",
+  "model": "glm-5.3"
+}

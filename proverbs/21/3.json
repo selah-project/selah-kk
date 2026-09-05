@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Әділдік пен сот жасау — Яхве үшін құрбаннан ⟨гөрі⟩ таңдалған.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "жасау"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "әділдік"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "және сот"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "таңдалған"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве үшін"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "құрбаннан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:59.684190752Z",
+  "model": "glm-5.3"
+}

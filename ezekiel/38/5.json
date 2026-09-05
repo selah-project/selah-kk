@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Парас, Куш және Пут олармен ⟨את⟩ — бәрі қалқан мен дулығамен.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Парас"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "және Пут"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "олармен"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "қалқан"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "және дулыға"
+    }
+  ],
+  "timestamp": "2026-09-05T05:25:34.789587795Z",
+  "model": "glm-5.3"
+}

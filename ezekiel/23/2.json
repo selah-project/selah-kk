@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "«Адам ұлы, бір анашыл болған екі әйел, олар бір анашылдың қыздары еді.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "қыздары"
+    },
+    {
+      "surface": "אם",
+      "gloss": "анашылдың"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:18:42.353137590Z",
+  "model": "glm-5.3"
+}

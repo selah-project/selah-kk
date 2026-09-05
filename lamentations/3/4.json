@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Етімді және терімді тоздырды, сүйектерімді сындырды.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "тоздырды"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "етімді"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "және терімді"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сындырды"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "сүйектерімді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:16.618471131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Яхвенің сөзі — ол Йоелге (Жоел), Петуелдің ұлына болған.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ге"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоелге"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Петуелдің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:33:57.982783852Z",
+  "model": "glm-5.3"
+}

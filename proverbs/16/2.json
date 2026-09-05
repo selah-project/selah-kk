@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Адамның барлық жолдары өз көзінде таза, ал рухтарды өлшейтін — Яхве.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолдары"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "זך",
+      "gloss": "таза"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өз көзінде"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ал өлшейтін"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "рухтарды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:32.113175282Z",
+  "model": "glm-5.3"
+}

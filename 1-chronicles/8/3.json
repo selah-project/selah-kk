@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Беланың ұлдары болды: Аддар, Гера және Авиһуд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Беланың"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Аддар"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "және Гера"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "және Авиһуд"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:44.353359564Z",
+  "model": "glm-5.3"
+}

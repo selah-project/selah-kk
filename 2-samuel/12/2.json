@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Байдың ұсақ малы мен ірі қарасы өте көп болды.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "байдың"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ұсақ малы"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "және ірі қарасы"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    }
+  ],
+  "timestamp": "2026-09-05T03:41:49.829147881Z",
+  "model": "glm-5.3"
+}

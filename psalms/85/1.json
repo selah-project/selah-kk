@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 85,
+  "translation": "Жетекшіге — Қорах ұлдарына — мизмор ⟨саз өлең⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "жетекшіге"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:11.085320256Z",
+  "model": "glm-5.3"
+}

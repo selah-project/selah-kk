@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Бебай ұлдары — алты жүз жиырма үш ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бебай"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "және үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:09.314347620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Парох Йосефке сөйледі: түсімде мынау өзеннің жағасында тұрмын.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ке"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "түсімде"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "мынау"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "тұрмын"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ның үстінде"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "жағасын"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "өзен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:31:42.724005847Z",
+  "model": "glm-5.3"
+}

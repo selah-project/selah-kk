@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 114,
+  "translation": "Адонайдың алдынан, жер, дірілде! Яхве Элоаһ Яаковтың алдынан!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "дірілде"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоаһ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:12.727715483Z",
+  "model": "glm-5.3"
+}

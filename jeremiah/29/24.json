@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Және Шемаяуға, Нехеламдыққа, ⟨сен⟩ былай деп айтасың:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Және"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаяуға"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "Нехеламдыққа"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтасың"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T04:56:16.210193147Z",
+  "model": "glm-5.3"
+}

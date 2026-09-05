@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 129,
+  "translation": "Яхве әділ, жамандардың бауларын қиып тастады.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділ"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "қиып тастады"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "бауларын"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:36.002672287Z",
+  "model": "glm-5.3"
+}

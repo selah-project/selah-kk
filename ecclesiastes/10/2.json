@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Дананың жүрегі оң жағында, ал ақымақтың жүрегі сол жағында.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "дананың"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "оң жағында"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ал жүрегі"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "сол жағында"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:39.353807587Z",
+  "model": "glm-5.3"
+}

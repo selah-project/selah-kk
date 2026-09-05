@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Адамнан бас тартыңдар — мұрын тұсында демі бар ⟨ол⟩, өйткені ол не тұрады?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "бас тартыңдар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Адамнан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "демі"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "мұрын тұсында"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "במה",
+      "gloss": "не"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "тұрады"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T04:17:41.594537102Z",
+  "model": "glm-5.3"
+}

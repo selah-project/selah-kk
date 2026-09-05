@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 5:12",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Оян, оян, Двора (Дебора)! Оян, оян, ән айт! Тұр, Барақ, тұтқыныңды тұтқында, Авином ұлы!",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "оян"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "оян"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Двора"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "оян"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "оян"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "айт"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ән"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барақ"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "және тұтқында"
+    },
+    {
+      "surface": "שביך",
+      "gloss": "тұтқыныңды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Авином"
+    }
+  ],
+  "timestamp": "2026-09-05T03:08:48.451992691Z",
+  "model": "glm-5.3"
+}

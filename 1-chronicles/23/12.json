@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Қеһаттың ұлдары: Амрам, Ицһар, Хеврон және Узииел — төртеу.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Қеһаттың"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицһар"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "және Узииел"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төртеу"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:31.788749840Z",
+  "model": "glm-5.3"
+}

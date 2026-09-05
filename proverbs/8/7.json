@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Өйткені аузым ақиқатты айтады, ал ернімге жамандық — жиіркенішті.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ақиқат"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "аузым"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "және жиіркенішті"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ернім"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жамандық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:11.405785376Z",
+  "model": "glm-5.3"
+}

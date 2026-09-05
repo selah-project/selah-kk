@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Ақылды ер ⟨את⟩ ақымақ ермен дауласса, ашуланса да, күлсе де — тыныштық ⟨болмайды⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ер"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ақылды"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "дауласса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ақымақ ер"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ер"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ақымақ"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ашуланса да"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "күлсе де"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тыныштық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:17.559848615Z",
+  "model": "glm-5.3"
+}

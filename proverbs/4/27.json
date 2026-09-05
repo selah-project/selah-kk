@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Оңға да қайырылма, және солға да; аяғыңды жамандықтан алыстат.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "да"
+    },
+    {
+      "surface": "תט",
+      "gloss": "қайырылма"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "оңға"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "және солға"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "алыстат"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "аяғыңды"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "жамандықтан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:26.381046334Z",
+  "model": "glm-5.3"
+}

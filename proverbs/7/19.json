@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Себебі кісі үйінде жоқ, ол алыс жолға кеткен.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "кісі"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "үйінде"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "кеткен"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолға"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "алыс"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:29.503613464Z",
+  "model": "glm-5.3"
+}

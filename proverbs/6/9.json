@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Қашанға дейін, жалқау, жатасың? Қашан тұрасың ұйқыңнан?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "қашанға дейін"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "жалқау"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "жатасың"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "тұрасың"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ұйқыңнан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:36.595693384Z",
+  "model": "glm-5.3"
+}

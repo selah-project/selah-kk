@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Осылай деді Адонай Яхве Цебаот: «Бар да бұл басқарушыға кір — үйдің үстіндегі Шебнаға».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "осылай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кір"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ға"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "басқарушы"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіндегі"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шебна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіндегі"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:30:07.808358134Z",
+  "model": "glm-5.3"
+}

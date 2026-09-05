@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ол маған жауап беріп айтты: «Бұлардың не екенін білмейсің бе?» Мен айттым: «Жоқ, ием».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "әлде"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "білмейсің бе"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бұлардың"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ием"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:46.778306762Z",
+  "model": "glm-5.3"
+}

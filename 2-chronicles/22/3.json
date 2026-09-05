@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Ол да Ахав үйінің жолдарымен жүрді, өйткені анасы оған жамандық істеуге кеңесші болды.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "жүрді"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "жолдарымен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінің"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасы"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "кеңесші"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "жамандық істеуге"
+    }
+  ],
+  "timestamp": "2026-09-05T08:33:23.567702810Z",
+  "model": "glm-5.3"
+}

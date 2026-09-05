@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Жеті күн өтті, және топан сулары жер үстінде болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "және сулары"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "топанның"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:29.666860355Z",
+  "model": "glm-5.3"
+}

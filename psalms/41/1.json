@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Қауым басшысына. Давидтің (Дәуіт) мазмұры.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "қауым басшысына"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмұр"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:31.527451228Z",
+  "model": "glm-5.3"
+}

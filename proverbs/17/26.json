@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Әділді жазалау да жақсы емес, тектілерді әділдігі үшін ұру да ⟨жақсы емес⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "жазалау"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "әділді"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ұру"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "тектілерді"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "әділдігі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:34.917290279Z",
+  "model": "glm-5.3"
+}

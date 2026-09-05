@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ол ұлды шапса немесе қызды шапса, осы үкім бойынша оған жасалады.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлды"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "шапса"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызды"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "шапса"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "осы үкім бойынша"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасалады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:48:42.274358542Z",
+  "model": "glm-5.3"
+}

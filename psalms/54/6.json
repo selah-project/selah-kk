@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 54,
+  "translation": "Ана, Элохим маған көмекші ⟨іс⟩; Адонай жанымды тіреушілермен.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ана"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "көмекші"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "тіреушілермен"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:43.253536598Z",
+  "model": "glm-5.3"
+}

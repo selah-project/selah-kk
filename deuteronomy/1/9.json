@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Сол уақытта сендерге айттым: «Жалғыз өзім ⟨את⟩ сендерді көтере алмаймын» — деп.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "уақытта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "алмаймын"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "қабілетім жетпейді"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "жалғыз өзім"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "көтере"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "сендерді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:09.965577623Z",
+  "model": "glm-5.3"
+}

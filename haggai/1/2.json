@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Цебаот Яхве былай деді: бұл халық «Яхвенің үйін салатын уақыт әлі келген жоқ» деді.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "деді"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "салатын"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:39.566291079Z",
+  "model": "glm-5.3"
+}

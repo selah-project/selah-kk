@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Құйма құдайларды өзіңе жасама.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "құдайларын"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "құйма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жасама"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    }
+  ],
+  "timestamp": "2026-09-05T01:53:20.239252456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Күні бойы қорлығым көз алдымда, және бетімнің ұяты мені жапты.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "қорлығым"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "көз алдымда"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "және ұят"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетімнің"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "жапты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:28.818702054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Және Яхвенің сөзі маған келді, айтулы:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Және болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтулы"
+    }
+  ],
+  "timestamp": "2026-09-05T07:35:50.846605707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Оның сол жағы басымның астында, ал оң жағы мені құшақтайды.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "оның сол жағы"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "басымның"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "және оның оң жағы"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "құшақтайды мені"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:39.628922917Z",
+  "model": "glm-5.3"
+}

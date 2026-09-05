@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Қара, әдемісің, сүйіктім, әрі жағымдысың; әрі жатынымыз — жасыл.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "қара"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "әдемісің"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "сүйіктім"
+    },
+    {
+      "surface": "אף",
+      "gloss": "әрі"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "жағымдысың"
+    },
+    {
+      "surface": "אף",
+      "gloss": "әрі"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "жатынымыз"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "жасыл"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:04.617014285Z",
+  "model": "glm-5.3"
+}

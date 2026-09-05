@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "ал төртінші күні он бұқа, екі қошқар, он төрт бір жасар қозы, мінсіздері",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ал күні"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртінші"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "қозы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "жасар"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "бір жыл"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "мінсіздері"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:47.963965113Z",
+  "model": "glm-5.3"
+}

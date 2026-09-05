@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Элимнен жол тартты, Қамыс теңізі жағасында лагер құрды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жол тартты"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "Элимнен"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "על",
+      "gloss": "жағасында"
+    },
+    {
+      "surface": "ים",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "қамыс"
+    }
+  ],
+  "timestamp": "2026-09-05T02:30:36.611598412Z",
+  "model": "glm-5.3"
+}

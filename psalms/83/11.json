@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 83,
+  "translation": "Олар Эн-Дорда жойылды, жерге көңге айналды.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "жойылды"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "Эн-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дорда"
+    },
+    {
+      "surface": "היו",
+      "gloss": "айналды"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "көңге"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "жерге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:12.536180659Z",
+  "model": "glm-5.3"
+}

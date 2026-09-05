@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Һадад өлді, ал орнына Масрекадан Самла патшалық құрды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Һадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патшалық құрды"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "Масрекадан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:18.540143715Z",
+  "model": "glm-5.3"
+}

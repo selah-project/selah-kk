@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "Жау оны қинандырмас, залымның ұлы да оны езбейді.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "қинандырмас"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "жау"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оны"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ұлы да"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "залымның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "оны езбейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:35.302652614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Және Хизкияһу бетін қабырға бұрып, Яхвеге дұға етті.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "және бұрды"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "бетін"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "қабырға"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "және дұға етті"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T04:30:06.061366253Z",
+  "model": "glm-5.3"
+}

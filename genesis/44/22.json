@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Біз иенімізге: «Жас ⟨את⟩ өз әкесін тастай алмайды; ⟨את⟩ әкесін тастаса — өледі» дедік.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "дедік"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אדני",
+      "gloss": "иенімізге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "алады"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "жас"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "тастай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз әкесін"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "өз әкесін"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "тастаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әкесін"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесін"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өледі"
+    }
+  ],
+  "timestamp": "2026-09-05T01:33:32.055514302Z",
+  "model": "glm-5.3"
+}

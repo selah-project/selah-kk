@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Және күні көрінгеннің онда тірі ет — лас болады.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "және күні"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "көрінгеннің"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тірі"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "лас болады"
+    }
+  ],
+  "timestamp": "2026-09-05T02:03:58.584703306Z",
+  "model": "glm-5.3"
+}

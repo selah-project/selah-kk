@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Бақытты ⟨ол⟩ — күтіп, мың үш жүз отыз бес күнге жеткен.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "бақытты"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "күтіп"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "жеткен"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "күнге"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "бес"
+    }
+  ],
+  "timestamp": "2026-09-05T07:58:47.948966249Z",
+  "model": "glm-5.3"
+}

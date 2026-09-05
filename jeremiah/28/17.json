@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Сол жылы, жетінші айда Хананья пайғамбар өлді.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананья"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайғамбар"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айында"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетінші"
+    }
+  ],
+  "timestamp": "2026-09-05T04:54:41.459193804Z",
+  "model": "glm-5.3"
+}

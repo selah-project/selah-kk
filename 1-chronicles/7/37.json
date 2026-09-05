@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бецер және Һод, және Шама, және Шилша, және Йитран және Беэра.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Бецер"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "және Һод"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "және Шама"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "және Шилша"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "және Йитран"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "және Беэра"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:37.861109137Z",
+  "model": "glm-5.3"
+}

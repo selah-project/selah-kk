@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Яхвенің алдынан от шығып, оларды жеп қойды, және олар Яхвенің алдында өлді.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "шығып"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "жеп қойды"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨оларды⟩",
+      "marks": "олар"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:03:55.446002439Z",
+  "model": "glm-5.3"
+}

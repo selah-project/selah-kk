@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Даналықты және тәрбиені білуге, ақыл сөздерін ұғынуға,",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "білуге"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даналықты"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "және тәрбиені"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ұғынуға"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "сөздерін"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ақылдың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:02.272049068Z",
+  "model": "glm-5.3"
+}

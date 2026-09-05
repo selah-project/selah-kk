@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Қаһандардың әр еркегі ⟨את⟩ оны жейді; қасиет — қасиеттердің ⟨ол⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "еркегі"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "қаһандардың"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жейді"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қасиет"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "қасиеттердің"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T01:59:07.920387751Z",
+  "model": "glm-5.3"
+}

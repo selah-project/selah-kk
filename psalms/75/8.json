@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 75,
+  "translation": "Өйткені Элохим сот: ол ⟨біреуді⟩ төмен түсіреді, ал бұны көтереді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "сот"
+    },
+    {
+      "surface": "זה",
+      "gloss": "осыны"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "төмен түсіреді"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ал осыны"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "көтереді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:04.427455611Z",
+  "model": "glm-5.3"
+}

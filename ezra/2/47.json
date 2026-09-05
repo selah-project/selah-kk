@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Гиддел ұлдары, Гаһар ұлдары, Реайаһ ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гиддел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Гаһар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реайаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:01.997530512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Жерді барлаудан олар қырық күннің соңында оралды.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "оралды"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "барлаудан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "соңында"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "қырық"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күннің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:54.809215089Z",
+  "model": "glm-5.3"
+}

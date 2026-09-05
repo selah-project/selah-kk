@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Оһоливама князі, Эла князі, Пинон князі.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "князі"
+    },
+    {
+      "surface": "אהלибמה",
+      "gloss": "Оһоливама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князі"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "князі"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пинон"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:04.963214865Z",
+  "model": "glm-5.3"
+}

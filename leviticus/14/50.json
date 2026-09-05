@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Және құстардың бірін тірінен ағатын судың үстіндегі қыш ыдыста союы керек.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "және сойсын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "құсты"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "құсты"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бірін"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ішіне"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ыдыс"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "қыш"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тірінен ағатын"
+    }
+  ],
+  "timestamp": "2026-09-05T02:04:01.535268232Z",
+  "model": "glm-5.3"
+}

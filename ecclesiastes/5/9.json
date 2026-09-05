@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Күмісті сүйген күміспен қанықпайды, және молшылықты сүйгенге кіріс ⟨жоқ⟩ — бұл да һебел.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "сүйген"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмісті"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "қанықпайды"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күміспен"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "және кім"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйген"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "молшылықты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "кіріс"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "һебел"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:28.359901440Z",
+  "model": "glm-5.3"
+}

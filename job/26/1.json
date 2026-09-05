@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ийов жауап берді және айтты:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жауап берді"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:45:06.126206394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 8:31",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Шхемдегі күңі де оған ұл туды — өзі де; және ол ⟨את⟩ оның атын Абимелек қойды.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "және оның күңі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Шхемде"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "היא",
+      "gloss": "өзі"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "және қойды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оның атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "оның атын"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Абимелек"
+    }
+  ],
+  "timestamp": "2026-09-05T03:11:14.167485978Z",
+  "model": "glm-5.3"
+}

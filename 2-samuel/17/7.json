@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Хушай Авшаломға айтты: «Ахитофелдің бұл жолы кеңес берген кеңесі жақсы емес».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "кеңес"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оны"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "кеңес берді"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "жолы"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бұл"
+    }
+  ],
+  "timestamp": "2026-09-05T03:43:43.870854301Z",
+  "model": "glm-5.3"
+}

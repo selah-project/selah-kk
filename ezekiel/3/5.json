@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Себебі сен терең ерінді және ауыр тілді халыққа емес — Исраил үйіне жіберілгенсің.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "терең"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ерін"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "және ауыр"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тіл"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "жіберілгенсің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T05:10:43.764731043Z",
+  "model": "glm-5.3"
+}

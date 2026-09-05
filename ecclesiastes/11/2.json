@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Жетіге де, сегізге де үлес бер, өйткені жер үстіне қандай жамандық келетінін білмейсің.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "бер"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "үлес"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "жетіге"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "және де"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "сегізге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "білмейсің"
+    },
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болатынын"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:35.043722081Z",
+  "model": "glm-5.3"
+}

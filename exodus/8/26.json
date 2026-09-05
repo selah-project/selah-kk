@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және Моше Параоның қасынан шықты және Яхвеге жалбарынды.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "қасынан"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парао"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "жалбарынды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T01:41:43.801128575Z",
+  "model": "glm-5.3"
+}

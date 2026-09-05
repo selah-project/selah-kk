@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 65,
+  "translation": "Музыка басшысына ⟨мизмор⟩, Давидке, өлең.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "музыка басшысына"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "⟨мизмор⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "өлең"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:58.418958890Z",
+  "model": "glm-5.3"
+}

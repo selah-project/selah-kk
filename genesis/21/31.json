@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Сол себепті сол орынды Беэр-Шева деп атады, өйткені сол жерде екеуі ант берді.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "сол"
+    },
+    {
+      "surface": "כן",
+      "gloss": "себепті"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "орынды"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сол жерде"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ант берді"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "екеуі"
+    }
+  ],
+  "timestamp": "2026-09-05T01:22:14.596619040Z",
+  "model": "glm-5.3"
+}

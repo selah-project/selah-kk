@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 94,
+  "translation": "Көтеріл, жердің ⟨сот⟩ы, тәкаппарларға ⟨қайтарым⟩ қайтар!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "көтеріл"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "сот"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "השב",
+      "gloss": "қайтар"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "⟨қайтарым⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "тәкаппарларға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:49.559719711Z",
+  "model": "glm-5.3"
+}

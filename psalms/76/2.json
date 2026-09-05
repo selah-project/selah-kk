@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 76,
+  "translation": "Яҳудада Элохим танылды, Исраілде Оның есімі ұлы.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "танылды"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Яҳудада"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраілде"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Оның есімі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:53.021107918Z",
+  "model": "glm-5.3"
+}

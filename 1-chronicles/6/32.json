@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Махлидің ұлы, Мушидің ұлы, Мераридің ұлы, Левидің ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлидің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Мушидің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мераридің"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левидің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:14.001938881Z",
+  "model": "glm-5.3"
+}

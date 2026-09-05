@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 67,
+  "translation": "Жетекшісіне, ішекті аспаптармен — мизмор, ән.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "жетекшісіне"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ішекті аспаптармен"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ән"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:38.302344190Z",
+  "model": "glm-5.3"
+}

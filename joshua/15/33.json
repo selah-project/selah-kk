@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Аласа жазықта: Эштаол, және Цора, және Ашна",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "Аласа жазықта"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "Эштаол"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "және Цора"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "және Ашна"
+    }
+  ],
+  "timestamp": "2026-09-05T03:02:06.397201499Z",
+  "model": "glm-5.3"
+}

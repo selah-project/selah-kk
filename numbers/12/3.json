@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Ал кісі Моше ⟨өте⟩ кішіпейіл еді — жер бетіндегі барлық адамнан ⟨көбірек⟩.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ал кісі"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "кішіпейіл"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨өте⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "барлық... дан"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетіндегі"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T02:20:32.971367986Z",
+  "model": "glm-5.3"
+}

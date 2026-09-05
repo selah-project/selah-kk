@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Теңізді жарып, оларды өткізді; суларды үйіндідей тіктеп тұрғызды.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "жарып"
+    },
+    {
+      "surface": "ים",
+      "gloss": "теңізді"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "өткізді"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "тұрғызды"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суларды"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сияқты"
+    },
+    {
+      "surface": "נד",
+      "gloss": "үйінді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:21.536110365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Ол оған ⟨את⟩ күңі Билһаны әйелдікке берді, Яаков оған кірді.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "берді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билһаны"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһа"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "күңі"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "әйелдікке"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-09-05T01:26:35.906761221Z",
+  "model": "glm-5.3"
+}

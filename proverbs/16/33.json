@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Құшаққа ⟨את⟩ жеребе тасталады, ал оның барлық үкімі Яхведен!",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "құшаққа"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "тасталады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жеребе"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жеребе"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ал Яхведен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "үкімі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:28.266265143Z",
+  "model": "glm-5.3"
+}

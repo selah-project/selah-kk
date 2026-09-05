@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Егер Яхве бізді қаласа, ⟨את⟩ бізді осы жерге әкеліп, оны бізге береді — сүт пен бал аққан жер.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "қаласа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "бізді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "әкеліп"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ бізді",
+      "marks": "бізді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "береді"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "аққан"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сүт"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "мен бал"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:43.288528448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 53,
+  "translation": "Бәрі шегінді, бірге шірігендер — жақсылық жасаушы жоқ, тіпті біреу де жоқ.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "סג",
+      "gloss": "шегінді"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "шірігендер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаушы"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "тіпті"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "біреу де"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:52.417325891Z",
+  "model": "glm-5.3"
+}

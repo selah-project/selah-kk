@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Амарияның ұлы, Азарияның ұлы, Мерайоттың ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарияның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарияның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайоттың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:03:55.835576965Z",
+  "model": "glm-5.3"
+}

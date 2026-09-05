@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Мерари ұлдарынан: басшы Асая және оның бауырлары — екі жүз жиырма.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асая"
+    },
+    {
+      "surface": "השר",
+      "gloss": "басшы"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "және оның бауырлары"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "екі жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:51.297291177Z",
+  "model": "glm-5.3"
+}

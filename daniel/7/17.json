@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "«Бұл үлкен аңдар — ⟨олар⟩ төртеу; төрт патша жерден тұрады».",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "аңдар"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨олар⟩"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "патшалар"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "тұрады"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "⟨жерден⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T07:56:37.332140859Z",
+  "model": "glm-5.3"
+}

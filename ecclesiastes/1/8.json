@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Барлық сөздер шаршатады, адам айта алмайды; көз көруден тоймайды және құлақ естуден толмайды.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздер"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "шаршатады"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "алмайды"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "айта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "алмайды"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "тоймайды"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көруден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "толмайды"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "құлақ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "естуден"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:53.767433114Z",
+  "model": "glm-5.3"
+}

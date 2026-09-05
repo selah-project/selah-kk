@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Патшаның қаһары — өлім елшілері, ал ақылды кісі оны ⟨бір жаққа⟩ басады.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "қаһары"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "елшілері"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлім"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ал кісі"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ақылды"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "оны басады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:02.380670831Z",
+  "model": "glm-5.3"
+}

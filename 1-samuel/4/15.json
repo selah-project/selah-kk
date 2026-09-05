@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Эли тоқсан сегіз жаста еді; көздері ⟨үсті⟩ қадалып, көре алмайтын.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…жаста"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "тоқсан"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегіз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жас"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "көздері"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "қадалып"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "алмайтын"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "қабілетсіз"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көре"
+    }
+  ],
+  "timestamp": "2026-09-05T03:21:53.373920932Z",
+  "model": "glm-5.3"
+}

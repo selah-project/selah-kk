@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Және әрбір ашық ыдыс — үстінде жіппен байланған қақпағы жоқ — сол лас.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "және әрбір"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ыдыс"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ашық"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "қақпақ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "жіппен"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "лас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:33.604164369Z",
+  "model": "glm-5.3"
+}

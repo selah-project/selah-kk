@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Жеті жылдың соңында шемитаны (борыштан босатуды) жасайсың.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "соңында"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жылдың"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасайсың"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "шемита (борыштан босату)"
+    }
+  ],
+  "timestamp": "2026-09-05T02:42:13.611399743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 77,
+  "translation": "Қосшыға, Йедутун ⟨бойынша⟩, Асафқа — мәзмұр.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "қосшыға"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Йедутун"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафқа"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмұр"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:06.598323879Z",
+  "model": "glm-5.3"
+}

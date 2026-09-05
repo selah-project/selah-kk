@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 92,
+  "translation": "Ал Сен, әуелден биік, Яхве, мәңгі-бақи.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ал Сен"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "биік"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "мәңгі-бақи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:30.315875516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Атердің, Хизқияһтың ұрпақтары — тоқсан сегіз.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұрпақтары"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атердің"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "Хизқияһтың"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "тоқсан"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:02.752406716Z",
+  "model": "glm-5.3"
+}

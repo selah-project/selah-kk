@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Ақымақ ұл — әкесіне қайғы, ал туған анасына — ащылық.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "қайғы"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "әкесіне"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақ"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "және ащылық"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "туған анасына"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:34.917006910Z",
+  "model": "glm-5.3"
+}

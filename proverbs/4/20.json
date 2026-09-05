@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ұлым, сөздеріме зейін қой, айтқандарыма құлағыңды қисайт.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлым"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "сөздеріме"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "зейін қой"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "айтқандарыма"
+    },
+    {
+      "surface": "הט",
+      "gloss": "қисайт"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "құлағыңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:04.139264243Z",
+  "model": "glm-5.3"
+}

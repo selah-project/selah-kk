@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Сый оның алдынан өтті, ал ол түні бойы сол лагерьде қонды.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "өтті"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "сый"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "оның"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал ол"
+    },
+    {
+      "surface": "לן",
+      "gloss": "қонды"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түні бойы"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерьде"
+    }
+  ],
+  "timestamp": "2026-09-05T01:27:16.275525288Z",
+  "model": "glm-5.3"
+}

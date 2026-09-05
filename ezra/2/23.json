@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Анатот ерлері: жүз жиырма сегіз.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ерлері"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:00:50.088236713Z",
+  "model": "glm-5.3"
+}

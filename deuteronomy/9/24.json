@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Бұлқыңқырлар болдыңдар Яхвемен — сендерді таныған күннен бастап.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "бұлқыңқырлар"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "болдыңдар"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвемен"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "күннен бастап"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "таныған"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "сендерді ⟨את⟩",
+      "marks": "сендерді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:38:29.389109124Z",
+  "model": "glm-5.3"
+}

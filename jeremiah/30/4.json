@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Және мыналар — сөздер, Яхве Исраилге және Йеһудаға айтқан.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "және мыналар"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "←"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилге"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және ←"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһудаға"
+    }
+  ],
+  "timestamp": "2026-09-05T07:33:21.181014169Z",
+  "model": "glm-5.3"
+}

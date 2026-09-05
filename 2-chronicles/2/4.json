@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ал мен салатын үй ұлы, себебі Элохиміз (біздің Құдайымыз) бүкіл құдайлардан ұлы.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ал үй"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсыны"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "саламын"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохиміз"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "барлықтан"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "құдайлардан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:28.305679165Z",
+  "model": "glm-5.3"
+}

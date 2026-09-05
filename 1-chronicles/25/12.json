@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Бесінші Нетанјаһуға — ұлдары және бауырлары — он екі.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "бесінші"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Нетанјаһуға"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "және бауырлары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.505490731Z",
+  "model": "glm-5.3"
+}

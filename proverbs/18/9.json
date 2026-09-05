@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Жұмысында елеңсерек те — ол қиратушының бауыры.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "те"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "елеңсерек"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "жұмысында"
+    },
+    {
+      "surface": "אח",
+      "gloss": "бауыры"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "иесіне"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "қиратушының"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:41.005823858Z",
+  "model": "glm-5.3"
+}

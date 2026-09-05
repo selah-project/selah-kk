@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "және ⟨את⟩ қарғаның бүкіл ⟨түрін⟩ оның түрі бойынша",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "барлық қарға"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "қарға"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "оның түрі бойынша"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:27.187956575Z",
+  "model": "glm-5.3"
+}

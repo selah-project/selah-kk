@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Сөйтіп Исраил эмори жерінде қоныстады.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "қоныстады"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "эмори"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:14.028491726Z",
+  "model": "glm-5.3"
+}

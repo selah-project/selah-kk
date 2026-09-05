@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Және ⟨את⟩ еркекті әйелдің жатығындай жатпа — жеккөріністі нәрсе ол.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "еркекті"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "еркек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "жатасың"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "жатығы"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйелдің"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "жеккөрініс"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:07:02.056240Z",
+  "model": "glm-5.3"
+}

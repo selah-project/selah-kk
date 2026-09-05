@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Қиындық күнінде бой берсең — күш-қуатың тар.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "бой берсең"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнінде"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "қиындық"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тар"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "күш-қуатың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:29.018295754Z",
+  "model": "glm-5.3"
+}

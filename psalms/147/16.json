@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 147,
+  "translation": "Жүндей қар беретін, күлдей қырауды шашатын ⟨Ол⟩.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "беретін"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "қар"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "жүндей"
+    },
+    {
+      "surface": "кפור",
+      "gloss": "қырау"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "күлдей"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "шашады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:16.925483344Z",
+  "model": "glm-5.3"
+}

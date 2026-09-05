@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Одан ағаш алына ма бір жұмыс жасауға, одан шеге алына ма оған кез келген ыдысты ілуге?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "алына ма"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ағаш"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жасауға"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "жұмысқа"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әлде"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "алады ма"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "шеге"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "ілуге"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кез келген"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ыдысты"
+    }
+  ],
+  "timestamp": "2026-09-05T05:13:46.666928157Z",
+  "model": "glm-5.3"
+}

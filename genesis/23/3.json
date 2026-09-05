@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Авраһам өлінің қасынан тұрды да, Хет ұлдарына сөйлеп былай деді:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "тұрды да"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "қасынан"
+    },
+    {
+      "surface": "פני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "өлінің"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлеп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ға"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    }
+  ],
+  "timestamp": "2026-09-05T01:22:17.574210350Z",
+  "model": "glm-5.3"
+}

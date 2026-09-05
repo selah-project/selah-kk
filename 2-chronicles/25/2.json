@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Яхвенің көзінде дұрысты істеді, тек бүтін жүрекпен ⟨емес⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "істеді"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "дұрысты"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "жүрекпен"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "бүтін"
+    }
+  ],
+  "timestamp": "2026-09-05T08:35:55.819904892Z",
+  "model": "glm-5.3"
+}

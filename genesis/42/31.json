@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Оған: біз шын адамдармыз, тыңшылар болған жоқпыз — дедік.",
+  "tokens": [
+    {
+      "surface": "וונאמר",
+      "gloss": "дедік"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "шын адамдармыз"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "біз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "болған"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "тыңшылар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:34:20.145433914Z",
+  "model": "glm-5.3"
+}

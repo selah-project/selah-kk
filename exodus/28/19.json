@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Және үшінші қатар: лешем, шево және ахламаһ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "және қатар"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үшінші"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лешем"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "шево"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "және ахламаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T01:50:21.729750383Z",
+  "model": "glm-5.3"
+}

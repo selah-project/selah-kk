@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Иешайаһу, Амоцтың ұлы, көрген сөз — Йеһуда мен Йерушалаим туралы.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "көрген"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Иешайаһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоц"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуда"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "және Йерушалаим"
+    }
+  ],
+  "timestamp": "2026-09-05T04:19:39.246730801Z",
+  "model": "glm-5.3"
+}

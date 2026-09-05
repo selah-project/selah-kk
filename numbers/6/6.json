@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Яхвеге бөлінген күндерінің бәрінде ол өлі жанның үстіне кірмейді.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бәрінде"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндерінің"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "бөлінген"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанның"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өлі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кірмейді"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:19.858065712Z",
+  "model": "glm-5.3"
+}

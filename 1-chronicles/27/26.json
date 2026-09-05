@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Дала жұмысына — жерді өңдеу қызметіне — қарайтын Келубтың ұлы Эзри.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "және … қарайтын"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "жасаушылар"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "жұмысы"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "дала"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "қызметіне"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жерді өңдеу"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Эзри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "Келубтың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:22.197489128Z",
+  "model": "glm-5.3"
+}

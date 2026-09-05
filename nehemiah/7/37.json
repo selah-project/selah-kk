@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Лодтың ұлдары, Хадид пен Оно, жеті жүз жиырма бір.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лодтың"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадид"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "пен Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:20.366357724Z",
+  "model": "glm-5.3"
+}

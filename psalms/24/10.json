@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Кім ⟨ол⟩, бұл Құрмет Патшасы? Яхве Цебаот — ⟨ол⟩ Құрмет Патшасы. Селаһ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кім"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Патшасы"
+    },
+    {
+      "surface": "хакавод → הכבוד",
+      "gloss": "Құрмет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Патшасы"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "Құрмет"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T05:55:35.850261098Z",
+  "model": "glm-5.3"
+}

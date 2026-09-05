@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бигвай ұлдары: екі мың алпыс жеті.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигвай"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "екі мың"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "алпыс"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "және жеті"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.286164131Z",
+  "model": "glm-5.3"
+}

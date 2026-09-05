@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Даналардың ерні білім шашады, ал ақымақтардың жүрегі ондай ⟨жоқ⟩.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ерні"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "даналардың"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "шашады"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ал жүрегі"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ақымақтардың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨жоқ⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ондай"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:46.888089729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ең Жоғарының бетінің алдында адамның әділ сотын бұруға ⟨атынып⟩.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "бұруға"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "әділ сотын"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетінің алдында"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ең Жоғарының"
+    }
+  ],
+  "timestamp": "2026-09-05T07:45:17.746829984Z",
+  "model": "glm-5.3"
+}

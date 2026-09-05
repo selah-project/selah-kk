@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Жоқ, — атамның үйіне және менің туыстарымның қарайсың, ұлыма әйел аласың.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамның"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "барасың"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және қарай"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "туыстарыма"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "және аласың"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлыма"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:03.115346833Z",
+  "model": "glm-5.3"
+}

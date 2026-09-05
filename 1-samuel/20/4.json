@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Йонатан Давидке айтты: «Жаның не айтады — мен соны саған істеймін.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаның"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "және істеймін"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T03:30:15.156987086Z",
+  "model": "glm-5.3"
+}

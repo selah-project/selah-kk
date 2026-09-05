@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Мен өз ұланымды ⟨את⟩ саған орнатамын, және сен кемеңе кіресің — сен, ұлдарың, әйелің және ұлдарыңның әйелдері ⟨את⟩ сенімен бірге.",
+  "tokens": [
+    {
+      "surface": "והקימתי",
+      "gloss": "орнатамын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ұланым"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "өз ұланым"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ саған",
+      "marks": "preposition 'with you'"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "кіресің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "кемеңе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ұлдарың"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "әйелің"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "әйелдері"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ұлдарыңның"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ сенімен",
+      "marks": "preposition 'with you'"
+    }
+  ],
+  "timestamp": "2026-09-05T08:54:35.935201388Z",
+  "model": "glm-5.3"
+}

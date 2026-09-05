@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Яхве Мошеге сөйлеп айтты:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлеп айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:39.638365934Z",
+  "model": "glm-5.3"
+}

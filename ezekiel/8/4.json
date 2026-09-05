@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және мына — онда Исраил Элоһимінің даңқы, мен жазықта көрген көріністей.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "және мына"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "даңқы"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимінің"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "көріністей"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрген"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "жазықта"
+    }
+  ],
+  "timestamp": "2026-09-05T05:11:16.900808076Z",
+  "model": "glm-5.3"
+}

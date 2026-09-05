@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Содан кейін Амалек келіп, Рефидимде Исраилмен соғысты.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келіп"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "соғысты"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…мен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "Рефидимде"
+    }
+  ],
+  "timestamp": "2026-09-05T01:45:34.032631200Z",
+  "model": "glm-5.3"
+}

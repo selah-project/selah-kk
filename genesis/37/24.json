@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Оны алып, ⟨את⟩ құдырға лақтырды; құдыр бос еді, ішінде су жоқ.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "оны алып"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "лақтырды"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "оны"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "құдырға"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "және құдыр"
+    },
+    {
+      "surface": "רק",
+      "gloss": "бос"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ішінде"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:36.856612765Z",
+  "model": "glm-5.3"
+}

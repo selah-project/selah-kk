@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Исраил патшасы және Яһуда патшасы Йеһошафат Рамот-Гилғадқа көтерілді.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "көтерілді"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Йеһошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуданың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилғад"
+    }
+  ],
+  "timestamp": "2026-09-05T08:32:18.443497868Z",
+  "model": "glm-5.3"
+}

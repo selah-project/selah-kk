@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Моше мен Аһарон кездесу шатырының алдына келді.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "פני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатырының"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "кездесу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:21:45.584739158Z",
+  "model": "glm-5.3"
+}

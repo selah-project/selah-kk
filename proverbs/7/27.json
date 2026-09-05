@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Шеол жолдары — оның үйі, өлім бөлмелеріне түсетін ⟨жолдар⟩.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "жолдары"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "оның үйі"
+    },
+    {
+      "surface": "יורדות",
+      "gloss": "түсетін"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ға"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "бөлмелеріне"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:25.893208167Z",
+  "model": "glm-5.3"
+}

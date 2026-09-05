@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бесай ұлдары, Меуним ұлдары, Нефушесим ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "Меуним"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "Нефушесим"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:04.291290343Z",
+  "model": "glm-5.3"
+}

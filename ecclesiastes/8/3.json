@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Одан кетуге асықпа, жаман істе тұрма, себебі қалағанының бәрін істейді ⟨ол⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "асықпа"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "асықпа"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "одан"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "кетуге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тұрма"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "тұрма"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "істе"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қалағанының"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "қалаған"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "істейді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:46.877856931Z",
+  "model": "glm-5.3"
+}

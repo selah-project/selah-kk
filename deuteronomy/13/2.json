@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Егер сенің ортаңда пайғамбар немесе түс көруші тұрса және саған белгіні немесе кереметті берсе,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "тұрса"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ортаңда"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пайғамбар"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "түс көруші"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "түс"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "және берсе"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "אות",
+      "gloss": "белгіні"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "кереметті"
+    }
+  ],
+  "timestamp": "2026-09-05T02:41:48.641403527Z",
+  "model": "glm-5.3"
+}

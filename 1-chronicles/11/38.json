@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Йоел — Натанның інісі, Мивһар — һағриттің ұлы.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "інісі"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натанның"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Мивһар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "һағриттің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:17.800334696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Әділдігің — мәңгілік әділдік, және Тораң — ақиқат.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "әділдігің"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "әділдік"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгілік"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "және Тораң"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ақиқат"
+    }
+  ],
+  "timestamp": "2026-09-05T06:20:03.608802718Z",
+  "model": "glm-5.3"
+}

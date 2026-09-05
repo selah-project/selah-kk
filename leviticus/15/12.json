@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Және ағынды адамның тиген ⟨қыш⟩ ыдысы сынады, ал ағаш ыдыстың бәрі суда шайылады.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "және ыдыс"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "қыш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қанды"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "тиген"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ағынды адам"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "сынады"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ал бәрі"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ыдыс"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ағаш"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "шайылады"
+    },
+    {
+      "surface": "במים",
+      "gloss": "суда"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:35.094061036Z",
+  "model": "glm-5.3"
+}

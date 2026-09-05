@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Қариялар ⟨қақпадан⟩ шектелді, жастар өз жырларынан.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "қариялар"
+    },
+    {
+      "surface": "משער",
+      "gloss": "қақпадан"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "шектелді"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "жастар"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "өз жырларынан"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:41.497119001Z",
+  "model": "glm-5.3"
+}

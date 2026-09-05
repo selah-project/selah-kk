@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Шегірткелерге патша жоқ, бірақ бәрі тобымен шығады.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "лאрбה",
+      "gloss": "шегірткелерге"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "және шығады"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "тобымен"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "бәрі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:58.248214829Z",
+  "model": "glm-5.3"
+}

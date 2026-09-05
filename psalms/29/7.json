@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Яхвенің дауысы от жалындарын қаша-қаша қиып жасайды.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дауысы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "қиып"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "жалындарын"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:06.366771182Z",
+  "model": "glm-5.3"
+}

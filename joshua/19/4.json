@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "және Элтолад және Бетул және Харама.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "және Элтолад"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "және Бетул"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "және Харама"
+    }
+  ],
+  "timestamp": "2026-09-05T03:03:17.654379388Z",
+  "model": "glm-5.3"
+}

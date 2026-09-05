@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Сенің құлың әкеміз бізге айтты: сендер білесіңдер — әйелім маған екі ұл туды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "сенің құлың"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкеміз"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сендер"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "білесіңдер"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екеу"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "әйелім"
+    }
+  ],
+  "timestamp": "2026-09-05T01:34:44.778655130Z",
+  "model": "glm-5.3"
+}

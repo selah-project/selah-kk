@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 11:31",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Итай — Рибайдың ұлы, Бинямин ұлдарының Гивасынан, Бнаяһ Пиратондық.",
+  "tokens": [
+    {
+      "surface": "איתי",
+      "gloss": "Итай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "Рибайдың"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "Гивасынан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинямин"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Бнаяһ"
+    },
+    {
+      "surface": "הפרעתני",
+      "gloss": "Пиратондық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:15:37.809543598Z",
+  "model": "glm-5.3"
+}

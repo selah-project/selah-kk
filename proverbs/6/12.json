@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Беліал адам — зұлымдық ер, ауызын бұрмалап жүрген.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Беліал"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ер"
+    },
+    {
+      "surface": "און",
+      "gloss": "зұлымдық"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "жүрген"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "бұрмалық"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ауыз"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:36.596253766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Мына ⟨тәкаппар⟩ — жаны онда тура ⟨емес⟩; ал әділ өз иманымен тірі болады.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "⟨тәкаппар⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "тура"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онда"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ал әділ"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "өз иманымен"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "тірі болады"
+    }
+  ],
+  "timestamp": "2026-09-05T05:42:55.559397082Z",
+  "model": "glm-5.3"
+}

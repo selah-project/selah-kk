@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Иесінен қашып құтылып сенің қасыңа келген құлды оның иесіне тапсырмайсың.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "тапсырмайсың"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "құлды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "иесіне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "қашып құтылған"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сенің қасыңа"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "жанынан"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "иесінің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:45.882558304Z",
+  "model": "glm-5.3"
+}

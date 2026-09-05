@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 135,
+  "translation": "Ұлттардың пұттары — күміс пен алтын, адам қолының жасауы.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "пұттары"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ұлттардың"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күміс"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "және алтын"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "жасауы"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "қолының"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-09-05T06:21:17.528603975Z",
+  "model": "glm-5.3"
+}

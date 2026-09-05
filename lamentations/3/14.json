@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Мен бүкіл халқыма ⟨болдым⟩ күлкі, олардың әні — күні бойы.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "болдым"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "күлкі"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүкіл…ә"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халқыма"
+    },
+    {
+      "surface": "נגינатам",
+      "gloss": "олардың әні"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күні бойы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:00.184980919Z",
+  "model": "glm-5.3"
+}

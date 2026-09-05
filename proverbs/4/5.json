@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Даналықты ал, ақылды ал; ұмытпа және аузымның сөздерінен ауытқыма.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ал"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даналықты"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ақылды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тыйым"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ұмытпа"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және тыйым"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ауытқыма"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "сөздерінен"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузымның"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:03.414171651Z",
+  "model": "glm-5.3"
+}

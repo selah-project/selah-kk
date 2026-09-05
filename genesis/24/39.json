@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Мен иеме айттым: «Мүмкін әйел менің артымнан жүрмей қалар».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "дедім"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "иеме"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мүмкін"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жүрмей"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "жүрер"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артымнан"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:03.115483663Z",
+  "model": "glm-5.3"
+}

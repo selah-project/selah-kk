@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 75,
+  "translation": "Төреға: қиратпаңыз. Асафтың мизморы, ән.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Төреға"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қиратпаңыз"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": ""
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизморы"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафтың"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ән"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:00.018640828Z",
+  "model": "glm-5.3"
+}

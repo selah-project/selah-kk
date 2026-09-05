@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Анаңның сіңлісінің жалаңаштығын ашпаң, себебі ол анаңның ⟨еті⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жалаңаштығын"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сіңлісінің"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "анаңның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ашпаң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "еті"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "анаңның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:40.618612642Z",
+  "model": "glm-5.3"
+}

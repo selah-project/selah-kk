@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Мен бардым және оны Ператта жасырдым, Яхве маған бұйырғандай.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "бардым"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "оны жасырдым"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "Ператта"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "мені"
+    }
+  ],
+  "timestamp": "2026-09-05T07:32:29.235633127Z",
+  "model": "glm-5.3"
+}

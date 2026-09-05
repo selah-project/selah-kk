@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Жараланған, жаншылған және мүшесі кесілген ер Яхвенің жиналысына кірмесін.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "кірмесін"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кіреді"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "жараланған"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "жаншылған"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "және кесілген"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "мүшесі"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "жиналысына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T02:47:09.636526737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Әмірлер өз қолдарымен ілінді, қариялардың жүздеріне құрмет көрсетілмеді.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "әмірлер"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "өз қолдарымен"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ілінді"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүздеріне"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "қариялардың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נהдרו",
+      "gloss": "құрмет көрсетілмеді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:48.586572958Z",
+  "model": "glm-5.3"
+}

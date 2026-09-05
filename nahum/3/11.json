@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Сен де мас боласың, жасырын боласың; сен де бекініс іздейсің жаудан.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "את",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "мас боласың"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "боласың"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "жасырын"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "את",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "іздейсің"
+    },
+    {
+      "surface": "мעוז",
+      "gloss": "бекініс"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "жаудан"
+    }
+  ],
+  "timestamp": "2026-09-05T05:41:18.176327004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 35,
+  "translation": "Адам ұлы, бетіңді Сеир тауына қарай қой да, оған пайғамбарлық ет:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "שים",
+      "gloss": "қой"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "бетіңді"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарay ⟨қарсы⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "және пайғамбарлық ет"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған ⟨қарсы⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T05:25:09.825612064Z",
+  "model": "glm-5.3"
+}

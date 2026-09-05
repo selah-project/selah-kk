@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Қорқыныш пен ор біздің басымызга келді, қирау және қиратушылық.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "қорқыныш"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "және ор"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "біздің басымызга"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "қирау"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "және қиратушылық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:38.833352239Z",
+  "model": "glm-5.3"
+}

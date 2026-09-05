@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Өйткені һәбелді көбейтетін сөздер көп —адамға не артық?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сөздер"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "көбейтетін"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "һәбел"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "артық"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "адамға"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:57.651690492Z",
+  "model": "glm-5.3"
+}

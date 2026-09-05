@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Және болады бір күн — ⟨ол⟩ Яхвеге белгілі: күн де емес, түн де емес; және болады: кеш мезгілінде жарық болады.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "белгілі"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "де емес"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "мезгілінде"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кеш"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарық"
+    }
+  ],
+  "timestamp": "2026-09-05T05:49:10.679622254Z",
+  "model": "glm-5.3"
+}

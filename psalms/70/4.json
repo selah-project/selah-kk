@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 70,
+  "translation": "«Аһа, аһа!» дегендер ұяттарының салдарымен қайтсын.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "қайтсын"
+    },
+    {
+      "surface": "על",
+      "gloss": "себебімен"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "салдары"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ұяттарының"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "дегендер"
+    },
+    {
+      "surface": "האח",
+      "gloss": "аһа"
+    },
+    {
+      "surface": "האח",
+      "gloss": "аһа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:05.033642211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 47,
+  "translation": "Хормейстерге, Қораһ ұлдарына, мизмор.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Хормейстерге"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қораһ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    }
+  ],
+  "timestamp": "2026-09-05T06:01:25.602694649Z",
+  "model": "glm-5.3"
+}

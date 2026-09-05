@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Ашулы кісі дау-жанжал қоздырады, және қаһарлы кісі ⟨қылмысқа⟩ бай.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "кісі"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ашулы"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "қоздырады"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "дау-жанжал"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "және иесі"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "қаһарлы"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бай"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "қылмысқа"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:13.435431655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ұлым, даналығыма құлақ тік, түсінігіме құлағыңды бұр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ұлым"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "даналығыма"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "құлақ тік"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "түсінігіме"
+    },
+    {
+      "surface": "הט",
+      "gloss": "бұр"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "құлағыңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:25.858564341Z",
+  "model": "glm-5.3"
+}

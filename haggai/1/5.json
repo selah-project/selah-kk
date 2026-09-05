@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Енді былай деген Яхве Цебаот: жүректеріңді жолдарыңа қойыңдар.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "енді"
+    },
+    {
+      "surface": "כה",
+      "gloss": "былай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "қойыңдар"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "жүректеріңді"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "жолдарыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:24.726398812Z",
+  "model": "glm-5.3"
+}

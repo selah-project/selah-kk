@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Одан да кем — өлімті адам құрт, ал адам баласы — құмтыс.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "одан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да кем"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлімті адам"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "құрт"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ал ... баласы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "құмтыс"
+    }
+  ],
+  "timestamp": "2026-09-05T06:44:31.121254208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сисераға жеткізілді: Барак, Абиноамның ұлы, Табор тауына көтерілді.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "жеткізілді"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "Сисераға"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עלה",
+      "gloss": "көтерілді"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Абиноамның"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауына"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Табор"
+    }
+  ],
+  "timestamp": "2026-09-05T03:08:38.255308271Z",
+  "model": "glm-5.3"
+}

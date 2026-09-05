@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 74,
+  "translation": "Осыны есіңде ал: жау Яхвені сөкті, және надан халық Есіміңді қорлады.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "есіңде ал"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осыны"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "жау"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "сөкті"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвені"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "және халық"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "надан"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "қорлады"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Есіміңді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:04.495091162Z",
+  "model": "glm-5.3"
+}

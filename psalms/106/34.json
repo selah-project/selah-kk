@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 106,
+  "translation": "Олар Яхве оларға айтқан ⟨את⟩ халықтарды жоймады.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "жойды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халықтарды"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халықтарды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтқан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "оларға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:50.843869788Z",
+  "model": "glm-5.3"
+}

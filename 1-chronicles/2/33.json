@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Йонатанның ұлдары: Пелет және Заза — бұлар Йерахмэелдің ұлдары болды.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатанның"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пелет"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "және Заза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бұлар"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмэелдің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:38.129510004Z",
+  "model": "glm-5.3"
+}

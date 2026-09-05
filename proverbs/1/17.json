@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Себебі тегін жайылады ⟨тор⟩ әр қанат иесінің көз алдында.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "тегін"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "шашылады"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "иесі"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "қанаттың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:24:55.002824154Z",
+  "model": "glm-5.3"
+}

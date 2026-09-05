@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "және hа-Мицпе, және hа-Кефира, және hа-Моца",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "және hа-Мицпе"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "және hа-Кефира"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "және hа-Моца"
+    }
+  ],
+  "timestamp": "2026-09-05T03:02:39.559271860Z",
+  "model": "glm-5.3"
+}

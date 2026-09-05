@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Оныншы жылы, оныншы айдың он екінші күнінде Яхвенің сөзі маған келіп айтты:",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "жылында"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "оныншы"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "он екінші күнінде"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдың"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    }
+  ],
+  "timestamp": "2026-09-05T05:21:23.699819731Z",
+  "model": "glm-5.3"
+}

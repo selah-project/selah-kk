@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 136,
+  "translation": "Барлық етке нан беретін — өйткені мәңгілікке оның хеседі.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "беретін"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "етке"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгілікке"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "оның хеседі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:00.249740480Z",
+  "model": "glm-5.3"
+}

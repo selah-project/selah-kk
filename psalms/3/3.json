@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Көптері жаныма айтады: «Оған Элохимде құтқарылу жоқ». Селаһ.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "көптері"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "жаныма"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "құтқарылу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимде"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T05:51:15.338821177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 29:19",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Тамырым суға қарай ашық, шық бұтағымда түнейді.",
+  "tokens": [
+    {
+      "surface": "שרשי",
+      "gloss": "тамырым"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ашық"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суға"
+    },
+    {
+      "surface": "וטל",
+      "gloss": "және шық"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "түнейді"
+    },
+    {
+      "surface": "בקצירי",
+      "gloss": "бұтағымда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:47:12.984205636Z",
+  "model": "glm-5.3"
+}

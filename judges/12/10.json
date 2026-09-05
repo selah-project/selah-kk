@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Ибцан өлді және Бейт-Лехемде жерленді.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ибцан"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "жерленді"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехемде"
+    }
+  ],
+  "timestamp": "2026-09-05T03:13:21.066066619Z",
+  "model": "glm-5.3"
+}

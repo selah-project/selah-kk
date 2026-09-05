@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Түсімде көрдім — мына, бір сабақта шыққан жеті масақ, толы әрі жақсы.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "түсімде"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "масақтар"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "сабақта"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "толы"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "әрі жақсы"
+    }
+  ],
+  "timestamp": "2026-09-05T01:31:59.057917917Z",
+  "model": "glm-5.3"
+}

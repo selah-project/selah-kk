@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Бұлар — Эцердің ұлдары: Билһан, Зааван және Акан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "бұлар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцердің"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билһан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "және Зааван"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "және Акан"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:11.609870245Z",
+  "model": "glm-5.3"
+}

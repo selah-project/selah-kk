@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Егер жылан құрт-сілекейсіз шақса, тіл иесіне ешбір пайда жоқ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "шақса"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "жылан"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "сырсыз"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "құрт-сілекей(сыз)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "иесіне"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "тіл"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:07.920340402Z",
+  "model": "glm-5.3"
+}

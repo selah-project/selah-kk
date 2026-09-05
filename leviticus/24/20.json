@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Сынық сынықтың орнына, көз көздің орнына, тіс тістің орнына; адамға қандай кемшілік берсе, солай оған да берілсін.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "сынық"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сынық"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тіс"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тіс"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берсе"
+    },
+    {
+      "surface": "מום",
+      "gloss": "кемшілік"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "адамға"
+    },
+    {
+      "surface": "כן",
+      "gloss": "солай"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "берілсін"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:10:29.931855136Z",
+  "model": "glm-5.3"
+}

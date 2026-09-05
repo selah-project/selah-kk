@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "Құзды ашты, судай ақты — құрғақ шөлдерде өзен болып ағынды.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ашты"
+    },
+    {
+      "surface": "צור",
+      "gloss": "құзды"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ақты"
+    },
+    {
+      "surface": "מים",
+      "gloss": "судай"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ағынды"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "құрғақ шөлдерде"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "өзен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:11.260097708Z",
+  "model": "glm-5.3"
+}

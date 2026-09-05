@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Есіңе ал мені, Элохим ⟨Ием⟩, жақсылық үшін — бұл халық үшін жасаған барлық нәрсемді.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "Есіңе ал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "жақсылық үшін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "жасағанмын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    }
+  ],
+  "timestamp": "2026-09-05T08:05:30.473619142Z",
+  "model": "glm-5.3"
+}

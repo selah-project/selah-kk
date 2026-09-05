@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Ол батыс жаққа бұрылып өлшеді — бес жүз қамыс, өлшеу қамысымен.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "бұрылып"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жаққа"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "—"
+    },
+    {
+      "surface": "הים",
+      "gloss": "батыс"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "өлшеді"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "қамыс"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "қамысымен"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "өлшеу"
+    }
+  ],
+  "timestamp": "2026-09-05T05:27:42.194623859Z",
+  "model": "glm-5.3"
+}

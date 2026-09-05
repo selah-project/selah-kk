@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Қейнанның барлық күндері тоғыз жүз жыл және он жыл болды, және ол қайтыс болды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Қейнанның"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "және тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "қайтыс болды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:35.434793710Z",
+  "model": "glm-5.3"
+}

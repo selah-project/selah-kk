@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ол жерден жолға шықты және Зередөзенінде ⟨қоныстанды⟩.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ол жерден"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "жолға шықты"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "және қоныстанды"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "өзенінде"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:06.211652551Z",
+  "model": "glm-5.3"
+}

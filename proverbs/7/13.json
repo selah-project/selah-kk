@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ол оны ұстап алды да, оны сүйді; бетін қатайтты да оған айтты:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "ұстап алды да"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оны"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "сүйді"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оны"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "қатайтты"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "бетін"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:16.375290253Z",
+  "model": "glm-5.3"
+}

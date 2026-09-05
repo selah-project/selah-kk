@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 112,
+  "translation": "Себебі мәңгі ауытқымайды ⟨ол⟩; әділ адам мәңгілік есте болады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ауытқиды"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "еске"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгілік"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділ"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:18.473088099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Сондықтан, эй зинақәй, Яхвенің сөзін тыңда.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "сондықтан"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "эй зинақәй"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:15:08.210804171Z",
+  "model": "glm-5.3"
+}

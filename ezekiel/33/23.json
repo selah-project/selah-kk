@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Болды Яхвенің сөзі маған былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "лאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:22:50.067313343Z",
+  "model": "glm-5.3"
+}

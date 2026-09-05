@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 67,
+  "translation": "Жер өнімін берді; Элохим, өз Элохиміміз бізді баталайды.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "берді"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "өнімін"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "баталайды"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохиміміз"
+    }
+  ],
+  "timestamp": "2026-09-05T06:04:11.798554602Z",
+  "model": "glm-5.3"
+}

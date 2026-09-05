@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Мен, Қоһелет, Исраелде, Ирушалайімда патша болдым.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "קהлת",
+      "gloss": "Қоһелет"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "болдым"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраелде"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ирушалайымда"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:48.566385177Z",
+  "model": "glm-5.3"
+}

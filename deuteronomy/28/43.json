@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Сенің ішіңдегі жат кісі сенен жоғары, жоғары көтеріледі, ал сен төмен, төмен түсесің.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "жат кісі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "сенің ішіңдегі"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "көтеріледі"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенен"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "жоғары"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "жоғары"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ал сен"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "түсесің"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "төмен"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "төмен"
+    }
+  ],
+  "timestamp": "2026-09-05T08:56:11.715198425Z",
+  "model": "glm-5.3"
+}

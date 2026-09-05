@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Эламның балалары — мың екі жүз елу төрт ⟨адам⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эламның"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "екі жүз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "төрт"
+    }
+  ],
+  "timestamp": "2026-09-05T07:59:34.293502554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Әрбір жесір мен жетімді қинамаңдар.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "әрбір"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "жесір"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "және жетім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "қинамаңдар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:17.029248674Z",
+  "model": "glm-5.3"
+}

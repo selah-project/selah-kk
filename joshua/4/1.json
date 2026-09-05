@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Бүкіл халық ⟨את⟩ Йарденді өтуді бітірген кезде, Яхве Йеһошуаға былай деді:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "қашан"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "бітірді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "халық"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "өтуге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йарденді"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йарден"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:55:34.357149676Z",
+  "model": "glm-5.3"
+}

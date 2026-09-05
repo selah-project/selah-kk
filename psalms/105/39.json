@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "Бұлтты жабын етіп жайды, және отты түнде жарық қылу үшін.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "жайды"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "бұлтты"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "жабын етіп"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "және отты"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "жарық қылу үшін"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнде"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:34.716799766Z",
+  "model": "glm-5.3"
+}

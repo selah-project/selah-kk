@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Жақын Яхвенің ұлы күні — жақын және өте тез; Яхве күнінің даусы ащы қақырау: сонда батыр қақырайды.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "жақын"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "және тез"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дауысы"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ащы"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "қақырау"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сонда"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "батыр"
+    }
+  ],
+  "timestamp": "2026-09-05T05:44:13.631958445Z",
+  "model": "glm-5.3"
+}

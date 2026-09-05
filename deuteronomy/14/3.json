@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Жиіркенішті ешнәрсе жеме.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жей көрме"
+    },
+    {
+      "surface": "כל",
+      "gloss": "еш"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "жиіркенішті нәрсе"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:39.679487827Z",
+  "model": "glm-5.3"
+}

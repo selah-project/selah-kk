@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Белін күшпен белдеуді, қолдарын да бекітті.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "белдеуді"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "күшпен"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "белін"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "және бекітті"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "қолдарын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:50.533479913Z",
+  "model": "glm-5.3"
+}

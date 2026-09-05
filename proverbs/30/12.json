@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Бір ұрпақ бар — өз көзінде ⟨таза⟩, ал өз ластығынан жуылған емес.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ұрпақ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өз көзінде"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "және өз ластығынан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "жуылған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:51.110941485Z",
+  "model": "glm-5.3"
+}

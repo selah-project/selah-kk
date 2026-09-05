@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Шық түнде лагерь үстіне түскенде, ман оның үстіне түседі.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "түскенде"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "шық"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнде"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түседі"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оның үстіне"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:38.862340989Z",
+  "model": "glm-5.3"
+}

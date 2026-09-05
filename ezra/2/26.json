@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Рама һәм Гева ұлдары — алты жүз жиырма бір.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Раманың"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "һәм Гева"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:04.790594196Z",
+  "model": "glm-5.3"
+}

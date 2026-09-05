@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Бірінші күні қасиетті жиын болады; ⟨сендер⟩ ешбір құлдық жұмысын істемеңдер.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "жиын"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қасиетті"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ешбір"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "жұмысын"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "құлдық"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "істемеңдер"
+    }
+  ],
+  "timestamp": "2026-09-05T02:10:38.912172418Z",
+  "model": "glm-5.3"
+}

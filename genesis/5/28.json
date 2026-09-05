@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ламех екі жыл және сексен және жүз жыл өмір сүрді және ұл туды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламех"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "және сексен"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "және жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұл"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:34.184228248Z",
+  "model": "glm-5.3"
+}

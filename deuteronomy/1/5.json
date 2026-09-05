@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Иорданның ар жағында, Моаб жерінде, Моше осы Тораны ⟨את⟩ түсіндіруге кірісті, былай деп:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ар жағында"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иорданның"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерінде"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "кірісті"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באר",
+      "gloss": "түсіндіруге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осы Тораны"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тораны"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:35:27.796351285Z",
+  "model": "glm-5.3"
+}

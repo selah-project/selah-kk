@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Және Яхве Моше (Мұса) мен Аһаронға деді: осы — Песахтың ережесі: бөтендің ұлы оны жемейді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "мен Аһарон"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ережесі"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песахтың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтендің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жемейді"
+    },
+    {
+      "surface": "בו",
+      "gloss": "оны"
+    }
+  ],
+  "timestamp": "2026-09-05T01:42:52.828645077Z",
+  "model": "glm-5.3"
+}

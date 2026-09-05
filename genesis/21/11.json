@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Бұл сөз ұлы себебінен Абраһамның көзінде өте ауыр болды.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ауыр болды"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Абраһамның"
+    },
+    {
+      "surface": "על",
+      "gloss": "себебінен"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "себебінен"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:52.744035088Z",
+  "model": "glm-5.3"
+}

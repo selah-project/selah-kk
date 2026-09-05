@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Және Яхве Мошеге (Мұса) және Аһаронға айтты, деп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге (Мұса)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және қарай"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:20:27.223616272Z",
+  "model": "glm-5.3"
+}

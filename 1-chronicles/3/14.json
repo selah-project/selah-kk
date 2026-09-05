@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Амон — ұлы, Йошияһу — ұлы.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошияһу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:53.362912836Z",
+  "model": "glm-5.3"
+}

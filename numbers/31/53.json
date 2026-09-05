@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Әскер адамдары олжалады, әр адам ⟨өзіне⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "әскердің"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "олжалады"
+    },
+    {
+      "surface": "איש",
+      "gloss": "әр адам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзіне"
+    }
+  ],
+  "timestamp": "2026-09-05T02:28:57.812978137Z",
+  "model": "glm-5.3"
+}

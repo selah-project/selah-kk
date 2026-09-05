@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 38:29",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Ал мыстың тітері — жетпіс кикар және екі мың төрт жүз шекел.",
+  "tokens": [
+    {
+      "surface": "ונחשת",
+      "gloss": "ал қола"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "тітер"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "жетпіс"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "кикар"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "және екі мың"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "және төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-09-05T01:56:15.816078988Z",
+  "model": "glm-5.3"
+}

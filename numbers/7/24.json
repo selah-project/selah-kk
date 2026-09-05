@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Үшінші күні Зәбулұн ұлдарының көсемі — Хелон ұлы Элиаб ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үшінші"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "көсемі"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зәбулұн"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиаб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:30.917222672Z",
+  "model": "glm-5.3"
+}

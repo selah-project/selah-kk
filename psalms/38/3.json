@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Себебі жебелерің менің ішіме батты, және қолың үстіме түсті.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "жебелерің"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "батты"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менің ішіме"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "және түсті"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстіме"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "қолың"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:28.228632784Z",
+  "model": "glm-5.3"
+}

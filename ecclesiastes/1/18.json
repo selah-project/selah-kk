@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Себебі көп даналықта ⟨бар⟩ көп қайғы, және білімді көбейткен қасіретті көбейтеді.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даналықта"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "қайғы"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "және көбейтеді"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білімді"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "көбейтеді"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "қасіретті"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:57.079870369Z",
+  "model": "glm-5.3"
+}

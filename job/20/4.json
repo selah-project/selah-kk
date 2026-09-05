@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Бұны әуелден, адам жерге қойылғаннан білмейсің бе?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "бұны"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "білмейсің бе"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "әуелден"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "שים",
+      "gloss": "қойылғаннан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-09-05T06:43:51.056835466Z",
+  "model": "glm-5.3"
+}

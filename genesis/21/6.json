@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Сара айтты: Элохим маған күлкі жасады; ⟨барлық⟩ еститін маған күледі.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "күлкі"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "еститін"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "күледі"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:21:37.573427201Z",
+  "model": "glm-5.3"
+}

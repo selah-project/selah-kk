@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Содан Оның алдынан қолдың алақаны жіберілді, және осы жазу жазылды.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "содан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "Оның алды"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "жіберілді"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "алақан"
+    },
+    {
+      "surface": "די",
+      "gloss": "−ның"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "қол"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "және жазу"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "осы"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "жазылды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:56:19.750973111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бір бұқа, сиыр төлі, бір қошқар, бір қозы, бір жасар, өртеу құрбанына.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "бұқа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төлі"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сиырдың"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қошқар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "қозы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "בן",
+      "gloss": "жасы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "бір жылдың"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өртеу құрбанына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:58.341071010Z",
+  "model": "glm-5.3"
+}

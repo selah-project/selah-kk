@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және сендерге шөлде, осы жерге келгенге дейін істегені",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "және оның... істегені"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істегені"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "сендердің келуің"
+    },
+    {
+      "surface": "עד",
+      "gloss": "жөнінде"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "осы"
+    }
+  ],
+  "timestamp": "2026-09-05T07:23:29.830384345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Және Хамат та оған шектеседі; Цор және Цидон — себебі ⟨ол⟩ өте ақылды",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "және...та"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "шектеседі"
+    },
+    {
+      "surface": "בה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "және Цидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ақылды"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:44.629444149Z",
+  "model": "glm-5.3"
+}

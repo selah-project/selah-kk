@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 114,
+  "translation": "Құзды су қоймасына, қатты тасты су бұлағына айналдырған",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "айналдырған"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "құзды"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "су қоймасына"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "қатты тас"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "су бұлағына"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:12.728152864Z",
+  "model": "glm-5.3"
+}

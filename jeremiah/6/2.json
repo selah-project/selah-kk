@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Сұлу да нәзік ⟨санын⟩ — Сион қызын Мен жойғанмын.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "сұлу"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "және нәзік"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "жойғанмын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызын"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    }
+  ],
+  "timestamp": "2026-09-05T04:44:44.813287365Z",
+  "model": "glm-5.3"
+}

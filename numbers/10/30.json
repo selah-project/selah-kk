@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Ол оған: «Бармаймын; өз жеріме және туған жеріме барамын» деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "бармаймын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бірақ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "тек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ға"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "жерім"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және –ға"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "туған жерім"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "барамын"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:01.706155374Z",
+  "model": "glm-5.3"
+}

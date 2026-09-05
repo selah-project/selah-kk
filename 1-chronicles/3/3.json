@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Бесіншісі Шефатия, Абиталдан; алтыншысы Итреам, әйелі Эғладан.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "Бесіншісі"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатия"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "Абиталдан"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "алтыншысы"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Итреам"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "Эғладан"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "әйелі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:59.272385363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Қарғысты кез келген жан-жануармен жатқан — және бүкіл халық айтады: Аумин!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "қарғысты"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "жатқан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кез келген"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "жан-жануар"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "және айтады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Аумин"
+    }
+  ],
+  "timestamp": "2026-09-05T02:48:30.707599623Z",
+  "model": "glm-5.3"
+}

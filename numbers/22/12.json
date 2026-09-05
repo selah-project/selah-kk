@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Элохим Биламға айтты: олармен барма, ⟨את⟩ халықты қарғама — өйткені ол ⟨құтты⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "барма"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "олармен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "қарғама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халықты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "құтты"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:50.988995057Z",
+  "model": "glm-5.3"
+}

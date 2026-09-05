@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Қой мен ірі қара, бәрі, сонымен қатар дала жануарлары.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "қой"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "мен ірі қара"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "сонымен қатар"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "жануарлары"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "даланың"
+    }
+  ],
+  "timestamp": "2026-09-05T05:52:13.216488853Z",
+  "model": "glm-5.3"
+}

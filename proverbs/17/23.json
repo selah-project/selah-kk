@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Пара зұлымның қойыннынан алынады — әділ жолдарды бұру үшін.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "пара"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "қойыннынан"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зұлымның"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алынады"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "бұру үшін"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "жолдарды"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "әділ"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:49.547198149Z",
+  "model": "glm-5.3"
+}

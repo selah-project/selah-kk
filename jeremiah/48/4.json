@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Моаў сынған; оның кішілері дауысты ⟨естілгізді⟩.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "сынған"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаў"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "естілгізді"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "дауысты"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "оның кішілері"
+    }
+  ],
+  "timestamp": "2026-09-05T05:04:46.329934789Z",
+  "model": "glm-5.3"
+}

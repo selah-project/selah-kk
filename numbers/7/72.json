@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Он бірінші күні Ашер ұлдарының көсемі — Оқран ұлы Пагиел.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "көсем"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "пגעיאל",
+      "gloss": "Пагиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Оқран"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:58.341720726Z",
+  "model": "glm-5.3"
+}

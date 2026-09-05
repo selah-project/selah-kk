@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Өзіме су қоймаларын жасадым, олардан ағаш өсіретін орманды суару үшін.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "жасадым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өзіме"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "қоймаларды"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "суару үшін"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "олардан"
+    },
+    {
+      "surface": "יער",
+      "gloss": "орманды"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "өсіретін"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ағаш"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:52.387487811Z",
+  "model": "glm-5.3"
+}

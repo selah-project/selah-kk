@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Біздің әкеміз айтты: қайтыңдар, бізге азықтан аз сатып алыңдар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "біздің әкеміз"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "қайтыңдар"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "сатып алыңдар"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бізге"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "азық"
+    }
+  ],
+  "timestamp": "2026-09-05T01:34:44.778188832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Және ол оның үйінен шығып, кетіп, басқа еркектің әйелі болып алады.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "және шығып"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "оның үйінен"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "кетіп"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "болып алады"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "еркектің"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "басқа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:48:06.261260392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Яхве — оларға күш, және Машиахының құтқарылу бекінісі — Ол ⟨Өзі⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күш"
+    },
+    {
+      "surface": "למו",
+      "gloss": "оларға"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "және бекініс"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "құтқарылу"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Машиахының"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ол"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:23.386575904Z",
+  "model": "glm-5.3"
+}

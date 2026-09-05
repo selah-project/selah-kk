@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 33,
+  "translation": "Митқадан жолға шықты және Хашмонада лагер құрды.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жолға шықты"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "Митқадан"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер құрды"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "Хашмонада"
+    }
+  ],
+  "timestamp": "2026-09-05T08:41:24.288366690Z",
+  "model": "glm-5.3"
+}

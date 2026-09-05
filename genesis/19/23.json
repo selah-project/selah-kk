@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Күн жерге шыққанда Лот Цоарға кірді.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "шыққанда"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "және Лот"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "Цоарға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:20:41.209217091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 106,
+  "translation": "Жер ашылып, Датанды жұтты, әрі Абірамдық жиынның үстін жапты.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ашылып"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "және жұтты"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Датанды"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "әрі жапты"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстін"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "жиынның"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Абірамдық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:46.609127568Z",
+  "model": "glm-5.3"
+}

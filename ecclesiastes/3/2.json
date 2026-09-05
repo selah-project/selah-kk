@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Тууға уақыт, және өлуге уақыт; егуге уақыт, және егілгенін жұлып тастауға уақыт.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "тууға"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыт"
+    },
+    {
+      "surface": "למות",
+      "gloss": "өлуге"
+    },
+    {
+      "surface": "עת",
+      "gloss": "уақыт"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "егуге"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "және уақыт"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "жұлып тастауға"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "егілгенін"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:51.037768985Z",
+  "model": "glm-5.3"
+}

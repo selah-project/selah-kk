@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ал Ашер қызының аты — Серах еді.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ал аты"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Серах"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:03.595106230Z",
+  "model": "glm-5.3"
+}

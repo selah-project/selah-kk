@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 83,
+  "translation": "Орманды жағатын оттай, тауларды лаулататын жалындай.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "оттай"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "жағатын"
+    },
+    {
+      "surface": "יער",
+      "gloss": "орманды"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "жалындай"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "лаулататын"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тауларды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:41.758857839Z",
+  "model": "glm-5.3"
+}

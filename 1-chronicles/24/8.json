@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Харимге — үшінші, Сеоримге — төртінші.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Харимге"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үшінші"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "Сеоримге"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "төртінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:00.712481061Z",
+  "model": "glm-5.3"
+}

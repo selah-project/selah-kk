@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Салеменге бір жыл ішінде келген алтынның салмағы алты жүз алпыс алты алтын күмір болды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "салмағы"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтынның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Салеменге"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жыл ішінде"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "алпыс"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "күмір"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-09-05T09:02:13.458237794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Және тауда: Шамир, және Ятир, және Сохо",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "және тауда"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "Шамир"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "және Ятир"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "және Сохо"
+    }
+  ],
+  "timestamp": "2026-09-05T03:02:10.540195691Z",
+  "model": "glm-5.3"
+}

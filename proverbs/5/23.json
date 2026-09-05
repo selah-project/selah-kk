@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Ол тәрбиесіз өледі, және өз ақымақтығының молдығында адасады.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өледі"
+    },
+    {
+      "surface": "באין",
+      "gloss": "тәрбиесіз"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбие"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "және молдығында"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "ақымақтығының"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "адасады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:19.071233581Z",
+  "model": "glm-5.3"
+}

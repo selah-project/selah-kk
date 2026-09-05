@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Өйткені оның басына шоқ құйасың, ал Яхве саған қайтарып берер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Өйткені"
+    },
+    {
+      "surface": "גחлים",
+      "gloss": "шоқ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "құйасың"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "жинап алу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "оның басына"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ал Яхве"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "қайтарып берер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:32.558121203Z",
+  "model": "glm-5.3"
+}

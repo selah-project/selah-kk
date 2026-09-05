@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Көрдің бе, сөзінде асығаң адамды? Наданға үміт одан артық.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "көрдің"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "асығаң"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "сөзінде"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "үміт"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "наданға"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "одан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:51.329588830Z",
+  "model": "glm-5.3"
+}

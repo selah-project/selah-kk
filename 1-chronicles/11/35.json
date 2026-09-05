@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Ахиам Сакарұлы һарарлық, Элифал Урұлы.",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Сакар"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "һарарлық"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Элифал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ур"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:22.788289807Z",
+  "model": "glm-5.3"
+}

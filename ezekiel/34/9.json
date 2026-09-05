@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Сондықтан, уа, бақташылар, Яхвенің сөзін тыңдаңдар:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "сондықтан"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "уа, бақташылар"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңдаңдар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:22:55.989004063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Сендерге мәңгі ұят және мәңгі қорлық саламын — ол ұмытылмайтын.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "және саламын"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сендерге"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ұят"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "және қорлық"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нысан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ұмытылады"
+    }
+  ],
+  "timestamp": "2026-09-05T04:52:57.887783632Z",
+  "model": "glm-5.3"
+}

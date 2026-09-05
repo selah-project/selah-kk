@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Жер жеті молшылық жылында уыс-уыспен ⟨өнім⟩ берді.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "және берді"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "שני",
+      "gloss": "жылында"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "молшылықтың"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "уыс-уыспен"
+    }
+  ],
+  "timestamp": "2026-09-05T01:33:08.112039474Z",
+  "model": "glm-5.3"
+}

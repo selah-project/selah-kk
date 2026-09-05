@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Себебі белім ⟨қыздықтан⟩ толы, және саулық жоқ етімде.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себебі"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "белім"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "толы"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "қыздық"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "саулық"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "етімде"
+    }
+  ],
+  "timestamp": "2026-09-05T05:58:55.552618305Z",
+  "model": "glm-5.3"
+}

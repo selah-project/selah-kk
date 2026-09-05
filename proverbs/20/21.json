@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Мұра, басында ⟨аузықалған⟩ — оның соңы берекеленбейді.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "мұра"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "аузықалған"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "басында"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "оның соңы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "берекеленбейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:43.601935574Z",
+  "model": "glm-5.3"
+}

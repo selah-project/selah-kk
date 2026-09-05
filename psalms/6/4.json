@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Және жанымы өте қатты дір етті. Ал Сен, Яхве, — қашанға дейін?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "және жанымы"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "дір етті"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өте қатты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ал Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "қашанға"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "дейін"
+    }
+  ],
+  "timestamp": "2026-09-05T05:50:52.368087496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Имердің ұлдары — мың елу екі.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Имердің"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "екі"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:10.328461384Z",
+  "model": "glm-5.3"
+}

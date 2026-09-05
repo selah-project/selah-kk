@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Тек ⟨את⟩ оның қанын жеме; жер үстіне оны су сияқты төгесің.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оның қанын"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "оның қанын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жеме"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "оны төгесің"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "су сияқты"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:30.759313915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Үшінші күні Лаванға жеткізілді: Яаков қашып кеткен.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "жеткізілді"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Лаванға"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үшінші"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "қашты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-09-05T07:19:50.446741932Z",
+  "model": "glm-5.3"
+}

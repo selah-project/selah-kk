@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Оларды саусақтарыңа байла, жүрегіңнің тақтасына жаз.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "оларды байла"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…⟩ үстіне"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "саусақтарыңа"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "оларды жаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…⟩ үстіне"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "тақтасына"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрегіңнің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:36.600578671Z",
+  "model": "glm-5.3"
+}

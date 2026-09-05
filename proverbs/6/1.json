@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ұлым, егер достыңа кепіл болып, бөтенсің үшін алақаныңды ұрсаң",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ұлым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "кепіл болып"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "достыңа"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "ұрсаң"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "бөтенсің үшін"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "алақаныңды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:24.972952764Z",
+  "model": "glm-5.3"
+}

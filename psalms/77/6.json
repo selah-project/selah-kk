@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 77,
+  "translation": "Бұрынғы күндерді ойладым, ғасырлардың жылдарын.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ойладым"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндерді"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "бұрынғы"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "жылдарын"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ғасырлардың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:26.134544144Z",
+  "model": "glm-5.3"
+}

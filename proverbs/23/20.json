@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Шарап ішушілердің, етжеңдер қатарында болма.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "болма"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "ішушілердің арасында"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "ертегі қатарында"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:56.375089834Z",
+  "model": "glm-5.3"
+}

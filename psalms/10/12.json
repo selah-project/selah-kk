@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Тұр, Яхве! Эй Эл, қолыңды көтер! Мұқтаждарды ұмытпа!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтер"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "қолыңды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ұмытпа"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ұмытуды"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "мұқтаждарды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:52:20.642065806Z",
+  "model": "glm-5.3"
+}

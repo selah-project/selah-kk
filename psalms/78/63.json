@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "От ⟨оның⟩ жігіттерін жеп қойды, ал оның қыздары тойланбады.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "жігіттерін"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "жеп қойды"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "қыздарын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "тойланбады"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:58.606267476Z",
+  "model": "glm-5.3"
+}

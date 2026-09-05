@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "және оларды үйіңнің есік үстіндіктеріне және қақпаларыңа жаз.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "жаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "есік үстіндіктеріне"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйіңнің"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "және қақпаларыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T02:39:50.579761501Z",
+  "model": "glm-5.3"
+}

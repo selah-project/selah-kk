@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 101,
+  "translation": "Қисық жүрек менен алыстайды; жамандықты білмеймін.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "жүрек"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "қисық"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "алыстайды"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менен"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандықты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "білмеймін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:14:46.775270628Z",
+  "model": "glm-5.3"
+}

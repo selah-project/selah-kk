@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 113,
+  "translation": "Жоғары Яхве бүкіл халықтардан ⟨аса⟩, ⟨оның⟩ ұлылығы аспаннан да ⟨аса⟩.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Жоғары"
+    },
+    {
+      "surface": "על",
+      "gloss": "аса"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халықтардан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "аса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "аспаннан"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "оның ұлылығы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:50.404044791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "«Халқың арасында өсекші болып жүрме; жақыныңның қанына қарсы тұрма; Мен — Яхве.»",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "еш"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "жүрме"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "өсекші"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "халқың арасында"
+    },
+    {
+      "surface": "לא",
+      "gloss": "еш"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "тұрма"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "דם",
+      "gloss": "қанына"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "жақыныңның"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T02:08:31.862609820Z",
+  "model": "glm-5.3"
+}

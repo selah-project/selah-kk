@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Үй мен байлық — аталардың мұрасы, ал ақылды әйел — Яхведен.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "והון",
+      "gloss": "мен байлық"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мұрасы"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "аталардың"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ал Яхведен"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "ақылды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:26.809145778Z",
+  "model": "glm-5.3"
+}

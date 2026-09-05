@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Ал Ашһұрдың — Текоа әкесінің — екі әйелі болды: Хелаһ және Нағара.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "Ал Ашһұрдың"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесінің"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текоа"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "екі"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "әйелі"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хелаһ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "және Нағара"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:51.395771763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Мыналар Менашше рулары; олардың саны елу екі мың жеті жүз.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Мыналар"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "рулары"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашшенің"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "олардың саны"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "және елу"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мың"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:27:05.568025662Z",
+  "model": "glm-5.3"
+}

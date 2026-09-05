@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Деді Балақ Биламға: «Қарғауды да айтпа оған, батаны да берме оған».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балақ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "קב",
+      "gloss": "қарғауды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "батаны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "берме"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:25:24.794461420Z",
+  "model": "glm-5.3"
+}

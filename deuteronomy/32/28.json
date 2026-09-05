@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Себебі кеңестен айрылған ұлт олар, оларда ұғым жоқ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ұлт"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "айрылған"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "кеңестен"
+    },
+    {
+      "surface": "המה",
+      "gloss": "олар"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "оларда"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ұғым"
+    }
+  ],
+  "timestamp": "2026-09-05T02:52:06.360946086Z",
+  "model": "glm-5.3"
+}

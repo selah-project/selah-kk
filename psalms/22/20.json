@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Ал Сен, Яхве, алыс болма; Құтқарушым, көмекке асыға кел!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ал Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "болма"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "алыс"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "Құтқарушым"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "көмекке"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "асыға кел"
+    }
+  ],
+  "timestamp": "2026-09-05T05:54:43.996440442Z",
+  "model": "glm-5.3"
+}

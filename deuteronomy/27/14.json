@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Левилер жауап беріп, Исраилдің әр адамына жоғары дауыспен айтады:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "жауап беріп"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левилер"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраилдің"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дауыспен"
+    },
+    {
+      "surface": "רם",
+      "gloss": "жоғары"
+    }
+  ],
+  "timestamp": "2026-09-05T02:47:47.880089522Z",
+  "model": "glm-5.3"
+}

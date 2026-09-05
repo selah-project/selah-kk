@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Және болады аспандарың, басыңның үстіндегі, мыстан; және жер, астыңдағы, темір.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "және болады"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "аспандарың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіндегі"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "басыңның"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мыстан"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "және жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "астыңдағы"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:49:50.007233978Z",
+  "model": "glm-5.3"
+}

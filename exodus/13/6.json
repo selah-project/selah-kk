@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Жеті күн бойы мацца жейсің, ал жетінші күні — Яхвеге ⟨арналған⟩ мереке.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "жеті"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жейсің"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "мацца"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ал күні"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетінші"
+    },
+    {
+      "surface": "חג",
+      "gloss": "мереке"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:42:50.493602596Z",
+  "model": "glm-5.3"
+}

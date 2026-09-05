@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 104,
+  "translation": "Яхвенің ұлылығы мәңгі болсын; Яхве өз істерімен қуансын!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ұлылығы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "қуансын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "өз істерімен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:14.882133870Z",
+  "model": "glm-5.3"
+}

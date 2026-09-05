@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Жұтаңдықтар туралы Яхвенің Ирмияһуға (Иеремия) болған сөзі.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияһуға (Иеремия)"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "істері"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "жұтаңдықтардың"
+    }
+  ],
+  "timestamp": "2026-09-05T04:49:24.881090471Z",
+  "model": "glm-5.3"
+}

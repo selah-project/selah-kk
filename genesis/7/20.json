@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бес он ⟨яғни⟩ шынтақ жоғары басым түсті сулар, және таулар жабылды.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "шынтақ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "жоғары"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "басым түсті"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "және жабылды"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "таулар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:53.061870301Z",
+  "model": "glm-5.3"
+}

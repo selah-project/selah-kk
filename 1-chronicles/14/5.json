@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "және Йивһар, және Элишуа, және Элпелет,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "және Йивһар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "және Элишуа"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "және Элпелет"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:37.946219156Z",
+  "model": "glm-5.3"
+}

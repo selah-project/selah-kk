@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Сөйледі Яхве оған: Қолыңдағы бұл не? Ол айтты: таяныш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "бұл не"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "қолыңдағы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таяныш"
+    }
+  ],
+  "timestamp": "2026-09-05T01:39:01.133702958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Төртінші күні — Реувен ұлдарының көсемі, Шедеур ұлы Элицур.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртінші"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "көсем"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Элицур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Шедеур"
+    }
+  ],
+  "timestamp": "2026-09-05T02:16:38.865593140Z",
+  "model": "glm-5.3"
+}

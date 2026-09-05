@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Яхве сендер үшін соғысады, ал сендер үндемеңдер.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "соғысады"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендер үшін"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ал сендер"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "үндемеңдер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:43:47.058603325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Седом патшасы Аврамға айтты: «Жандары маған бер, ал мүлікті өзіңе ал».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Седом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨қарай⟩"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "תן",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жандары"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "ал мүлікті"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңе"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:56.166992446Z",
+  "model": "glm-5.3"
+}

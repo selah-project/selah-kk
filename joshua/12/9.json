@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Иерихоның патшасы — біреу; Айдың патшасы — Бет-Элдің қасындағы — біреу.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Иерихоның"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "біреу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Айдың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қасындағы"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "қасында"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элдің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "біреу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:23.053053412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joel 2:18",
+  "book": "joel",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Яхве өз жеріне қызғанды және өз халқына жаны ашыды.",
+  "tokens": [
+    {
+      "surface": "ויקנא",
+      "gloss": "қызғанды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "өз жеріне"
+    },
+    {
+      "surface": "ויחמל",
+      "gloss": "жаны ашыды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз халқына"
+    }
+  ],
+  "timestamp": "2026-09-05T07:37:00.631173106Z",
+  "model": "glm-5.3"
+}

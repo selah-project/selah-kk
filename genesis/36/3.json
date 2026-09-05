@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "және ⟨את⟩ Ишмаелдың қызы Небайоттың әпкесі Босматты.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Босматты"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босматты"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаелдың"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "әпкесі"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Небайоттың"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:23.548714725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Сосын Авимелех Тевеске барды, Тивесті қоршап, оны басып алды.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ке"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Тевес"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "қоршап"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Тивесті"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "оны басып алды"
+    }
+  ],
+  "timestamp": "2026-09-05T03:11:46.212116767Z",
+  "model": "glm-5.3"
+}

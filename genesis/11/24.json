@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Нахор тоғыз және жиырма жыл өмір сүрді, ⟨את⟩ Терахты туғызды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "өмір сүрді"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "және жиырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Терахты"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терахты"
+    }
+  ],
+  "timestamp": "2026-09-05T01:18:03.350009853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 2:17",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Үндеме, барлық ет, Яхвенің ⟨алдында⟩; себебі ⟨ол⟩ өзінің қасиетті мекенінен оянды.",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "Үндеме"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "נעור",
+      "gloss": "оянды"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "мекенінен"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "қасиетті"
+    }
+  ],
+  "timestamp": "2026-09-05T05:45:32.580813308Z",
+  "model": "glm-5.3"
+}

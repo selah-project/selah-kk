@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Тыныш тапты, тыныштанды бүкіл жер; ⟨олар⟩ шаттық айқайын ашты.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "тыныш тапты"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "тыныштанды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ашты"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "шаттық айқайын"
+    }
+  ],
+  "timestamp": "2026-09-05T04:23:18.013649989Z",
+  "model": "glm-5.3"
+}

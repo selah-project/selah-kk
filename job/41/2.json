@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 41:2",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 41,
+  "translation": "Оны оятар қатыгез жоқ; ал ⟨оған⟩ қарсы тұра алатын кім бар?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "қатыгез"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יעורנו",
+      "gloss": "оны оятар"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "және кім"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "тұра алатын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:50:21.512222478Z",
+  "model": "glm-5.3"
+}

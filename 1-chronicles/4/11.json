@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Шуһаның бауыры Келув ⟨את⟩ Мехирді туғызды — ол Эштонның әкесі.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Келув"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бауыры"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Шуһаның"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туғызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мехирді"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Мехир"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "әкесі"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Эштонның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:21.756091394Z",
+  "model": "glm-5.3"
+}

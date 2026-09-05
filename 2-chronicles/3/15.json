@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Үйдің алдында екі баған жасады, ұзындығы отыз бес шықы, ал оның басындағы кіріспе бес шықы болды.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдің"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "баған"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "шықы"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "және бес"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ұзындығы"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "және кіріспе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оның"
+    },
+    {
+      "surface": "על",
+      "gloss": "-да"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "басы"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "шықы"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бес"
+    }
+  ],
+  "timestamp": "2026-09-05T09:01:10.409651569Z",
+  "model": "glm-5.3"
+}

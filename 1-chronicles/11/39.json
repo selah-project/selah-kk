@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Целек һаммондық, Наһрай — һа-Бероттан, Цруя ұлы Йоавтың қару көтерушісі.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "һаммондық"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Наһрай"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "һа-Бероттан"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтерушісі"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "қару"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоавтың"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруя"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:17.800520350Z",
+  "model": "glm-5.3"
+}

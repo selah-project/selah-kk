@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Барлығы асып кетті, бірге шіріді; жақсылық істеген жоқ — тіпті біреу ⟨де жоқ⟩.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "барлығы"
+    },
+    {
+      "surface": "סר",
+      "gloss": "асып кетті"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "шіріді"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істеген"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "тіпті"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "біреу"
+    }
+  ],
+  "timestamp": "2026-09-05T05:53:13.112589054Z",
+  "model": "glm-5.3"
+}

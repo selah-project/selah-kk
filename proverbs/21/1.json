@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Су ағындары — патшаның жүрегі Яхвенің қолында; қалағанының бәріне ⟨оны⟩ бұрады.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ағындары"
+    },
+    {
+      "surface": "מים",
+      "gloss": "судың"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "қолында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәріне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нені"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "қаласа"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "бұрады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:59.683488580Z",
+  "model": "glm-5.3"
+}

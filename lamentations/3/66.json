@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ашуланып қуасың, Яхве аспандарының астынан ⟨оларды⟩ жойасың.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "қуасың"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ашуланып"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "және оларды жойасың"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "астынан"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "аспандарының"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:54.704257284Z",
+  "model": "glm-5.3"
+}

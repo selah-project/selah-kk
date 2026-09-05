@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Айтпа: «Бұрынғы күндер неге бұлардан жақсы еді?» — өйткені бұл туралы сұрағаның даналықтан емес.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "неге"
+    },
+    {
+      "surface": "היה",
+      "gloss": "еді"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "және бұрынғы күндер"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "бұрынғы"
+    },
+    {
+      "surface": "היו",
+      "gloss": "еді"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "бұлардан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "даналықтан"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "сұрағаның"
+    },
+    {
+      "surface": "על",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бұл"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:21.724510771Z",
+  "model": "glm-5.3"
+}

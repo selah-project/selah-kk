@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Ал мыналар — олардың аттары: Рубен тайпасынан — Заккур ұлы Шаммуа.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Және мыналар"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "аттары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "тайпасынан"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рубен"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    }
+  ],
+  "timestamp": "2026-09-05T07:24:34.793837271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 73,
+  "translation": "Аспанға аузын қойды ⟨олардың⟩, және тілі жер үстінде жүреді.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "аспанға"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "аузын"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "және тілі"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "жүреді"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер үстінде"
+    }
+  ],
+  "timestamp": "2026-09-05T06:07:12.564558272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Барлық күндері Ноахтың тоғыз жүз жыл және елу жыл болды, және ол қайтыс болды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндері"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноахтың"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "және елу"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "қайтыс болды"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:02.232443760Z",
+  "model": "glm-5.3"
+}

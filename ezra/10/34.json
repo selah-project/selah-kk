@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Банидің ұлдарынан: Маадай, Амрам және Уел.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Банидің"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Маадай"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "және Уел"
+    }
+  ],
+  "timestamp": "2026-09-05T08:04:52.217198778Z",
+  "model": "glm-5.3"
+}

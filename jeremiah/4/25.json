@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Көрдім, және мынау — адам жоқ, және аспан құстарының бәрі ұшып кетті.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Көрдім"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және мынау —"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және бәрі"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "құстары"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "аспан"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ұшып кетті"
+    }
+  ],
+  "timestamp": "2026-09-05T04:43:08.710916385Z",
+  "model": "glm-5.3"
+}

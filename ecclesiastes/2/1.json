@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Жүрегімде айттым: «Кел, әй, қуанышпен сынап көрейін және жақсылықта көр» — және міне, ол да хәбәл.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "жүрегімде"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "кел"
+    },
+    {
+      "surface": "נא",
+      "gloss": "әй"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "сынап көрейін"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "қуанышпен"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "және көр"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "жақсылықта"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "және міне"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хәбәл"
+    }
+  ],
+  "timestamp": "2026-09-05T07:44:58.986747644Z",
+  "model": "glm-5.3"
+}

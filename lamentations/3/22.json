@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Яхвенің хеседтері — себебі таусылмадық, себебі рахымдары таусылмайды.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "хеседтері"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "таусылмадық"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "таусылмайды"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "рахымдары"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:08.327787715Z",
+  "model": "glm-5.3"
+}

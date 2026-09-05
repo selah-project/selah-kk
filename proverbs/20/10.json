@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Өлшеу тас пен өлшеу тас, эфа мен эфа — екеуі де Яхвеге жеккөрінішті",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "өлшеу тас"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "және өлшеу тас"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "және эфа"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жеккөрінішті"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "екеуі"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:15.667243715Z",
+  "model": "glm-5.3"
+}

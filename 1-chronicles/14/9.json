@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Пеліштілер келді және Рефайым алқабында жайылды.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Пеліштілер"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келді"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "жайылды"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "алқабында"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефайым"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:57.848797275Z",
+  "model": "glm-5.3"
+}

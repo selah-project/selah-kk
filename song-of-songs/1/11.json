@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Алтын тізілгендерді күміс бұршақтармен саған жасаймыз.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "тізілгендер"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "жасаймыз"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мен"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "бұршақтар"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "күмісті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:50:45.107239953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Дан, Йосеф (Жүсіп) және Бинйамин, Нафтали, Гад және Ашер.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф (Жүсіп)"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "және Бинйамин"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "және Ашер"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:02.787379868Z",
+  "model": "glm-5.3"
+}

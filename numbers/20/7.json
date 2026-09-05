@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 20,
+  "translation": "Және Яхве Мошеге сөйлеп былай деді.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйлеп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:07.760649183Z",
+  "model": "glm-5.3"
+}

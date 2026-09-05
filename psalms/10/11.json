@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Ол жүрегінде: «Эл ұмытты, өз бетін жасырды, мәңгі көрмейді» деді.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "жүрегінде"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ұмытты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "жасырды"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "өз бетін"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ешқашан"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрмейді"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T05:52:20.641924645Z",
+  "model": "glm-5.3"
+}

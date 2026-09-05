@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Моше Қорахқа айтты: Тыңдаңдар, өтінемін, Лейі ұлдары!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Қорахқа"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорах"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Тыңдаңдар"
+    },
+    {
+      "surface": "נא",
+      "gloss": "өтінемін"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Лейі"
+    }
+  ],
+  "timestamp": "2026-09-05T02:21:29.171322349Z",
+  "model": "glm-5.3"
+}

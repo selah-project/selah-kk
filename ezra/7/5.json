@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Авишуаның ұлы, Пинхастың ұлы, Элазардың ұлы, Аһаронның ұлы — бас ұстаз.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ұстаз"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "бас"
+    }
+  ],
+  "timestamp": "2026-09-05T08:03:53.383577721Z",
+  "model": "glm-5.3"
+}

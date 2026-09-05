@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Яхвенің Исраил үйіне айтқан жақсы сөздерінің біреуі де түспеді — бәрі келді.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "түсті"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "барлықтан"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөздің"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсысын"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "бәрі"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келді"
+    }
+  ],
+  "timestamp": "2026-09-05T03:03:34.933092674Z",
+  "model": "glm-5.3"
+}

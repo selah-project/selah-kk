@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 38:2",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 38,
+  "translation": "Сол жерде Йеһуда кенaanдық бір адамның қызын көрді — аты Шуа еді; оны алды және оған кірді.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сол жерде"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуда"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "כנעני",
+      "gloss": "кенaanдық"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "аты"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Шуа"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "алды"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:30:54.321839039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Ахитофел патшаға кеңесші еді, ал Хушай Архилік — патшаның жолдасы.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ал Ахитофел"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "кеңесші"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "патшаға"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "ал Хушай"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архилік"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жолдасы"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:16.286849864Z",
+  "model": "glm-5.3"
+}

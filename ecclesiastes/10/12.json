@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Дананың аузының сөздері — мейірім, ал ақымақтың ерні оны жұтып қояды.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сөздері"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузының"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "дананың"
+    },
+    {
+      "surface": "חן",
+      "gloss": "мейірім"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ал ерні"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ақымақтың"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "оны жұтып қояды"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:07.920559442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Сенің үйіңде өлшем және өлшем — үлкен және кіші — болмасын.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "болмасын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенің"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "үйіңде"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "өлшем"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "және өлшем"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "және кіші"
+    }
+  ],
+  "timestamp": "2026-09-05T02:46:15.888024216Z",
+  "model": "glm-5.3"
+}

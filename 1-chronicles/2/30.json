@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Надавтың ұлдары — Селед пен Аппайым; Селед баласыз өлді.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "және ұлдары"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "және Аппайым"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "балалар"
+    }
+  ],
+  "timestamp": "2026-09-05T08:12:53.701387509Z",
+  "model": "glm-5.3"
+}

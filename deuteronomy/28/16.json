@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Қарғаулы сенсің қалада, және қарғаулы сенсің далада.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "қарғаулы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "қалада"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "және қарғаулы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "далада"
+    }
+  ],
+  "timestamp": "2026-09-05T02:49:08.686105631Z",
+  "model": "glm-5.3"
+}

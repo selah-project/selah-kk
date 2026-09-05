@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Жамандықтан бұрыл, жақсылық жаса — мәңгі мекен ет.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "бұрыл"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "жамандықтан"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсылық"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "мекен ет"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    }
+  ],
+  "timestamp": "2026-09-05T05:59:21.550751586Z",
+  "model": "glm-5.3"
+}

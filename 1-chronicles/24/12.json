@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "он бірінші Эльяшивқа, он екінші Яқимге.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Эльяшивқа"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "он бірінші (бірінші бөлігі)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Яқимге"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "екі"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.458769094Z",
+  "model": "glm-5.3"
+}

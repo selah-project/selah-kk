@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 43,
+  "translation": "Wasай дейді Яхве — теңізде жол берген, және күшті суларда соқпақ салатын:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Wasай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "בים",
+      "gloss": "теңізде"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жол"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "және суларда"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "күшті"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "соқпақ"
+    }
+  ],
+  "timestamp": "2026-09-05T04:32:30.888706813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Яхве әділдің жанын ашытпайды, бірақ зұлымдардың қалауын ығыстырады.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ашытады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "әділдің"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ал қалауы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "зұлымдардың"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "ығыстырады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:06.514319368Z",
+  "model": "glm-5.3"
+}

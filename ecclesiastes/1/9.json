@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Не болған — сол болады, және не істелген — сол істеледі, және күн астында ешбір жаңа нәрсе жоқ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "және не"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "істелген"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "істеледі"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ешбір"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңа нәрсе"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:48.565596603Z",
+  "model": "glm-5.3"
+}

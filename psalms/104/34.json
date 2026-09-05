@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 104,
+  "translation": "Оған тақырым жағымды болсын; мен — Яхведе қуанамын.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "жағымды болсын"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "тақырым"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "қуанамын"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхведе"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:29.703243213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Көзі ⟨жақсы⟩ адам — ол береке алады, өйткені нанынан кедейге береді.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көзі"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "береке алады"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "береді"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "нанынан"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "кедейге"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:38.449075486Z",
+  "model": "glm-5.3"
+}

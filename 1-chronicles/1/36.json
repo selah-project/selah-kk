@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Элифаздың ұлдары: Теман, Омар, Цефи, Гатам, Кеназ, Тимна және Амалек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаздың"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "және Омар"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Цефи"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "және Гатам"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "және Тимна"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "және Амалек"
+    }
+  ],
+  "timestamp": "2026-09-05T08:11:21.192506011Z",
+  "model": "glm-5.3"
+}

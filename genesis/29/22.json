@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Лаван сол жердің ⟨барлық⟩ ерлерін жинап, мәжіліс жасады.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "жинап"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ерлерін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ерлерін"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "сол жердің"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "мәжіліс"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:16.565530235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Қалай іздестірілді Эсав ⟨қоймалары⟩, қоймалары ағызылды!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "қалай"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "іздестірілді"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "ағызылды"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "қоймалары"
+    }
+  ],
+  "timestamp": "2026-09-05T05:37:15.366303182Z",
+  "model": "glm-5.3"
+}

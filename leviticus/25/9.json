@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 25:9",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Жетінші айда, айдың оныншы күні, кепілдену күнінде қатты дауыспен шоFar — сендер жоFar",
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "және өткізесің"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шоphar"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "қатты дауыс"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айда"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "жетінші"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "оныншысында"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдың"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнінде"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "кепілденулердің"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "өткізесіңдер"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шоphar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "жерлеріңде"
+    }
+  ],
+  "timestamp": "2026-09-05T02:11:21.780114959Z",
+  "model": "glm-5.3"
+}

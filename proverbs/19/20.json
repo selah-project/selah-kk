@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Кеңесті тыңда және тәрбиені қабыл ал, соңыңда ақылды болуың үшін.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "тыңда"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "кеңесті"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "және қабыл ал"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбиені"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "ақылды бол"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "соңыңда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:46.425942288Z",
+  "model": "glm-5.3"
+}

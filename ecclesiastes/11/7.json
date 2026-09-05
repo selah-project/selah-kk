@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Жарық та тәтті, және көздерге ⟨את⟩ күнді көру жақсы.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "және тәтті"
+    },
+    {
+      "surface": "האור",
+      "gloss": "жарық та"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "және жақсы"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "көздерге"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көру"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күнді"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күнді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:48.371955191Z",
+  "model": "glm-5.3"
+}

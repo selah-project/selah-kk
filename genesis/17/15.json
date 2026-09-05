@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Және Элохим Авраһамға айтты: «Әйелің Сарайды енді Сарай деп атама — өйткені оның аты Сара.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-(ға)"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "әйелің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "атама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атын"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "атын"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "аты"
+    }
+  ],
+  "timestamp": "2026-09-05T01:20:03.265438136Z",
+  "model": "glm-5.3"
+}

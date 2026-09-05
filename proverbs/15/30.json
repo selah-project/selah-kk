@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Көздің нұры жүректі қуантады, жақсы хабар сүйекті семіртеді.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "нұры"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "көздің"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "қуантады"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүректі"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "хабар"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "семіртеді"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "сүйекті"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:28.002907103Z",
+  "model": "glm-5.3"
+}

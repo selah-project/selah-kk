@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Яхве Мошеғе (Мұса) және Аһаронға сөйлеп былай деді:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге (Мұса)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және −ге"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронға"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:38.026979563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 140,
+  "translation": "Хор жетекшісіне. Дәуіттің мізмары.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хор жетекшісіне"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мізмар"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Дәуіттің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:52.832231462Z",
+  "model": "glm-5.3"
+}

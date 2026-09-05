@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Леві үстінен — Хашавия, Кемуелдің ұлы; Аһарон үстінен — Цадок.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "Леві үстінен"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуелдің"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Аһарон үстінен"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    }
+  ],
+  "timestamp": "2026-09-05T08:22:31.815995364Z",
+  "model": "glm-5.3"
+}

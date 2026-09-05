@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 94,
+  "translation": "Қек алушы Эл — Яхве, қек алушы Эл — ⟨жарқырап⟩ шық!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "қек алу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "қек алу"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "жарқырап шық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:49.559484257Z",
+  "model": "glm-5.3"
+}

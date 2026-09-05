@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Әрі солардан тыс, балам, сақ бол: көп кітап жасаудың шегі жоқ, және көп сөз оқу — еттің шаршауы.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "әрі"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "солардан тыс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балам"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "сақ бол"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "жасаудың"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "кітап"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "шегі"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "және сөз оқу"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "шаршауы"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "еттің"
+    }
+  ],
+  "timestamp": "2026-09-05T07:48:30.818754980Z",
+  "model": "glm-5.3"
+}

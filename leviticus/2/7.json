@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ал егер құрбаның қазандағы минха болса — ұнтық ұн маймен жасалсын.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минха"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "қазандағы"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "құрбаның"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ұнтық ұн"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "маймен"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасалсын"
+    }
+  ],
+  "timestamp": "2026-09-05T01:58:30.546984967Z",
+  "model": "glm-5.3"
+}

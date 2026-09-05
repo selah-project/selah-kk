@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Және оның соңынан Габбай ⟨мен⟩ Саллай — тоғыз жүз жиырма ⟨және⟩ сегіз.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "және оның соңынан"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Габбай"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "Саллай"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жиырма"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "және сегіз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:09:11.517491336Z",
+  "model": "glm-5.3"
+}

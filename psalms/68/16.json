@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 68,
+  "translation": "Элохим тауы — Башан тауы; шыңдар тауы — Башан тауы.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "тауы"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауы"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауы"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "шыңдардың"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тауы"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:06:06.108084956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Бацлит ұлдары, Мехида ұлдары, Харша ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "Бацлит"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Мехида"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Харша"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:22.915100575Z",
+  "model": "glm-5.3"
+}

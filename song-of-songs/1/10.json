@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Жақтарың тізілгендермен әдемі, мойның моншақтармен.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "әдемі"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "жақтарың"
+    },
+    {
+      "surface": "בתורים",
+      "gloss": "тізілгендермен"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "мойның"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "моншақтармен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:50:45.106986199Z",
+  "model": "glm-5.3"
+}

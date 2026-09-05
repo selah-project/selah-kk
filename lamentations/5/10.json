@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Теріміз тандырдай қатты ысып күйіп-құржыды аштықтың жалынды ыстығынан.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "теріміз"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "тандырдай"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ысып күйіп-құржыды"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ыстығынан"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "жалынды"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "аштықтың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:48.586272755Z",
+  "model": "glm-5.3"
+}

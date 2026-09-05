@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Даналық ақымақ үшін тым биік ⟨тақ⟩; қақпада ол аузын ашпайды.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "биік"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ақымақ үшін"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "даналық"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "қақпада"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ашады"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "оның аузын"
+    }
+  ],
+  "timestamp": "2026-09-05T07:41:06.972277896Z",
+  "model": "glm-5.3"
+}

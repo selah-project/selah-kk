@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "және Шелемияһ, және Натан, және Адаяһ,",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "және Шелемияһ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "және Натан"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "және Адаяһ"
+    }
+  ],
+  "timestamp": "2026-09-05T08:04:49.224263043Z",
+  "model": "glm-5.3"
+}

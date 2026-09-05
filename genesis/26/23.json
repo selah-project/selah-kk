@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Ол одан Беэр-Шеваға көтерілді.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "көтерілді"
+    },
+    {
+      "surface": "משם",
+      "gloss": "одан"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеваға"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:34.285442542Z",
+  "model": "glm-5.3"
+}

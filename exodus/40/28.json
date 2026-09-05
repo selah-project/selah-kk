@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 40,
+  "translation": "Құрылтың есігінің пердесін ⟨את⟩ іліп қойды.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "қойды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пердесін"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "пердесін"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "есігінің"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "құрылтың"
+    }
+  ],
+  "timestamp": "2026-09-05T01:57:24.421139645Z",
+  "model": "glm-5.3"
+}

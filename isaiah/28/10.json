@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Өйткені әмір әмірге, әмір әмірге, өлшем өлшемге, өлшем өлшемге, мұнда аз, онда аз.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "צו",
+      "gloss": "әмір"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "әмірге"
+    },
+    {
+      "surface": "צו",
+      "gloss": "әмір"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "әмірге"
+    },
+    {
+      "surface": "קו",
+      "gloss": "өлшем"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "өлшемге"
+    },
+    {
+      "surface": "קו",
+      "gloss": "өлшем"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "өлшемге"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שם",
+      "gloss": "мұнда"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    }
+  ],
+  "timestamp": "2026-09-05T04:26:35.190779634Z",
+  "model": "glm-5.3"
+}

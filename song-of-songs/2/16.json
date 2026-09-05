@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Сүйгенім менікі, және мен оныкі — ол лалагүлдер арасында бағып жүрген.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "сүйгенім"
+    },
+    {
+      "surface": "לי",
+      "gloss": "меникі"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "және мен"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оныкі"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "бағып жүрген"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "лалагүлдер арасында"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:26.625454685Z",
+  "model": "glm-5.3"
+}

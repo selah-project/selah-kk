@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ал Шаулдың қызы Михалға өлім күніне дейін бала болмады.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "Ал Михалға"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болмады"
+    },
+    {
+      "surface": "היה",
+      "gloss": ""
+    },
+    {
+      "surface": "לה",
+      "gloss": "оның"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "бала"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күніне"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "өлім"
+    }
+  ],
+  "timestamp": "2026-09-05T03:37:41.086287077Z",
+  "model": "glm-5.3"
+}

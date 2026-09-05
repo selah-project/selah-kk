@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Зұлым келгенде менсінбестік те келеді, және қорлықпен ⟨жүреді⟩ жиреніш.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "келгенде"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зұлым"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "גם",
+      "gloss": "те"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "менсінбестік"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "және …мен"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "қорлық"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "жиреніш"
+    }
+  ],
+  "timestamp": "2026-09-05T06:31:10.235331823Z",
+  "model": "glm-5.3"
+}

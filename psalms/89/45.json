@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "Оның нұрын өшірдің, тағын жерге аудардың.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "өшірдің"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "нұрын"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "және тағын"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "аудардың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:16.182435092Z",
+  "model": "glm-5.3"
+}

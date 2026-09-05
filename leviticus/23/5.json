@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Бірінші айда, айдың он төртіншісінде, кештер арасында Песах ⟨болады⟩ Яхвеге.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "айдың ішінде"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "бірінші"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдың"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "кештердің"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:09:55.545151659Z",
+  "model": "glm-5.3"
+}

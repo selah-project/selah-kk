@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Сендер де, кушиттер, — Менің семсерімнің шаншылғандары — соларсыңдар.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "де"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Сендер"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "кушиттер"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "шаншылғандары"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "семсерімнің"
+    },
+    {
+      "surface": "המה",
+      "gloss": "соларсыңдар"
+    }
+  ],
+  "timestamp": "2026-09-05T05:44:22.461849805Z",
+  "model": "glm-5.3"
+}

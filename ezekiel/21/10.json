@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Және бүкіл ет Мен Яхве қылышымды қынынан шығардым деп біледі, ол енді қайтпайды.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "және біледі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "деп"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "шығардым"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "қылышымды"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "қынынан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ешқашан"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "қайтпайды"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "енді"
+    }
+  ],
+  "timestamp": "2026-09-05T05:16:13.346620443Z",
+  "model": "glm-5.3"
+}

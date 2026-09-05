@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Адамға тиесілі жүректің жоспарлары, ал Яхведен — тілдің жауабы.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "адамға"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "жоспарлары"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүректің"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ал Яхведен"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "жауабы"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тілінің"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:32.112922156Z",
+  "model": "glm-5.3"
+}

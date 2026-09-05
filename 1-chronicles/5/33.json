@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Мерайот Амарияны әкеледі, ал Амария Ахитубты әкеледі.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амарияны"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарияны"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ал Амария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "әкеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахитубты"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитубты"
+    }
+  ],
+  "timestamp": "2026-09-05T08:13:44.097603249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Күн астында көрген ауыр жамандық ⟨бар⟩: байлық иесінің зиянына сақталады.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "ауыр"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрген"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "байлық"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сақталады"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "иесінің"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "зиянына"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:28.360557863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 89,
+  "translation": "Ұрпағы мәңгі болады, және тағы алдымда күндей ⟨болады⟩.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "Ұрпағы"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгі"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "және тағы"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "күндей"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "алдымда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:10:55.688253992Z",
+  "model": "glm-5.3"
+}

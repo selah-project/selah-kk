@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Оныншыны бөл — ⟨את⟩ барлық егісіңнің өнімінен, егістен жыл сайын шығатынын.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "оныншы"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "бөл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барлық егіс өнімін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "өнімін"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "егісіңнің"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "шығатын"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "егістен"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл сайын"
+    }
+  ],
+  "timestamp": "2026-09-05T07:25:02.474357860Z",
+  "model": "glm-5.3"
+}

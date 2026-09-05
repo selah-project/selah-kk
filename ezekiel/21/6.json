@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Болды Яхвенің сөзі маған, айтуға:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T05:16:24.984025174Z",
+  "model": "glm-5.3"
+}

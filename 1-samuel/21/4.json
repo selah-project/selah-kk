@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Ал енді қолыңның астында не бар? Бес нан қолыма бер, немесе табылғанын.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал енді"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "қолыңның"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бес"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "қолыма"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "табылғанын"
+    }
+  ],
+  "timestamp": "2026-09-05T03:30:43.600285456Z",
+  "model": "glm-5.3"
+}

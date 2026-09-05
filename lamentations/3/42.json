@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Біз — бұздық, және бағинбадық; Сен жазғыртпадың.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "біз"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "бұздық"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "және бағинбадық"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жазғыртпадың"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "жазғыртпадың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:39.796226070Z",
+  "model": "glm-5.3"
+}

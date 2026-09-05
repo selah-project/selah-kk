@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Хадад, және Тейма, Йетур, Нафиш, және Қедема.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "және Тейма"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "және Қедема"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:01.983813513Z",
+  "model": "glm-5.3"
+}

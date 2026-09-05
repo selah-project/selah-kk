@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ашуға ұмтылма рухыңда, өйткені ашу ақымақтардың қойнында тыныш тапса болады.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ұмтылма"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ашуға үркіпе"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "рухыңда"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ашуға"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ашу"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "қойнында"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ақымақтардың"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "тыныш тапса болады"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:21.724225236Z",
+  "model": "glm-5.3"
+}

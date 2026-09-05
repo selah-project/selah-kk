@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Бетпе-бет Яхве сендермен тауда, оттың ортасынан сөйлесті.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "бет"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "бетпе-бет"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлесті"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "сендермен"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тауда"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ортасынан"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оттың"
+    }
+  ],
+  "timestamp": "2026-09-05T02:36:25.478604636Z",
+  "model": "glm-5.3"
+}

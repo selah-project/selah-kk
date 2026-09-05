@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Мен көрдім: ол былғанған еді — екеуінің жолы ⟨бірдей⟩.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "мен көрдім"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(-ға)"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "былғанған еді"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "екеуінің"
+    }
+  ],
+  "timestamp": "2026-09-05T05:18:38.412000054Z",
+  "model": "glm-5.3"
+}

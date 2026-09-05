@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Келініңнің жалаңаштығын ашпаң — ұлыңның әйелі ол; оның жалаңаштығын ашпаң.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жалаңаштығын"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "келініңнің"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ашпаң"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "әйелі"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ұлыңның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ашпаң"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "жалаңаштығын"
+    }
+  ],
+  "timestamp": "2026-09-05T02:06:40.619021178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 84,
+  "translation": "Олар күштен күшке жүрейін, әрқайсысы Цийонда Элохимге көрінеді.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "жүрейін"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "күштен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ке"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "күшке"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көрінеді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ге"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийонда"
+    }
+  ],
+  "timestamp": "2026-09-05T06:11:51.127123647Z",
+  "model": "glm-5.3"
+}

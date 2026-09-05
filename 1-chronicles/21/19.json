@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Давид Яхвенің атымен сөйлеген Гадтың сөзі бойынша шықты.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "сөзі бойынша"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадтың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйледі"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "атымен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    }
+  ],
+  "timestamp": "2026-09-05T08:21:11.272136846Z",
+  "model": "glm-5.3"
+}

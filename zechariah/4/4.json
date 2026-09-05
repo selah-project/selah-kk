@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Мен жауап беріп, менімен сөйлесуші періштеден: «Бұлар не, ием?» — деп сұрадым.",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "жауап беріп"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "деп айттым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "періштеге"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "періште"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөйлесуші"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менімен"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бұлар"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ием"
+    }
+  ],
+  "timestamp": "2026-09-05T05:47:05.623263536Z",
+  "model": "glm-5.3"
+}

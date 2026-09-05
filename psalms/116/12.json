@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 116,
+  "translation": "Яхвеге не қайтарамын — маған ⟨барлық⟩ игіліктері үшін?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "қайтарамын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "игіліктері"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:17:47.198366427Z",
+  "model": "glm-5.3"
+}

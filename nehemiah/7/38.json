@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Сенаһаның ұлдары — үш мың тоғыз жүз отыз.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаһаның"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үш"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мың"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:20.366627753Z",
+  "model": "glm-5.3"
+}

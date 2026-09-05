@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Бәрі де ⟨ғой⟩ түсінгенге айқын, және білім тапқандарға тура.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "бәрі де"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "айқын"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "түсінгенге"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "және тура"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "тапқандарға"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "білім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:27:03.110487174Z",
+  "model": "glm-5.3"
+}

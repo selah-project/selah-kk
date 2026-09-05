@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Жауап беріп айтады: «Бұл қанды ⟨את⟩ қолдарымыз төккен жоқ, және көздеріміз көрген жоқ.»",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "жауап беріп"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "айтады"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "қолдарымыз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "төккен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қанды"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "қанды"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "және көздеріміз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "көрген"
+    }
+  ],
+  "timestamp": "2026-09-05T02:43:44.174830450Z",
+  "model": "glm-5.3"
+}

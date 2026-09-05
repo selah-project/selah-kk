@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Әкесін және анасын жеңілсінетін қарғылықты; және бүкіл халық: «Әумин» дейді.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Қарғылықты"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "жеңілсінетін"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "Әкесін"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "және анасын"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "дейді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүкіл"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халық"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Әумин"
+    }
+  ],
+  "timestamp": "2026-09-05T02:47:47.880434916Z",
+  "model": "glm-5.3"
+}

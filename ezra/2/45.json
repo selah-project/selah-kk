@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Леванаһ ұлдары, Хагабаһ ұлдары, Акқұб ұлдары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Леванаһ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагабаһ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Акқұб"
+    }
+  ],
+  "timestamp": "2026-09-05T08:01:01.997052199Z",
+  "model": "glm-5.3"
+}

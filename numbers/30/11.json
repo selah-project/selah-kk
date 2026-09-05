@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Ал егер күйеуінің үйінде ант етсе, немесе антпен жанына байлау байласа,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал егер"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінде"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "күйеуінің"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "ант етсе"
+    },
+    {
+      "surface": "או",
+      "gloss": "немесе"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "байласа"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "байлау"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "антпен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:29:20.179273702Z",
+  "model": "glm-5.3"
+}

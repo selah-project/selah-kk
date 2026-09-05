@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 31,
+  "translation": "Сол күні Моше (Мұса) осы ⟨את⟩ әнді жазды және оны ⟨את⟩ Исраил ұлдарына үйретті.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "жазды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әнді"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ән"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "үйретті"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Исраил ұлдарына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T02:53:07.552988983Z",
+  "model": "glm-5.3"
+}

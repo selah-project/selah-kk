@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Қалауларынан ауытқымады, әлі асы аузындаларында еді.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ұғып"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ауытқымады"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "қалауларынан"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "әлі"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "асы"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "аузындаларында"
+    }
+  ],
+  "timestamp": "2026-09-05T06:09:08.508253692Z",
+  "model": "glm-5.3"
+}

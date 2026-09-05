@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Бұлтпен қаптадың өзіңді, дұға өтпес үшін.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "қаптадың"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "бұлтпен"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзіңді"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "өтпес үшін"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "дұға"
+    }
+  ],
+  "timestamp": "2026-09-05T06:54:39.796455028Z",
+  "model": "glm-5.3"
+}

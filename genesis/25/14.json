@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 25,
+  "translation": "Және Мишма, және Дума, және Масса.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "және Мишма"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "және Дума"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "және Масса"
+    }
+  ],
+  "timestamp": "2026-09-05T01:24:01.983698056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 118,
+  "translation": "Яхвеге сыйыну жақсы, нәдіптерге сенгеннен.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "сыйыну"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "сенгеннен"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "нәдіптерге"
+    }
+  ],
+  "timestamp": "2026-09-05T07:40:54.368530427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Барлық адам Оны көрді; өлімші адам алыстан қарайды.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "көрді"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Оны"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлімші адам"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "қарайды"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "алыстан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:47:56.732808188Z",
+  "model": "glm-5.3"
+}

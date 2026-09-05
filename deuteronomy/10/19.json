@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Және жат елдікті ⟨את⟩ сүйіңдер, себебі Мицрайым елінде жат елдік болдыңдар.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "сүйіңдер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жат елдікті"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "жат елдікті"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "жат елдік"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "болдыңдар"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "елінде"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайым"
+    }
+  ],
+  "timestamp": "2026-09-05T02:38:50.021903625Z",
+  "model": "glm-5.3"
+}

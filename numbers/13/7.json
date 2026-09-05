@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Ысаскар тайпасы үшін — Йосеф ұлы Йигал.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "тайпасы үшін"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Ысаскар"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Йигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-05T02:19:16.131805048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Мераридың ұлдарынан Яазияһтың ұлы Бено арқылы: Шоһам, Заккур және Иври.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ұлдарынан"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мераридың"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "Яазияһтың"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "Шоһам"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "және Иври"
+    }
+  ],
+  "timestamp": "2026-09-05T08:20:23.681962743Z",
+  "model": "glm-5.3"
+}

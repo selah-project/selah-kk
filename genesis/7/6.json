@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және Ноах алты жүз жаста еді, ал топан суы жерге ⟨болды⟩.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "және Ноах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жас"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ал топан суы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:12.521699467Z",
+  "model": "glm-5.3"
+}

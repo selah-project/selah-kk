@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Ауыз жауабы — адамға қуаныш, ал уақытында айтылған сөз — қандай жақсы!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "қуаныш"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамға"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "жауабында"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "аузының"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "және сөз"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "уақытында"
+    },
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:02.221154354Z",
+  "model": "glm-5.3"
+}

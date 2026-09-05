@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Әкесін де анасын да тонайды да «қылмыс жоқ» дейді — ол қиратушы адамды серік.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "тонайды"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әкесін"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "де анасын"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "да ... дейді"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "қылмыс"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "серік"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "қиратушы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:47.197367212Z",
+  "model": "glm-5.3"
+}

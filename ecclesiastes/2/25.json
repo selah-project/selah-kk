@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Себебі кім ⟨менен тыс⟩ іше алады, және кім ⟨менен тыс⟩ ләззат ала алады?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "іше алады"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "және кім"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ләззат ала алады"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "тыс"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менен"
+    }
+  ],
+  "timestamp": "2026-09-05T08:43:54.021833146Z",
+  "model": "glm-5.3"
+}

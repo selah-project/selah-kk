@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 26,
+  "translation": "Есік топсасында айналады, және еріншек төсегінде ⟨айналады⟩.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "есік"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "айналады"
+    },
+    {
+      "surface": "על",
+      "gloss": "топсасында"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "⟨топса⟩"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "және еріншек"
+    },
+    {
+      "surface": "על",
+      "gloss": "төсегінде"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "төсегінде"
+    }
+  ],
+  "timestamp": "2026-09-05T06:33:14.396030064Z",
+  "model": "glm-5.3"
+}

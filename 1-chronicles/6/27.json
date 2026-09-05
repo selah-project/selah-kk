@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Эйтан ұлы, Зимма ұлы, Шими ұлы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зимма"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    }
+  ],
+  "timestamp": "2026-09-05T08:14:26.322017766Z",
+  "model": "glm-5.3"
+}

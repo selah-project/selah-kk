@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Ноах ⟨оның⟩ үш ұл тапты: ⟨את⟩ Шемді, ⟨את⟩ Хамды және ⟨את⟩ Яфатты.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үш"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ұл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шемді"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемді"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хамды"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хамды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "және ⟨את⟩",
+      "marks": "Яфатты"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфатты"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:18.639106687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Ұзындығы жүз құлаш, есігі солтүстік жақта, ені елу құлаш ⟨еді⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бойымен"
+    },
+    {
+      "surface": "פני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ұзындығы"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "құлаш"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "есігі"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "солтүстік"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "және ені"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "елу"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "құлаш"
+    }
+  ],
+  "timestamp": "2026-09-05T05:28:17.899361240Z",
+  "model": "glm-5.3"
+}

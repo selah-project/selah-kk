@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Барлық Исраил ерлері мейрамда — ол жетінші ай еді — патшаға жиналды.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "жиналды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаға"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ерлері"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "мейрамда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ай"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "жетінші"
+    }
+  ],
+  "timestamp": "2026-09-05T08:25:50.976325996Z",
+  "model": "glm-5.3"
+}

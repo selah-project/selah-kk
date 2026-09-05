@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "және Йоелаһ, және Зевадия, Йроҳамның ұлдары, Гедордан",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "және Йоелаһ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "және Зевадия"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йроһамның"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "Гедордан"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:34.597633489Z",
+  "model": "glm-5.3"
+}

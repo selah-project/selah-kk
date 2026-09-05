@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Ал қанатсаны және қабыршағы жоқтың бәрін жеуге болмайды — сендерге ол таза емес.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ал …ның бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ның"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оның"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "қанатсаны"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "және қабыршағы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болмайды"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жеуге"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза емес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сендерге"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:27.467789876Z",
+  "model": "glm-5.3"
+}

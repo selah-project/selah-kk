@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 44,
+  "translation": "Сен өзің — менің патшам, Элохим; Яаковқа құтқаруларды бұйыр.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзің"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "патшам"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "бұйыр"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "құтқаруларды"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковқа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:08.576205472Z",
+  "model": "glm-5.3"
+}

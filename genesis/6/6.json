@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Сонда Яхве жерде адамды жасағанына өкінді және ⟨өз⟩ жүрегіне қайғы батты.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "өкінді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ға"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасағаны"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамды"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "қайғы батты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрегіне"
+    }
+  ],
+  "timestamp": "2026-09-05T01:16:28.903967399Z",
+  "model": "glm-5.3"
+}

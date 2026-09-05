@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Шұңқырда өмірімді үзділер, маған тас лақтырды.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "үзділер"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "шұңқырда"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "өмірімді"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "лақтырды"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "тас"
+    },
+    {
+      "surface": "בי",
+      "gloss": "маған"
+    }
+  ],
+  "timestamp": "2026-09-05T06:55:22.996687308Z",
+  "model": "glm-5.3"
+}

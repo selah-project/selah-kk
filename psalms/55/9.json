@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 55,
+  "translation": "Асығар едім қашып құтылуға жел ызаынан дауылдан.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "асығар едім"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "қашып құтылуға"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өзіме"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "жел ызаынан"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ызалы"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "дауылдан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:02:23.234280253Z",
+  "model": "glm-5.3"
+}

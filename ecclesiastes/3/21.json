@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Кім біледі — адам ұлдарының рухы жоғары көтерілетін, ал малдың рухы төмен жерге түсетін бе?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "біледі"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдарының"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "жоғары көтерілетін"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "жоғары"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ал рухы"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "малдың"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "төмен түсетін"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "төмен"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жерге"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:02.917806644Z",
+  "model": "glm-5.3"
+}

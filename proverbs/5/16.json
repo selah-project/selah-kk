@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Бұлақтарың сыртқа шашырай ма, алаңдарда су арықтары ⟨ағар ма⟩?",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "шашырай ма"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "бұлақтарың"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "сыртқа"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "алаңдарда"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "арықтары"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:32.676613534Z",
+  "model": "glm-5.3"
+}

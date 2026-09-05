@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Және мынау — шәломим құрбанының Торасы, Яхвеге әкелінетін.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "және мынау"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "құрбанының"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "шәломим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қайсы"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "әкелінетін"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-09-05T01:59:36.752979933Z",
+  "model": "glm-5.3"
+}

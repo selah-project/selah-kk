@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Яхве Элохим ⟨адамды⟩ шақырды және оған айтты: «Сен қайдасың?»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "және шақырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ға"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "қайда"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:41.007806554Z",
+  "model": "glm-5.3"
+}

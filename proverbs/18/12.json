@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Қирау алдында адамның жүрегі тасып, ал құрмет алдында кішіпейілдік.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "қирау"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "тасып"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрегі"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамның"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "құрмет"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "кішіпейілдік"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:41.006882319Z",
+  "model": "glm-5.3"
+}

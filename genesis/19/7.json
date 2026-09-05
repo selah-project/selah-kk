@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 19,
+  "translation": "Ол: «Ағаларым, өтінемін, жамандық жасамаңдар», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "өтінемін"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ағаларым"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "жамандық жасаңдар"
+    }
+  ],
+  "timestamp": "2026-09-05T01:20:39.362134941Z",
+  "model": "glm-5.3"
+}

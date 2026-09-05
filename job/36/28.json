@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Бұлттар құйғанда, адам үстіне мол тамшылайды.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "қашан (ол)"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "төгілгенде"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "бұлттар"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "тамшылайды"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстіне"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "רב",
+      "gloss": "мол"
+    }
+  ],
+  "timestamp": "2026-09-05T06:47:56.737960730Z",
+  "model": "glm-5.3"
+}

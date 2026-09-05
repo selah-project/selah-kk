@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Сол кезде патша Аһаз Ашур (Ассирия) патшаларына өзіне көмек сұрап адам жіберді.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "кезінде"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аһаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "патшаларына"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "көмекке"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзіне"
+    }
+  ],
+  "timestamp": "2026-09-05T08:35:40.822988779Z",
+  "model": "glm-5.3"
+}

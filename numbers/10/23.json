@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Және Менаше ұлдары тайпасының әскері үстінен — Гамлиел, Педаһцурдың ұлы.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "және … үстінен"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "әскері"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "тайпасы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педаһ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "цур"
+    }
+  ],
+  "timestamp": "2026-09-05T02:18:17.831790995Z",
+  "model": "glm-5.3"
+}

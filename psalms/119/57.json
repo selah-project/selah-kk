@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 119,
+  "translation": "Үлесім — Яхве, деп айттым Сенің сөздеріңді сақтауға.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "үлесім"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сақтауға"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "сөздеріңді"
+    }
+  ],
+  "timestamp": "2026-09-05T09:00:58.186129082Z",
+  "model": "glm-5.3"
+}

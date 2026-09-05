@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Ахаз патшаның қайтыс болған жылы бұл жүк болды.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "מות",
+      "gloss": "қайтыс болған"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болды"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "жүк"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    }
+  ],
+  "timestamp": "2026-09-05T04:23:32.391805410Z",
+  "model": "glm-5.3"
+}

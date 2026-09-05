@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Яхвенің дауысы шөлді дірілдетеді; Яхве Қадеш шөлін дірілдетеді.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дауысы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "дірілдетеді"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "шөлді"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "дірілдетеді"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "шөлін"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қадеш"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:06.366958442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Сонда Темандық Элифаз жауап беріп айтты:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жауап беріп"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "Темандық"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    }
+  ],
+  "timestamp": "2026-09-05T06:44:13.427218462Z",
+  "model": "glm-5.3"
+}

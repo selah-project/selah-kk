@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 78,
+  "translation": "Оларды күндіз бұлтпен, түн бойы от жарығымен жетеледі.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "жетеледі"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "бұлтпен"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "күндіз"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "және бүкіл"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "түнді"
+    },
+    {
+      "surface": "באור",
+      "gloss": "жарықпен"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    }
+  ],
+  "timestamp": "2026-09-05T06:08:21.536374177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Яҳму құдық үйіне және камераларға кірген кезде, Яҳму онда көп күндер отырды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кезде"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кірді"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Яҳму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ішіне"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйінің"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "құдық"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "және ішіне"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "камералардың"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "және отырды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онда"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Яҳму"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндер"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:00:26.712612129Z",
+  "model": "glm-5.3"
+}

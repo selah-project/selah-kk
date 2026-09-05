@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 9,
+  "translation": "Ал Аһаронға Яхве оны жою үшін қатты ашуланды; сол уақытта мен де Аһарон үшін дұға еттім.",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "ал Аһаронға"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ашуланды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "қатты"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "оны жою үшін"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "дұға еттім"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "уақытта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-05T02:39:19.428384476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "және ⟨את⟩ Эвалды, және ⟨את⟩ Авимael-ді, және ⟨את⟩ Шеваны",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Эвалды"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Эвалды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Абимаелді"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Абимаелді"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шеваны"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеваны"
+    }
+  ],
+  "timestamp": "2026-09-05T08:10:56.675780810Z",
+  "model": "glm-5.3"
+}

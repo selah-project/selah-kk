@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Жылан әйелге: «Сендер қайтыс болмайсыңдар», — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "жылан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ішіне"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйелге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өліп"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "өлместіңдер"
+    }
+  ],
+  "timestamp": "2026-09-05T01:15:31.310376393Z",
+  "model": "glm-5.3"
+}

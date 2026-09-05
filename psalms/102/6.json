@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 102,
+  "translation": "Сағыныш үнімнен сүйектерім етімне жабысты.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "үнімнен"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "сағыныш"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "жабысты"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "сүйектерім"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "етімне"
+    }
+  ],
+  "timestamp": "2026-09-05T06:13:52.519004507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Сен бүгін ⟨את⟩ Моаб шекарасын ⟨את⟩ Арды кесіп өтесің.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өтесің"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгін"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моаб шекарасын"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "шекарасын"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арды"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Арды"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:24.127518035Z",
+  "model": "glm-5.3"
+}

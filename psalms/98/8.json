@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 98,
+  "translation": "Өзендер шапалақтасын, таулар бірге жырласын.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "өзендер"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "шапалақтасын"
+    },
+    {
+      "surface": "כף",
+      "gloss": "алақанын"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "таулар"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "жырласын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:14:14.889754822Z",
+  "model": "glm-5.3"
+}

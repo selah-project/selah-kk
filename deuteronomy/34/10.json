@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "Және Исраилде Мошеге ұқсас пайғамбар одан әрі тұрған жоқ — кімді Яхве жүз қарсы жүз танитын.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пайғамбар"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "одан әрі"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Исраилде"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "Мошеге ұқсас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кімді"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "танитын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-09-05T02:54:41.632220853Z",
+  "model": "glm-5.3"
+}

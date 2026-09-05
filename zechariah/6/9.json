@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Болды Яхвенің сөзі маған, былай деп айтуға:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп айтуға"
+    }
+  ],
+  "timestamp": "2026-09-05T05:46:11.743122082Z",
+  "model": "glm-5.3"
+}

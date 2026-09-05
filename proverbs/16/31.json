@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Әсемдік тәжі — ақ шаш, әділдіктің жолында табылады.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "тәжі"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "әсемдіктің"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ақ шаш"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолында"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "әділдіктің"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табылады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:20.990959996Z",
+  "model": "glm-5.3"
+}

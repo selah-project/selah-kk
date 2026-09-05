@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Және Хизкияһу Яхвеге дұға етті, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "дұға етті"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T04:30:50.796274020Z",
+  "model": "glm-5.3"
+}

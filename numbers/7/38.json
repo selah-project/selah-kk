@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір алтын алақан, он шекел, тұт толы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "алақан"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бір"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "млאה",
+      "gloss": "толы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "тұт"
+    }
+  ],
+  "timestamp": "2026-09-05T02:15:49.432849647Z",
+  "model": "glm-5.3"
+}

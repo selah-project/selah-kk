@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "бір теке, ешкілердің, күнә құрбандығына.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "теке"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ешкілердің"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнә құрбандығына"
+    }
+  ],
+  "timestamp": "2026-09-05T02:17:51.061818438Z",
+  "model": "glm-5.3"
+}

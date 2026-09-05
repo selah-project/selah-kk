@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Қараңдар — Шломоның төсегі: алпыс батыр айналасында, Исраил батырларынан.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "қараңдар"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "төсегі"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "Шломоның"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "алпыс"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айналасында"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оның"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "батырларынан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:46.613155446Z",
+  "model": "glm-5.3"
+}

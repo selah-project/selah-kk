@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "жүзіктерді және мұрын сақиналарын",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "жүзіктерді"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "және мұрын"
+    },
+    {
+      "surface": "האף",
+      "gloss": "сақиналарын"
+    }
+  ],
+  "timestamp": "2026-09-05T04:20:10.507014279Z",
+  "model": "glm-5.3"
+}

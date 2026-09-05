@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 1,
+  "translation": "Қара, әсемсің, жарым; қара, әсемсің; көздерің — кептерлер.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "қара"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "әсемсің"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "қара"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "әсемсің"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "көздерің"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "кептерлер"
+    }
+  ],
+  "timestamp": "2026-09-05T06:51:04.616878992Z",
+  "model": "glm-5.3"
+}

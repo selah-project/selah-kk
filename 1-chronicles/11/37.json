@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Хецро кармелдік, Наарай — Эзбайдың ұлы.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "каrmелдік"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Наарай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "Эзбайдың"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:17.800055727Z",
+  "model": "glm-5.3"
+}

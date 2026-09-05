@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Таза құстың бәрін жеуге болады",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "құстың"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жеуге болады"
+    }
+  ],
+  "timestamp": "2026-09-05T02:40:28.678388087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Және ер, егер кез келген адам жанын ұрып өлтірсе — өліммен өлтірілсін.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "және ер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ұрып өлтірсе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кез келген"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өліммен"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтірілсін"
+    }
+  ],
+  "timestamp": "2026-09-05T02:10:29.931238245Z",
+  "model": "glm-5.3"
+}

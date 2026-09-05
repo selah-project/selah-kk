@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 63,
+  "translation": "Жаным Саған артыңнан жабысты, мені оң қолың тіреп тұр.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "жабысты"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "Саған артыңнан"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мені"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "тіреп тұр"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң қолың"
+    }
+  ],
+  "timestamp": "2026-09-05T07:38:45.900606658Z",
+  "model": "glm-5.3"
+}

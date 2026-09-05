@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Яхве Элохим адамға бұйырды, былай деді: «Бақтың әр ағашынан жеуге де жейсің».",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "бұйырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨−ға⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деді"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ағашынан"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "бақтың"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жеуге де"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ейсің"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:36.326539504Z",
+  "model": "glm-5.3"
+}

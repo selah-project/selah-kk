@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "Үшеу бар — олар менен жасырынған ғажайып, және төртеуін мен білмеймін.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Үшеу"
+    },
+    {
+      "surface": "המה",
+      "gloss": "олар"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "ғажайып"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менен"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "және төртеуін"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "білмеймін"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:07.386548982Z",
+  "model": "glm-5.3"
+}

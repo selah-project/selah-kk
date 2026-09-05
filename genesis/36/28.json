@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Бұлар — Дишанның ұлдары: Уц және Аран.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "бұлар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишанның"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "және Аран"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:11.610007215Z",
+  "model": "glm-5.3"
+}

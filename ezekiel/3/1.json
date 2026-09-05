@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Ол маған: Адам баласы, табатыныңды жесең, осы оралымды жесең де, барып, Исраил үйіне сөйле, — деді.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деді"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "בן",
+      "gloss": "баласы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "табатыныңды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ны"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табатың"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "жесең"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "же"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оралымды"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "оралымды"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "осы"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйіне"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраил"
+    }
+  ],
+  "timestamp": "2026-09-05T05:10:31.144915636Z",
+  "model": "glm-5.3"
+}

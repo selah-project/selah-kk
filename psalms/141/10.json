@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 141,
+  "translation": "Зұлымдар өз торларына бірге құласын — мен өткенше.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "құласын"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "өз торларына"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "зұлымдар"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "өткенше"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "мен өтіп"
+    }
+  ],
+  "timestamp": "2026-09-05T06:22:16.765483697Z",
+  "model": "glm-5.3"
+}

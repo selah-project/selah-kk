@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Қара, Мен — Яхве, барлық еттің Элохимі; Менен әр нәрсе ғажап бола ма?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "қара"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "еттің"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "Менен"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ғажап бола ма"
+    },
+    {
+      "surface": "כל",
+      "gloss": "әр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нәрсе"
+    }
+  ],
+  "timestamp": "2026-09-05T04:57:47.197417663Z",
+  "model": "glm-5.3"
+}

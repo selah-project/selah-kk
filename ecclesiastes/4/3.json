@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Және ол екеуінен де жақсы — ⟨את⟩ әзірге болмаған, күн астында жасалған ⟨את⟩ жаман істі көрмеген ⟨ол⟩.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "және жақсы"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "екеуінен де"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әзірге болмаған"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "әзірге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болған"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаман істі"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "істі"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "жасалған"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:44.501321359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Хабаққуқ пайғамбардың шигйоноттар бойынша дұғасы.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "дұғасы"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "Хабаққуқтың"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайғамбардың"
+    },
+    {
+      "surface": "על",
+      "gloss": "бойынша"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "шигйоноттар"
+    }
+  ],
+  "timestamp": "2026-09-05T07:39:24.106612659Z",
+  "model": "glm-5.3"
+}

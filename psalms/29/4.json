@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Яхвенің даусы ⟨қуатпен⟩, Яхвенің даусы ⟨әсемдікпен⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "даусы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "қуатпен"
+    },
+    {
+      "surface": "קול",
+      "gloss": "даусы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "әсемдікпен"
+    }
+  ],
+  "timestamp": "2026-09-05T05:56:32.589903721Z",
+  "model": "glm-5.3"
+}

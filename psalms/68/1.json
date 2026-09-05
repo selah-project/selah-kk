@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 68,
+  "translation": "Жетекшіге — Давидке — мизмор, ән.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "жетекшіге"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ән"
+    }
+  ],
+  "timestamp": "2026-09-05T06:05:02.763479769Z",
+  "model": "glm-5.3"
+}

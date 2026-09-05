@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қандай сұусің, қандай жағымдысың, сүйгенім, рақаттарыңмен!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "қандай"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "сұусің"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "және қандай"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "жағымдысың"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "сүйгенім"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "рақаттарыңмен"
+    }
+  ],
+  "timestamp": "2026-09-05T06:53:01.960366497Z",
+  "model": "glm-5.3"
+}

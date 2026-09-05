@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 34,
+  "translation": "барлық ет бірге өледі, және адам топыраққа қайтар еді.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "өледі"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ет"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бірге"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "және адам"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарай"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топыраққа"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "қайтар еді"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:15.798653867Z",
+  "model": "glm-5.3"
+}

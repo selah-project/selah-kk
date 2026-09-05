@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 7:9",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Сол түні Яхве оған айтты: «Тұр, лагерге түс, өйткені мен оны қолыңа бердім».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түнде"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тұр"
+    },
+    {
+      "surface": "רד",
+      "gloss": "түс"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "оны бердім"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "қолыңа"
+    }
+  ],
+  "timestamp": "2026-09-05T03:10:12.900346093Z",
+  "model": "glm-5.3"
+}

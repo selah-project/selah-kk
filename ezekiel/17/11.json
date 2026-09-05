@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Сөз маған Яхведен келді, былай деп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Сөз келді"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай деп"
+    }
+  ],
+  "timestamp": "2026-09-05T05:13:59.805277042Z",
+  "model": "glm-5.3"
+}

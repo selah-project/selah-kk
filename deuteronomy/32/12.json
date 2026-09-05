@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 32,
+  "translation": "Яхве және ⟨жалғыз⟩ бағып-қарады, ал ⟨оның⟩ қасында бөтен құдай болмады.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "⟨жалғыз⟩"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "бағып-қарады"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ал… болмады"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "қасында ⟨оның⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "құдай"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтен"
+    }
+  ],
+  "timestamp": "2026-09-05T02:51:35.775026769Z",
+  "model": "glm-5.3"
+}

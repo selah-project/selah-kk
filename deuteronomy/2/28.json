@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Ақысына тағам сатып бер маған да жейін, ақысына су бер маған да ішейін; тек жаяу өтейін.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "тағам"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ақысына"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "сатып бер"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "жейін"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "су"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ақысына"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ішейін"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "өтейін"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "жаяу"
+    }
+  ],
+  "timestamp": "2026-09-05T02:34:24.557179526Z",
+  "model": "glm-5.3"
+}

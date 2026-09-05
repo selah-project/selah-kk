@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "және маған ағаштарды молға дайындауға, өйткені мен салатын үй үлкен әрі ғажап.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "және дайындауға"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ағаштарды"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "молға"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨кіті⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "саламын"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "үлкен"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "және ғажап"
+    }
+  ],
+  "timestamp": "2026-09-05T08:46:47.457792277Z",
+  "model": "glm-5.3"
+}

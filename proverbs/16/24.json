@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Жағымды сөздер — балұясы, жанға тәтті және сүйекке ем.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "балұясы"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "бал"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "сөздер"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "жағымды"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "тәтті"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "жанға"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "және ем"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "сүйекке"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:51.346468241Z",
+  "model": "glm-5.3"
+}

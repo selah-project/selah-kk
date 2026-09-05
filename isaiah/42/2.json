@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 42,
+  "translation": "Ол айқайламайды, дауысын көтермейді, даусын сыртта естіртпейді.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "айқайламайды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "көтермейді"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "естіртпейді"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "сыртта"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "даусын"
+    }
+  ],
+  "timestamp": "2026-09-05T04:33:06.975379810Z",
+  "model": "glm-5.3"
+}

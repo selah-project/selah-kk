@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "kk",
+  "chapter": 27,
+  "translation": "Оның айқайын Эл естір ме, өйткені оған қиындық келеді?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "оның айқайын"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "естір ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "келеді"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "қиындық"
+    }
+  ],
+  "timestamp": "2026-09-05T06:44:58.943710115Z",
+  "model": "glm-5.3"
+}

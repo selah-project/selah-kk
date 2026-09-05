@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 94,
+  "translation": "Себебі Яхве өз халқын тастамайды, өз мұрасын қалдырмайды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "тастамайды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз халқын"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "өз мұрасын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "қалдырмайды"
+    }
+  ],
+  "timestamp": "2026-09-05T06:12:42.381626353Z",
+  "model": "glm-5.3"
+}

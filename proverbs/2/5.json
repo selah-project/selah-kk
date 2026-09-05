@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 2,
+  "translation": "Сонда Яхве қорқынышын түсінесің және Элохим білімін табасың.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Сонда"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "түсінесің"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "қорқынышын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенің"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "және білімін"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табасың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:25:16.703260348Z",
+  "model": "glm-5.3"
+}

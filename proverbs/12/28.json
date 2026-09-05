@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Әділдік жолында өмір ⟨бар⟩, ал оның соқпағында өлім ⟨жоқ⟩.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "жолында"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "әділдік"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ал соқпағы"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "оның"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлім"
+    }
+  ],
+  "timestamp": "2026-09-05T06:29:00.512063447Z",
+  "model": "glm-5.3"
+}

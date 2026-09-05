@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Қылыштан жанымды, иттің қолынан жалғызымды құтқар.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "құтқар"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "қылыштан"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "қолынан"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "иттің"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "жалғызымды"
+    }
+  ],
+  "timestamp": "2026-09-05T05:54:35.642834124Z",
+  "model": "glm-5.3"
+}

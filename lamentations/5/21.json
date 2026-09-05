@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 5:21",
+  "book": "lamentations",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Бізді өзіңе қайтар, Яхве, — және қайтамыз; күндерімізді бұрынғыдай жаңарт.",
+  "tokens": [
+    {
+      "surface": "השיבנו",
+      "gloss": "қайтар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "өзіңе"
+    },
+    {
+      "surface": "ונשוב",
+      "gloss": "және қайтамыз"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңарт"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "күндерімізді"
+    },
+    {
+      "surface": "כקדם",
+      "gloss": "бұрынғыдай"
+    }
+  ],
+  "timestamp": "2026-09-05T07:43:41.421226306Z",
+  "model": "glm-5.3"
+}

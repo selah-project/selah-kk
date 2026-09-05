@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Жетінші күні халықтың кейбірі жинауға шықты да, ештеңе таппады.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болды"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күні"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетінші"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "шықты"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ішінен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықтың"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "жинауға"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "тапты"
+    }
+  ],
+  "timestamp": "2026-09-05T01:44:37.273905422Z",
+  "model": "glm-5.3"
+}

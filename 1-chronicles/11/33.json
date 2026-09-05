@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Азмавет бахарымдық, Эльяхба шаалбондық.",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "бахарымдық"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "Эльяхба"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "шаалбондық"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:22.787809260Z",
+  "model": "glm-5.3"
+}

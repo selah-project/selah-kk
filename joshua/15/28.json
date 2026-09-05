@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Хацар-Шуал, және Беэр-Шева, және Бизйотйаһ,",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "және Хацар-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Шуал"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "және Беэр-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "және Бизйотйаһ"
+    }
+  ],
+  "timestamp": "2026-09-05T03:01:53.814543255Z",
+  "model": "glm-5.3"
+}

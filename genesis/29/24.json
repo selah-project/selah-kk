@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 29,
+  "translation": "Лаван өзінің күңі Зилпаны өз қызы Леяге күң етіп берді.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берді"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לה",
+      "gloss": "оған"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зилпаны"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпаны"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "күңі"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Леяге"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "күң"
+    }
+  ],
+  "timestamp": "2026-09-05T01:25:16.565840425Z",
+  "model": "glm-5.3"
+}

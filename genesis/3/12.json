@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 3,
+  "translation": "Адам айтты: «Менімен қоюған — сол әйел, ол маған сол ағаштан берді, және мен жедім.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "және айтты"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "әйел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "қойдың"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "менімен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "берді"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—нан"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ағаштан"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "және жедім"
+    }
+  ],
+  "timestamp": "2026-09-05T01:14:41.009165077Z",
+  "model": "glm-5.3"
+}

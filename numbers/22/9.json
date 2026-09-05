@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Элохим Биламға келді де айтты: қасыңдағы мына адамдар кім?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келді"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "қасыңда"
+    }
+  ],
+  "timestamp": "2026-09-05T02:24:50.988379984Z",
+  "model": "glm-5.3"
+}

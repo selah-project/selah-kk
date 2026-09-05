@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 16,
+  "translation": "Істеріңді Яхвеге жыр ⟨тапсыр⟩ — ойларың орныққан.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "жыр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "істеріңді"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "және орныққан"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ойларың"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:32.113338933Z",
+  "model": "glm-5.3"
+}

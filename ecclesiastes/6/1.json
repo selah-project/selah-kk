@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Бар жамандық, көрдім күн астында, және ол адам үстінде ⟨ауыр⟩.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандық"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдім"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "және ⟨ауыр⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстінде"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-09-05T07:47:26.612248131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Һецро һа-Кармели; Паарай һа-Арби,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Һецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "һа-Кармели"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "Паарай"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "һа-Арби"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:23.377033979Z",
+  "model": "glm-5.3"
+}

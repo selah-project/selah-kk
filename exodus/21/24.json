@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "көз орнына көз, тіс орнына тіс, қол орнына қол, аяқ орнына аяқ.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тіс"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тіс"
+    },
+    {
+      "surface": "יד",
+      "gloss": "қол"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "יד",
+      "gloss": "қол"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "аяқ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "орнына"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "аяқ"
+    }
+  ],
+  "timestamp": "2026-09-05T01:47:02.257989005Z",
+  "model": "glm-5.3"
+}

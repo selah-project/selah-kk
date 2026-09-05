@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 105,
+  "translation": "ол ⟨את⟩ Авраһаммен кесіскен және Ицхаққа ант берген.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "кесіскен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраһаммен"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "және ант"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Ицхаққа"
+    }
+  ],
+  "timestamp": "2026-09-05T06:15:20.201704926Z",
+  "model": "glm-5.3"
+}

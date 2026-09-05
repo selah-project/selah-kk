@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Лод және Оно, қолөнершілердің ⟨алқабы⟩.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "және Оно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "алқабы"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "қолөнершілердің"
+    }
+  ],
+  "timestamp": "2026-09-05T09:03:25.699373020Z",
+  "model": "glm-5.3"
+}

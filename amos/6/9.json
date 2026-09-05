@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "kk",
+  "chapter": 6,
+  "translation": "Болады: егер бір үйде он адам қалса, олар өледі.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болады"
+    },
+    {
+      "surface": "אם",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "қалса"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйде"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "өледі"
+    }
+  ],
+  "timestamp": "2026-09-05T05:36:56.954409937Z",
+  "model": "glm-5.3"
+}

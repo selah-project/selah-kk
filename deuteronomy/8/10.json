@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "kk",
+  "chapter": 8,
+  "translation": "Және жейсің, тоқасың — сонда жақсы жер үшін, оны саған берген Яхве Элохиміңді ⟨את⟩ алғысқа бөлейсің.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "және жейсің"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "тоқасың"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "алғыс айтасың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвені"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимің"
+    },
+    {
+      "surface": "על",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    }
+  ],
+  "timestamp": "2026-09-05T02:38:11.637803921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Жалқаудың тілегі оны өлтіреді, өйткені қолдары істеуді қаламайды.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "тілек"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "жалқау"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "өлтіреді"
+    },
+    {
+      "surface": "כי",
+      "gloss": "өйткені"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "қаламайды"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "қолдары"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "істеуді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:02.632149692Z",
+  "model": "glm-5.3"
+}

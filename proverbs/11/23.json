@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Әділдердің арманы тек жақсы; жамандардың үміті ⟨болса⟩ — қаһар.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "арманы"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "әділдердің"
+    },
+    {
+      "surface": "אך",
+      "gloss": "тек"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "үміті"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардың"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "қаһар"
+    }
+  ],
+  "timestamp": "2026-09-05T06:28:33.490898402Z",
+  "model": "glm-5.3"
+}

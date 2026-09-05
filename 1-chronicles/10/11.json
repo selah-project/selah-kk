@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 10,
+  "translation": "Барлық Явейеш-Гилад Пелиштимнің Шаулға жасағанының бәрін естіді.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "естіді"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Явейеш"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бәрін"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жасағанының"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "жасағанының"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Пелиштимнің"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулға"
+    }
+  ],
+  "timestamp": "2026-09-05T08:16:05.558576162Z",
+  "model": "glm-5.3"
+}

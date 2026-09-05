@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 36,
+  "translation": "Ал бұлар — Ананың ұлдары: Дишон және Оһоливама, Ананың қызы.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "және бұлар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ананың"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "және Оһоливама"
+    },
+    {
+      "surface": "בת",
+      "gloss": "қызы"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ананың"
+    }
+  ],
+  "timestamp": "2026-09-05T01:29:11.609480220Z",
+  "model": "glm-5.3"
+}

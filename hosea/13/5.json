@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "kk",
+  "chapter": 13,
+  "translation": "Мен сені шөлде таныдым, құрғақ-тауыз жерде.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "сені таныдым"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "шөлде"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "құрғақ-тауыз"
+    }
+  ],
+  "timestamp": "2026-09-05T05:33:20.624960190Z",
+  "model": "glm-5.3"
+}

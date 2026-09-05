@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 5,
+  "translation": "Және жердің пайдасы — бәріне ⟨ тиесілі ⟩: патша өріске қызмет етуші.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "және пайдасы"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердің"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бәріне"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ол⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "өріске"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "қызмет етуші"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:55.485583515Z",
+  "model": "glm-5.3"
+}

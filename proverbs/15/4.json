@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Емі бар тіл — өмір ағашы, ал ондағы қисаю — рухтағы сынық.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "емі бар"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тіл"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ағашы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ал қисаю"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ондағы"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сынық"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "рухтағы"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:12.188551622Z",
+  "model": "glm-5.3"
+}

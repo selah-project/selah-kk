@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Хеттің ұлдары ⟨את⟩ Авраһамды жауап берді, оған айтып:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "жауап берді"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хеттің"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраһамды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһамды"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    }
+  ],
+  "timestamp": "2026-09-05T01:22:43.716453709Z",
+  "model": "glm-5.3"
+}

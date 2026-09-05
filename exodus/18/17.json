@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Мошенің қайын атасы оған айтты: «Сен істеп жүрген бұл іс жақсы ⟨емес⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "қайын ата"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенің"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "לא",
+      "gloss": "емес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жақсы"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "бұл іс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "қай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "істеп жүрген"
+    }
+  ],
+  "timestamp": "2026-09-05T01:45:37.914679876Z",
+  "model": "glm-5.3"
+}

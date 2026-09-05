@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "kk",
+  "chapter": 23,
+  "translation": "Шаммаһ һа-Һароды, Эликаһ һа-Һароды,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шаммаһ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "һа-Һароды"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "Эликаһ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "һа-Һароды"
+    }
+  ],
+  "timestamp": "2026-09-05T03:48:16.531385255Z",
+  "model": "glm-5.3"
+}

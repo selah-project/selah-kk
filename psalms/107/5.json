@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 107,
+  "translation": "Аш және шөлдеген — нэфештері оларда әлсірейді.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "аш"
+    },
+    {
+      "surface": "גם",
+      "gloss": "және"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "шөлдеген"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "нэфештері"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "оларда"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "әлсірейді"
+    }
+  ],
+  "timestamp": "2026-09-05T06:16:12.383768052Z",
+  "model": "glm-5.3"
+}

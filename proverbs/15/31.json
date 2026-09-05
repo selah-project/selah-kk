@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 15,
+  "translation": "Өмір сөгісін тыңдайтын құлақ даналардың арасында тұрады.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "құлақ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "тыңдайтын"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "сөгісін"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмір"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "даналардың"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "тұрады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:28.003059510Z",
+  "model": "glm-5.3"
+}

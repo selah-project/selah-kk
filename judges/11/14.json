@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "kk",
+  "chapter": 11,
+  "translation": "Йифта тағы қосып, балалары Аммонның патшасына елшілер жіберді.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "қосып"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тағы"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йифта"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жіберді"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "елшілер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балаларының"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммонның"
+    }
+  ],
+  "timestamp": "2026-09-05T03:13:55.037536835Z",
+  "model": "glm-5.3"
+}

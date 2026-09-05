@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 18,
+  "translation": "Дәлелге жауап қайыратын естігенге дейін — бұл оған ақымақтық және ұят.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "жауап қайыратын"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дәлелге"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "естігенге"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ақымақтық"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "לו",
+      "gloss": "оған"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "және ұят"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:50.708751157Z",
+  "model": "glm-5.3"
+}

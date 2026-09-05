@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "kk",
+  "chapter": 21,
+  "translation": "Сатан Исраілге қарсы тұрды және Давидті Исраілді санауға итермеледі.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "тұрды"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Сатан"
+    },
+    {
+      "surface": "על",
+      "gloss": "қарсы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраіл"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "итермеледі"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидті"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидті"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "санауға"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Исраілді"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраілді"
+    }
+  ],
+  "timestamp": "2026-09-05T08:19:42.400658484Z",
+  "model": "glm-5.3"
+}

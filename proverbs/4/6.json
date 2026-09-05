@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 4,
+  "translation": "Оны тастама — ол сақтайды сені; оны сүй — ол қорғайды сені.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "тыйым"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "тастама оны"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "сақтайды сені"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "сүй оны"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "қорғайды сені"
+    }
+  ],
+  "timestamp": "2026-09-05T06:26:03.414355698Z",
+  "model": "glm-5.3"
+}

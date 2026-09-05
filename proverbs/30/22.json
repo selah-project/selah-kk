@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 30,
+  "translation": "құл — патша болғанда, және надан — нанға тойғанда;",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "құл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кезде"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "патшалық еткен"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "және надан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кезде"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "тойған"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:34:31.084066538Z",
+  "model": "glm-5.3"
+}

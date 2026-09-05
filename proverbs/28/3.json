@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Кедей ер, әлсіздерді қанайтын, — құйып өтетін жаңбыр, және нан жоқ.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ер"
+    },
+    {
+      "surface": "רש",
+      "gloss": "кедей"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "қанайтын"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "әлсіздерді"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "жаңбыр"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "құйып өтетін"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "және жоқ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-09-05T06:35:16.921287154Z",
+  "model": "glm-5.3"
+}

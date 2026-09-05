@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "kk",
+  "chapter": 37,
+  "translation": "Егер құласа, лаңыламайды, себебі Яҳве оның қолын сүйеп тұрады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "егер"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "құласа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоқ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "лаңыламайды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себебі"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "сүйеп тұрады"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "оның қолын"
+    }
+  ],
+  "timestamp": "2026-09-05T06:00:03.139743450Z",
+  "model": "glm-5.3"
+}

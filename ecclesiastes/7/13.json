@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Қара ⟨את⟩ Элохимнің ісіне, себепті кім ⟨את⟩ бұрғанын түзете алады?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "қара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохимнің ісін"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "іс"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимнің"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себепті"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кім"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "алады"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "түзетуге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бұрған нәрсені"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ол"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "бұрғанын"
+    }
+  ],
+  "timestamp": "2026-09-05T07:46:45.202430317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "kk",
+  "chapter": 28,
+  "translation": "Аяқ астында тапталады мас Эфрайымның мақтаныш тәжі.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "аяқ астында"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "тапталады"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "тәжі"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "мақтаныш"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "мас"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайымның"
+    }
+  ],
+  "timestamp": "2026-09-05T04:27:32.486907015Z",
+  "model": "glm-5.3"
+}

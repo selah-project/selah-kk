@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "kk",
+  "chapter": 48,
+  "translation": "Және Дан шекарасының үстінен шығыс жағынан теңіз жағына дейін — Ашер, бір ⟨үлес⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "және үстінен"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "шекарасының"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "жағынан"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "шығыс"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дейін"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "жағына"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "теңіз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T05:30:41.984818239Z",
+  "model": "glm-5.3"
+}

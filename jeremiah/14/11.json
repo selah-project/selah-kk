@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "kk",
+  "chapter": 14,
+  "translation": "Яхве маған айтты: бұл халықтың игілігі үшін дұға етпе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "маған"
+    },
+    {
+      "surface": "אל",
+      "gloss": "астам"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "дұға етпе"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "үшін"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халықтың"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бұл"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "игілігі үшін"
+    }
+  ],
+  "timestamp": "2026-09-05T04:48:44.174695392Z",
+  "model": "glm-5.3"
+}

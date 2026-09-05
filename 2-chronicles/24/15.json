@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "kk",
+  "chapter": 24,
+  "translation": "Йеһоядаа қартайды, күндерге тойды және өлді — өлгенінде жүз отыз жастың ұлы ⟨еді⟩.",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "қартайды"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йеһоядаа"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "тойды"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндерге"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлді"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ұлы"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "өлгенінде"
+    }
+  ],
+  "timestamp": "2026-09-05T08:34:15.812119598Z",
+  "model": "glm-5.3"
+}

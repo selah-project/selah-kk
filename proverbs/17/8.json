@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 17,
+  "translation": "Пара — ⟨оның⟩ иесінің көзінде сұлулық тасы; қай жаққа бұрылса, сәтті болады.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "тас"
+    },
+    {
+      "surface": "חן",
+      "gloss": "сұлулықтың"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "пара"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзінде"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "иесінің"
+    },
+    {
+      "surface": "אל",
+      "gloss": "қай"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлық"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жаққа"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "бұрылса"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "сәтті болады"
+    }
+  ],
+  "timestamp": "2026-09-05T06:30:33.788505694Z",
+  "model": "glm-5.3"
+}

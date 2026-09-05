@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "kk",
+  "chapter": 7,
+  "translation": "Ыбыздар: Ядајаның ұлдары, Яһошуа үйінен — тоғыз жүз жетпіс үш.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "Ыбыздар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ұлдары"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Ядайаның"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйінен"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Яһошуа"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тоғыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "жетпіс"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "үш"
+    }
+  ],
+  "timestamp": "2026-09-05T08:07:20.366772825Z",
+  "model": "glm-5.3"
+}

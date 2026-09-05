@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "kk",
+  "chapter": 22,
+  "translation": "Бай мен кедей кездеседі; олардың бәрін жасаған — Яхве.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "бай"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "және кедей"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "кездеседі"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаған"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "бәрін"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-05T06:32:14.166509916Z",
+  "model": "glm-5.3"
+}

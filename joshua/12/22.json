@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "kk",
+  "chapter": 12,
+  "translation": "Қедеш патшасы — бір; Кармильдегі Йокнеамның патшасы — бір.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қедеш"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Йокнеамның"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Кармильдегі"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бір"
+    }
+  ],
+  "timestamp": "2026-09-05T02:59:19.968224281Z",
+  "model": "glm-5.3"
+}
