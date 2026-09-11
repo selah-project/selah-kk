@@ -114,7 +114,7 @@
 
 ## Селаһты қолда
 
-<https://selahproject.org>
+<https://selahproject.com>
 
 ---
 
