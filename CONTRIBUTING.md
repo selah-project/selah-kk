@@ -45,3 +45,8 @@
 gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 (Яхве, Элохим…) never yield to titles; supplied words only in ⟨⟩.
 Letter-faithfulness outranks readability.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
