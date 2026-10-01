@@ -8,51 +8,51 @@
   "translation": "Келіңдер, алайын шарапты, ішейік мас ететін ішімдікті; және болады мұндай — ertengі күн, ұлы, асып-тасыған.",
   "tokens": [
     {
-      "surface": "этайу",
+      "surface": "אתיו",
       "gloss": "келіңдер"
     },
     {
-      "surface": "экваһ",
+      "surface": "אקחה",
       "gloss": "алайын"
     },
     {
-      "surface": "йайин",
+      "surface": "יין",
       "gloss": "шарапты"
     },
     {
-      "surface": "вэнисбаәһ",
+      "surface": "ונסבאה",
       "gloss": "ішейік"
     },
     {
-      "surface": "шэхар",
+      "surface": "שכר",
       "gloss": "мас ететін ішімдікті"
     },
     {
-      "surface": "вэҳайаһ",
+      "surface": "והיה",
       "gloss": "және болады"
     },
     {
-      "surface": "казэһ",
+      "surface": "כזה",
       "gloss": "мұндай"
     },
     {
-      "surface": "йом",
+      "surface": "יום",
       "gloss": "күн"
     },
     {
-      "surface": "махар",
+      "surface": "מחר",
       "gloss": "ertengі"
     },
     {
-      "surface": "гадол",
+      "surface": "גדול",
       "gloss": "ұлы"
     },
     {
-      "surface": "йтэр",
+      "surface": "יתר",
       "gloss": "асып-тасыған"
     },
     {
-      "surface": "меод",
+      "surface": "מאד",
       "gloss": "тысына"
     }
   ],
